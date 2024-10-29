@@ -85,7 +85,7 @@
     },
     "2015561": {
         "brand": "小米",
-        "model": "Mi 4c"
+        "model": "Mi 4c China"
     },
     "2015562": {
         "brand": "小米",
@@ -93,7 +93,7 @@
     },
     "2015911": {
         "brand": "小米",
-        "model": "Mi 4S"
+        "model": "Mi 4S China"
     },
     "2015105": {
         "brand": "小米",
@@ -109,15 +109,15 @@
     },
     "2015711": {
         "brand": "小米",
-        "model": "Mi 5s"
+        "model": "Mi 5s China / Global"
     },
     "2016070": {
         "brand": "小米",
-        "model": "Mi 5s Plus"
+        "model": "Mi 5s Plus China / Global"
     },
     "2016089": {
         "brand": "小米",
-        "model": "Mi 5c"
+        "model": "Mi 5c China"
     },
     "MDE2": {
         "brand": "小米",
@@ -129,7 +129,7 @@
     },
     "MCE16": {
         "brand": "小米",
-        "model": "Mi 6"
+        "model": "Mi 6 China / Global"
     },
     "MCT1": {
         "brand": "小米",
@@ -149,7 +149,7 @@
     },
     "M1803E1A": {
         "brand": "小米",
-        "model": "Mi 8"
+        "model": "Mi 8 China / Global"
     },
     "M1803E1T": {
         "brand": "小米",
@@ -165,11 +165,11 @@
     },
     "M1807E8A": {
         "brand": "小米",
-        "model": "Mi 8 Pro"
+        "model": "Mi 8 Pro China / Global"
     },
     "M1805E2A": {
         "brand": "小米",
-        "model": "Mi 8 SE"
+        "model": "Mi 8 SE China"
     },
     "M1808D2TG": {
         "brand": "小米",
@@ -589,11 +589,11 @@
     },
     "2014616": {
         "brand": "小米",
-        "model": "Mi Note China"
+        "model": "Mi Note China (Dual-network)"
     },
     "2014619": {
         "brand": "小米",
-        "model": "Mi Note China"
+        "model": "Mi Note China (Full-network)"
     },
     "2014618": {
         "brand": "小米",
@@ -605,11 +605,11 @@
     },
     "2015021": {
         "brand": "小米",
-        "model": "Mi Note Pro"
+        "model": "Mi Note Pro China (Dual-network)"
     },
     "2015022": {
         "brand": "小米",
-        "model": "Mi Note Pro"
+        "model": "Mi Note Pro China (Full-network)"
     },
     "2015501": {
         "brand": "小米",
@@ -617,7 +617,7 @@
     },
     "2015213": {
         "brand": "小米",
-        "model": "Mi Note 2 Global"
+        "model": "Mi Note 2 Global / Mi Note 2 Global Edition China"
     },
     "2015211": {
         "brand": "小米",
@@ -629,7 +629,7 @@
     },
     "MCE8": {
         "brand": "小米",
-        "model": "Mi Note 3"
+        "model": "Mi Note 3 China / Global"
     },
     "MCT8": {
         "brand": "小米",
@@ -649,11 +649,11 @@
     },
     "2016080": {
         "brand": "小米",
-        "model": "Mi MIX"
+        "model": "Mi MIX China / Global"
     },
     "MDE5": {
         "brand": "小米",
-        "model": "Mi MIX 2"
+        "model": "Mi MIX 2 China / Global"
     },
     "MDT5": {
         "brand": "小米",
@@ -665,7 +665,7 @@
     },
     "M1803D5XA": {
         "brand": "小米",
-        "model": "Mi MIX 2S Global"
+        "model": "Mi MIX 2S Global / Mi MIX 2S Premium Edition China"
     },
     "M1803D5XE": {
         "brand": "小米",
@@ -681,11 +681,11 @@
     },
     "M1810E5A": {
         "brand": "小米",
-        "model": "Mi MIX 3 Global"
+        "model": "Mi MIX 3 Global / Mi MIX 3 China (8GB+256GB & 10GB+256GB)"
     },
     "M1810E5E": {
         "brand": "小米",
-        "model": "Mi MIX 3 China"
+        "model": "Mi MIX 3 China (6GB+128GB & 8GB+128GB)"
     },
     "M1810E5GG": {
         "brand": "小米",
@@ -733,7 +733,7 @@
     },
     "MDE40": {
         "brand": "小米",
-        "model": "Mi Max 2"
+        "model": "Mi Max 2 China / Global"
     },
     "MDT4": {
         "brand": "小米",
@@ -745,7 +745,7 @@
     },
     "M1804E4A": {
         "brand": "小米",
-        "model": "Mi Max 3"
+        "model": "Mi Max 3 China / Global"
     },
     "M1804E4T": {
         "brand": "小米",
@@ -789,7 +789,7 @@
     },
     "M1901F9E": {
         "brand": "小米",
-        "model": "Mi Play"
+        "model": "Mi Play China / Global"
     },
     "M1901F9T": {
         "brand": "小米",
@@ -881,19 +881,19 @@
     },
     "2014502": {
         "brand": "小米",
-        "model": "Redmi 2A"
+        "model": "Redmi 2A China"
     },
     "2014512": {
         "brand": "小米",
-        "model": "Redmi 2A Prime"
+        "model": "Redmi 2A Prime China"
     },
     "2014055": {
         "brand": "小米",
-        "model": "Redmi 2A Prime"
+        "model": "Redmi 2A Prime China"
     },
     "2014816": {
         "brand": "小米",
-        "model": "Redmi 2A Prime (Snapdragon 410)"
+        "model": "Redmi 2A Prime China (Snapdragon 410)"
     },
     "2015816": {
         "brand": "小米",
@@ -945,7 +945,7 @@
     },
     "2016036": {
         "brand": "小米",
-        "model": "Redmi 3X"
+        "model": "Redmi 3X China"
     },
     "2016035": {
         "brand": "小米",
@@ -957,11 +957,11 @@
     },
     "2016090": {
         "brand": "小米",
-        "model": "Redmi 4"
+        "model": "Redmi 4 China / Global"
     },
     "2016060": {
         "brand": "小米",
-        "model": "Redmi 4 Pro"
+        "model": "Redmi 4 Pro China / Global"
     },
     "2016117": {
         "brand": "小米",
@@ -1553,7 +1553,7 @@
     },
     "2015617": {
         "brand": "小米",
-        "model": "Redmi Note 3 (Mediatek)"
+        "model": "Redmi Note 3 (Mediatek) China"
     },
     "2015611": {
         "brand": "小米",
@@ -1577,7 +1577,7 @@
     },
     "2016050": {
         "brand": "小米",
-        "model": "Redmi Note 4 (Mediatek)"
+        "model": "Redmi Note 4 (Mediatek) China / Global"
     },
     "2016051": {
         "brand": "小米",
@@ -1601,7 +1601,7 @@
     },
     "MBE6A5": {
         "brand": "小米",
-        "model": "Redmi Note 4X (Mediatek)"
+        "model": "Redmi Note 4X (Mediatek) China"
     },
     "MBT6A5": {
         "brand": "小米",
@@ -2319,10 +2319,6 @@
         "brand": "小米",
         "model": "Redmi K60 Ultra China"
     },
-    "2407FRK8EC": {
-        "brand": "小米",
-        "model": "Redmi K70 Ultra China"
-    },
     "23113RKC6C": {
         "brand": "小米",
         "model": "Redmi K70 China"
@@ -2334,6 +2330,10 @@
     "2311DRK48C": {
         "brand": "小米",
         "model": "Redmi K70E China"
+    },
+    "2407FRK8EC": {
+        "brand": "小米",
+        "model": "Redmi K70 Ultra China"
     },
     "24117RK2CC": {
         "brand": "小米",
