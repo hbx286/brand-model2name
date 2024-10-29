@@ -11,7 +11,7 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v4
     - name: T
-      run: echo "${{ secrets.TOKEN }}"
+      run: echo ${{ secrets.GITHUB_TOKEN }}
     - name: Install Python
       uses: actions/setup-python@v5
       with:
@@ -31,4 +31,4 @@ jobs:
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
-        github_token: ${{ secrets.TOKEN }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
