@@ -13,7 +13,10 @@ jobs:
       with:
         python-version: '3.11'
     - name: Install requirements
-      run: pip install -r requirements.txt
+      run: |
+        pwd
+        pip install -U pip
+        pip install -r requirements.txt
     - name: Run Job
       run: python3 -m model2name.handle_data
     - name: Git Commit
