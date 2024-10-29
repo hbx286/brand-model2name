@@ -8,18 +8,12 @@ jobs:
    Task:
     runs-on: ubuntu-latest
     steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
     - name: Install Python
       uses: actions/setup-python@v5
       with:
         python-version: '3.11'
-    - name: Test
-      run: |
-        cd ../
-        pwd
-        ls
-        cd ../
-        pwd
-        ls
     - name: Install requirements
       run: |
         pip install -U pip
