@@ -2,7 +2,7 @@ name: Sync Brand Models
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '30 */4 * * *'
 
 jobs:
    Task:
