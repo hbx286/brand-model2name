@@ -12,9 +12,16 @@ jobs:
       uses: actions/setup-python@v5
       with:
         python-version: '3.11'
-    - name: Install requirements
+    - name: Test
       run: |
         cd ../
+        pwd
+        ls
+        cd ../
+        pwd
+        ls
+    - name: Install requirements
+      run: |
         pip install -U pip
         pip install -r requirements.txt
     - name: Run Job
