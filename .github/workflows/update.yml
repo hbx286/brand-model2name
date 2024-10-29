@@ -13,8 +13,8 @@ jobs:
       with:
         python-version: '3.11'
     - name: Install requirements
-      working-directory: "brand-model2name"
       run: |
+        cd ../
         pip install -U pip
         pip install -r requirements.txt
     - name: Run Job
