@@ -10,6 +10,8 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
+    - name: T
+      run: echo "${{ secrets.TOKEN }}"
     - name: Install Python
       uses: actions/setup-python@v5
       with:
