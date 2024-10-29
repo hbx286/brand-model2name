@@ -1,6 +1,4 @@
 name: Sync Brand Models
-branch:
-  main:
 on:
   workflow_dispatch:
   schedule:
