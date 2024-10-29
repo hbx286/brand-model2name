@@ -13,9 +13,7 @@ jobs:
       with:
         python-version: '3.11'
     - name: Install requirements
-      run: |
-        pwd
-        ls
+      run: ls -al
 #        pip install -U pip
 #        pip install -r requirements.txt
 #    - name: Run Job
