@@ -1,0 +1,29 @@
+name: Sync Brand Models
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+   Task:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Install Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    - name: Install requirements
+      run: pip install -r requirements.txt
+    - name: Run Job
+      run: python3 -m model2name.handle_data
+    - name: Git Commit
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git diff-index --quiet HEAD || git commit -m "sync with MobileModels hash $(cat model2name/.last_hash)"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.TOKEN }}
+

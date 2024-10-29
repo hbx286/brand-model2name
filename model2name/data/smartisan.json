@@ -1,0 +1,90 @@
+{
+    "SM701": {
+        "brand": "锤子",
+        "model": "Smartisan T1 3G 版"
+    },
+    "SM705": {
+        "brand": "锤子",
+        "model": "Smartisan T1 4G 版"
+    },
+    "SM801": {
+        "brand": "锤子",
+        "model": "Smartisan T2"
+    },
+    "SM901": {
+        "brand": "锤子",
+        "model": "Smartisan M1"
+    },
+    "SM919": {
+        "brand": "锤子",
+        "model": "Smartisan M1L"
+    },
+    "YQ601": {
+        "brand": "锤子",
+        "model": "坚果手机 公开版"
+    },
+    "YQ603": {
+        "brand": "锤子",
+        "model": "坚果手机 文艺青年版"
+    },
+    "YQ605": {
+        "brand": "锤子",
+        "model": "坚果手机 移动定制版"
+    },
+    "YQ607": {
+        "brand": "锤子",
+        "model": "坚果手机 全网通版"
+    },
+    "OD103": {
+        "brand": "锤子",
+        "model": "坚果 Pro (32GB/64GB)"
+    },
+    "OD105": {
+        "brand": "锤子",
+        "model": "坚果 Pro (128GB)"
+    },
+    "OS105": {
+        "brand": "锤子",
+        "model": "坚果 Pro 2"
+    },
+    "OS103": {
+        "brand": "锤子",
+        "model": "坚果 Pro 2 特别版"
+    },
+    "OC105": {
+        "brand": "锤子",
+        "model": "坚果 3 公开版"
+    },
+    "OC106": {
+        "brand": "锤子",
+        "model": "坚果 3 移动定制版"
+    },
+    "DE106": {
+        "brand": "锤子",
+        "model": "坚果 R1"
+    },
+    "OE106": {
+        "brand": "锤子",
+        "model": "坚果 Pro 2S"
+    },
+    "DT1901A": {
+        "brand": "锤子",
+        "model": "坚果 Pro 3 (黑色/松绿色)"
+    },
+    "DT1902A": {
+        "brand": "锤子",
+        "model": "坚果 Pro 3 (白色)"
+    },
+    "DT2002C": {
+        "brand": "锤子",
+        "model": "坚果 R2"
+    },
+    "DT2003A": {
+        "brand": "锤子",
+        "model": "Smartisan TNT go 有线版"
+    },
+    "DT2003C": {
+        "brand": "锤子",
+        "model": "Smartisan TNT go 无线版"
+    }
+}

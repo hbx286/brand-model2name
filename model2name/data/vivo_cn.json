@@ -1,0 +1,1030 @@
+{
+    "V1821A": {
+        "brand": "vivo",
+        "model": "vivo NEX 双屏版 全网通版"
+    },
+    "V1821T": {
+        "brand": "vivo",
+        "model": "vivo NEX 双屏版 移动全网通版"
+    },
+    "V1923A": {
+        "brand": "vivo",
+        "model": "vivo NEX 3 全网通版"
+    },
+    "V1923T": {
+        "brand": "vivo",
+        "model": "vivo NEX 3 移动全网通版"
+    },
+    "V1924A": {
+        "brand": "vivo",
+        "model": "vivo NEX 3 5G 全网通版"
+    },
+    "V1924T": {
+        "brand": "vivo",
+        "model": "vivo NEX 3 5G 移动全网通版"
+    },
+    "V1950A": {
+        "brand": "vivo",
+        "model": "vivo NEX 3S 5G"
+    },
+    "V1814A": {
+        "brand": "vivo",
+        "model": "vivo X21s 全网通版"
+    },
+    "V1814T": {
+        "brand": "vivo",
+        "model": "vivo X21s 移动全网通版"
+    },
+    "V1809A": {
+        "brand": "vivo",
+        "model": "vivo X23 全网通版"
+    },
+    "V1809T": {
+        "brand": "vivo",
+        "model": "vivo X23 移动全网通版"
+    },
+    "V1816A": {
+        "brand": "vivo",
+        "model": "vivo X23 幻彩版 全网通版"
+    },
+    "V1816T": {
+        "brand": "vivo",
+        "model": "vivo X23 幻彩版 移动全网通版"
+    },
+    "V1829A": {
+        "brand": "vivo",
+        "model": "vivo X27 8GB+256GB 全网通版"
+    },
+    "V1829T": {
+        "brand": "vivo",
+        "model": "vivo X27 8GB+256GB 移动全网通版"
+    },
+    "V1838A": {
+        "brand": "vivo",
+        "model": "vivo X27 8GB+128GB 全网通版"
+    },
+    "V1838T": {
+        "brand": "vivo",
+        "model": "vivo X27 8GB+128GB 移动全网通版"
+    },
+    "V1836A": {
+        "brand": "vivo",
+        "model": "vivo X27 Pro 全网通版"
+    },
+    "V1836T": {
+        "brand": "vivo",
+        "model": "vivo X27 Pro 移动全网通版"
+    },
+    "V1938CA": {
+        "brand": "vivo",
+        "model": "vivo X30 5G 全网通版"
+    },
+    "V1938CT": {
+        "brand": "vivo",
+        "model": "vivo X30 5G 移动全网通版"
+    },
+    "V1938A": {
+        "brand": "vivo",
+        "model": "vivo X30 Pro 5G 全网通版"
+    },
+    "V1938T": {
+        "brand": "vivo",
+        "model": "vivo X30 Pro 5G 移动全网通版"
+    },
+    "V2001A": {
+        "brand": "vivo",
+        "model": "vivo X50"
+    },
+    "V2005A": {
+        "brand": "vivo",
+        "model": "vivo X50 Pro"
+    },
+    "V2011A": {
+        "brand": "vivo",
+        "model": "vivo X50 Pro+"
+    },
+    "V2046A": {
+        "brand": "vivo",
+        "model": "vivo X60"
+    },
+    "V2059A": {
+        "brand": "vivo",
+        "model": "vivo X60 曲屏版"
+    },
+    "V2085A": {
+        "brand": "vivo",
+        "model": "vivo X60t"
+    },
+    "V2047A": {
+        "brand": "vivo",
+        "model": "vivo X60 Pro"
+    },
+    "V2120A": {
+        "brand": "vivo",
+        "model": "vivo X60t Pro"
+    },
+    "V2056A": {
+        "brand": "vivo",
+        "model": "vivo X60t Pro+"
+    },
+    "V2133A": {
+        "brand": "vivo",
+        "model": "vivo X70"
+    },
+    "V2132A": {
+        "brand": "vivo",
+        "model": "vivo X70t"
+    },
+    "V2134A": {
+        "brand": "vivo",
+        "model": "vivo X70 Pro"
+    },
+    "V2145A": {
+        "brand": "vivo",
+        "model": "vivo X70 Pro+"
+    },
+    "V2178A": {
+        "brand": "vivo",
+        "model": "vivo X Fold"
+    },
+    "V2170A": {
+        "brand": "vivo",
+        "model": "vivo X Note"
+    },
+    "V2183A": {
+        "brand": "vivo",
+        "model": "vivo X80"
+    },
+    "V2185A": {
+        "brand": "vivo",
+        "model": "vivo X80 Pro"
+    },
+    "V2186A": {
+        "brand": "vivo",
+        "model": "vivo X80 Pro 天玑 9000 版"
+    },
+    "V2229A": {
+        "brand": "vivo",
+        "model": "vivo X Fold+"
+    },
+    "V2241A": {
+        "brand": "vivo",
+        "model": "vivo X90"
+    },
+    "V2241HA": {
+        "brand": "vivo",
+        "model": "vivo X90s"
+    },
+    "V2242A": {
+        "brand": "vivo",
+        "model": "vivo X90 Pro"
+    },
+    "V2227A": {
+        "brand": "vivo",
+        "model": "vivo X90 Pro+"
+    },
+    "V2266A": {
+        "brand": "vivo",
+        "model": "vivo X Fold2"
+    },
+    "V2256A": {
+        "brand": "vivo",
+        "model": "vivo X Flip"
+    },
+    "V2309A": {
+        "brand": "vivo",
+        "model": "vivo X100"
+    },
+    "V2324A": {
+        "brand": "vivo",
+        "model": "vivo X100 Pro"
+    },
+    "V2303A": {
+        "brand": "vivo",
+        "model": "vivo X Fold3"
+    },
+    "V2337A": {
+        "brand": "vivo",
+        "model": "vivo X Fold3 Pro"
+    },
+    "V2359A": {
+        "brand": "vivo",
+        "model": "vivo X100s"
+    },
+    "V2324HA": {
+        "brand": "vivo",
+        "model": "vivo X100s Pro"
+    },
+    "V2366GA": {
+        "brand": "vivo",
+        "model": "vivo X100 Ultra"
+    },
+    "V2366HA": {
+        "brand": "vivo",
+        "model": "vivo X100 Ultra 卫星通信版"
+    },
+    "V2415A": {
+        "brand": "vivo",
+        "model": "vivo X200"
+    },
+    "V2405A": {
+        "brand": "vivo",
+        "model": "vivo X200 Pro"
+    },
+    "V2405DA": {
+        "brand": "vivo",
+        "model": "vivo X200 Pro 卫星通信版"
+    },
+    "V2419A": {
+        "brand": "vivo",
+        "model": "vivo X200 Pro mini"
+    },
+    "V1831A": {
+        "brand": "vivo",
+        "model": "vivo S1 全网通版"
+    },
+    "V1831T": {
+        "brand": "vivo",
+        "model": "vivo S1 移动全网通版"
+    },
+    "V1832A": {
+        "brand": "vivo",
+        "model": "vivo S1 Pro 全网通版"
+    },
+    "V1832T": {
+        "brand": "vivo",
+        "model": "vivo S1 Pro 移动全网通版"
+    },
+    "V1932A": {
+        "brand": "vivo",
+        "model": "vivo S5 全网通版"
+    },
+    "V1932T": {
+        "brand": "vivo",
+        "model": "vivo S5 移动全网通版"
+    },
+    "V1962A": {
+        "brand": "vivo",
+        "model": "vivo S6"
+    },
+    "V2020A": {
+        "brand": "vivo",
+        "model": "vivo S7"
+    },
+    "V2020CA": {
+        "brand": "vivo",
+        "model": "vivo S7"
+    },
+    "V2080A": {
+        "brand": "vivo",
+        "model": "vivo S7t"
+    },
+    "V2031A": {
+        "brand": "vivo",
+        "model": "vivo Y73s 5G"
+    },
+    "V2031EA": {
+        "brand": "vivo",
+        "model": "vivo S7e 活力版"
+    },
+    "V2072A": {
+        "brand": "vivo",
+        "model": "vivo S9"
+    },
+    "V2048A": {
+        "brand": "vivo",
+        "model": "vivo S9e"
+    },
+    "V2121A": {
+        "brand": "vivo",
+        "model": "vivo S10 Pro"
+    },
+    "V2130A": {
+        "brand": "vivo",
+        "model": "vivo S10e"
+    },
+    "V2162A": {
+        "brand": "vivo",
+        "model": "vivo S12"
+    },
+    "V2163A": {
+        "brand": "vivo",
+        "model": "vivo S12 Pro"
+    },
+    "V2203A": {
+        "brand": "vivo",
+        "model": "vivo S15"
+    },
+    "V2207A": {
+        "brand": "vivo",
+        "model": "vivo S15 Pro"
+    },
+    "V2190A": {
+        "brand": "vivo",
+        "model": "vivo S15e"
+    },
+    "V2244A": {
+        "brand": "vivo",
+        "model": "vivo S16"
+    },
+    "V2245A": {
+        "brand": "vivo",
+        "model": "vivo S16 Pro"
+    },
+    "V2239A": {
+        "brand": "vivo",
+        "model": "vivo S16e"
+    },
+    "V2283A": {
+        "brand": "vivo",
+        "model": "vivo S17"
+    },
+    "V2282A": {
+        "brand": "vivo",
+        "model": "vivo S17t"
+    },
+    "V2284A": {
+        "brand": "vivo",
+        "model": "vivo S17 Pro"
+    },
+    "V2285A": {
+        "brand": "vivo",
+        "model": "vivo S17e"
+    },
+    "V2323A": {
+        "brand": "vivo",
+        "model": "vivo S18"
+    },
+    "V2344A": {
+        "brand": "vivo",
+        "model": "vivo S18 Pro"
+    },
+    "V2334A": {
+        "brand": "vivo",
+        "model": "vivo S18e"
+    },
+    "V2364A": {
+        "brand": "vivo",
+        "model": "vivo S19"
+    },
+    "V2362A": {
+        "brand": "vivo",
+        "model": "vivo S19 Pro"
+    },
+    "V1901A": {
+        "brand": "vivo",
+        "model": "vivo Y3s 全网通版"
+    },
+    "V1901T": {
+        "brand": "vivo",
+        "model": "vivo Y3s 移动全网通版"
+    },
+    "V1930A": {
+        "brand": "vivo",
+        "model": "vivo Y3 标准版 全网通版"
+    },
+    "V1930T": {
+        "brand": "vivo",
+        "model": "vivo Y3 标准版 移动全网通版"
+    },
+    "V1934A": {
+        "brand": "vivo",
+        "model": "vivo Y5s 全网通版"
+    },
+    "V1934T": {
+        "brand": "vivo",
+        "model": "vivo Y5s 移动全网通版"
+    },
+    "V1913A": {
+        "brand": "vivo",
+        "model": "vivo Y7s 全网通版"
+    },
+    "V1913T": {
+        "brand": "vivo",
+        "model": "vivo Y7s 移动全网通版"
+    },
+    "V1945A": {
+        "brand": "vivo",
+        "model": "vivo Y9s 全网通版"
+    },
+    "V1945T": {
+        "brand": "vivo",
+        "model": "vivo Y9s 移动全网通版"
+    },
+    "V2140A": {
+        "brand": "vivo",
+        "model": "vivo Y10"
+    },
+    "V2168A": {
+        "brand": "vivo",
+        "model": "vivo Y32t (P70)"
+    },
+    "V2180A": {
+        "brand": "vivo",
+        "model": "vivo Y32t (骁龙 680)"
+    },
+    "V2236A": {
+        "brand": "vivo",
+        "model": "vivo Y11"
+    },
+    "V2317A": {
+        "brand": "vivo",
+        "model": "vivo Y33t"
+    },
+    "V2034A": {
+        "brand": "vivo",
+        "model": "vivo Y30"
+    },
+    "V2036A": {
+        "brand": "vivo",
+        "model": "vivo Y30 标准版"
+    },
+    "V2099A": {
+        "brand": "vivo",
+        "model": "vivo Y30 2021"
+    },
+    "V2066A": {
+        "brand": "vivo",
+        "model": "vivo Y30 活力版"
+    },
+    "V2066BA": {
+        "brand": "vivo",
+        "model": "vivo Y30g"
+    },
+    "V2054A": {
+        "brand": "vivo",
+        "model": "vivo Y52s (t1 版) 5G"
+    },
+    "V2068A": {
+        "brand": "vivo",
+        "model": "vivo Y31s (t1 版) 5G"
+    },
+    "V2158A": {
+        "brand": "vivo",
+        "model": "vivo Y32"
+    },
+    "V2166A": {
+        "brand": "vivo",
+        "model": "vivo Y52t 5G"
+    },
+    "V2230A": {
+        "brand": "vivo",
+        "model": "vivo Y53t 5G"
+    },
+    "V2279A": {
+        "brand": "vivo",
+        "model": "vivo Y100i 5G"
+    },
+    "V2318A": {
+        "brand": "vivo",
+        "model": "vivo G2 5G"
+    },
+    "V2327A": {
+        "brand": "vivo",
+        "model": "vivo Y36t"
+    },
+    "V2357A": {
+        "brand": "vivo",
+        "model": "vivo Y36c 5G / vivo Y37 5G"
+    },
+    "V2357EA": {
+        "brand": "vivo",
+        "model": "vivo Y37m 5G"
+    },
+    "V2354A": {
+        "brand": "vivo",
+        "model": "vivo Y100+ 5G / vivo Y200i 5G"
+    },
+    "V1965A": {
+        "brand": "vivo",
+        "model": "vivo Y50"
+    },
+    "V2023EA": {
+        "brand": "vivo",
+        "model": "vivo Y50t"
+    },
+    "V2002A": {
+        "brand": "vivo",
+        "model": "vivo Y70t 5G"
+    },
+    "V2057A": {
+        "brand": "vivo",
+        "model": "vivo Y52s 5G"
+    },
+    "V2111A": {
+        "brand": "vivo",
+        "model": "vivo Y53s 5G"
+    },
+    "V2069A": {
+        "brand": "vivo",
+        "model": "vivo Y53s (NFC 版) 5G"
+    },
+    "V2123A": {
+        "brand": "vivo",
+        "model": "vivo T1x"
+    },
+    "V2045A": {
+        "brand": "vivo",
+        "model": "vivo Y54s 5G"
+    },
+    "V2164A": {
+        "brand": "vivo",
+        "model": "vivo Y72t 5G"
+    },
+    "V1731CA": {
+        "brand": "vivo",
+        "model": "vivo Y73"
+    },
+    "V2102A": {
+        "brand": "vivo",
+        "model": "vivo Y70t 5G"
+    },
+    "V2164PA": {
+        "brand": "vivo",
+        "model": "vivo Y73t 5G"
+    },
+    "V2009A": {
+        "brand": "vivo",
+        "model": "vivo Y74s 5G"
+    },
+    "V2069BA": {
+        "brand": "vivo",
+        "model": "vivo Y75s 5G"
+    },
+    "V2156A": {
+        "brand": "vivo",
+        "model": "vivo Y76s 5G"
+    },
+    "V2156FA": {
+        "brand": "vivo",
+        "model": "vivo Y76s (t1 版) 5G"
+    },
+    "V2219A": {
+        "brand": "vivo",
+        "model": "vivo Y77 5G"
+    },
+    "V2166BA": {
+        "brand": "vivo",
+        "model": "vivo Y77e 5G / vivo Y77e (t1 版) 5G"
+    },
+    "V2278A": {
+        "brand": "vivo",
+        "model": "vivo Y77t 5G / vivo Y78 5G / vivo Y78m 5G"
+    },
+    "V2271A": {
+        "brand": "vivo",
+        "model": "vivo Y78+ 5G / vivo Y78+ (t1) 5G"
+    },
+    "V2312BA": {
+        "brand": "vivo",
+        "model": "vivo Y100i 长续航版 5G"
+    },
+    "V1732A": {
+        "brand": "vivo",
+        "model": "vivo Y81s 全网通版"
+    },
+    "V1732T": {
+        "brand": "vivo",
+        "model": "vivo Y81s 移动全网通版"
+    },
+    "V1730EA": {
+        "brand": "vivo",
+        "model": "vivo Z1 青春版"
+    },
+    "V1818CA": {
+        "brand": "vivo",
+        "model": "vivo Y93s 全网通版"
+    },
+    "V1818CT": {
+        "brand": "vivo",
+        "model": "vivo Y93s 移动全网通版"
+    },
+    "V1818A": {
+        "brand": "vivo",
+        "model": "vivo U1"
+    },
+    "V1818T": {
+        "brand": "vivo",
+        "model": "vivo Y93 移动全网通版"
+    },
+    "V1818BA": {
+        "brand": "vivo",
+        "model": "vivo Y93 标准版 全网通版"
+    },
+    "V1813A": {
+        "brand": "vivo",
+        "model": "vivo Z3i 标准版 全网通版"
+    },
+    "V1813T": {
+        "brand": "vivo",
+        "model": "vivo Z3i 标准版 移动全网通版"
+    },
+    "V2313A": {
+        "brand": "vivo",
+        "model": "vivo Y100 5G"
+    },
+    "V2314DA": {
+        "brand": "vivo",
+        "model": "vivo Y100t 5G"
+    },
+    "V2343A": {
+        "brand": "vivo",
+        "model": "vivo Y200 5G"
+    },
+    "V2361GA": {
+        "brand": "vivo",
+        "model": "vivo Y200 GT 5G"
+    },
+    "V2353DA": {
+        "brand": "vivo",
+        "model": "vivo Y200t 5G"
+    },
+    "V2410A": {
+        "brand": "vivo",
+        "model": "vivo Y300 Pro 5G"
+    },
+    "V2115A": {
+        "brand": "vivo",
+        "model": "vivo T1"
+    },
+    "V2188A": {
+        "brand": "vivo",
+        "model": "vivo T2x"
+    },
+    "V1801A0": {
+        "brand": "vivo",
+        "model": "vivo Z1"
+    },
+    "V1730DA": {
+        "brand": "vivo",
+        "model": "vivo Z1i 全网通版"
+    },
+    "V1730DT": {
+        "brand": "vivo",
+        "model": "vivo Z1i 移动全网通版"
+    },
+    "V1813BA": {
+        "brand": "vivo",
+        "model": "vivo Z3 全网通版 (骁龙 670)"
+    },
+    "V1813BT": {
+        "brand": "vivo",
+        "model": "vivo Z3 全网通版 (骁龙 710)"
+    },
+    "V1730GA": {
+        "brand": "vivo",
+        "model": "vivo Z3x"
+    },
+    "V1921A": {
+        "brand": "vivo",
+        "model": "vivo Z5 全网通版"
+    },
+    "V1921T": {
+        "brand": "vivo",
+        "model": "vivo Z5 移动全网通版"
+    },
+    "V1911A": {
+        "brand": "vivo",
+        "model": "vivo Z5x 全网通版"
+    },
+    "V1919A": {
+        "brand": "vivo",
+        "model": "vivo Z5x 移动全网通版"
+    },
+    "V1990A": {
+        "brand": "vivo",
+        "model": "vivo Z5x 712 版"
+    },
+    "V1941A": {
+        "brand": "vivo",
+        "model": "vivo U3 全网通版"
+    },
+    "V1941T": {
+        "brand": "vivo",
+        "model": "vivo U3 移动全网通版"
+    },
+    "V1963A": {
+        "brand": "vivo",
+        "model": "vivo Z6 5G"
+    },
+    "V1928A": {
+        "brand": "vivo",
+        "model": "vivo U3x 全网通版"
+    },
+    "V1928T": {
+        "brand": "vivo",
+        "model": "vivo U3x 移动全网通版"
+    },
+    "V1962BA": {
+        "brand": "vivo",
+        "model": "vivo G1 5G"
+    },
+    "V1824BA": {
+        "brand": "vivo",
+        "model": "iQOO (6GB+128GB)"
+    },
+    "V1824A": {
+        "brand": "vivo",
+        "model": "iQOO (8GB+128GB/8GB+256GB/12GB+128GB/12GB+256GB)"
+    },
+    "V1922A": {
+        "brand": "vivo",
+        "model": "iQOO Pro 全网通版"
+    },
+    "V1922T": {
+        "brand": "vivo",
+        "model": "iQOO Pro 移动全网通版"
+    },
+    "V1916A": {
+        "brand": "vivo",
+        "model": "iQOO Pro 5G 全网通版"
+    },
+    "V1916T": {
+        "brand": "vivo",
+        "model": "iQOO Pro 5G 移动全网通版"
+    },
+    "V1955A": {
+        "brand": "vivo",
+        "model": "iQOO 3"
+    },
+    "V2024A": {
+        "brand": "vivo",
+        "model": "iQOO 5"
+    },
+    "V2025A": {
+        "brand": "vivo",
+        "model": "iQOO 5 Pro"
+    },
+    "V2049A": {
+        "brand": "vivo",
+        "model": "iQOO 7"
+    },
+    "V2136A": {
+        "brand": "vivo",
+        "model": "iQOO 8"
+    },
+    "V2141A": {
+        "brand": "vivo",
+        "model": "iQOO 8 Pro"
+    },
+    "V2171A": {
+        "brand": "vivo",
+        "model": "iQOO 9"
+    },
+    "V2172A": {
+        "brand": "vivo",
+        "model": "iQOO 9 Pro"
+    },
+    "V2217A": {
+        "brand": "vivo",
+        "model": "iQOO 10"
+    },
+    "V2218A": {
+        "brand": "vivo",
+        "model": "iQOO 10 Pro"
+    },
+    "V2243A": {
+        "brand": "vivo",
+        "model": "iQOO 11"
+    },
+    "V2254A": {
+        "brand": "vivo",
+        "model": "iQOO 11 Pro"
+    },
+    "V2304A": {
+        "brand": "vivo",
+        "model": "iQOO 11S"
+    },
+    "V2307A": {
+        "brand": "vivo",
+        "model": "iQOO 12"
+    },
+    "V2329A": {
+        "brand": "vivo",
+        "model": "iQOO 12 Pro"
+    },
+    "V2408A": {
+        "brand": "vivo",
+        "model": "iQOO 13"
+    },
+    "V1914A": {
+        "brand": "vivo",
+        "model": "iQOO Neo 全网通版"
+    },
+    "V1914T": {
+        "brand": "vivo",
+        "model": "iQOO Neo 移动全网通版"
+    },
+    "V1936A": {
+        "brand": "vivo",
+        "model": "iQOO Neo 855 版 全网通版"
+    },
+    "V1936T": {
+        "brand": "vivo",
+        "model": "iQOO Neo 855 版 移动全网通版"
+    },
+    "V1936AL": {
+        "brand": "vivo",
+        "model": "iQOO Neo 855 竞速版 全网通版"
+    },
+    "V1936TL": {
+        "brand": "vivo",
+        "model": "iQOO Neo 855 竞速版 移动全网通版"
+    },
+    "V1981A": {
+        "brand": "vivo",
+        "model": "iQOO Neo3"
+    },
+    "V2055A": {
+        "brand": "vivo",
+        "model": "iQOO Neo5"
+    },
+    "V2118A": {
+        "brand": "vivo",
+        "model": "iQOO Neo5 活力版"
+    },
+    "V2154A": {
+        "brand": "vivo",
+        "model": "iQOO Neo5S"
+    },
+    "V2157A": {
+        "brand": "vivo",
+        "model": "iQOO Neo5 SE"
+    },
+    "V2196A": {
+        "brand": "vivo",
+        "model": "iQOO Neo6"
+    },
+    "V2199A": {
+        "brand": "vivo",
+        "model": "iQOO Neo6 SE"
+    },
+    "V2231A": {
+        "brand": "vivo",
+        "model": "iQOO Neo7"
+    },
+    "V2232A": {
+        "brand": "vivo",
+        "model": "iQOO Neo7 竞速版"
+    },
+    "V2238A": {
+        "brand": "vivo",
+        "model": "iQOO Neo7 SE"
+    },
+    "V2301A": {
+        "brand": "vivo",
+        "model": "iQOO Neo8"
+    },
+    "V2302A": {
+        "brand": "vivo",
+        "model": "iQOO Neo8 Pro"
+    },
+    "V2338A": {
+        "brand": "vivo",
+        "model": "iQOO Neo9"
+    },
+    "V2339A": {
+        "brand": "vivo",
+        "model": "iQOO Neo9 Pro"
+    },
+    "V2339FA": {
+        "brand": "vivo",
+        "model": "iQOO Neo9S Pro"
+    },
+    "V2403A": {
+        "brand": "vivo",
+        "model": "iQOO Neo9S Pro+"
+    },
+    "V1986A": {
+        "brand": "vivo",
+        "model": "iQOO Z1"
+    },
+    "V2012A": {
+        "brand": "vivo",
+        "model": "iQOO Z1x"
+    },
+    "V2073A": {
+        "brand": "vivo",
+        "model": "iQOO Z3"
+    },
+    "V2148A": {
+        "brand": "vivo",
+        "model": "iQOO Z5"
+    },
+    "V2131A": {
+        "brand": "vivo",
+        "model": "iQOO Z5x"
+    },
+    "V2220A": {
+        "brand": "vivo",
+        "model": "iQOO Z6 / iQOO Z6 活力版"
+    },
+    "V2164KA": {
+        "brand": "vivo",
+        "model": "iQOO Z6x"
+    },
+    "V2270A": {
+        "brand": "vivo",
+        "model": "iQOO Z7"
+    },
+    "V2272A": {
+        "brand": "vivo",
+        "model": "iQOO Z7x"
+    },
+    "V2230EA": {
+        "brand": "vivo",
+        "model": "iQOO Z7i"
+    },
+    "V2314A": {
+        "brand": "vivo",
+        "model": "iQOO Z8"
+    },
+    "V2312A": {
+        "brand": "vivo",
+        "model": "iQOO Z8x"
+    },
+    "V2361A": {
+        "brand": "vivo",
+        "model": "iQOO Z9"
+    },
+    "V2352A": {
+        "brand": "vivo",
+        "model": "iQOO Z9 Turbo"
+    },
+    "V2417A": {
+        "brand": "vivo",
+        "model": "iQOO Z9 Turbo+"
+    },
+    "V2353A": {
+        "brand": "vivo",
+        "model": "iQOO Z9x"
+    },
+    "V2023A": {
+        "brand": "vivo",
+        "model": "iQOO U1"
+    },
+    "V2065A": {
+        "brand": "vivo",
+        "model": "iQOO U1x"
+    },
+    "V2061A": {
+        "brand": "vivo",
+        "model": "iQOO U3 5G"
+    },
+    "V2106A": {
+        "brand": "vivo",
+        "model": "iQOO U3x 5G"
+    },
+    "V2143A": {
+        "brand": "vivo",
+        "model": "iQOO U3x 标准版"
+    },
+    "V2165A": {
+        "brand": "vivo",
+        "model": "iQOO U5 5G"
+    },
+    "V2180GA": {
+        "brand": "vivo",
+        "model": "iQOO U5x"
+    },
+    "V2197A": {
+        "brand": "vivo",
+        "model": "iQOO U5e 5G"
+    },
+    "PA2170": {
+        "brand": "vivo",
+        "model": "vivo Pad"
+    },
+    "PA2373": {
+        "brand": "vivo",
+        "model": "vivo Pad2"
+    },
+    "PA2353": {
+        "brand": "vivo",
+        "model": "vivo Pad Air"
+    },
+    "PA2455": {
+        "brand": "vivo",
+        "model": "vivo Pad3"
+    },
+    "PA2473": {
+        "brand": "vivo",
+        "model": "vivo Pad3 Pro"
+    },
+    "iPA2375": {
+        "brand": "vivo",
+        "model": "iQOO Pad"
+    },
+    "iPA2451": {
+        "brand": "vivo",
+        "model": "iQOO Pad Air"
+    },
+    "iPA2453": {
+        "brand": "vivo",
+        "model": "iQOO Pad2"
+    },
+    "iPA2475": {
+        "brand": "vivo",
+        "model": "iQOO Pad2 Pro"
+    }
+}

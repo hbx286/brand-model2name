@@ -1,0 +1,78 @@
+{
+    "SKR-H0": {
+        "brand": "黑鲨",
+        "model": "Black Shark Global"
+    },
+    "SKR-A0": {
+        "brand": "黑鲨",
+        "model": "Black Shark China"
+    },
+    "AWM-A0": {
+        "brand": "黑鲨",
+        "model": "Black Shark Helo China"
+    },
+    "SKW-H0": {
+        "brand": "黑鲨",
+        "model": "Black Shark 2 Global"
+    },
+    "SKW-A0": {
+        "brand": "黑鲨",
+        "model": "Black Shark 2 China"
+    },
+    "DLT-H0": {
+        "brand": "黑鲨",
+        "model": "Black Shark 2 Pro Global"
+    },
+    "DLT-A0": {
+        "brand": "黑鲨",
+        "model": "Black Shark 2 Pro China"
+    },
+    "SHARK KLE-H0": {
+        "brand": "黑鲨",
+        "model": "Black Shark 3 Global"
+    },
+    "SHARK KLE-A0": {
+        "brand": "黑鲨",
+        "model": "Black Shark 3S China"
+    },
+    "SHARK MBU-H0": {
+        "brand": "黑鲨",
+        "model": "Black Shark 3 Pro Global"
+    },
+    "SHARK MBU-A0": {
+        "brand": "黑鲨",
+        "model": "Black Shark 3 Pro China"
+    },
+    "SHARK PRS-H0": {
+        "brand": "黑鲨",
+        "model": "Black Shark 4 Global"
+    },
+    "SHARK PRS-A0": {
+        "brand": "黑鲨",
+        "model": "Black Shark 4S China"
+    },
+    "SHARK KSR-H0": {
+        "brand": "黑鲨",
+        "model": "Black Shark 4 Pro Global"
+    },
+    "SHARK KSR-A0": {
+        "brand": "黑鲨",
+        "model": "Black Shark 5 RS China"
+    },
+    "SHARK PAR-H0": {
+        "brand": "黑鲨",
+        "model": "Black Shark 5 Global"
+    },
+    "SHARK PAR-A0": {
+        "brand": "黑鲨",
+        "model": "Black Shark 5 China"
+    },
+    "SHARK KTUS-H0": {
+        "brand": "黑鲨",
+        "model": "Black Shark 5 Pro Global"
+    },
+    "SHARK KTUS-A0": {
+        "brand": "黑鲨",
+        "model": "Black Shark 5 Pro China"
+    }
+}

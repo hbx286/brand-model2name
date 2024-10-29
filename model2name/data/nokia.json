@@ -1,0 +1,70 @@
+{
+    "TA-1000": {
+        "brand": "诺基亚",
+        "model": "Nokia 6"
+    },
+    "TA-1054": {
+        "brand": "诺基亚",
+        "model": "Nokia 6 (第二代)"
+    },
+    "TA-1041": {
+        "brand": "诺基亚",
+        "model": "Nokia 7"
+    },
+    "TA-1062": {
+        "brand": "诺基亚",
+        "model": "Nokia 7 Plus"
+    },
+    "TA-1042": {
+        "brand": "诺基亚",
+        "model": "Nokia 8 Sirocco"
+    },
+    "TA-1094": {
+        "brand": "诺基亚",
+        "model": "Nokia 9 PureView"
+    },
+    "TA-1109": {
+        "brand": "诺基亚",
+        "model": "Nokia X5"
+    },
+    "TA-1099": {
+        "brand": "诺基亚",
+        "model": "Nokia X6"
+    },
+    "TA-1131": {
+        "brand": "诺基亚",
+        "model": "Nokia X7"
+    },
+    "TA-1172": {
+        "brand": "诺基亚",
+        "model": "Nokia X71"
+    },
+    "TA-1117": {
+        "brand": "诺基亚",
+        "model": "Nokia 3.1 Plus"
+    },
+    "TA-1335": {
+        "brand": "诺基亚",
+        "model": "Nokia C1 Plus"
+    },
+    "TA-1258": {
+        "brand": "诺基亚",
+        "model": "Nokia C3"
+    },
+    "TA-1388": {
+        "brand": "诺基亚",
+        "model": "Nokia C20 Plus"
+    },
+    "TA-1361": {
+        "brand": "诺基亚",
+        "model": "Nokia G50"
+    },
+    "TA-1392": {
+        "brand": "诺基亚",
+        "model": "Nokia T20"
+    },
+    "TA-1511": {
+        "brand": "诺基亚",
+        "model": "Nokia C31"
+    }
+}

@@ -1,0 +1,706 @@
+{
+    "Che1-L04": {
+        "brand": "荣耀",
+        "model": "HONOR 4X (India)"
+    },
+    "Che2-L03": {
+        "brand": "荣耀",
+        "model": "HONOR 4X Single SIM"
+    },
+    "Che2-L11": {
+        "brand": "荣耀",
+        "model": "HONOR 4X Dual SIM"
+    },
+    "Che2-L12": {
+        "brand": "荣耀",
+        "model": "HONOR 4X Dual SIM"
+    },
+    "Che2-L23": {
+        "brand": "荣耀",
+        "model": "HONOR 4X Dual SIM"
+    },
+    "CHM-U01": {
+        "brand": "荣耀",
+        "model": "HONOR 4C"
+    },
+    "KIW-L21": {
+        "brand": "荣耀",
+        "model": "HONOR 5X"
+    },
+    "KIW-L24": {
+        "brand": "荣耀",
+        "model": "HONOR 5X (United States)"
+    },
+    "NEM-L21": {
+        "brand": "荣耀",
+        "model": "HONOR 5C"
+    },
+    "NEM-L22": {
+        "brand": "荣耀",
+        "model": "HONOR 5C"
+    },
+    "NEM-L51": {
+        "brand": "荣耀",
+        "model": "HONOR 5C"
+    },
+    "H60-L04": {
+        "brand": "荣耀",
+        "model": "HONOR 6"
+    },
+    "PE-TL10": {
+        "brand": "荣耀",
+        "model": "HONOR 6 Plus"
+    },
+    "BLN-L21": {
+        "brand": "荣耀",
+        "model": "HONOR 6X"
+    },
+    "BLN-L22": {
+        "brand": "荣耀",
+        "model": "HONOR 6X"
+    },
+    "BLN-L24": {
+        "brand": "荣耀",
+        "model": "HONOR 6X (United States)"
+    },
+    "DIG-L22HN": {
+        "brand": "荣耀",
+        "model": "HONOR 6C"
+    },
+    "JMM-L22": {
+        "brand": "荣耀",
+        "model": "HONOR 6C Pro"
+    },
+    "DLI-L22": {
+        "brand": "荣耀",
+        "model": "HONOR 6A"
+    },
+    "DLI-L42": {
+        "brand": "荣耀",
+        "model": "HONOR 6A"
+    },
+    "DLI-TL20": {
+        "brand": "荣耀",
+        "model": "HONOR 6A"
+    },
+    "PLK-L01": {
+        "brand": "荣耀",
+        "model": "HONOR 7"
+    },
+    "ATH-UL01": {
+        "brand": "荣耀",
+        "model": "ShotX"
+    },
+    "ATH-UL06": {
+        "brand": "荣耀",
+        "model": "ShotX"
+    },
+    "ATH-UL11": {
+        "brand": "荣耀",
+        "model": "ShotX"
+    },
+    "ATH-UL16": {
+        "brand": "荣耀",
+        "model": "ShotX"
+    },
+    "BND-L21": {
+        "brand": "荣耀",
+        "model": "HONOR 7X"
+    },
+    "BND-L31": {
+        "brand": "荣耀",
+        "model": "HONOR 7X"
+    },
+    "BND-AL10": {
+        "brand": "荣耀",
+        "model": "HONOR 7X"
+    },
+    "BND-L24": {
+        "brand": "荣耀",
+        "model": "HONOR 7X (United States)"
+    },
+    "LND-L29": {
+        "brand": "荣耀",
+        "model": "HONOR 7C"
+    },
+    "LND-AL30": {
+        "brand": "荣耀",
+        "model": "HONOR 7C"
+    },
+    "AUM-L29": {
+        "brand": "荣耀",
+        "model": "HONOR 7A"
+    },
+    "AUM-L33": {
+        "brand": "荣耀",
+        "model": "HONOR 7A"
+    },
+    "AUM-L41": {
+        "brand": "荣耀",
+        "model": "HONOR 7A"
+    },
+    "AUM-AL20": {
+        "brand": "荣耀",
+        "model": "HONOR 7A"
+    },
+    "DRA-LX5": {
+        "brand": "荣耀",
+        "model": "HONOR 7S"
+    },
+    "DRA-AL00IA": {
+        "brand": "荣耀",
+        "model": "HONOR 7S"
+    },
+    "DUA-L22": {
+        "brand": "荣耀",
+        "model": "HONOR 7S"
+    },
+    "DUA-LX3": {
+        "brand": "荣耀",
+        "model": "HONOR 7S"
+    },
+    "FRD-L02": {
+        "brand": "荣耀",
+        "model": "HONOR 8 Single SIM"
+    },
+    "FRD-L04": {
+        "brand": "荣耀",
+        "model": "HONOR 8 Single SIM"
+    },
+    "FRD-L09": {
+        "brand": "荣耀",
+        "model": "HONOR 8 Dual SIM"
+    },
+    "FRD-L19": {
+        "brand": "荣耀",
+        "model": "HONOR 8 Dual SIM"
+    },
+    "DUK-L09": {
+        "brand": "荣耀",
+        "model": "HONOR 8 Pro"
+    },
+    "VEN-L22": {
+        "brand": "荣耀",
+        "model": "HONOR 8 Smart"
+    },
+    "JSN-L21": {
+        "brand": "荣耀",
+        "model": "HONOR 9X Lite"
+    },
+    "JSN-L22": {
+        "brand": "荣耀",
+        "model": "HONOR 9X Lite"
+    },
+    "JSN-L23": {
+        "brand": "荣耀",
+        "model": "HONOR 9X Lite"
+    },
+    "JSN-L42": {
+        "brand": "荣耀",
+        "model": "HONOR 8X"
+    },
+    "BKK-L21": {
+        "brand": "荣耀",
+        "model": "HONOR 8C"
+    },
+    "BKK-L22": {
+        "brand": "荣耀",
+        "model": "HONOR 8C"
+    },
+    "BKK-LX2": {
+        "brand": "荣耀",
+        "model": "HONOR 8C"
+    },
+    "JAT-L29": {
+        "brand": "荣耀",
+        "model": "HONOR 8A"
+    },
+    "JAT-L41": {
+        "brand": "荣耀",
+        "model": "HONOR 8A"
+    },
+    "JAT-LX1": {
+        "brand": "荣耀",
+        "model": "HONOR 8A"
+    },
+    "JAT-LX3": {
+        "brand": "荣耀",
+        "model": "HONOR 8A"
+    },
+    "KSA-LX2": {
+        "brand": "荣耀",
+        "model": "HONOR 8S"
+    },
+    "KSA-LX3": {
+        "brand": "荣耀",
+        "model": "HONOR 8S"
+    },
+    "KSA-LX9": {
+        "brand": "荣耀",
+        "model": "HONOR 8S"
+    },
+    "STF-L09": {
+        "brand": "荣耀",
+        "model": "HONOR 9"
+    },
+    "LLD-L31": {
+        "brand": "荣耀",
+        "model": "HONOR 9 Lite"
+    },
+    "LLD-AL10": {
+        "brand": "荣耀",
+        "model": "HONOR 9 Lite"
+    },
+    "LLD-AL20": {
+        "brand": "荣耀",
+        "model": "HONOR 9N"
+    },
+    "STK-L22": {
+        "brand": "荣耀",
+        "model": "HONOR 9X"
+    },
+    "STK-LX1": {
+        "brand": "荣耀",
+        "model": "HONOR 9X"
+    },
+    "STK-LX3": {
+        "brand": "荣耀",
+        "model": "HONOR 9X"
+    },
+    "HLK-L41": {
+        "brand": "荣耀",
+        "model": "HONOR 9X PRO"
+    },
+    "HLK-L42": {
+        "brand": "荣耀",
+        "model": "HONOR 9X PRO"
+    },
+    "MOA-LX9N": {
+        "brand": "荣耀",
+        "model": "HONOR 9A"
+    },
+    "AKA-L29": {
+        "brand": "荣耀",
+        "model": "HONOR 9C"
+    },
+    "COR-L29": {
+        "brand": "荣耀",
+        "model": "HONOR Play"
+    },
+    "COR-AL00": {
+        "brand": "荣耀",
+        "model": "HONOR Play"
+    },
+    "BKL-L09": {
+        "brand": "荣耀",
+        "model": "HONOR View10"
+    },
+    "BKL-L04": {
+        "brand": "荣耀",
+        "model": "HONOR View10 (United States)"
+    },
+    "COL-L29": {
+        "brand": "荣耀",
+        "model": "HONOR 10"
+    },
+    "COL-L29D": {
+        "brand": "荣耀",
+        "model": "HONOR 10"
+    },
+    "COL-AL10": {
+        "brand": "荣耀",
+        "model": "HONOR 10"
+    },
+    "HRY-LX1": {
+        "brand": "荣耀",
+        "model": "HONOR 10 Lite"
+    },
+    "HRY-LX1MEB": {
+        "brand": "荣耀",
+        "model": "HONOR 10 Lite"
+    },
+    "HRY-LX2": {
+        "brand": "荣耀",
+        "model": "HONOR 10 Lite"
+    },
+    "HRY-AL00": {
+        "brand": "荣耀",
+        "model": "HONOR 10 Lite"
+    },
+    "HRY-AL00a": {
+        "brand": "荣耀",
+        "model": "HONOR 10 Lite"
+    },
+    "PCT-L29": {
+        "brand": "荣耀",
+        "model": "HONOR View20"
+    },
+    "PCT-AL10": {
+        "brand": "荣耀",
+        "model": "HONOR View20"
+    },
+    "YAL-L21": {
+        "brand": "荣耀",
+        "model": "HONOR 20"
+    },
+    "YAL-L41": {
+        "brand": "荣耀",
+        "model": "HONOR 20 PRO"
+    },
+    "HRY-AL00Ta": {
+        "brand": "荣耀",
+        "model": "HONOR 20i"
+    },
+    "HRY-LX1T": {
+        "brand": "荣耀",
+        "model": "HONOR 20e"
+    },
+    "OXF-N29": {
+        "brand": "荣耀",
+        "model": "HONOR View30 PRO 5G"
+    },
+    "OXF-AN10": {
+        "brand": "荣耀",
+        "model": "HONOR View30 PRO 5G"
+    },
+    "NTH-NX9": {
+        "brand": "荣耀",
+        "model": "HONOR 50"
+    },
+    "NTN-LX1": {
+        "brand": "荣耀",
+        "model": "HONOR 50 Lite"
+    },
+    "NTN-L22": {
+        "brand": "荣耀",
+        "model": "HONOR 50 Lite"
+    },
+    "NTN-LX3": {
+        "brand": "荣耀",
+        "model": "HONOR 50 Lite"
+    },
+    "FNE-NX9": {
+        "brand": "荣耀",
+        "model": "HONOR 70"
+    },
+    "RBN-NX1": {
+        "brand": "荣耀",
+        "model": "HONOR X6 5G"
+    },
+    "REA-NX9": {
+        "brand": "荣耀",
+        "model": "HONOR 90"
+    },
+    "CRT-NX1": {
+        "brand": "荣耀",
+        "model": "HONOR 90 Lite"
+    },
+    "CRT-NX3": {
+        "brand": "荣耀",
+        "model": "HONOR 90 Lite"
+    },
+    "CLK-NX1": {
+        "brand": "荣耀",
+        "model": "HONOR X7b 5G"
+    },
+    "CLK-NX3": {
+        "brand": "荣耀",
+        "model": "HONOR 90 Smart"
+    },
+    "ELI-NX9": {
+        "brand": "荣耀",
+        "model": "HONOR 200"
+    },
+    "ELP-NX9": {
+        "brand": "荣耀",
+        "model": "HONOR 200 Pro"
+    },
+    "LLY-NX1": {
+        "brand": "荣耀",
+        "model": "HONOR 200 Lite"
+    },
+    "LLY-NX3": {
+        "brand": "荣耀",
+        "model": "HONOR 200 Lite"
+    },
+    "ALT-NX1": {
+        "brand": "荣耀",
+        "model": "HONOR X7c 5G"
+    },
+    "ALT-NX3": {
+        "brand": "荣耀",
+        "model": "HONOR X6b 5G"
+    },
+    "LGE-NX9": {
+        "brand": "荣耀",
+        "model": "HONOR Magic4 Pro"
+    },
+    "ANY-LX1": {
+        "brand": "荣耀",
+        "model": "HONOR X9"
+    },
+    "ANY-LX2": {
+        "brand": "荣耀",
+        "model": "HONOR X9"
+    },
+    "ANY-LX3": {
+        "brand": "荣耀",
+        "model": "HONOR X9"
+    },
+    "ANY-NX1": {
+        "brand": "荣耀",
+        "model": "HONOR X9 5G"
+    },
+    "FRI-NX9": {
+        "brand": "荣耀",
+        "model": "HONOR Magic Vs"
+    },
+    "PGT-N09": {
+        "brand": "荣耀",
+        "model": "HONOR Magic5"
+    },
+    "PGT-N19": {
+        "brand": "荣耀",
+        "model": "HONOR Magic5 Pro"
+    },
+    "RMO-NX1": {
+        "brand": "荣耀",
+        "model": "HONOR X9a 5G"
+    },
+    "RMO-NX3": {
+        "brand": "荣耀",
+        "model": "HONOR Magic5 Lite 5G"
+    },
+    "VER-N49": {
+        "brand": "荣耀",
+        "model": "HONOR Magic V2"
+    },
+    "VER-N49DP": {
+        "brand": "荣耀",
+        "model": "PORSCHE DESIGN HONOR Magic V2 RSR"
+    },
+    "BVL-N49": {
+        "brand": "荣耀",
+        "model": "HONOR Magic6 Pro"
+    },
+    "BVL-N59": {
+        "brand": "荣耀",
+        "model": "PORSCHE DESIGN HONOR Magic6 RSR"
+    },
+    "ALI-NX1": {
+        "brand": "荣耀",
+        "model": "HONOR X9b 5G"
+    },
+    "ALI-NX3": {
+        "brand": "荣耀",
+        "model": "HONOR Magic6 Lite 5G"
+    },
+    "FCP-N49": {
+        "brand": "荣耀",
+        "model": "HONOR Magic V3"
+    },
+    "VNA-LX2": {
+        "brand": "荣耀",
+        "model": "HONOR X5"
+    },
+    "VNA-LX3": {
+        "brand": "荣耀",
+        "model": "HONOR X5"
+    },
+    "WOD-LX1": {
+        "brand": "荣耀",
+        "model": "HONOR X5 Plus"
+    },
+    "WOD-LX2": {
+        "brand": "荣耀",
+        "model": "HONOR X5 Plus"
+    },
+    "WOD-LX3": {
+        "brand": "荣耀",
+        "model": "HONOR X5 Plus"
+    },
+    "GFY-LX2": {
+        "brand": "荣耀",
+        "model": "HONOR X5b"
+    },
+    "GFY-LX3": {
+        "brand": "荣耀",
+        "model": "HONOR X5b"
+    },
+    "GFY-LX2P": {
+        "brand": "荣耀",
+        "model": "HONOR X5b Plus"
+    },
+    "VNE-LX1": {
+        "brand": "荣耀",
+        "model": "HONOR X6"
+    },
+    "VNE-LX2": {
+        "brand": "荣耀",
+        "model": "HONOR X6"
+    },
+    "VNE-LX3": {
+        "brand": "荣耀",
+        "model": "HONOR X6s"
+    },
+    "WDY-LX1": {
+        "brand": "荣耀",
+        "model": "HONOR X6a"
+    },
+    "WDY-LX2": {
+        "brand": "荣耀",
+        "model": "HONOR X6a"
+    },
+    "WDY-LX3": {
+        "brand": "荣耀",
+        "model": "HONOR X6a Plus"
+    },
+    "JDY-LX1": {
+        "brand": "荣耀",
+        "model": "HONOR X6b"
+    },
+    "JDY-LX2": {
+        "brand": "荣耀",
+        "model": "HONOR X6b"
+    },
+    "JDY-LX3": {
+        "brand": "荣耀",
+        "model": "HONOR X6b"
+    },
+    "JDY-LX3P": {
+        "brand": "荣耀",
+        "model": "HONOR X6b Plus"
+    },
+    "CMA-LX1": {
+        "brand": "荣耀",
+        "model": "HONOR X7"
+    },
+    "CMA-LX2": {
+        "brand": "荣耀",
+        "model": "HONOR X7"
+    },
+    "CMA-LX3": {
+        "brand": "荣耀",
+        "model": "HONOR X7"
+    },
+    "RKY-LX1": {
+        "brand": "荣耀",
+        "model": "HONOR X7a Plus"
+    },
+    "RKY-LX2": {
+        "brand": "荣耀",
+        "model": "HONOR X7a"
+    },
+    "RKY-LX3": {
+        "brand": "荣耀",
+        "model": "HONOR X7a"
+    },
+    "CLK-LX1": {
+        "brand": "荣耀",
+        "model": "HONOR X7b"
+    },
+    "CLK-LX2": {
+        "brand": "荣耀",
+        "model": "HONOR X7b"
+    },
+    "CLK-LX3": {
+        "brand": "荣耀",
+        "model": "HONOR X7b"
+    },
+    "CLK-NX2": {
+        "brand": "荣耀",
+        "model": "HONOR X7b 5G"
+    },
+    "TFY-LX1": {
+        "brand": "荣耀",
+        "model": "HONOR X8"
+    },
+    "TFY-LX2": {
+        "brand": "荣耀",
+        "model": "HONOR X8"
+    },
+    "TFY-LX3": {
+        "brand": "荣耀",
+        "model": "HONOR X8"
+    },
+    "VNE-N41": {
+        "brand": "荣耀",
+        "model": "HONOR X8 5G"
+    },
+    "CRT-LX1": {
+        "brand": "荣耀",
+        "model": "HONOR X8a"
+    },
+    "CRT-LX2": {
+        "brand": "荣耀",
+        "model": "HONOR X8a"
+    },
+    "CRT-LX3": {
+        "brand": "荣耀",
+        "model": "HONOR X8a"
+    },
+    "RBN-NX3": {
+        "brand": "荣耀",
+        "model": "HONOR X8a 5G"
+    },
+    "LLY-LX1": {
+        "brand": "荣耀",
+        "model": "HONOR X8b"
+    },
+    "LLY-LX2": {
+        "brand": "荣耀",
+        "model": "HONOR X8b"
+    },
+    "LLY-LX3": {
+        "brand": "荣耀",
+        "model": "HONOR X8b"
+    },
+    "ALI-NX3P": {
+        "brand": "荣耀",
+        "model": "HONOR X9b 5G"
+    },
+    "HEY-W09": {
+        "brand": "荣耀",
+        "model": "HONOR Pad 8"
+    },
+    "AGM3-W09HN": {
+        "brand": "荣耀",
+        "model": "HONOR Pad X8 Wi-Fi"
+    },
+    "AGM3-AL09HN": {
+        "brand": "荣耀",
+        "model": "HONOR Pad X8 LTE"
+    },
+    "AGM-W09HN": {
+        "brand": "荣耀",
+        "model": "HONOR Pad X8 Lite"
+    },
+    "NDL-W09": {
+        "brand": "荣耀",
+        "model": "HONOR Pad X8a"
+    },
+    "HEY2-W09": {
+        "brand": "荣耀",
+        "model": "HONOR Pad 9 Wi-Fi"
+    },
+    "HEY2-N09": {
+        "brand": "荣耀",
+        "model": "HONOR Pad 9 5G"
+    },
+    "ELN-W09": {
+        "brand": "荣耀",
+        "model": "HONOR Pad X9 Wi-Fi"
+    },
+    "ELN-L03": {
+        "brand": "荣耀",
+        "model": "HONOR Pad X9 LTE"
+    },
+    "ELN-L09": {
+        "brand": "荣耀",
+        "model": "HONOR Pad X9 LTE"
+    },
+    "ROD2-W09": {
+        "brand": "荣耀",
+        "model": "HONOR MagicPad2"
+    }
+}

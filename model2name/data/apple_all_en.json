@@ -1,0 +1,1634 @@
+{
+    "A1203": {
+        "brand": "苹果",
+        "model": "iPhone"
+    },
+    "A1241": {
+        "brand": "苹果",
+        "model": "iPhone 3G"
+    },
+    "A1324": {
+        "brand": "苹果",
+        "model": "iPhone 3G (China mainland)"
+    },
+    "A1303": {
+        "brand": "苹果",
+        "model": "iPhone 3GS"
+    },
+    "A1325": {
+        "brand": "苹果",
+        "model": "iPhone 3GS (China mainland)"
+    },
+    "A1332": {
+        "brand": "苹果",
+        "model": "iPhone 4 (GSM, 2011)"
+    },
+    "A1349": {
+        "brand": "苹果",
+        "model": "iPhone 4 (CDMA)"
+    },
+    "A1431": {
+        "brand": "苹果",
+        "model": "iPhone 4S (GSM)"
+    },
+    "A1387": {
+        "brand": "苹果",
+        "model": "iPhone 4S (CDMA)"
+    },
+    "A1428": {
+        "brand": "苹果",
+        "model": "iPhone 5 (GSM)"
+    },
+    "A1429": {
+        "brand": "苹果",
+        "model": "iPhone 5 (GSM)"
+    },
+    "A1442": {
+        "brand": "苹果",
+        "model": "iPhone 5 (CDMA)"
+    },
+    "A1453": {
+        "brand": "苹果",
+        "model": "iPhone 5s (CDMA)"
+    },
+    "A1533": {
+        "brand": "苹果",
+        "model": "iPhone 5s (CDMA)"
+    },
+    "A1457": {
+        "brand": "苹果",
+        "model": "iPhone 5s (GSM)"
+    },
+    "A1528": {
+        "brand": "苹果",
+        "model": "iPhone 5s (GSM)"
+    },
+    "A1530": {
+        "brand": "苹果",
+        "model": "iPhone 5s (GSM)"
+    },
+    "A1518": {
+        "brand": "苹果",
+        "model": "iPhone 5s (China Mobile)"
+    },
+    "A1456": {
+        "brand": "苹果",
+        "model": "iPhone 5c (CDMA)"
+    },
+    "A1532": {
+        "brand": "苹果",
+        "model": "iPhone 5c (CDMA)"
+    },
+    "A1507": {
+        "brand": "苹果",
+        "model": "iPhone 5c (GSM)"
+    },
+    "A1526": {
+        "brand": "苹果",
+        "model": "iPhone 5c (GSM)"
+    },
+    "A1529": {
+        "brand": "苹果",
+        "model": "iPhone 5c (GSM)"
+    },
+    "A1516": {
+        "brand": "苹果",
+        "model": "iPhone 5c (China Mobile)"
+    },
+    "A1549": {
+        "brand": "苹果",
+        "model": "iPhone 6"
+    },
+    "A1586": {
+        "brand": "苹果",
+        "model": "iPhone 6"
+    },
+    "A1589": {
+        "brand": "苹果",
+        "model": "iPhone 6 (China Mobile)"
+    },
+    "A1522": {
+        "brand": "苹果",
+        "model": "iPhone 6 Plus"
+    },
+    "A1524": {
+        "brand": "苹果",
+        "model": "iPhone 6 Plus"
+    },
+    "A1593": {
+        "brand": "苹果",
+        "model": "iPhone 6 Plus (China Mobile)"
+    },
+    "A1633": {
+        "brand": "苹果",
+        "model": "iPhone 6s"
+    },
+    "A1688": {
+        "brand": "苹果",
+        "model": "iPhone 6s"
+    },
+    "A1700": {
+        "brand": "苹果",
+        "model": "iPhone 6s (China mainland)"
+    },
+    "A1691": {
+        "brand": "苹果",
+        "model": "iPhone 6s (China Mobile)"
+    },
+    "A1634": {
+        "brand": "苹果",
+        "model": "iPhone 6s Plus"
+    },
+    "A1687": {
+        "brand": "苹果",
+        "model": "iPhone 6s Plus"
+    },
+    "A1699": {
+        "brand": "苹果",
+        "model": "iPhone 6s Plus (China mainland)"
+    },
+    "A1690": {
+        "brand": "苹果",
+        "model": "iPhone 6s Plus (China Mobile)"
+    },
+    "A1662": {
+        "brand": "苹果",
+        "model": "iPhone SE"
+    },
+    "A1723": {
+        "brand": "苹果",
+        "model": "iPhone SE"
+    },
+    "A1724": {
+        "brand": "苹果",
+        "model": "iPhone SE (China Mobile)"
+    },
+    "A1660": {
+        "brand": "苹果",
+        "model": "iPhone 7"
+    },
+    "A1779": {
+        "brand": "苹果",
+        "model": "iPhone 7 (Japan)"
+    },
+    "A1780": {
+        "brand": "苹果",
+        "model": "iPhone 7 (China Mobile)"
+    },
+    "A1778": {
+        "brand": "苹果",
+        "model": "iPhone 7 (GSM)"
+    },
+    "A1661": {
+        "brand": "苹果",
+        "model": "iPhone 7 Plus"
+    },
+    "A1785": {
+        "brand": "苹果",
+        "model": "iPhone 7 Plus (Japan)"
+    },
+    "A1786": {
+        "brand": "苹果",
+        "model": "iPhone 7 Plus (China Mobile)"
+    },
+    "A1784": {
+        "brand": "苹果",
+        "model": "iPhone 7 Plus (GSM)"
+    },
+    "A1863": {
+        "brand": "苹果",
+        "model": "iPhone 8"
+    },
+    "A1906": {
+        "brand": "苹果",
+        "model": "iPhone 8 (Japan)"
+    },
+    "A1907": {
+        "brand": "苹果",
+        "model": "iPhone 8 (China Mobile)"
+    },
+    "A1905": {
+        "brand": "苹果",
+        "model": "iPhone 8 (GSM)"
+    },
+    "A1864": {
+        "brand": "苹果",
+        "model": "iPhone 8 Plus"
+    },
+    "A1898": {
+        "brand": "苹果",
+        "model": "iPhone 8 Plus (Japan)"
+    },
+    "A1899": {
+        "brand": "苹果",
+        "model": "iPhone 8 Plus (China Mobile)"
+    },
+    "A1897": {
+        "brand": "苹果",
+        "model": "iPhone 8 Plus (GSM)"
+    },
+    "A1865": {
+        "brand": "苹果",
+        "model": "iPhone X"
+    },
+    "A1903": {
+        "brand": "苹果",
+        "model": "iPhone X (China Mobile)"
+    },
+    "A1902": {
+        "brand": "苹果",
+        "model": "iPhone X (Japan)"
+    },
+    "A1901": {
+        "brand": "苹果",
+        "model": "iPhone X (GSM)"
+    },
+    "A1920": {
+        "brand": "苹果",
+        "model": "iPhone XS (North America)"
+    },
+    "A2097": {
+        "brand": "苹果",
+        "model": "iPhone XS (GSM)"
+    },
+    "A2098": {
+        "brand": "苹果",
+        "model": "iPhone XS (Japan)"
+    },
+    "A2100": {
+        "brand": "苹果",
+        "model": "iPhone XS (China mainland)"
+    },
+    "A2099": {
+        "brand": "苹果",
+        "model": "iPhone XS (China Mobile)"
+    },
+    "A2104": {
+        "brand": "苹果",
+        "model": "iPhone XS Max (China mainland, Hong Kong, Macao)"
+    },
+    "A2103": {
+        "brand": "苹果",
+        "model": "iPhone XS Max (China Mobile)"
+    },
+    "A1921": {
+        "brand": "苹果",
+        "model": "iPhone XS Max (North America)"
+    },
+    "A2101": {
+        "brand": "苹果",
+        "model": "iPhone XS Max (GSM)"
+    },
+    "A2102": {
+        "brand": "苹果",
+        "model": "iPhone XS Max (Japan)"
+    },
+    "A1984": {
+        "brand": "苹果",
+        "model": "iPhone XR (North America)"
+    },
+    "A2105": {
+        "brand": "苹果",
+        "model": "iPhone XR (GSM)"
+    },
+    "A2106": {
+        "brand": "苹果",
+        "model": "iPhone XR (Japan)"
+    },
+    "A2108": {
+        "brand": "苹果",
+        "model": "iPhone XR (China mainland, Hong Kong, Macao)"
+    },
+    "A2107": {
+        "brand": "苹果",
+        "model": "iPhone XR (China Mobile)"
+    },
+    "A2111": {
+        "brand": "苹果",
+        "model": "iPhone 11 (North America)"
+    },
+    "A2223": {
+        "brand": "苹果",
+        "model": "iPhone 11 (China mainland, Hong Kong, Macao)"
+    },
+    "A2222": {
+        "brand": "苹果",
+        "model": "iPhone 11 (China Mobile)"
+    },
+    "A2221": {
+        "brand": "苹果",
+        "model": "iPhone 11 (Rest of the world)"
+    },
+    "A2160": {
+        "brand": "苹果",
+        "model": "iPhone 11 Pro (North America)"
+    },
+    "A2217": {
+        "brand": "苹果",
+        "model": "iPhone 11 Pro (China mainland, Hong Kong, Macao)"
+    },
+    "A2216": {
+        "brand": "苹果",
+        "model": "iPhone 11 Pro (China Mobile)"
+    },
+    "A2215": {
+        "brand": "苹果",
+        "model": "iPhone 11 Pro (Rest of the world)"
+    },
+    "A2161": {
+        "brand": "苹果",
+        "model": "iPhone 11 Pro Max (North America)"
+    },
+    "A2220": {
+        "brand": "苹果",
+        "model": "iPhone 11 Pro Max (China mainland, Hong Kong, Macao)"
+    },
+    "A2219": {
+        "brand": "苹果",
+        "model": "iPhone 11 Pro Max (China Mobile)"
+    },
+    "A2218": {
+        "brand": "苹果",
+        "model": "iPhone 11 Pro Max (Rest of the world)"
+    },
+    "A2275": {
+        "brand": "苹果",
+        "model": "iPhone SE (2nd generation) (North America)"
+    },
+    "A2298": {
+        "brand": "苹果",
+        "model": "iPhone SE (2nd generation) (China mainland)"
+    },
+    "A2297": {
+        "brand": "苹果",
+        "model": "iPhone SE (2nd generation) (China Mobile)"
+    },
+    "A2296": {
+        "brand": "苹果",
+        "model": "iPhone SE (2nd generation) (Rest of the world)"
+    },
+    "A2176": {
+        "brand": "苹果",
+        "model": "iPhone 12 mini (United States)"
+    },
+    "A2398": {
+        "brand": "苹果",
+        "model": "iPhone 12 mini (Canada, Japan)"
+    },
+    "A2400": {
+        "brand": "苹果",
+        "model": "iPhone 12 mini (China mainland)"
+    },
+    "A2399": {
+        "brand": "苹果",
+        "model": "iPhone 12 mini (Rest of the world)"
+    },
+    "A2172": {
+        "brand": "苹果",
+        "model": "iPhone 12 (United States)"
+    },
+    "A2402": {
+        "brand": "苹果",
+        "model": "iPhone 12 (Canada, Japan)"
+    },
+    "A2404": {
+        "brand": "苹果",
+        "model": "iPhone 12 (China mainland, Hong Kong, Macao)"
+    },
+    "A2403": {
+        "brand": "苹果",
+        "model": "iPhone 12 (Rest of the world)"
+    },
+    "A2341": {
+        "brand": "苹果",
+        "model": "iPhone 12 Pro (United States)"
+    },
+    "A2406": {
+        "brand": "苹果",
+        "model": "iPhone 12 Pro (Canada, Japan)"
+    },
+    "A2408": {
+        "brand": "苹果",
+        "model": "iPhone 12 Pro (China mainland, Hong Kong, Macao)"
+    },
+    "A2407": {
+        "brand": "苹果",
+        "model": "iPhone 12 Pro (Rest of the world)"
+    },
+    "A2342": {
+        "brand": "苹果",
+        "model": "iPhone 12 Pro Max (United States)"
+    },
+    "A2410": {
+        "brand": "苹果",
+        "model": "iPhone 12 Pro Max (Canada, Japan)"
+    },
+    "A2412": {
+        "brand": "苹果",
+        "model": "iPhone 12 Pro Max (China mainland, Hong Kong, Macao)"
+    },
+    "A2411": {
+        "brand": "苹果",
+        "model": "iPhone 12 Pro Max (Rest of the world)"
+    },
+    "A2481": {
+        "brand": "苹果",
+        "model": "iPhone 13 mini (United States)"
+    },
+    "A2626": {
+        "brand": "苹果",
+        "model": "iPhone 13 mini (Canada, Japan, Mexico, Saudi Arabia)"
+    },
+    "A2629": {
+        "brand": "苹果",
+        "model": "iPhone 13 mini (China mainland)"
+    },
+    "A2630": {
+        "brand": "苹果",
+        "model": "iPhone 13 mini (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)"
+    },
+    "A2628": {
+        "brand": "苹果",
+        "model": "iPhone 13 mini (Rest of the world)"
+    },
+    "A2482": {
+        "brand": "苹果",
+        "model": "iPhone 13 (United States)"
+    },
+    "A2631": {
+        "brand": "苹果",
+        "model": "iPhone 13 (Canada, Japan, Mexico, Saudi Arabia)"
+    },
+    "A2634": {
+        "brand": "苹果",
+        "model": "iPhone 13 (China mainland, Hong Kong, Macao)"
+    },
+    "A2635": {
+        "brand": "苹果",
+        "model": "iPhone 13 (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)"
+    },
+    "A2633": {
+        "brand": "苹果",
+        "model": "iPhone 13 (Rest of the world)"
+    },
+    "A2483": {
+        "brand": "苹果",
+        "model": "iPhone 13 Pro (United States)"
+    },
+    "A2636": {
+        "brand": "苹果",
+        "model": "iPhone 13 Pro (Canada, Japan, Mexico, Saudi Arabia)"
+    },
+    "A2639": {
+        "brand": "苹果",
+        "model": "iPhone 13 Pro (China mainland, Hong Kong, Macao)"
+    },
+    "A2640": {
+        "brand": "苹果",
+        "model": "iPhone 13 Pro (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)"
+    },
+    "A2638": {
+        "brand": "苹果",
+        "model": "iPhone 13 Pro (Rest of the world)"
+    },
+    "A2484": {
+        "brand": "苹果",
+        "model": "iPhone 13 Pro Max (United States)"
+    },
+    "A2641": {
+        "brand": "苹果",
+        "model": "iPhone 13 Pro Max (Canada, Japan, Mexico, Saudi Arabia)"
+    },
+    "A2644": {
+        "brand": "苹果",
+        "model": "iPhone 13 Pro Max (China mainland, Hong Kong, Macao)"
+    },
+    "A2645": {
+        "brand": "苹果",
+        "model": "iPhone 13 Pro Max (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)"
+    },
+    "A2643": {
+        "brand": "苹果",
+        "model": "iPhone 13 Pro Max (Rest of the world)"
+    },
+    "A2595": {
+        "brand": "苹果",
+        "model": "iPhone SE (3rd generation) (North America)"
+    },
+    "A2782": {
+        "brand": "苹果",
+        "model": "iPhone SE (3rd generation) (Japan)"
+    },
+    "A2784": {
+        "brand": "苹果",
+        "model": "iPhone SE (3rd generation) (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)"
+    },
+    "A2785": {
+        "brand": "苹果",
+        "model": "iPhone SE (3rd generation) (China mainland)"
+    },
+    "A2783": {
+        "brand": "苹果",
+        "model": "iPhone SE (3rd generation) (Rest of the world)"
+    },
+    "A2649": {
+        "brand": "苹果",
+        "model": "iPhone 14 (United States)"
+    },
+    "A2881": {
+        "brand": "苹果",
+        "model": "iPhone 14 (Canada, Japan, Mexico, Saudi Arabia)"
+    },
+    "A2883": {
+        "brand": "苹果",
+        "model": "iPhone 14 (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)"
+    },
+    "A2884": {
+        "brand": "苹果",
+        "model": "iPhone 14 (China mainland, Hong Kong, Macao)"
+    },
+    "A2882": {
+        "brand": "苹果",
+        "model": "iPhone 14 (Rest of the world)"
+    },
+    "A2632": {
+        "brand": "苹果",
+        "model": "iPhone 14 Plus (United States)"
+    },
+    "A2885": {
+        "brand": "苹果",
+        "model": "iPhone 14 Plus (Canada, Japan, Mexico, Saudi Arabia)"
+    },
+    "A2887": {
+        "brand": "苹果",
+        "model": "iPhone 14 Plus (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)"
+    },
+    "A2888": {
+        "brand": "苹果",
+        "model": "iPhone 14 Plus (China mainland, Hong Kong, Macao)"
+    },
+    "A2886": {
+        "brand": "苹果",
+        "model": "iPhone 14 Plus (Rest of the world)"
+    },
+    "A2650": {
+        "brand": "苹果",
+        "model": "iPhone 14 Pro (United States)"
+    },
+    "A2889": {
+        "brand": "苹果",
+        "model": "iPhone 14 Pro (Canada, Japan, Mexico, Saudi Arabia)"
+    },
+    "A2891": {
+        "brand": "苹果",
+        "model": "iPhone 14 Pro (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)"
+    },
+    "A2892": {
+        "brand": "苹果",
+        "model": "iPhone 14 Pro (China mainland, Hong Kong, Macao)"
+    },
+    "A2890": {
+        "brand": "苹果",
+        "model": "iPhone 14 Pro (Rest of the world)"
+    },
+    "A2651": {
+        "brand": "苹果",
+        "model": "iPhone 14 Pro Max (United States)"
+    },
+    "A2893": {
+        "brand": "苹果",
+        "model": "iPhone 14 Pro Max (Canada, Japan, Mexico, Saudi Arabia)"
+    },
+    "A2895": {
+        "brand": "苹果",
+        "model": "iPhone 14 Pro Max (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)"
+    },
+    "A2896": {
+        "brand": "苹果",
+        "model": "iPhone 14 Pro Max (China mainland, Hong Kong, Macao)"
+    },
+    "A2894": {
+        "brand": "苹果",
+        "model": "iPhone 14 Pro Max (Rest of the world)"
+    },
+    "A2846": {
+        "brand": "苹果",
+        "model": "iPhone 15 (United States)"
+    },
+    "A3089": {
+        "brand": "苹果",
+        "model": "iPhone 15 (Canada, Japan, Mexico, Saudi Arabia)"
+    },
+    "A3092": {
+        "brand": "苹果",
+        "model": "iPhone 15 (China mainland, Hong Kong, Macao)"
+    },
+    "A3090": {
+        "brand": "苹果",
+        "model": "iPhone 15 (Rest of the world)"
+    },
+    "A2847": {
+        "brand": "苹果",
+        "model": "iPhone 15 Plus (United States)"
+    },
+    "A3093": {
+        "brand": "苹果",
+        "model": "iPhone 15 Plus (Canada, Japan, Mexico, Saudi Arabia)"
+    },
+    "A3096": {
+        "brand": "苹果",
+        "model": "iPhone 15 Plus (China mainland, Hong Kong, Macao)"
+    },
+    "A3094": {
+        "brand": "苹果",
+        "model": "iPhone 15 Plus (Rest of the world)"
+    },
+    "A2848": {
+        "brand": "苹果",
+        "model": "iPhone 15 Pro (United States)"
+    },
+    "A3101": {
+        "brand": "苹果",
+        "model": "iPhone 15 Pro (Canada, Japan, Mexico, Saudi Arabia)"
+    },
+    "A3104": {
+        "brand": "苹果",
+        "model": "iPhone 15 Pro (China mainland, Hong Kong, Macao)"
+    },
+    "A3102": {
+        "brand": "苹果",
+        "model": "iPhone 15 Pro (Rest of the world)"
+    },
+    "A2849": {
+        "brand": "苹果",
+        "model": "iPhone 15 Pro Max (United States)"
+    },
+    "A3105": {
+        "brand": "苹果",
+        "model": "iPhone 15 Pro Max (Canada, Japan, Mexico, Saudi Arabia)"
+    },
+    "A3108": {
+        "brand": "苹果",
+        "model": "iPhone 15 Pro Max (China mainland, Hong Kong, Macao)"
+    },
+    "A3106": {
+        "brand": "苹果",
+        "model": "iPhone 15 Pro Max (Rest of the world)"
+    },
+    "A3081": {
+        "brand": "苹果",
+        "model": "iPhone 16 (United States)"
+    },
+    "A3286": {
+        "brand": "苹果",
+        "model": "iPhone 16 (Bahrain, Canada, Iraq, Guam, Japan, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)"
+    },
+    "A3288": {
+        "brand": "苹果",
+        "model": "iPhone 16 (China mainland, Hong Kong, Macao)"
+    },
+    "A3287": {
+        "brand": "苹果",
+        "model": "iPhone 16 (Rest of the world)"
+    },
+    "A3082": {
+        "brand": "苹果",
+        "model": "iPhone 16 Plus (United States)"
+    },
+    "A3289": {
+        "brand": "苹果",
+        "model": "iPhone 16 Plus (Bahrain, Canada, Iraq, Guam, Japan, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)"
+    },
+    "A3291": {
+        "brand": "苹果",
+        "model": "iPhone 16 Plus (China mainland, Hong Kong, Macao)"
+    },
+    "A3290": {
+        "brand": "苹果",
+        "model": "iPhone 16 Plus (Rest of the world)"
+    },
+    "A3083": {
+        "brand": "苹果",
+        "model": "iPhone 16 Pro (United States)"
+    },
+    "A3292": {
+        "brand": "苹果",
+        "model": "iPhone 16 Pro (Bahrain, Canada, Iraq, Guam, Japan, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)"
+    },
+    "A3294": {
+        "brand": "苹果",
+        "model": "iPhone 16 Pro (China mainland, Hong Kong, Macao)"
+    },
+    "A3293": {
+        "brand": "苹果",
+        "model": "iPhone 16 Pro (Rest of the world)"
+    },
+    "A3084": {
+        "brand": "苹果",
+        "model": "iPhone 16 Pro Max (United States)"
+    },
+    "A3295": {
+        "brand": "苹果",
+        "model": "iPhone 16 Pro Max (Bahrain, Canada, Iraq, Guam, Japan, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)"
+    },
+    "A3297": {
+        "brand": "苹果",
+        "model": "iPhone 16 Pro Max (China mainland, Hong Kong, Macao)"
+    },
+    "A3296": {
+        "brand": "苹果",
+        "model": "iPhone 16 Pro Max (Rest of the world)"
+    },
+    "A1219": {
+        "brand": "苹果",
+        "model": "iPad Wi-Fi"
+    },
+    "A1337": {
+        "brand": "苹果",
+        "model": "iPad Wi-Fi + 3G"
+    },
+    "A1395": {
+        "brand": "苹果",
+        "model": "iPad 2 Wi-Fi (2012)"
+    },
+    "A1396": {
+        "brand": "苹果",
+        "model": "iPad 2 Wi-Fi + 3G (GSM)"
+    },
+    "A1397": {
+        "brand": "苹果",
+        "model": "iPad 2 Wi-Fi + 3G (CDMA)"
+    },
+    "A1416": {
+        "brand": "苹果",
+        "model": "iPad (3rd generation) Wi-Fi"
+    },
+    "A1403": {
+        "brand": "苹果",
+        "model": "iPad (3rd generation) Wi-Fi + Cellular (VZ)"
+    },
+    "A1430": {
+        "brand": "苹果",
+        "model": "iPad (3rd generation) Wi-Fi + Cellular"
+    },
+    "A1458": {
+        "brand": "苹果",
+        "model": "iPad (4th generation) Wi-Fi"
+    },
+    "A1459": {
+        "brand": "苹果",
+        "model": "iPad (4th generation) Wi-Fi + Cellular"
+    },
+    "A1460": {
+        "brand": "苹果",
+        "model": "iPad (4th generation) Wi-Fi + Cellular (China mainland)"
+    },
+    "A1822": {
+        "brand": "苹果",
+        "model": "iPad (5th generation) Wi-Fi"
+    },
+    "A1823": {
+        "brand": "苹果",
+        "model": "iPad (5th generation) Wi-Fi + Cellular"
+    },
+    "A1893": {
+        "brand": "苹果",
+        "model": "iPad (6th generation) Wi-Fi"
+    },
+    "A1954": {
+        "brand": "苹果",
+        "model": "iPad (6th generation) Wi-Fi + Cellular"
+    },
+    "A2197": {
+        "brand": "苹果",
+        "model": "iPad (7th generation) Wi-Fi"
+    },
+    "A2198": {
+        "brand": "苹果",
+        "model": "iPad (7th generation) Wi-Fi + Cellular"
+    },
+    "A2200": {
+        "brand": "苹果",
+        "model": "iPad (7th generation) Wi-Fi + Cellular"
+    },
+    "A2199": {
+        "brand": "苹果",
+        "model": "iPad (7th generation) Wi-Fi + Cellular (China mainland)"
+    },
+    "A2270": {
+        "brand": "苹果",
+        "model": "iPad (8th generation) Wi-Fi"
+    },
+    "A2428": {
+        "brand": "苹果",
+        "model": "iPad (8th generation) Wi-Fi + Cellular"
+    },
+    "A2429": {
+        "brand": "苹果",
+        "model": "iPad (8th generation) Wi-Fi + Cellular"
+    },
+    "A2430": {
+        "brand": "苹果",
+        "model": "iPad (8th generation) Wi-Fi + Cellular (China mainland)"
+    },
+    "A2602": {
+        "brand": "苹果",
+        "model": "iPad (9th generation) Wi-Fi"
+    },
+    "A2603": {
+        "brand": "苹果",
+        "model": "iPad (9th generation) Wi-Fi + Cellular"
+    },
+    "A2604": {
+        "brand": "苹果",
+        "model": "iPad (9th generation) Wi-Fi + Cellular"
+    },
+    "A2605": {
+        "brand": "苹果",
+        "model": "iPad (9th generation) Wi-Fi + Cellular (China mainland)"
+    },
+    "A2696": {
+        "brand": "苹果",
+        "model": "iPad (10th generation) Wi-Fi"
+    },
+    "A2757": {
+        "brand": "苹果",
+        "model": "iPad (10th generation) Wi-Fi + Cellular"
+    },
+    "A2777": {
+        "brand": "苹果",
+        "model": "iPad (10th generation) Wi-Fi + Cellular (China mainland)"
+    },
+    "A3162": {
+        "brand": "苹果",
+        "model": "iPad (10th generation) Wi-Fi + Cellular (eSIM, China mainland)"
+    },
+    "A1474": {
+        "brand": "苹果",
+        "model": "iPad Air Wi-Fi"
+    },
+    "A1475": {
+        "brand": "苹果",
+        "model": "iPad Air Wi-Fi + Cellular"
+    },
+    "A1476": {
+        "brand": "苹果",
+        "model": "iPad Air Wi-Fi + Cellular (TD-LTE)"
+    },
+    "A1566": {
+        "brand": "苹果",
+        "model": "iPad Air 2 Wi-Fi"
+    },
+    "A1567": {
+        "brand": "苹果",
+        "model": "iPad Air 2 Wi-Fi + Cellular"
+    },
+    "A2152": {
+        "brand": "苹果",
+        "model": "iPad Air (3rd generation) Wi-Fi"
+    },
+    "A2123": {
+        "brand": "苹果",
+        "model": "iPad Air (3rd generation) Wi-Fi + Cellular"
+    },
+    "A2153": {
+        "brand": "苹果",
+        "model": "iPad Air (3rd generation) Wi-Fi + Cellular"
+    },
+    "A2154": {
+        "brand": "苹果",
+        "model": "iPad Air (3rd generation) Wi-Fi + Cellular (China mainland)"
+    },
+    "A2316": {
+        "brand": "苹果",
+        "model": "iPad Air (4th generation) Wi-Fi"
+    },
+    "A2072": {
+        "brand": "苹果",
+        "model": "iPad Air (4th generation) Wi-Fi + Cellular"
+    },
+    "A2324": {
+        "brand": "苹果",
+        "model": "iPad Air (4th generation) Wi-Fi + Cellular"
+    },
+    "A2325": {
+        "brand": "苹果",
+        "model": "iPad Air (4th generation) Wi-Fi + Cellular (China mainland)"
+    },
+    "A2588": {
+        "brand": "苹果",
+        "model": "iPad Air (5th generation) Wi-Fi"
+    },
+    "A2589": {
+        "brand": "苹果",
+        "model": "iPad Air (5th generation) Wi-Fi + Cellular"
+    },
+    "A2591": {
+        "brand": "苹果",
+        "model": "iPad Air (5th generation) Wi-Fi + Cellular (China mainland)"
+    },
+    "A2902": {
+        "brand": "苹果",
+        "model": "iPad Air (11-inch, M2) Wi-Fi"
+    },
+    "A2903": {
+        "brand": "苹果",
+        "model": "iPad Air (11-inch, M2) Wi-Fi + Cellular"
+    },
+    "A2904": {
+        "brand": "苹果",
+        "model": "iPad Air (11-inch, M2) Wi-Fi + Cellular (China mainland)"
+    },
+    "A2898": {
+        "brand": "苹果",
+        "model": "iPad Air (13-inch, M2) Wi-Fi"
+    },
+    "A2899": {
+        "brand": "苹果",
+        "model": "iPad Air (13-inch, M2) Wi-Fi + Cellular"
+    },
+    "A2900": {
+        "brand": "苹果",
+        "model": "iPad Air (13-inch, M2) Wi-Fi + Cellular (China mainland)"
+    },
+    "A1584": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9-inch) Wi-Fi"
+    },
+    "A1652": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9-inch) Wi-Fi + Cellular"
+    },
+    "A1673": {
+        "brand": "苹果",
+        "model": "iPad Pro (9.7-inch) Wi-Fi"
+    },
+    "A1674": {
+        "brand": "苹果",
+        "model": "iPad Pro (9.7-inch) Wi-Fi + Cellular"
+    },
+    "A1675": {
+        "brand": "苹果",
+        "model": "iPad Pro (9.7-inch) Wi-Fi + Cellular (China mainland)"
+    },
+    "A1670": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9-inch, 2nd generation) Wi-Fi"
+    },
+    "A1671": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9-inch, 2nd generation) Wi-Fi + Cellular"
+    },
+    "A1821": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9-inch, 2nd generation) Wi-Fi + Cellular (China mainland)"
+    },
+    "A1701": {
+        "brand": "苹果",
+        "model": "iPad Pro (10.5-inch) Wi-Fi"
+    },
+    "A1709": {
+        "brand": "苹果",
+        "model": "iPad Pro (10.5-inch) Wi-Fi + Cellular"
+    },
+    "A1852": {
+        "brand": "苹果",
+        "model": "iPad Pro (10.5-inch) Wi-Fi + Cellular (China mainland)"
+    },
+    "A1980": {
+        "brand": "苹果",
+        "model": "iPad Pro (11-inch) Wi-Fi (1TB)"
+    },
+    "A1934": {
+        "brand": "苹果",
+        "model": "iPad Pro (11-inch) Wi-Fi + Cellular (1TB)"
+    },
+    "A2013": {
+        "brand": "苹果",
+        "model": "iPad Pro (11-inch) Wi-Fi + Cellular (1TB)"
+    },
+    "A1979": {
+        "brand": "苹果",
+        "model": "iPad Pro (11-inch) Wi-Fi + Cellular (1TB) (China mainland)"
+    },
+    "A1876": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9-inch, 3rd generation) Wi-Fi (1TB)"
+    },
+    "A1895": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9-inch, 3rd generation) Wi-Fi + Cellular (1TB)"
+    },
+    "A2014": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9-inch, 3rd generation) Wi-Fi + Cellular (1TB)"
+    },
+    "A1983": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9-inch, 3rd generation) Wi-Fi + Cellular (1TB) (China mainland)"
+    },
+    "A2228": {
+        "brand": "苹果",
+        "model": "iPad Pro (11-inch, 2nd generation) Wi-Fi"
+    },
+    "A2068": {
+        "brand": "苹果",
+        "model": "iPad Pro (11-inch, 2nd generation) Wi-Fi + Cellular"
+    },
+    "A2230": {
+        "brand": "苹果",
+        "model": "iPad Pro (11-inch, 2nd generation) Wi-Fi + Cellular"
+    },
+    "A2231": {
+        "brand": "苹果",
+        "model": "iPad Pro (11-inch, 2nd generation) Wi-Fi + Cellular (China mainland)"
+    },
+    "A2229": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9-inch, 4th generation) Wi-Fi"
+    },
+    "A2069": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9-inch, 4th generation) Wi-Fi + Cellular"
+    },
+    "A2232": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9-inch, 4th generation) Wi-Fi + Cellular"
+    },
+    "A2233": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9-inch, 4th generation) Wi-Fi + Cellular (China mainland)"
+    },
+    "A2377": {
+        "brand": "苹果",
+        "model": "iPad Pro (11-inch, 3rd generation) Wi-Fi (16GB RAM)"
+    },
+    "A2459": {
+        "brand": "苹果",
+        "model": "iPad Pro (11-inch, 3rd generation) Wi-Fi + Cellular (16GB RAM)"
+    },
+    "A2301": {
+        "brand": "苹果",
+        "model": "iPad Pro (11-inch, 3rd generation) Wi-Fi + Cellular (16GB RAM, mmWave)"
+    },
+    "A2460": {
+        "brand": "苹果",
+        "model": "iPad Pro (11-inch, 3rd generation) Wi-Fi + Cellular (16GB RAM, China mainland)"
+    },
+    "A2378": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9-inch, 5th generation) Wi-Fi (16GB RAM)"
+    },
+    "A2461": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9-inch, 5th generation) Wi-Fi + Cellular (16GB RAM)"
+    },
+    "A2379": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9-inch, 5th generation) Wi-Fi + Cellular (16GB RAM, mmWave)"
+    },
+    "A2462": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9-inch, 5th generation) Wi-Fi + Cellular (16GB RAM, China mainland)"
+    },
+    "A2759": {
+        "brand": "苹果",
+        "model": "iPad Pro (11-inch, 4th generation) Wi-Fi"
+    },
+    "A2761": {
+        "brand": "苹果",
+        "model": "iPad Pro (11-inch, 4th generation) Wi-Fi + Cellular"
+    },
+    "A2435": {
+        "brand": "苹果",
+        "model": "iPad Pro (11-inch, 4th generation) Wi-Fi + Cellular (mmWave)"
+    },
+    "A2762": {
+        "brand": "苹果",
+        "model": "iPad Pro (11-inch, 4th generation) Wi-Fi + Cellular (China mainland)"
+    },
+    "A2436": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9-inch, 6th generation) Wi-Fi"
+    },
+    "A2437": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9-inch, 6th generation) Wi-Fi + Cellular"
+    },
+    "A2764": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9-inch, 6th generation) Wi-Fi + Cellular (mmWave)"
+    },
+    "A2766": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9-inch, 6th generation) Wi-Fi + Cellular (China mainland)"
+    },
+    "A2836": {
+        "brand": "苹果",
+        "model": "iPad Pro (11-inch, M4) Wi-Fi"
+    },
+    "A2837": {
+        "brand": "苹果",
+        "model": "iPad Pro (11-inch, M4) Wi-Fi + Cellular"
+    },
+    "A3006": {
+        "brand": "苹果",
+        "model": "iPad Pro (11-inch, M4) Wi-Fi + Cellular (China mainland)"
+    },
+    "A2925": {
+        "brand": "苹果",
+        "model": "iPad Pro (13-inch, M4) Wi-Fi"
+    },
+    "A2926": {
+        "brand": "苹果",
+        "model": "iPad Pro (13-inch, M4) Wi-Fi + Cellular"
+    },
+    "A3007": {
+        "brand": "苹果",
+        "model": "iPad Pro (13-inch, M4) Wi-Fi + Cellular (China mainland)"
+    },
+    "A1432": {
+        "brand": "苹果",
+        "model": "iPad mini Wi-Fi"
+    },
+    "A1454": {
+        "brand": "苹果",
+        "model": "iPad mini Wi-Fi + Cellular"
+    },
+    "A1455": {
+        "brand": "苹果",
+        "model": "iPad mini Wi-Fi + Cellular (China mainland)"
+    },
+    "A1489": {
+        "brand": "苹果",
+        "model": "iPad mini 2 Wi-Fi"
+    },
+    "A1490": {
+        "brand": "苹果",
+        "model": "iPad mini 2 Wi-Fi + Cellular"
+    },
+    "A1491": {
+        "brand": "苹果",
+        "model": "iPad mini 2 Wi-Fi + Cellular (TD-LTE)"
+    },
+    "A1599": {
+        "brand": "苹果",
+        "model": "iPad mini 3 Wi-Fi"
+    },
+    "A1600": {
+        "brand": "苹果",
+        "model": "iPad mini 3 Wi-Fi + Cellular"
+    },
+    "A1601": {
+        "brand": "苹果",
+        "model": "iPad mini 3 Wi-Fi + Cellular (TD-LTE)"
+    },
+    "A1538": {
+        "brand": "苹果",
+        "model": "iPad mini 4 Wi-Fi"
+    },
+    "A1550": {
+        "brand": "苹果",
+        "model": "iPad mini 4 Wi-Fi + Cellular"
+    },
+    "A2133": {
+        "brand": "苹果",
+        "model": "iPad mini (5th generation) Wi-Fi"
+    },
+    "A2124": {
+        "brand": "苹果",
+        "model": "iPad mini (5th generation) Wi-Fi + Cellular"
+    },
+    "A2126": {
+        "brand": "苹果",
+        "model": "iPad mini (5th generation) Wi-Fi + Cellular"
+    },
+    "A2125": {
+        "brand": "苹果",
+        "model": "iPad mini (5th generation) Wi-Fi + Cellular (China mainland)"
+    },
+    "A2567": {
+        "brand": "苹果",
+        "model": "iPad mini (6th generation) Wi-Fi"
+    },
+    "A2568": {
+        "brand": "苹果",
+        "model": "iPad mini (6th generation) Wi-Fi + Cellular"
+    },
+    "A2569": {
+        "brand": "苹果",
+        "model": "iPad mini (6th generation) Wi-Fi + Cellular (China mainland)"
+    },
+    "A2993": {
+        "brand": "苹果",
+        "model": "iPad mini (A17 Pro) Wi-Fi"
+    },
+    "A2995": {
+        "brand": "苹果",
+        "model": "iPad mini (A17 Pro) Wi-Fi + Cellular"
+    },
+    "A2996": {
+        "brand": "苹果",
+        "model": "iPad mini (A17 Pro) Wi-Fi + Cellular (China mainland)"
+    },
+    "A1553": {
+        "brand": "苹果",
+        "model": "Apple Watch (1st generation, 38mm case)"
+    },
+    "A1554": {
+        "brand": "苹果",
+        "model": "Apple Watch (1st generation, 42mm case)"
+    },
+    "A1802": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 1 (38mm case)"
+    },
+    "A1803": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 1 (42mm case)"
+    },
+    "A1757": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 2 (38mm case)"
+    },
+    "A1816": {
+        "brand": "苹果",
+        "model": "Apple Watch Edition (38mm case)"
+    },
+    "A1758": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 2 (42mm case)"
+    },
+    "A1817": {
+        "brand": "苹果",
+        "model": "Apple Watch Edition (42mm case)"
+    },
+    "A1860": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 3 (GPS + Cellular) (38mm case) (North America)"
+    },
+    "A1889": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 3 (GPS + Cellular) (38mm case) (Europe and Asia Pacific)"
+    },
+    "A1890": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 3 (GPS + Cellular) (38mm case) (China mainland)"
+    },
+    "A1861": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 3 (GPS + Cellular) (42mm case) (North America)"
+    },
+    "A1891": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 3 (GPS + Cellular) (42mm case) (Europe and Asia Pacific)"
+    },
+    "A1892": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 3 (GPS + Cellular) (42mm case) (China mainland)"
+    },
+    "A1858": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 3 (GPS) (38mm case)"
+    },
+    "A1859": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 3 (GPS) (42mm case)"
+    },
+    "A1977": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 4 (GPS) (40mm case)"
+    },
+    "A1978": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 4 (GPS) (44mm case)"
+    },
+    "A1975": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 4 (GPS + Cellular) (40mm case) (North America)"
+    },
+    "A2007": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 4 (GPS + Cellular) (40mm case) (Europe, Asia Pacific, and China)"
+    },
+    "A1976": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 4 (GPS + Cellular) (44mm case) (North America)"
+    },
+    "A2008": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 4 (GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)"
+    },
+    "A2092": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 5 (GPS) (40mm case)"
+    },
+    "A2093": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 5 (GPS) (44mm case)"
+    },
+    "A2094": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 5 (GPS + Cellular) (40mm case) (North America)"
+    },
+    "A2156": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 5 (GPS + Cellular) (40mm case) (Europe, Asia Pacific, and China)"
+    },
+    "A2095": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 5 (GPS + Cellular) (44mm case) (North America)"
+    },
+    "A2157": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 5 (GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)"
+    },
+    "A2351": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (GPS) (40mm case)"
+    },
+    "A2352": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (GPS) (44mm case)"
+    },
+    "A2353": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (GPS + Cellular) (40mm case) (North America)"
+    },
+    "A2355": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (GPS + Cellular) (40mm case) (Europe, Asia Pacific, and China)"
+    },
+    "A2354": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (GPS + Cellular) (44mm case) (North America)"
+    },
+    "A2356": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)"
+    },
+    "A2291": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 6 (GPS) (40mm case)"
+    },
+    "A2292": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 6 (GPS) (44mm case)"
+    },
+    "A2293": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 6 (GPS + Cellular) (40mm case) (North America)"
+    },
+    "A2375": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 6 (GPS + Cellular) (40mm case) (Europe, Asia Pacific, and China)"
+    },
+    "A2294": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 6 (GPS + Cellular) (44mm case) (North America)"
+    },
+    "A2376": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 6 (GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)"
+    },
+    "A2473": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 7 (GPS) (41mm case)"
+    },
+    "A2474": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 7 (GPS) (45mm case)"
+    },
+    "A2475": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 7 (GPS + Cellular) (41mm case) (North America)"
+    },
+    "A2476": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 7 (GPS + Cellular) (41mm case) (Europe, Asia Pacific, and China)"
+    },
+    "A2477": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 7 (GPS + Cellular) (45mm case) (North America)"
+    },
+    "A2478": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 7 (GPS + Cellular) (45mm case) (Europe, Asia Pacific, and China)"
+    },
+    "A2722": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (2nd generation) (GPS) (40mm case)"
+    },
+    "A2723": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (2nd generation) (GPS) (44mm case)"
+    },
+    "A2726": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (2nd generation) (GPS + Cellular) (40mm case) (North America)"
+    },
+    "A2855": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (2nd generation) (GPS + Cellular) (40mm case) (China mainland, Hong Kong, Macao)"
+    },
+    "A2725": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (2nd generation) (GPS + Cellular) (40mm case) (Rest of the world)"
+    },
+    "A2727": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (2nd generation) (GPS + Cellular) (44mm case) (North America)"
+    },
+    "A2856": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (2nd generation) (GPS + Cellular) (44mm case) (China mainland, Hong Kong, Macao)"
+    },
+    "A2724": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (2nd generation) (GPS + Cellular) (44mm case) (Rest of the world)"
+    },
+    "A2770": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 8 (GPS) (41mm case)"
+    },
+    "A2771": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 8 (GPS) (45mm case)"
+    },
+    "A2772": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 8 (GPS + Cellular) (41mm case) (North America)"
+    },
+    "A2857": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 8 (GPS + Cellular) (41mm case) (China mainland, Hong Kong, Macao)"
+    },
+    "A2773": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 8 (GPS + Cellular) (41mm case) (Rest of the world)"
+    },
+    "A2774": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 8 (GPS + Cellular) (45mm case) (North America)"
+    },
+    "A2858": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 8 (GPS + Cellular) (45mm case) (China mainland, Hong Kong, Macao)"
+    },
+    "A2775": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 8 (GPS + Cellular) (45mm case) (Rest of the world)"
+    },
+    "A2622": {
+        "brand": "苹果",
+        "model": "Apple Watch Ultra (North America)"
+    },
+    "A2859": {
+        "brand": "苹果",
+        "model": "Apple Watch Ultra (China mainland, Hong Kong, Macao)"
+    },
+    "A2684": {
+        "brand": "苹果",
+        "model": "Apple Watch Ultra (Rest of the world)"
+    },
+    "A2978": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 9 (GPS) (41mm case)"
+    },
+    "A2980": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 9 (GPS) (45mm case)"
+    },
+    "A2982": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 9 (GPS + Cellular) (41mm case) (Global)"
+    },
+    "A2983": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 9 (GPS + Cellular) (41mm case) (China mainland, Hong Kong, Macao)"
+    },
+    "A2984": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 9 (GPS + Cellular) (45mm case) (Global)"
+    },
+    "A2985": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 9 (GPS + Cellular) (45mm case) (China mainland, Hong Kong, Macao)"
+    },
+    "A2986": {
+        "brand": "苹果",
+        "model": "Apple Watch Ultra 2 (Global)"
+    },
+    "A2987": {
+        "brand": "苹果",
+        "model": "Apple Watch Ultra 2 (China mainland, Hong Kong, Macao)"
+    },
+    "A2997": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 10 (GPS) (42mm case) (Global)"
+    },
+    "A2998": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 10 (GPS) (42mm case) (China mainland, Indonesia)"
+    },
+    "A2999": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 10 (GPS) (46mm case) (Global)"
+    },
+    "A3000": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 10 (GPS) (46mm case) (China mainland, Indonesia)"
+    },
+    "A3001": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 10 (GPS + Cellular) (42mm case) (Global)"
+    },
+    "A3002": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 10 (GPS + Cellular) (42mm case) (China mainland, Indonesia)"
+    },
+    "A3003": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 10 (GPS + Cellular) (46mm case) (Global)"
+    },
+    "A3206": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 10 (GPS + Cellular) (46mm case) (China mainland, Indonesia)"
+    },
+    "A1218": {
+        "brand": "苹果",
+        "model": "Apple TV (1st generation)"
+    },
+    "A1378": {
+        "brand": "苹果",
+        "model": "Apple TV (2nd generation)"
+    },
+    "A1427": {
+        "brand": "苹果",
+        "model": "Apple TV (3rd generation)"
+    },
+    "A1469": {
+        "brand": "苹果",
+        "model": "Apple TV (3rd generation) (Rev A)"
+    },
+    "A1625": {
+        "brand": "苹果",
+        "model": "Apple TV HD"
+    },
+    "A1842": {
+        "brand": "苹果",
+        "model": "Apple TV 4K"
+    },
+    "A2169": {
+        "brand": "苹果",
+        "model": "Apple TV 4K (2nd generation)"
+    },
+    "A2737": {
+        "brand": "苹果",
+        "model": "Apple TV 4K (3rd generation) Wi-Fi"
+    },
+    "A2843": {
+        "brand": "苹果",
+        "model": "Apple TV 4K (3rd generation) Wi-Fi + Ethernet"
+    },
+    "A2117": {
+        "brand": "苹果",
+        "model": "Apple Vision Pro"
+    },
+    "A1213": {
+        "brand": "苹果",
+        "model": "iPod touch (1st generation)"
+    },
+    "A1288": {
+        "brand": "苹果",
+        "model": "iPod touch (2nd generation)"
+    },
+    "A1319": {
+        "brand": "苹果",
+        "model": "iPod touch (2nd generation) (China mainland)"
+    },
+    "A1318": {
+        "brand": "苹果",
+        "model": "iPod touch (3rd generation)"
+    },
+    "A1367": {
+        "brand": "苹果",
+        "model": "iPod touch (4th generation)"
+    },
+    "A1421": {
+        "brand": "苹果",
+        "model": "iPod touch (5th generation)"
+    },
+    "A1509": {
+        "brand": "苹果",
+        "model": "iPod touch (5th generation) (16GB)"
+    },
+    "A1574": {
+        "brand": "苹果",
+        "model": "iPod touch (6th generation)"
+    },
+    "A2178": {
+        "brand": "苹果",
+        "model": "iPod touch (7th generation)"
+    }
+}

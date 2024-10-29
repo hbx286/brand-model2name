@@ -1,0 +1,370 @@
+{
+    "G-2PW4100": {
+        "brand": "谷歌",
+        "model": "Pixel (North America)"
+    },
+    "G-2PW4200": {
+        "brand": "谷歌",
+        "model": "Pixel (Rest of the world)"
+    },
+    "G-2PW2100": {
+        "brand": "谷歌",
+        "model": "Pixel XL (North America)"
+    },
+    "G-2PW2200": {
+        "brand": "谷歌",
+        "model": "Pixel XL (Rest of the world)"
+    },
+    "G011A": {
+        "brand": "谷歌",
+        "model": "Pixel 2"
+    },
+    "G011C": {
+        "brand": "谷歌",
+        "model": "Pixel 2 XL"
+    },
+    "G013A": {
+        "brand": "谷歌",
+        "model": "Pixel 3"
+    },
+    "G013B": {
+        "brand": "谷歌",
+        "model": "Pixel 3 (Japan)"
+    },
+    "G013C": {
+        "brand": "谷歌",
+        "model": "Pixel 3 XL"
+    },
+    "G013D": {
+        "brand": "谷歌",
+        "model": "Pixel 3 XL (Japan)"
+    },
+    "G020E": {
+        "brand": "谷歌",
+        "model": "Pixel 3a (Verizon)"
+    },
+    "G020F": {
+        "brand": "谷歌",
+        "model": "Pixel 3a (UK, Europe, and APAC)"
+    },
+    "G020G": {
+        "brand": "谷歌",
+        "model": "Pixel 3a (North America)"
+    },
+    "G020H": {
+        "brand": "谷歌",
+        "model": "Pixel 3a (Japan)"
+    },
+    "G020A": {
+        "brand": "谷歌",
+        "model": "Pixel 3a XL (Verizon)"
+    },
+    "G020B": {
+        "brand": "谷歌",
+        "model": "Pixel 3a XL (UK, Europe, and APAC)"
+    },
+    "G020C": {
+        "brand": "谷歌",
+        "model": "Pixel 3a XL (North America)"
+    },
+    "G020D": {
+        "brand": "谷歌",
+        "model": "Pixel 3a XL (Japan)"
+    },
+    "G020I": {
+        "brand": "谷歌",
+        "model": "Pixel 4 (North America, TW)"
+    },
+    "G020M": {
+        "brand": "谷歌",
+        "model": "Pixel 4 (Rest of the world)"
+    },
+    "G020N": {
+        "brand": "谷歌",
+        "model": "Pixel 4 (Japan)"
+    },
+    "G020J": {
+        "brand": "谷歌",
+        "model": "Pixel 4 XL (North America, TW)"
+    },
+    "G020P": {
+        "brand": "谷歌",
+        "model": "Pixel 4 XL (Rest of the world)"
+    },
+    "G020Q": {
+        "brand": "谷歌",
+        "model": "Pixel 4 XL (Japan)"
+    },
+    "G025J": {
+        "brand": "谷歌",
+        "model": "Pixel 4a (North America, TW)"
+    },
+    "G025N": {
+        "brand": "谷歌",
+        "model": "Pixel 4a (Rest of the world)"
+    },
+    "G025M": {
+        "brand": "谷歌",
+        "model": "Pixel 4a (Japan)"
+    },
+    "G025E": {
+        "brand": "谷歌",
+        "model": "Pixel 4a 5G (North America, TW)"
+    },
+    "G6QU3": {
+        "brand": "谷歌",
+        "model": "Pixel 4a 5G (Verizon)"
+    },
+    "G025I": {
+        "brand": "谷歌",
+        "model": "Pixel 4a 5G (Rest of the world)"
+    },
+    "G025H": {
+        "brand": "谷歌",
+        "model": "Pixel 4a 5G (Japan)"
+    },
+    "GD1YQ": {
+        "brand": "谷歌",
+        "model": "Pixel 5 (US)"
+    },
+    "GTT9Q": {
+        "brand": "谷歌",
+        "model": "Pixel 5 (Rest of the world)"
+    },
+    "G5NZ6": {
+        "brand": "谷歌",
+        "model": "Pixel 5 (Japan)"
+    },
+    "G1F8F": {
+        "brand": "谷歌",
+        "model": "Pixel 5a 5G (US)"
+    },
+    "G4S1M": {
+        "brand": "谷歌",
+        "model": "Pixel 5a 5G (Japan)"
+    },
+    "G9S9B": {
+        "brand": "谷歌",
+        "model": "Pixel 6 (US, mmWave)"
+    },
+    "GB7N6": {
+        "brand": "谷歌",
+        "model": "Pixel 6 (Rest of the world)"
+    },
+    "GR1YH": {
+        "brand": "谷歌",
+        "model": "Pixel 6 (Japan)"
+    },
+    "G8VOU": {
+        "brand": "谷歌",
+        "model": "Pixel 6 Pro (US, AU) (mmWave)"
+    },
+    "GLUOG": {
+        "brand": "谷歌",
+        "model": "Pixel 6 Pro (Rest of the world)"
+    },
+    "GF5KQ": {
+        "brand": "谷歌",
+        "model": "Pixel 6 Pro (Japan)"
+    },
+    "GB62Z": {
+        "brand": "谷歌",
+        "model": "Pixel 6a (US, mmWave)"
+    },
+    "GX7AS": {
+        "brand": "谷歌",
+        "model": "Pixel 6a (North America, TW)"
+    },
+    "G1AZG": {
+        "brand": "谷歌",
+        "model": "Pixel 6a (Rest of the world)"
+    },
+    "GB17L": {
+        "brand": "谷歌",
+        "model": "Pixel 6a (Japan)"
+    },
+    "GQML3": {
+        "brand": "谷歌",
+        "model": "Pixel 7 (US, mmWave)"
+    },
+    "GVU6C": {
+        "brand": "谷歌",
+        "model": "Pixel 7 (Rest of the world)"
+    },
+    "G03Z5": {
+        "brand": "谷歌",
+        "model": "Pixel 7 (Japan)"
+    },
+    "GE2AE": {
+        "brand": "谷歌",
+        "model": "Pixel 7 Pro (US, AU) (mmWave)"
+    },
+    "GP4BC": {
+        "brand": "谷歌",
+        "model": "Pixel 7 Pro (Rest of the world)"
+    },
+    "GFE4J": {
+        "brand": "谷歌",
+        "model": "Pixel 7 Pro (Japan)"
+    },
+    "G0DZQ": {
+        "brand": "谷歌",
+        "model": "Pixel 7a (mmWave)"
+    },
+    "GWKK3": {
+        "brand": "谷歌",
+        "model": "Pixel 7a (North America, EU)"
+    },
+    "GHL1X": {
+        "brand": "谷歌",
+        "model": "Pixel 7a (Global)"
+    },
+    "G82U8": {
+        "brand": "谷歌",
+        "model": "Pixel 7a (Japan)"
+    },
+    "GKWS6": {
+        "brand": "谷歌",
+        "model": "Pixel 8 (mmWave)"
+    },
+    "G9BQD": {
+        "brand": "谷歌",
+        "model": "Pixel 8 (US, Sub 6GHz)"
+    },
+    "GPJ41": {
+        "brand": "谷歌",
+        "model": "Pixel 8 (Global)"
+    },
+    "GZPFO": {
+        "brand": "谷歌",
+        "model": "Pixel 8 (Japan)"
+    },
+    "G1MNW": {
+        "brand": "谷歌",
+        "model": "Pixel 8 Pro (mmWave)"
+    },
+    "GC3VE": {
+        "brand": "谷歌",
+        "model": "Pixel 8 Pro (Global)"
+    },
+    "GE9DP": {
+        "brand": "谷歌",
+        "model": "Pixel 8 Pro (Japan)"
+    },
+    "G8HNN": {
+        "brand": "谷歌",
+        "model": "Pixel 8a (mmWave)"
+    },
+    "GKV4X": {
+        "brand": "谷歌",
+        "model": "Pixel 8a (North America, Sub 6GHz)"
+    },
+    "G6GPR": {
+        "brand": "谷歌",
+        "model": "Pixel 8a (Global)"
+    },
+    "G576D": {
+        "brand": "谷歌",
+        "model": "Pixel 8a (Japan)"
+    },
+    "G9FPL": {
+        "brand": "谷歌",
+        "model": "Pixel Fold (US, EU)"
+    },
+    "G0B96": {
+        "brand": "谷歌",
+        "model": "Pixel Fold (Japan)"
+    },
+    "G2YBB": {
+        "brand": "谷歌",
+        "model": "Pixel 9 (US, mmWave)"
+    },
+    "GUR25": {
+        "brand": "谷歌",
+        "model": "Pixel 9 (Global)"
+    },
+    "G1B60": {
+        "brand": "谷歌",
+        "model": "Pixel 9 (Japan)"
+    },
+    "GR83Y": {
+        "brand": "谷歌",
+        "model": "Pixel 9 Pro (US, mmWave)"
+    },
+    "GEC77": {
+        "brand": "谷歌",
+        "model": "Pixel 9 Pro (Global)"
+    },
+    "GWVK6": {
+        "brand": "谷歌",
+        "model": "Pixel 9 Pro (Japan)"
+    },
+    "GGX8B": {
+        "brand": "谷歌",
+        "model": "Pixel 9 Pro XL (US, mmWave)"
+    },
+    "GZC4K": {
+        "brand": "谷歌",
+        "model": "Pixel 9 Pro XL (Global)"
+    },
+    "GQ57S": {
+        "brand": "谷歌",
+        "model": "Pixel 9 Pro XL (Japan)"
+    },
+    "GGH2X": {
+        "brand": "谷歌",
+        "model": "Pixel 9 Pro Fold (Global)"
+    },
+    "GC15S": {
+        "brand": "谷歌",
+        "model": "Pixel 9 Pro Fold (Japan)"
+    },
+    "C1502W": {
+        "brand": "谷歌",
+        "model": "Pixel C"
+    },
+    "GTU8P": {
+        "brand": "谷歌",
+        "model": "Pixel Tablet"
+    },
+    "GQF4C": {
+        "brand": "谷歌",
+        "model": "Pixel Watch Bluetooth & Wi-Fi"
+    },
+    "GWT9R": {
+        "brand": "谷歌",
+        "model": "Pixel Watch LTE (US)"
+    },
+    "GBZ4S": {
+        "brand": "谷歌",
+        "model": "Pixel Watch LTE (Global)"
+    },
+    "G4TSL": {
+        "brand": "谷歌",
+        "model": "Pixel Watch 2 Bluetooth & Wi-Fi"
+    },
+    "GD2WG": {
+        "brand": "谷歌",
+        "model": "Pixel Watch 2 LTE (US)"
+    },
+    "GC3G8": {
+        "brand": "谷歌",
+        "model": "Pixel Watch 2 LTE (Global)"
+    },
+    "GG3HH": {
+        "brand": "谷歌",
+        "model": "Pixel Watch 3 Bluetooth & Wi-Fi (41mm)"
+    },
+    "GBDU9": {
+        "brand": "谷歌",
+        "model": "Pixel Watch 3 LTE (41mm)"
+    },
+    "GGE4J": {
+        "brand": "谷歌",
+        "model": "Pixel Watch 3 Bluetooth & Wi-Fi (45mm)"
+    },
+    "GRY0E": {
+        "brand": "谷歌",
+        "model": "Pixel Watch 3 LTE (45mm)"
+    }
+}

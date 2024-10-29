@@ -1,0 +1,1210 @@
+{
+    "GT-I9000": {
+        "brand": "三星",
+        "model": "Galaxy S 公开版"
+    },
+    "GT-I9008": {
+        "brand": "三星",
+        "model": "Galaxy S 移动定制版"
+    },
+    "GT-I9008L": {
+        "brand": "三星",
+        "model": "Galaxy S 移动定制版"
+    },
+    "GT-I9018": {
+        "brand": "三星",
+        "model": "Galaxy S 移动定制版"
+    },
+    "SCH-i909": {
+        "brand": "三星",
+        "model": "Galaxy S 电信定制版"
+    },
+    "GT-I9100": {
+        "brand": "三星",
+        "model": "Galaxy S2 (Exynos)"
+    },
+    "GT-I9100G": {
+        "brand": "三星",
+        "model": "Galaxy S2 (德州仪器)"
+    },
+    "GT-I9108": {
+        "brand": "三星",
+        "model": "Galaxy S2 移动定制版"
+    },
+    "SCH-I919": {
+        "brand": "三星",
+        "model": "Galaxy S Duos 电信定制版"
+    },
+    "GT-I9300": {
+        "brand": "三星",
+        "model": "Galaxy S3 公开版"
+    },
+    "GT-I9308": {
+        "brand": "三星",
+        "model": "Galaxy S3 移动定制版"
+    },
+    "SCH-I939": {
+        "brand": "三星",
+        "model": "Galaxy S3 电信定制版"
+    },
+    "SCH-I939D": {
+        "brand": "三星",
+        "model": "Galaxy S3 电信双卡定制版"
+    },
+    "GT-I9300I": {
+        "brand": "三星",
+        "model": "Galaxy S3 Neo+ 公开版"
+    },
+    "GT-I9308I": {
+        "brand": "三星",
+        "model": "Galaxy S3 Neo+ 移动定制版"
+    },
+    "SCH-I939I": {
+        "brand": "三星",
+        "model": "Galaxy S3 Neo+ 电信定制版"
+    },
+    "GT-I8190N": {
+        "brand": "三星",
+        "model": "Galaxy S3 Mini"
+    },
+    "GT-I9500": {
+        "brand": "三星",
+        "model": "Galaxy S4 公开版"
+    },
+    "GT-I9502": {
+        "brand": "三星",
+        "model": "Galaxy S4 联通定制版"
+    },
+    "GT-I9508": {
+        "brand": "三星",
+        "model": "Galaxy S4 移动定制版"
+    },
+    "SCH-I959": {
+        "brand": "三星",
+        "model": "Galaxy S4 电信定制版"
+    },
+    "GT-I9507V": {
+        "brand": "三星",
+        "model": "Galaxy S4 联通 4G 定制版"
+    },
+    "GT-I9508V": {
+        "brand": "三星",
+        "model": "Galaxy S4 移动 4G 定制版"
+    },
+    "SM-C101": {
+        "brand": "三星",
+        "model": "Galaxy S4 zoom"
+    },
+    "SM-G9009D": {
+        "brand": "三星",
+        "model": "Galaxy S5 电信 3G 双卡版"
+    },
+    "SM-G9006V": {
+        "brand": "三星",
+        "model": "Galaxy S5 联通 4G 单卡版"
+    },
+    "SM-G9008V": {
+        "brand": "三星",
+        "model": "Galaxy S5 移动 4G 单卡版"
+    },
+    "SM-G9006W": {
+        "brand": "三星",
+        "model": "Galaxy S5 联通 4G 双卡版"
+    },
+    "SM-G9008W": {
+        "brand": "三星",
+        "model": "Galaxy S5 移动 4G 双卡版"
+    },
+    "SM-G9009W": {
+        "brand": "三星",
+        "model": "Galaxy S5 电信 4G 双卡版"
+    },
+    "SM-G9200": {
+        "brand": "三星",
+        "model": "Galaxy S6 全网通版"
+    },
+    "SM-G9208": {
+        "brand": "三星",
+        "model": "Galaxy S6 移动定制版"
+    },
+    "SM-G9209": {
+        "brand": "三星",
+        "model": "Galaxy S6 电信定制版"
+    },
+    "SM-G9250": {
+        "brand": "三星",
+        "model": "Galaxy S6 edge"
+    },
+    "SM-G9280": {
+        "brand": "三星",
+        "model": "Galaxy S6 edge+"
+    },
+    "SM-G9300": {
+        "brand": "三星",
+        "model": "Galaxy S7 全网通版"
+    },
+    "SM-G9308": {
+        "brand": "三星",
+        "model": "Galaxy S7 移动定制版"
+    },
+    "SM-G9350": {
+        "brand": "三星",
+        "model": "Galaxy S7 edge"
+    },
+    "SM-G9500": {
+        "brand": "三星",
+        "model": "Galaxy S8 全网通版"
+    },
+    "SM-G9508": {
+        "brand": "三星",
+        "model": "Galaxy S8 4G+"
+    },
+    "SM-G9550": {
+        "brand": "三星",
+        "model": "Galaxy S8+"
+    },
+    "SM-G9600/DS": {
+        "brand": "三星",
+        "model": "Galaxy S9 全网通版"
+    },
+    "SM-G9608/DS": {
+        "brand": "三星",
+        "model": "Galaxy S9 4G+"
+    },
+    "SM-G9650/DS": {
+        "brand": "三星",
+        "model": "Galaxy S9+"
+    },
+    "SM-G8750": {
+        "brand": "三星",
+        "model": "Galaxy S 轻奢版"
+    },
+    "SM-G9700": {
+        "brand": "三星",
+        "model": "Galaxy S10e 全网通版"
+    },
+    "SM-G9708": {
+        "brand": "三星",
+        "model": "Galaxy S10e 4G+"
+    },
+    "SM-G9730": {
+        "brand": "三星",
+        "model": "Galaxy S10 全网通版"
+    },
+    "SM-G9738": {
+        "brand": "三星",
+        "model": "Galaxy S10 4G+"
+    },
+    "SM-G9750": {
+        "brand": "三星",
+        "model": "Galaxy S10+ 全网通版"
+    },
+    "SM-G9758": {
+        "brand": "三星",
+        "model": "Galaxy S10+ 4G+"
+    },
+    "SM-G9810": {
+        "brand": "三星",
+        "model": "Galaxy S20 5G"
+    },
+    "SM-G9860": {
+        "brand": "三星",
+        "model": "Galaxy S20+ 5G"
+    },
+    "SM-G9880": {
+        "brand": "三星",
+        "model": "Galaxy S20 Ultra 5G"
+    },
+    "SM-G7810": {
+        "brand": "三星",
+        "model": "Galaxy S20 FE 5G"
+    },
+    "SM-G9910": {
+        "brand": "三星",
+        "model": "Galaxy S21 5G"
+    },
+    "SM-G9960": {
+        "brand": "三星",
+        "model": "Galaxy S21+ 5G"
+    },
+    "SM-G9980": {
+        "brand": "三星",
+        "model": "Galaxy S21 Ultra 5G"
+    },
+    "SM-G9900": {
+        "brand": "三星",
+        "model": "Galaxy S21 FE 5G"
+    },
+    "SM-S9010": {
+        "brand": "三星",
+        "model": "Galaxy S22"
+    },
+    "SM-S9060": {
+        "brand": "三星",
+        "model": "Galaxy S22+"
+    },
+    "SM-S9080": {
+        "brand": "三星",
+        "model": "Galaxy S22 Ultra"
+    },
+    "SM-S9110": {
+        "brand": "三星",
+        "model": "Galaxy S23"
+    },
+    "SM-S9160": {
+        "brand": "三星",
+        "model": "Galaxy S23+"
+    },
+    "SM-S9180": {
+        "brand": "三星",
+        "model": "Galaxy S23 Ultra"
+    },
+    "SM-S7110": {
+        "brand": "三星",
+        "model": "Galaxy S23 FE"
+    },
+    "SM-S9210": {
+        "brand": "三星",
+        "model": "Galaxy S24"
+    },
+    "SM-S9260": {
+        "brand": "三星",
+        "model": "Galaxy S24+"
+    },
+    "SM-S9280": {
+        "brand": "三星",
+        "model": "Galaxy S24 Ultra"
+    },
+    "GT-I9220": {
+        "brand": "三星",
+        "model": "Galaxy Note 公开版"
+    },
+    "GT-I9228": {
+        "brand": "三星",
+        "model": "Galaxy Note 移动定制版"
+    },
+    "SCH-I889": {
+        "brand": "三星",
+        "model": "Galaxy Note 电信定制版"
+    },
+    "GT-N7100": {
+        "brand": "三星",
+        "model": "Galaxy Note2 公开版"
+    },
+    "GT-N7102": {
+        "brand": "三星",
+        "model": "Galaxy Note2 联通定制版"
+    },
+    "GT-N7102i": {
+        "brand": "三星",
+        "model": "Galaxy Note2 联通定制版"
+    },
+    "GT-N7108": {
+        "brand": "三星",
+        "model": "Galaxy Note2 移动定制版"
+    },
+    "GT-N7108D": {
+        "brand": "三星",
+        "model": "Galaxy Note2 移动 4G 定制版"
+    },
+    "SCH-N719": {
+        "brand": "三星",
+        "model": "Galaxy Note2 电信定制版"
+    },
+    "SM-N9002": {
+        "brand": "三星",
+        "model": "Galaxy Note3 联通定制版"
+    },
+    "SM-N9006": {
+        "brand": "三星",
+        "model": "Galaxy Note3 公开版"
+    },
+    "SM-N9008": {
+        "brand": "三星",
+        "model": "Galaxy Note3 移动定制版"
+    },
+    "SM-N9008V": {
+        "brand": "三星",
+        "model": "Galaxy Note3 移动 4G 定制版"
+    },
+    "SM-N9008S": {
+        "brand": "三星",
+        "model": "Galaxy Note3 4G 公开版"
+    },
+    "SM-N9009": {
+        "brand": "三星",
+        "model": "Galaxy Note3 电信定制版"
+    },
+    "SM-N7506V": {
+        "brand": "三星",
+        "model": "Galaxy Note3 Lite 联通定制版"
+    },
+    "SM-N7508V": {
+        "brand": "三星",
+        "model": "Galaxy Note3 Lite 移动定制版"
+    },
+    "SM-N7509V": {
+        "brand": "三星",
+        "model": "Galaxy Note3 Lite 电信定制版"
+    },
+    "SM-N9100": {
+        "brand": "三星",
+        "model": "Galaxy Note4 公开版"
+    },
+    "SM-N9106W": {
+        "brand": "三星",
+        "model": "Galaxy Note4 联通定制版"
+    },
+    "SM-N9108V": {
+        "brand": "三星",
+        "model": "Galaxy Note4 移动定制版"
+    },
+    "SM-N9109W": {
+        "brand": "三星",
+        "model": "Galaxy Note4 电信定制版"
+    },
+    "SM-N9150": {
+        "brand": "三星",
+        "model": "Galaxy Note Edge"
+    },
+    "SM-N9200": {
+        "brand": "三星",
+        "model": "Galaxy Note5 全网通版"
+    },
+    "SM-N9208": {
+        "brand": "三星",
+        "model": "Galaxy Note5 移动定制版"
+    },
+    "SM-N9300": {
+        "brand": "三星",
+        "model": "Galaxy Note7"
+    },
+    "SM-N9500": {
+        "brand": "三星",
+        "model": "Galaxy Note8 全网通版"
+    },
+    "SM-N9508": {
+        "brand": "三星",
+        "model": "Galaxy Note8 4G+"
+    },
+    "SM-N9600": {
+        "brand": "三星",
+        "model": "Galaxy Note9 全网通版"
+    },
+    "SM-N9608": {
+        "brand": "三星",
+        "model": "Galaxy Note9 4G+"
+    },
+    "SM-N9700": {
+        "brand": "三星",
+        "model": "Galaxy Note10"
+    },
+    "SM-N9760": {
+        "brand": "三星",
+        "model": "Galaxy Note10+ 5G"
+    },
+    "SM-N9810": {
+        "brand": "三星",
+        "model": "Galaxy Note20 5G"
+    },
+    "SM-N9860": {
+        "brand": "三星",
+        "model": "Galaxy Note20 Ultra 5G"
+    },
+    "SM-F9000": {
+        "brand": "三星",
+        "model": "Galaxy Fold"
+    },
+    "SM-F9160": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold2 5G"
+    },
+    "SM-F9260": {
+        "brand": "三星",
+        "model": " Galaxy Z Fold3 5G"
+    },
+    "SM-F9360": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold4"
+    },
+    "SM-F9460": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold5"
+    },
+    "SM-F9560": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold6"
+    },
+    "SM-F7000": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip"
+    },
+    "SM-F7070": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip 5G"
+    },
+    "SM-F7110": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip3 5G"
+    },
+    "SM-F7210": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip4"
+    },
+    "SM-F7310": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip5"
+    },
+    "SM-F7410": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip6"
+    },
+    "SM-A3000": {
+        "brand": "三星",
+        "model": "Galaxy A3 公开版"
+    },
+    "SM-A3009": {
+        "brand": "三星",
+        "model": "Galaxy A3 电信定制版"
+    },
+    "SM-A5000": {
+        "brand": "三星",
+        "model": "Galaxy A5 公开版"
+    },
+    "SM-A5009": {
+        "brand": "三星",
+        "model": "Galaxy A5 电信定制版"
+    },
+    "SM-A7000": {
+        "brand": "三星",
+        "model": "Galaxy A7 公开版"
+    },
+    "SM-A7009": {
+        "brand": "三星",
+        "model": "Galaxy A7 电信定制版"
+    },
+    "SM-A8000": {
+        "brand": "三星",
+        "model": "Galaxy A8"
+    },
+    "SM-A5100": {
+        "brand": "三星",
+        "model": "Galaxy A5 (2016) 全网通版"
+    },
+    "SM-A5108": {
+        "brand": "三星",
+        "model": "Galaxy A5 (2016) 移动定制疾速版"
+    },
+    "SM-A7100": {
+        "brand": "三星",
+        "model": "Galaxy A7 (2016) 全网通版"
+    },
+    "SM-A7108": {
+        "brand": "三星",
+        "model": "Galaxy A7 (2016) 移动定制疾速版"
+    },
+    "SM-A9000": {
+        "brand": "三星",
+        "model": "Galaxy A9 (2016)"
+    },
+    "SM-A9100": {
+        "brand": "三星",
+        "model": "Galaxy A9 高配版"
+    },
+    "SM-G8850": {
+        "brand": "三星",
+        "model": "Galaxy A9 Star 全网通版"
+    },
+    "SM-G8858": {
+        "brand": "三星",
+        "model": "Galaxy A9 Star 4G+"
+    },
+    "SM-A6050": {
+        "brand": "三星",
+        "model": "Galaxy A9 Star Lite 全网通版"
+    },
+    "SM-A6058": {
+        "brand": "三星",
+        "model": "Galaxy A9 Star Lite 4G+"
+    },
+    "SM-G6200": {
+        "brand": "三星",
+        "model": "Galaxy A6s"
+    },
+    "SM-G8870": {
+        "brand": "三星",
+        "model": "Galaxy A8s"
+    },
+    "SM-A9200": {
+        "brand": "三星",
+        "model": "Galaxy A9s"
+    },
+    "SM-A2070": {
+        "brand": "三星",
+        "model": "Galaxy A20s"
+    },
+    "SM-A3050": {
+        "brand": "三星",
+        "model": "Galaxy A40s 全网通版"
+    },
+    "SM-A3058": {
+        "brand": "三星",
+        "model": "Galaxy A40s 4G+"
+    },
+    "SM-A5070": {
+        "brand": "三星",
+        "model": "Galaxy A50s"
+    },
+    "SM-A6060": {
+        "brand": "三星",
+        "model": "Galaxy A60"
+    },
+    "SM-A7050": {
+        "brand": "三星",
+        "model": "Galaxy A70"
+    },
+    "SM-A7070": {
+        "brand": "三星",
+        "model": "Galaxy A70s"
+    },
+    "SM-A8050": {
+        "brand": "三星",
+        "model": "Galaxy A80"
+    },
+    "SM-A9080": {
+        "brand": "三星",
+        "model": "Galaxy A90 5G"
+    },
+    "SM-A5160": {
+        "brand": "三星",
+        "model": "Galaxy A51 5G"
+    },
+    "SM-A7160": {
+        "brand": "三星",
+        "model": "Galaxy A71 5G"
+    },
+    "SM-A5260": {
+        "brand": "三星",
+        "model": "Galaxy A52 5G"
+    },
+    "SM-A5360": {
+        "brand": "三星",
+        "model": "Galaxy A53 5G"
+    },
+    "SM-A5460": {
+        "brand": "三星",
+        "model": "Galaxy A54 5G"
+    },
+    "SM-A5560": {
+        "brand": "三星",
+        "model": "Galaxy A55 5G"
+    },
+    "SM-E5260": {
+        "brand": "三星",
+        "model": "Galaxy F52 5G"
+    },
+    "SM-M3070": {
+        "brand": "三星",
+        "model": "Galaxy M30s"
+    },
+    "SM-C5000": {
+        "brand": "三星",
+        "model": "Galaxy C5"
+    },
+    "SM-C5010": {
+        "brand": "三星",
+        "model": "Galaxy C5 Pro 全网通版"
+    },
+    "SM-C5018": {
+        "brand": "三星",
+        "model": "Galaxy C5 Pro 4G+"
+    },
+    "SM-C7000": {
+        "brand": "三星",
+        "model": "Galaxy C7"
+    },
+    "SM-C7010": {
+        "brand": "三星",
+        "model": "Galaxy C7 Pro 全网通版"
+    },
+    "SM-C7018": {
+        "brand": "三星",
+        "model": "Galaxy C7 Pro 4G+"
+    },
+    "SM-C7100": {
+        "brand": "三星",
+        "model": "Galaxy C8 全网通版"
+    },
+    "SM-C7108": {
+        "brand": "三星",
+        "model": "Galaxy C8 4G+"
+    },
+    "SM-C9000": {
+        "brand": "三星",
+        "model": "Galaxy C9 Pro 全网通版"
+    },
+    "SM-C9008": {
+        "brand": "三星",
+        "model": "Galaxy C9 Pro 4G+"
+    },
+    "SM-C5560": {
+        "brand": "三星",
+        "model": "Galaxy C55 5G"
+    },
+    "SM-J3109": {
+        "brand": "三星",
+        "model": "Galaxy J3 电信定制版"
+    },
+    "SM-J5008": {
+        "brand": "三星",
+        "model": "Galaxy J5 移动定制版"
+    },
+    "SM-J7008": {
+        "brand": "三星",
+        "model": "Galaxy J7 移动定制版"
+    },
+    "SM-J3110": {
+        "brand": "三星",
+        "model": "Galaxy J3 Pro 公开版"
+    },
+    "SM-J3119": {
+        "brand": "三星",
+        "model": "Galaxy J3 Pro 电信定制版"
+    },
+    "SM-J3119S": {
+        "brand": "三星",
+        "model": "Galaxy J3 Pro 增强版 电信定制版"
+    },
+    "SM-J5108": {
+        "brand": "三星",
+        "model": "Galaxy J5 (2016) 移动定制版"
+    },
+    "SM-J7108": {
+        "brand": "三星",
+        "model": "Galaxy J7 (2016) 移动定制版"
+    },
+    "SM-J7109": {
+        "brand": "三星",
+        "model": "Galaxy J7 (2016) 电信定制版"
+    },
+    "SM-J3300": {
+        "brand": "三星",
+        "model": "Galaxy J3 (2017) 全网通版"
+    },
+    "SM-J3308": {
+        "brand": "三星",
+        "model": "Galaxy J3 (2017) 4G+"
+    },
+    "SM-G5500": {
+        "brand": "三星",
+        "model": "Galaxy On5"
+    },
+    "SM-G6000": {
+        "brand": "三星",
+        "model": "Galaxy On7"
+    },
+    "SM-G5700": {
+        "brand": "三星",
+        "model": "Galaxy On5 (2016) 全网通版"
+    },
+    "SM-G5510": {
+        "brand": "三星",
+        "model": "Galaxy On5 (2016) 青春版 全网通版"
+    },
+    "SM-G5520": {
+        "brand": "三星",
+        "model": "Galaxy On5 (2016) 时尚版 全网通版"
+    },
+    "SM-G5528": {
+        "brand": "三星",
+        "model": "Galaxy On5 (2016) 时尚版 移动定制版"
+    },
+    "SM-G6100": {
+        "brand": "三星",
+        "model": "Galaxy On7 (2016)"
+    },
+    "SCH-W699": {
+        "brand": "三星",
+        "model": "三星 W699"
+    },
+    "SCH-W799": {
+        "brand": "三星",
+        "model": "三星 W799"
+    },
+    "SCH-W899": {
+        "brand": "三星",
+        "model": "三星 W899"
+    },
+    "SCH-W999": {
+        "brand": "三星",
+        "model": "三星 W999"
+    },
+    "SCH-W2013": {
+        "brand": "三星",
+        "model": "三星 W2013"
+    },
+    "SM-W2014": {
+        "brand": "三星",
+        "model": "三星 W2014"
+    },
+    "SM-W2015": {
+        "brand": "三星",
+        "model": "三星 W2015"
+    },
+    "SM-W2016": {
+        "brand": "三星",
+        "model": "三星 W2016"
+    },
+    "SM-W2017": {
+        "brand": "三星",
+        "model": "三星 W2017"
+    },
+    "SM-W2018": {
+        "brand": "三星",
+        "model": "三星 W2018"
+    },
+    "SM-W2019": {
+        "brand": "三星",
+        "model": "三星 W2019"
+    },
+    "SM-W2020": {
+        "brand": "三星",
+        "model": "三星 W20 5G"
+    },
+    "SM-W2021": {
+        "brand": "三星",
+        "model": "三星 W21 5G"
+    },
+    "SM-W2022": {
+        "brand": "三星",
+        "model": "三星 W22 5G"
+    },
+    "SM-W9023": {
+        "brand": "三星",
+        "model": "三星 W23"
+    },
+    "SM-W7023": {
+        "brand": "三星",
+        "model": "三星 W23 Flip"
+    },
+    "SM-W9024": {
+        "brand": "三星",
+        "model": "三星 W24"
+    },
+    "SM-W7024": {
+        "brand": "三星",
+        "model": "三星 W24 Flip"
+    },
+    "SM-W9025": {
+        "brand": "三星",
+        "model": "三星 W25"
+    },
+    "SM-W7025": {
+        "brand": "三星",
+        "model": "三星 W24 Flip"
+    },
+    "SM-G1600": {
+        "brand": "三星",
+        "model": "Galaxy Folder"
+    },
+    "SM-G1650": {
+        "brand": "三星",
+        "model": "Galaxy Folder 2"
+    },
+    "SM-G8508S": {
+        "brand": "三星",
+        "model": "Galaxy Alpha"
+    },
+    "SM-E7000": {
+        "brand": "三星",
+        "model": "Galaxy E7 公开版"
+    },
+    "SM-E7009": {
+        "brand": "三星",
+        "model": "Galaxy E7 电信定制版"
+    },
+    "SM-T700": {
+        "brand": "三星",
+        "model": "Galaxy Tab S 8.4 WLAN"
+    },
+    "SM-T705C": {
+        "brand": "三星",
+        "model": "Galaxy Tab S 8.4 LTE"
+    },
+    "SM-T800": {
+        "brand": "三星",
+        "model": "Galaxy Tab S 10.5 WLAN"
+    },
+    "SM-T805C": {
+        "brand": "三星",
+        "model": "Galaxy Tab S 10.5 LTE"
+    },
+    "SM-T710": {
+        "brand": "三星",
+        "model": "Galaxy Tab S2 8.0 WLAN (Exynos)"
+    },
+    "SM-T715C": {
+        "brand": "三星",
+        "model": "Galaxy Tab S2 8.0 LTE (Exynos)"
+    },
+    "SM-T713": {
+        "brand": "三星",
+        "model": "Galaxy Tab S2 8.0 WLAN (高通)"
+    },
+    "SM-T719C": {
+        "brand": "三星",
+        "model": "Galaxy Tab S2 8.0 LTE (高通)"
+    },
+    "SM-T810": {
+        "brand": "三星",
+        "model": "Galaxy Tab S2 9.7 WLAN (Exynos)"
+    },
+    "SM-T815C": {
+        "brand": "三星",
+        "model": "Galaxy Tab S2 9.7 LTE (Exynos)"
+    },
+    "SM-T813": {
+        "brand": "三星",
+        "model": "Galaxy Tab S2 9.7 WLAN (高通)"
+    },
+    "SM-T819C": {
+        "brand": "三星",
+        "model": "Galaxy Tab S2 9.7 LTE (高通)"
+    },
+    "SM-T820": {
+        "brand": "三星",
+        "model": "Galaxy Tab S3 WLAN"
+    },
+    "SM-T825C": {
+        "brand": "三星",
+        "model": "Galaxy Tab S3 LTE"
+    },
+    "SM-T830": {
+        "brand": "三星",
+        "model": "Galaxy Tab S4 WLAN"
+    },
+    "SM-T835C": {
+        "brand": "三星",
+        "model": "Galaxy Tab S4 LTE"
+    },
+    "SM-T720": {
+        "brand": "三星",
+        "model": "Galaxy Tab S5e WLAN"
+    },
+    "SM-T725C": {
+        "brand": "三星",
+        "model": "Galaxy Tab S5e LTE"
+    },
+    "SM-T860": {
+        "brand": "三星",
+        "model": "Galaxy Tab S6 WLAN"
+    },
+    "SM-P610": {
+        "brand": "三星",
+        "model": "Galaxy Tab S6 Lite WLAN"
+    },
+    "SM-P615C": {
+        "brand": "三星",
+        "model": "Galaxy Tab S6 Lite LTE"
+    },
+    "SM-T870": {
+        "brand": "三星",
+        "model": "Galaxy Tab S7 WLAN"
+    },
+    "SM-T970": {
+        "brand": "三星",
+        "model": "Galaxy Tab S7+ WLAN"
+    },
+    "SM-T730": {
+        "brand": "三星",
+        "model": "Galaxy Tab S7 FE WLAN (骁龙 750G)"
+    },
+    "SM-T733": {
+        "brand": "三星",
+        "model": "Galaxy Tab S7 FE WLAN (骁龙 778G)"
+    },
+    "SM-T735C": {
+        "brand": "三星",
+        "model": "Galaxy Tab S7 FE LTE"
+    },
+    "SM-X700": {
+        "brand": "三星",
+        "model": "Galaxy Tab S8 WLAN"
+    },
+    "SM-X706C": {
+        "brand": "三星",
+        "model": "Galaxy Tab S8 5G"
+    },
+    "SM-X800": {
+        "brand": "三星",
+        "model": "Galaxy Tab S8+ WLAN"
+    },
+    "SM-X806C": {
+        "brand": "三星",
+        "model": "Galaxy Tab S8+ 5G"
+    },
+    "SM-X900": {
+        "brand": "三星",
+        "model": "Galaxy Tab S8 Ultra WLAN"
+    },
+    "SM-X906C": {
+        "brand": "三星",
+        "model": "Galaxy Tab S8 Ultra 5G"
+    },
+    "SM-X710": {
+        "brand": "三星",
+        "model": "Galaxy Tab S9 WLAN"
+    },
+    "SM-X810": {
+        "brand": "三星",
+        "model": "Galaxy Tab S9+ WLAN"
+    },
+    "SM-X910": {
+        "brand": "三星",
+        "model": "Galaxy Tab S9 Ultra WLAN"
+    },
+    "SM-X916C": {
+        "brand": "三星",
+        "model": "Galaxy Tab S9 Ultra 5G"
+    },
+    "SM-X510": {
+        "brand": "三星",
+        "model": "Galaxy Tab S9 FE WLAN"
+    },
+    "SM-X516C": {
+        "brand": "三星",
+        "model": "Galaxy Tab S9 FE 5G"
+    },
+    "SM-X610": {
+        "brand": "三星",
+        "model": "Galaxy Tab S9 FE+ WLAN"
+    },
+    "SM-X616C": {
+        "brand": "三星",
+        "model": "Galaxy Tab S9 FE+ 5G"
+    },
+    "SM-X820": {
+        "brand": "三星",
+        "model": "Galaxy Tab S10+ WLAN"
+    },
+    "SM-X920": {
+        "brand": "三星",
+        "model": "Galaxy Tab S10 Ultra WLAN"
+    },
+    "SM-X926C": {
+        "brand": "三星",
+        "model": "Galaxy Tab S10 Ultra 5G"
+    },
+    "SM-T350": {
+        "brand": "三星",
+        "model": "Galaxy Tab A 8.0 WLAN"
+    },
+    "SM-T355C": {
+        "brand": "三星",
+        "model": "Galaxy Tab A 8.0 LTE"
+    },
+    "SM-T550": {
+        "brand": "三星",
+        "model": "Galaxy Tab A 9.7 WLAN"
+    },
+    "SM-T555C": {
+        "brand": "三星",
+        "model": "Galaxy Tab A 9.7 LTE"
+    },
+    "SM-T580": {
+        "brand": "三星",
+        "model": "Galaxy Tab A (2016) 10.1 WLAN"
+    },
+    "SM-T585C": {
+        "brand": "三星",
+        "model": "Galaxy Tab A (2016) 10.1 LTE"
+    },
+    "SM-P583": {
+        "brand": "三星",
+        "model": "Galaxy Tab A (2016) with S Pen 10.1 WLAN"
+    },
+    "SM-P588C": {
+        "brand": "三星",
+        "model": "Galaxy Tab A (2016) with S Pen 10.1 LTE"
+    },
+    "SM-T380": {
+        "brand": "三星",
+        "model": "Galaxy Tab A (2017) 8.0 WLAN"
+    },
+    "SM-T385C": {
+        "brand": "三星",
+        "model": "Galaxy Tab A (2017) 8.0 LTE"
+    },
+    "SM-T590": {
+        "brand": "三星",
+        "model": "Galaxy Tab A (2018) 10.5 WLAN"
+    },
+    "SM-T595C": {
+        "brand": "三星",
+        "model": "Galaxy Tab A (2018) 10.5 LTE"
+    },
+    "SM-T290": {
+        "brand": "三星",
+        "model": "Galaxy Tab A (2019) 8.0 WLAN"
+    },
+    "SM-T295C": {
+        "brand": "三星",
+        "model": "Galaxy Tab A (2019) 8.0 LTE"
+    },
+    "SM-T510": {
+        "brand": "三星",
+        "model": "Galaxy Tab A (2019) 10.1 WLAN"
+    },
+    "SM-T500": {
+        "brand": "三星",
+        "model": "Galaxy Tab A7 10.4 WLAN"
+    },
+    "SM-T505C": {
+        "brand": "三星",
+        "model": "Galaxy Tab A7 10.4 LTE"
+    },
+    "SM-T220": {
+        "brand": "三星",
+        "model": "Galaxy Tab A7 Lite 8.7 WLAN"
+    },
+    "SM-T225C": {
+        "brand": "三星",
+        "model": "Galaxy Tab A7 Lite 8.7 LTE"
+    },
+    "SM-X200": {
+        "brand": "三星",
+        "model": "Galaxy Tab A8 WLAN"
+    },
+    "SM-X205C": {
+        "brand": "三星",
+        "model": "Galaxy Tab A8 LTE"
+    },
+    "SM-X210": {
+        "brand": "三星",
+        "model": "Galaxy Tab A9+ WLAN"
+    },
+    "SM-X216C": {
+        "brand": "三星",
+        "model": "Galaxy Tab A9+ 5G"
+    },
+    "SM-T230": {
+        "brand": "三星",
+        "model": "Galaxy Tab4 7.0 WLAN"
+    },
+    "SM-T231": {
+        "brand": "三星",
+        "model": "Galaxy Tab4 7.0 3G"
+    },
+    "SM-T239C": {
+        "brand": "三星",
+        "model": "Galaxy Tab4 7.0 VE LTE"
+    },
+    "SM-T330": {
+        "brand": "三星",
+        "model": "Galaxy Tab4 8.0 WLAN"
+    },
+    "SM-T331": {
+        "brand": "三星",
+        "model": "Galaxy Tab4 8.0 3G"
+    },
+    "SM-T530": {
+        "brand": "三星",
+        "model": "Galaxy Tab4 10.1 WLAN"
+    },
+    "SM-T531": {
+        "brand": "三星",
+        "model": "Galaxy Tab4 10.1 3G"
+    },
+    "SM-T320": {
+        "brand": "三星",
+        "model": "Galaxy Tab PRO 8.4 WLAN"
+    },
+    "SM-T321": {
+        "brand": "三星",
+        "model": "Galaxy Tab PRO 8.4 3G"
+    },
+    "SM-T520": {
+        "brand": "三星",
+        "model": "Galaxy Tab PRO 10.1 WLAN"
+    },
+    "SM-W700": {
+        "brand": "三星",
+        "model": "Galaxy TabPro S WLAN"
+    },
+    "SM-R860": {
+        "brand": "三星",
+        "model": "Galaxy Watch4 蓝牙版 40mm"
+    },
+    "SM-R870": {
+        "brand": "三星",
+        "model": "Galaxy Watch4 蓝牙版 44mm"
+    },
+    "SM-R880": {
+        "brand": "三星",
+        "model": "Galaxy Watch4 Classic 蓝牙版 42mm"
+    },
+    "SM-R890": {
+        "brand": "三星",
+        "model": "Galaxy Watch4 Classic 蓝牙版 46mm"
+    },
+    "SM-R8950": {
+        "brand": "三星",
+        "model": "Galaxy Watch4 Classic LTE 46mm"
+    },
+    "SM-R900": {
+        "brand": "三星",
+        "model": "Galaxy Watch5 蓝牙版 40mm"
+    },
+    "SM-R910": {
+        "brand": "三星",
+        "model": "Galaxy Watch5 蓝牙版 44mm"
+    },
+    "SM-R9150": {
+        "brand": "三星",
+        "model": "Galaxy Watch5 LTE 44mm"
+    },
+    "SM-R920": {
+        "brand": "三星",
+        "model": "Galaxy Watch5 Pro 蓝牙版 45mm"
+    },
+    "SM-R930": {
+        "brand": "三星",
+        "model": "Galaxy Watch6 蓝牙版 40mm"
+    },
+    "SM-R940": {
+        "brand": "三星",
+        "model": "Galaxy Watch6 蓝牙版 44mm"
+    },
+    "SM-R9450": {
+        "brand": "三星",
+        "model": "Galaxy Watch6 LTE 44mm"
+    },
+    "SM-R950": {
+        "brand": "三星",
+        "model": "Galaxy Watch6 Classic 蓝牙版 43mm"
+    },
+    "SM-R960": {
+        "brand": "三星",
+        "model": "Galaxy Watch6 Classic 蓝牙版 47mm"
+    },
+    "SM-R9650": {
+        "brand": "三星",
+        "model": "Galaxy Watch6 Classic LTE 47mm"
+    },
+    "SM-L300": {
+        "brand": "三星",
+        "model": "Galaxy Watch7 蓝牙版 40mm"
+    },
+    "SM-L310": {
+        "brand": "三星",
+        "model": "Galaxy Watch7 蓝牙版 44mm"
+    },
+    "SM-L3150": {
+        "brand": "三星",
+        "model": "Galaxy Watch7 LTE 44mm"
+    },
+    "SM-L7050": {
+        "brand": "三星",
+        "model": "Galaxy Watch Ultra LTE 47mm"
+    }
+}

@@ -1,0 +1,974 @@
+{
+    "vivo 1939": {
+        "brand": "vivo",
+        "model": "vivo X50"
+    },
+    "vivo 2004": {
+        "brand": "vivo",
+        "model": "vivo X50"
+    },
+    "vivo 2005": {
+        "brand": "vivo",
+        "model": "vivo X50"
+    },
+    "vivo 2006": {
+        "brand": "vivo",
+        "model": "vivo X50 Pro"
+    },
+    "V2006": {
+        "brand": "vivo",
+        "model": "vivo X51 5G"
+    },
+    "V1930": {
+        "brand": "vivo",
+        "model": "vivo X50e 5G"
+    },
+    "V2045": {
+        "brand": "vivo",
+        "model": "vivo X60"
+    },
+    "V2046": {
+        "brand": "vivo",
+        "model": "vivo X60 Pro"
+    },
+    "V2047": {
+        "brand": "vivo",
+        "model": "vivo X60 Pro+"
+    },
+    "V2104": {
+        "brand": "vivo",
+        "model": "vivo X70"
+    },
+    "V2105": {
+        "brand": "vivo",
+        "model": "vivo X70 Pro"
+    },
+    "V2114": {
+        "brand": "vivo",
+        "model": "vivo X70 Pro+"
+    },
+    "V2144": {
+        "brand": "vivo",
+        "model": "vivo X80"
+    },
+    "V2145": {
+        "brand": "vivo",
+        "model": "vivo X80 Pro"
+    },
+    "V2208": {
+        "brand": "vivo",
+        "model": "vivo X80 Lite 5G"
+    },
+    "V2218": {
+        "brand": "vivo",
+        "model": "vivo X90"
+    },
+    "V2219": {
+        "brand": "vivo",
+        "model": "vivo X90 Pro"
+    },
+    "V2308": {
+        "brand": "vivo",
+        "model": "vivo X100"
+    },
+    "V2309": {
+        "brand": "vivo",
+        "model": "vivo X100 Pro"
+    },
+    "V2330": {
+        "brand": "vivo",
+        "model": "vivo X Fold3 Pro"
+    },
+    "vivo 1819": {
+        "brand": "vivo",
+        "model": "vivo V15"
+    },
+    "vivo 1920": {
+        "brand": "vivo",
+        "model": "vivo S1 Pro"
+    },
+    "vivo 1907": {
+        "brand": "vivo",
+        "model": "vivo S1"
+    },
+    "V2025": {
+        "brand": "vivo",
+        "model": "vivo V20"
+    },
+    "vivo 2018": {
+        "brand": "vivo",
+        "model": "vivo V20 Pro"
+    },
+    "V2022": {
+        "brand": "vivo",
+        "model": "vivo V20 SE"
+    },
+    "V2023": {
+        "brand": "vivo",
+        "model": "vivo V20 SE"
+    },
+    "V2040": {
+        "brand": "vivo",
+        "model": "vivo V20 2021"
+    },
+    "V2108": {
+        "brand": "vivo",
+        "model": "vivo V21"
+    },
+    "V2066": {
+        "brand": "vivo",
+        "model": "vivo V21"
+    },
+    "V2050": {
+        "brand": "vivo",
+        "model": "vivo V21 5G"
+    },
+    "V2061": {
+        "brand": "vivo",
+        "model": "vivo V21e"
+    },
+    "V2055": {
+        "brand": "vivo",
+        "model": "vivo V21e 5G"
+    },
+    "V2130": {
+        "brand": "vivo",
+        "model": "vivo V23 5G"
+    },
+    "V2132": {
+        "brand": "vivo",
+        "model": "vivo V23 Pro"
+    },
+    "V2115": {
+        "brand": "vivo",
+        "model": "vivo V23e"
+    },
+    "V2116": {
+        "brand": "vivo",
+        "model": "vivo V23e"
+    },
+    "V2126": {
+        "brand": "vivo",
+        "model": "vivo V23e 5G"
+    },
+    "V2202": {
+        "brand": "vivo",
+        "model": "vivo V25"
+    },
+    "V2228": {
+        "brand": "vivo",
+        "model": "vivo V25"
+    },
+    "V2158": {
+        "brand": "vivo",
+        "model": "vivo V25 Pro"
+    },
+    "V2201": {
+        "brand": "vivo",
+        "model": "vivo V25e"
+    },
+    "V2209": {
+        "brand": "vivo",
+        "model": "vivo V25e"
+    },
+    "V2242": {
+        "brand": "vivo",
+        "model": "vivo V25e"
+    },
+    "V2231": {
+        "brand": "vivo",
+        "model": "vivo V27"
+    },
+    "V2246": {
+        "brand": "vivo",
+        "model": "vivo V27"
+    },
+    "V2230": {
+        "brand": "vivo",
+        "model": "vivo V27 Pro"
+    },
+    "V2237": {
+        "brand": "vivo",
+        "model": "vivo V27e"
+    },
+    "V2250": {
+        "brand": "vivo",
+        "model": "vivo V29"
+    },
+    "V2251": {
+        "brand": "vivo",
+        "model": "vivo V29 Pro"
+    },
+    "V2303": {
+        "brand": "vivo",
+        "model": "vivo Y200 Pro 5G"
+    },
+    "V2304": {
+        "brand": "vivo",
+        "model": "vivo V29e 5G"
+    },
+    "V2317": {
+        "brand": "vivo",
+        "model": "vivo V29e 5G"
+    },
+    "V2244": {
+        "brand": "vivo",
+        "model": "vivo Y78 5G"
+    },
+    "V2318": {
+        "brand": "vivo",
+        "model": "vivo V30"
+    },
+    "V2319": {
+        "brand": "vivo",
+        "model": "vivo Y30 Pro"
+    },
+    "V2339": {
+        "brand": "vivo",
+        "model": "vivo V30e"
+    },
+    "V2340": {
+        "brand": "vivo",
+        "model": "vivo V30e"
+    },
+    "V2342": {
+        "brand": "vivo",
+        "model": "vivo Y100"
+    },
+    "V2314": {
+        "brand": "vivo",
+        "model": "vivo V30 Lite 5G"
+    },
+    "V2327": {
+        "brand": "vivo",
+        "model": "vivo Y100 5G"
+    },
+    "V2349": {
+        "brand": "vivo",
+        "model": "vivo V30 SE"
+    },
+    "V2348": {
+        "brand": "vivo",
+        "model": "vivo V40"
+    },
+    "V2347": {
+        "brand": "vivo",
+        "model": "vivo V40 Pro"
+    },
+    "V2403": {
+        "brand": "vivo",
+        "model": "vivo V40e"
+    },
+    "V2418": {
+        "brand": "vivo",
+        "model": "vivo V40e"
+    },
+    "V2341": {
+        "brand": "vivo",
+        "model": "vivo V40 Lite"
+    },
+    "V2337": {
+        "brand": "vivo",
+        "model": "vivo V40 SE 5G"
+    },
+    "V1937": {
+        "brand": "vivo",
+        "model": "vivo S1 Prime"
+    },
+    "vivo 1920_20": {
+        "brand": "vivo",
+        "model": "vivo S1 Pro"
+    },
+    "V2153": {
+        "brand": "vivo",
+        "model": "vivo T1"
+    },
+    "V2168": {
+        "brand": "vivo",
+        "model": "vivo T1"
+    },
+    "V2141": {
+        "brand": "vivo",
+        "model": "vivo T1 5G"
+    },
+    "V2150": {
+        "brand": "vivo",
+        "model": "vivo T1 5G"
+    },
+    "V2157": {
+        "brand": "vivo",
+        "model": "vivo T1 5G"
+    },
+    "V2143": {
+        "brand": "vivo",
+        "model": "vivo T1x"
+    },
+    "V2151": {
+        "brand": "vivo",
+        "model": "vivo T1 Pro 5G"
+    },
+    "V2320": {
+        "brand": "vivo",
+        "model": "vivo T2"
+    },
+    "V2240": {
+        "brand": "vivo",
+        "model": "vivo T2 5G"
+    },
+    "V2321": {
+        "brand": "vivo",
+        "model": "vivo T2 Pro 5G"
+    },
+    "V2253": {
+        "brand": "vivo",
+        "model": "vivo T2x 5G"
+    },
+    "V2312": {
+        "brand": "vivo",
+        "model": "vivo T2x 5G"
+    },
+    "V2334": {
+        "brand": "vivo",
+        "model": "vivo T3 5G"
+    },
+    "V2338": {
+        "brand": "vivo",
+        "model": "vivo T3x 5G"
+    },
+    "V2404": {
+        "brand": "vivo",
+        "model": "vivo T3 Pro 5G"
+    },
+    "V2356": {
+        "brand": "vivo",
+        "model": "vivo T3 Lite 5G"
+    },
+    "V2426": {
+        "brand": "vivo",
+        "model": "vivo T3 Ultra 5G"
+    },
+    "vivo 1929": {
+        "brand": "vivo",
+        "model": "vivo Y1s"
+    },
+    "vivo 2015": {
+        "brand": "vivo",
+        "model": "vivo Y1s"
+    },
+    "vivo 2015_21": {
+        "brand": "vivo",
+        "model": "vivo Y1s"
+    },
+    "V2044": {
+        "brand": "vivo",
+        "model": "vivo Y3s"
+    },
+    "vivo 1902": {
+        "brand": "vivo",
+        "model": "vivo Y17"
+    },
+    "V2118": {
+        "brand": "vivo",
+        "model": "vivo Y01"
+    },
+    "V2166": {
+        "brand": "vivo",
+        "model": "vivo Y01A"
+    },
+    "V2213": {
+        "brand": "vivo",
+        "model": "vivo Y02"
+    },
+    "V2217": {
+        "brand": "vivo",
+        "model": "vivo Y02"
+    },
+    "V2234_PK": {
+        "brand": "vivo",
+        "model": "vivo Y02"
+    },
+    "V2236": {
+        "brand": "vivo",
+        "model": "vivo Y02"
+    },
+    "V2234": {
+        "brand": "vivo",
+        "model": "vivo Y02A"
+    },
+    "V2203": {
+        "brand": "vivo",
+        "model": "vivo Y02s"
+    },
+    "V2221": {
+        "brand": "vivo",
+        "model": "vivo Y02s"
+    },
+    "V2229": {
+        "brand": "vivo",
+        "model": "vivo Y02s"
+    },
+    "V2252": {
+        "brand": "vivo",
+        "model": "vivo Y02t"
+    },
+    "V2254": {
+        "brand": "vivo",
+        "model": "vivo Y02t"
+    },
+    "V2325": {
+        "brand": "vivo",
+        "model": "vivo Y02t"
+    },
+    "V2332": {
+        "brand": "vivo",
+        "model": "vivo Y03"
+    },
+    "V2406": {
+        "brand": "vivo",
+        "model": "vivo Y03"
+    },
+    "V2344": {
+        "brand": "vivo",
+        "model": "vivo Y03t"
+    },
+    "V2409": {
+        "brand": "vivo",
+        "model": "vivo Y03t"
+    },
+    "V2028": {
+        "brand": "vivo",
+        "model": "vivo Y11s"
+    },
+    "vivo 1904": {
+        "brand": "vivo",
+        "model": "vivo Y12"
+    },
+    "V2026": {
+        "brand": "vivo",
+        "model": "vivo Y20i 2021"
+    },
+    "V2048": {
+        "brand": "vivo",
+        "model": "vivo Y12D"
+    },
+    "V2026_21": {
+        "brand": "vivo",
+        "model": "vivo Y12s"
+    },
+    "V2042": {
+        "brand": "vivo",
+        "model": "vivo Y12s"
+    },
+    "vivo 1901": {
+        "brand": "vivo",
+        "model": "vivo Y15s"
+    },
+    "V2134": {
+        "brand": "vivo",
+        "model": "vivo Y15A"
+    },
+    "V2147": {
+        "brand": "vivo",
+        "model": "vivo Y15C"
+    },
+    "V2162": {
+        "brand": "vivo",
+        "model": "vivo Y15C"
+    },
+    "V2212": {
+        "brand": "vivo",
+        "model": "vivo Y15C"
+    },
+    "V2120": {
+        "brand": "vivo",
+        "model": "vivo Y15s"
+    },
+    "V2125": {
+        "brand": "vivo",
+        "model": "vivo Y15s"
+    },
+    "V2139": {
+        "brand": "vivo",
+        "model": "vivo Y15s"
+    },
+    "V2204": {
+        "brand": "vivo",
+        "model": "vivo Y16"
+    },
+    "V2214": {
+        "brand": "vivo",
+        "model": "vivo Y16"
+    },
+    "V2305": {
+        "brand": "vivo",
+        "model": "vivo Y16"
+    },
+    "V2310": {
+        "brand": "vivo",
+        "model": "vivo Y17s"
+    },
+    "V2331": {
+        "brand": "vivo",
+        "model": "vivo Y17s"
+    },
+    "V2333": {
+        "brand": "vivo",
+        "model": "vivo Y18"
+    },
+    "V2345": {
+        "brand": "vivo",
+        "model": "vivo Y18"
+    },
+    "V2410": {
+        "brand": "vivo",
+        "model": "vivo Y18s"
+    },
+    "V2408": {
+        "brand": "vivo",
+        "model": "vivo Y18t"
+    },
+    "V2350": {
+        "brand": "vivo",
+        "model": "vivo Y18e"
+    },
+    "V2414": {
+        "brand": "vivo",
+        "model": "vivo Y18i"
+    },
+    "vivo 1915": {
+        "brand": "vivo",
+        "model": "vivo Y19"
+    },
+    "V2419": {
+        "brand": "vivo",
+        "model": "vivo Y19s"
+    },
+    "V2027": {
+        "brand": "vivo",
+        "model": "vivo Y20"
+    },
+    "V2037": {
+        "brand": "vivo",
+        "model": "vivo Y20G"
+    },
+    "V2032": {
+        "brand": "vivo",
+        "model": "vivo Y20i"
+    },
+    "V2029": {
+        "brand": "vivo",
+        "model": "vivo Y20s"
+    },
+    "V2038": {
+        "brand": "vivo",
+        "model": "vivo Y20s [G]"
+    },
+    "V2129": {
+        "brand": "vivo",
+        "model": "vivo Y20T"
+    },
+    "V2043": {
+        "brand": "vivo",
+        "model": "vivo Y20 2021"
+    },
+    "V2043_21": {
+        "brand": "vivo",
+        "model": "vivo Y20 2021"
+    },
+    "V2065": {
+        "brand": "vivo",
+        "model": "vivo Y20g 2021"
+    },
+    "V2111": {
+        "brand": "vivo",
+        "model": "vivo Y21"
+    },
+    "V2149": {
+        "brand": "vivo",
+        "model": "vivo Y21A"
+    },
+    "V2111-EG": {
+        "brand": "vivo",
+        "model": "vivo Y21A"
+    },
+    "V2140": {
+        "brand": "vivo",
+        "model": "vivo Y21e"
+    },
+    "V2152": {
+        "brand": "vivo",
+        "model": "vivo Y21G"
+    },
+    "V2110": {
+        "brand": "vivo",
+        "model": "vivo Y21s"
+    },
+    "V2136": {
+        "brand": "vivo",
+        "model": "vivo Y21s"
+    },
+    "V2131": {
+        "brand": "vivo",
+        "model": "vivo Y21T"
+    },
+    "V2135": {
+        "brand": "vivo",
+        "model": "vivo Y21T"
+    },
+    "V2207": {
+        "brand": "vivo",
+        "model": "vivo Y22"
+    },
+    "V2238": {
+        "brand": "vivo",
+        "model": "vivo Y22"
+    },
+    "V2206": {
+        "brand": "vivo",
+        "model": "vivo Y22s"
+    },
+    "V2313": {
+        "brand": "vivo",
+        "model": "vivo Y22t"
+    },
+    "V2249": {
+        "brand": "vivo",
+        "model": "vivo Y27"
+    },
+    "V2248": {
+        "brand": "vivo",
+        "model": "vivo Y36 5G"
+    },
+    "V2302": {
+        "brand": "vivo",
+        "model": "vivo Y27 5G"
+    },
+    "V2322": {
+        "brand": "vivo",
+        "model": "vivo Y27s"
+    },
+    "V2335": {
+        "brand": "vivo",
+        "model": "vivo Y27s"
+    },
+    "V2352": {
+        "brand": "vivo",
+        "model": "vivo Y28"
+    },
+    "V2353": {
+        "brand": "vivo",
+        "model": "vivo Y28"
+    },
+    "V2315": {
+        "brand": "vivo",
+        "model": "vivo Y28 5G"
+    },
+    "V2346": {
+        "brand": "vivo",
+        "model": "vivo Y28s 5G"
+    },
+    "V2351": {
+        "brand": "vivo",
+        "model": "vivo Y28s 5G"
+    },
+    "V2407": {
+        "brand": "vivo",
+        "model": "vivo Y28e 5G"
+    },
+    "V2160": {
+        "brand": "vivo",
+        "model": "vivo Y30 5G"
+    },
+    "V2036": {
+        "brand": "vivo",
+        "model": "vivo Y31"
+    },
+    "V2036_21": {
+        "brand": "vivo",
+        "model": "vivo Y31"
+    },
+    "V2057": {
+        "brand": "vivo",
+        "model": "vivo Y33"
+    },
+    "V2109-EG": {
+        "brand": "vivo",
+        "model": "vivo Y33A"
+    },
+    "V2109": {
+        "brand": "vivo",
+        "model": "vivo Y33s"
+    },
+    "V2146": {
+        "brand": "vivo",
+        "model": "vivo Y33T"
+    },
+    "V2205": {
+        "brand": "vivo",
+        "model": "vivo Y35"
+    },
+    "V2247": {
+        "brand": "vivo",
+        "model": "vivo Y36"
+    },
+    "V2324": {
+        "brand": "vivo",
+        "model": "vivo Y36"
+    },
+    "V2343": {
+        "brand": "vivo",
+        "model": "vivo Y38 5G"
+    },
+    "V2024": {
+        "brand": "vivo",
+        "model": "vivo Y51"
+    },
+    "V2030": {
+        "brand": "vivo",
+        "model": "vivo Y51"
+    },
+    "V2035": {
+        "brand": "vivo",
+        "model": "vivo Y51"
+    },
+    "V2031": {
+        "brand": "vivo",
+        "model": "vivo Y51s"
+    },
+    "V2031_21": {
+        "brand": "vivo",
+        "model": "vivo Y51s"
+    },
+    "V2053": {
+        "brand": "vivo",
+        "model": "vivo Y52 5G"
+    },
+    "V2058": {
+        "brand": "vivo",
+        "model": "vivo Y53s"
+    },
+    "V2154": {
+        "brand": "vivo",
+        "model": "vivo Y55"
+    },
+    "V2127": {
+        "brand": "vivo",
+        "model": "vivo Y55 5G"
+    },
+    "V2225": {
+        "brand": "vivo",
+        "model": "vivo Y56 5G"
+    },
+    "V2311": {
+        "brand": "vivo",
+        "model": "vivo Y56 5G"
+    },
+    "V2355": {
+        "brand": "vivo",
+        "model": "vivo Y58 5G"
+    },
+    "V2041": {
+        "brand": "vivo",
+        "model": "vivo Y72"
+    },
+    "V2060": {
+        "brand": "vivo",
+        "model": "vivo Y72 5G"
+    },
+    "V2059": {
+        "brand": "vivo",
+        "model": "vivo Y73"
+    },
+    "V2059-EG": {
+        "brand": "vivo",
+        "model": "vivo Y73"
+    },
+    "V2117": {
+        "brand": "vivo",
+        "model": "vivo Y75"
+    },
+    "V2142": {
+        "brand": "vivo",
+        "model": "vivo Y75 5G"
+    },
+    "V2124": {
+        "brand": "vivo",
+        "model": "vivo Y76 5G"
+    },
+    "V2169": {
+        "brand": "vivo",
+        "model": "vivo Y77 5G"
+    },
+    "V2412": {
+        "brand": "vivo",
+        "model": "vivo Y100"
+    },
+    "V2239": {
+        "brand": "vivo",
+        "model": "vivo Y100 5G"
+    },
+    "V2222": {
+        "brand": "vivo",
+        "model": "vivo Y100A 5G"
+    },
+    "V2307": {
+        "brand": "vivo",
+        "model": "vivo Y200 5G"
+    },
+    "V2401": {
+        "brand": "vivo",
+        "model": "vivo Y200 Pro 5G"
+    },
+    "V2336": {
+        "brand": "vivo",
+        "model": "vivo Y200e 5G"
+    },
+    "V2416": {
+        "brand": "vivo",
+        "model": "vivo Y300 5G"
+    },
+    "V2422": {
+        "brand": "vivo",
+        "model": "vivo Y300+ 5G"
+    },
+    "V2402": {
+        "brand": "vivo",
+        "model": "vivo Y300 Pro 5G"
+    },
+    "I1927": {
+        "brand": "vivo",
+        "model": "iQOO 3 4G"
+    },
+    "I1928": {
+        "brand": "vivo",
+        "model": "iQOO 3 5G"
+    },
+    "I2009": {
+        "brand": "vivo",
+        "model": "iQOO 7"
+    },
+    "I2012": {
+        "brand": "vivo",
+        "model": "iQOO 7"
+    },
+    "I2017": {
+        "brand": "vivo",
+        "model": "iQOO 9"
+    },
+    "I2201": {
+        "brand": "vivo",
+        "model": "iQOO 9T"
+    },
+    "I2022": {
+        "brand": "vivo",
+        "model": "iQOO 9 Pro"
+    },
+    "I2019": {
+        "brand": "vivo",
+        "model": "iQOO 9 SE"
+    },
+    "I2212": {
+        "brand": "vivo",
+        "model": "iQOO 11"
+    },
+    "I2220": {
+        "brand": "vivo",
+        "model": "iQOO 12"
+    },
+    "I2202": {
+        "brand": "vivo",
+        "model": "iQOO Neo6"
+    },
+    "I2214": {
+        "brand": "vivo",
+        "model": "iQOO Neo7 5G"
+    },
+    "I2217": {
+        "brand": "vivo",
+        "model": "iQOO Neo7 Pro 5G"
+    },
+    "I2303": {
+        "brand": "vivo",
+        "model": "iQOO Neo9"
+    },
+    "I2304": {
+        "brand": "vivo",
+        "model": "iQOO Neo9 Pro"
+    },
+    "I2011": {
+        "brand": "vivo",
+        "model": "iQOO Z3 5G"
+    },
+    "I2018": {
+        "brand": "vivo",
+        "model": "iQOO Z5"
+    },
+    "I2127": {
+        "brand": "vivo",
+        "model": "iQOO Z6"
+    },
+    "I2203": {
+        "brand": "vivo",
+        "model": "iQOO Z6"
+    },
+    "I2206": {
+        "brand": "vivo",
+        "model": "iQOO Z6"
+    },
+    "I2126": {
+        "brand": "vivo",
+        "model": "iQOO Z6 Pro"
+    },
+    "I2208": {
+        "brand": "vivo",
+        "model": "iQOO Z6 Lite 5G"
+    },
+    "I2205": {
+        "brand": "vivo",
+        "model": "iQOO Z6 Pro SE"
+    },
+    "I2207": {
+        "brand": "vivo",
+        "model": "iQOO Z7 5G"
+    },
+    "I2213": {
+        "brand": "vivo",
+        "model": "iQOO Z7 5G"
+    },
+    "I2223": {
+        "brand": "vivo",
+        "model": "iQOO Z7s 5G"
+    },
+    "I2216": {
+        "brand": "vivo",
+        "model": "iQOO Z7x 5G"
+    },
+    "I2301": {
+        "brand": "vivo",
+        "model": "iQOO Z7 Pro 5G"
+    },
+    "I2218": {
+        "brand": "vivo",
+        "model": "iQOO Z9 5G"
+    },
+    "I2302": {
+        "brand": "vivo",
+        "model": "iQOO Z9 5G"
+    },
+    "I2219": {
+        "brand": "vivo",
+        "model": "iQOO Z9x 5G"
+    },
+    "I2306": {
+        "brand": "vivo",
+        "model": "iQOO Z9 Lite 5G"
+    },
+    "I2403": {
+        "brand": "vivo",
+        "model": "iQOO Z9s 5G"
+    },
+    "I2305": {
+        "brand": "vivo",
+        "model": "iQOO Z9s Pro 5G"
+    }
+}

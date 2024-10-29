@@ -1,0 +1,786 @@
+{
+    "M8": {
+        "brand": "魅族",
+        "model": "魅族 M8"
+    },
+    "M8SE": {
+        "brand": "魅族",
+        "model": "魅族 M8 SE"
+    },
+    "M9": {
+        "brand": "魅族",
+        "model": "魅族 M9"
+    },
+    "M030": {
+        "brand": "魅族",
+        "model": "魅族 MX 双核"
+    },
+    "M031": {
+        "brand": "魅族",
+        "model": "魅族 MX 双核新版"
+    },
+    "M032": {
+        "brand": "魅族",
+        "model": "魅族 MX 四核"
+    },
+    "M040": {
+        "brand": "魅族",
+        "model": "魅族 MX2 联通版"
+    },
+    "M045": {
+        "brand": "魅族",
+        "model": "魅族 MX2 移动版"
+    },
+    "M351": {
+        "brand": "魅族",
+        "model": "魅族 MX3 联通版 (16GB)"
+    },
+    "M353": {
+        "brand": "魅族",
+        "model": "魅族 MX3 联通版 (32GB/64GB)"
+    },
+    "M355": {
+        "brand": "魅族",
+        "model": "魅族 MX3 移动版 (16GB)"
+    },
+    "M356": {
+        "brand": "魅族",
+        "model": "魅族 MX3 移动版 (32GB/64GB)"
+    },
+    "M460": {
+        "brand": "魅族",
+        "model": "魅族 MX4 移动版"
+    },
+    "M460A": {
+        "brand": "魅族",
+        "model": "魅族 MX4 YunOS 版"
+    },
+    "M461": {
+        "brand": "魅族",
+        "model": "魅族 MX4 联通版"
+    },
+    "M460H": {
+        "brand": "魅族",
+        "model": "魅族 MX4 国际版"
+    },
+    "M462": {
+        "brand": "魅族",
+        "model": "魅族 MX4 Pro 移动版"
+    },
+    "M462U": {
+        "brand": "魅族",
+        "model": "魅族 MX4 Pro 联通版"
+    },
+    "M462H": {
+        "brand": "魅族",
+        "model": "魅族 MX4 Pro 国际版"
+    },
+    "M575": {
+        "brand": "魅族",
+        "model": "魅族 MX5 公开版"
+    },
+    "M575M": {
+        "brand": "魅族",
+        "model": "魅族 MX5 移动版"
+    },
+    "M575U": {
+        "brand": "魅族",
+        "model": "魅族 MX5 联通版"
+    },
+    "M575H": {
+        "brand": "魅族",
+        "model": "魅族 MX5 国际版"
+    },
+    "M685Q": {
+        "brand": "魅族",
+        "model": "魅族 MX6 公开版"
+    },
+    "M685M": {
+        "brand": "魅族",
+        "model": "魅族 MX6 移动版"
+    },
+    "M685U": {
+        "brand": "魅族",
+        "model": "魅族 MX6 联通版"
+    },
+    "M685C": {
+        "brand": "魅族",
+        "model": "魅族 MX6 电信版"
+    },
+    "M685H": {
+        "brand": "魅族",
+        "model": "魅族 MX6 国际版"
+    },
+    "M576": {
+        "brand": "魅族",
+        "model": "魅族 PRO 5 公开版"
+    },
+    "M576U": {
+        "brand": "魅族",
+        "model": "魅族 PRO 5 联通版"
+    },
+    "M576H": {
+        "brand": "魅族",
+        "model": "魅族 PRO 5 国际版"
+    },
+    "M570Q": {
+        "brand": "魅族",
+        "model": "魅族 PRO 6 公开版"
+    },
+    "M570M": {
+        "brand": "魅族",
+        "model": "魅族 PRO 6 移动版"
+    },
+    "M570C": {
+        "brand": "魅族",
+        "model": "魅族 PRO 6 电信版"
+    },
+    "M570H": {
+        "brand": "魅族",
+        "model": "魅族 PRO 6 国际版"
+    },
+    "M570Q-S": {
+        "brand": "魅族",
+        "model": "魅族 PRO 6s"
+    },
+    "M686": {
+        "brand": "魅族",
+        "model": "魅族 PRO 6 Plus (64GB)"
+    },
+    "M686G": {
+        "brand": "魅族",
+        "model": "魅族 PRO 6 Plus (128GB)"
+    },
+    "M686H": {
+        "brand": "魅族",
+        "model": "魅族 PRO 6 Plus 国际版"
+    },
+    "M792Q-L": {
+        "brand": "魅族",
+        "model": "魅族 PRO 7 公开版 (64GB)"
+    },
+    "M792M-L": {
+        "brand": "魅族",
+        "model": "魅族 PRO 7 移动版 (64GB)"
+    },
+    "M792C-L": {
+        "brand": "魅族",
+        "model": "魅族 PRO 7 电信版 (64GB)"
+    },
+    "M792H": {
+        "brand": "魅族",
+        "model": "魅族 PRO 7 国际版"
+    },
+    "M792Q": {
+        "brand": "魅族",
+        "model": "魅族 PRO 7 公开版 (128GB)"
+    },
+    "M792C": {
+        "brand": "魅族",
+        "model": "魅族 PRO 7 电信版 (128GB)"
+    },
+    "M793Q": {
+        "brand": "魅族",
+        "model": "魅族 PRO 7 Plus 公开版"
+    },
+    "M793H": {
+        "brand": "魅族",
+        "model": "魅族 PRO 7 Plus 国际版"
+    },
+    "M881Q": {
+        "brand": "魅族",
+        "model": "魅族 15 公开版"
+    },
+    "M881M": {
+        "brand": "魅族",
+        "model": "魅族 15 移动版"
+    },
+    "M881H": {
+        "brand": "魅族",
+        "model": "魅族 15 国际版"
+    },
+    "M891Q": {
+        "brand": "魅族",
+        "model": "魅族 15 Plus 公开版"
+    },
+    "M891H": {
+        "brand": "魅族",
+        "model": "魅族 15 Plus 国际版"
+    },
+    "M871Q": {
+        "brand": "魅族",
+        "model": "魅族 M15 公开版"
+    },
+    "M871H": {
+        "brand": "魅族",
+        "model": "魅族 15 Lite 国际版"
+    },
+    "M882Q": {
+        "brand": "魅族",
+        "model": "魅族 16th 公开版"
+    },
+    "M882H": {
+        "brand": "魅族",
+        "model": "魅族 16th 国际版"
+    },
+    "M892Q": {
+        "brand": "魅族",
+        "model": "魅族 16th Plus 公开版"
+    },
+    "M872Q": {
+        "brand": "魅族",
+        "model": "魅族 16 X 公开版"
+    },
+    "M872H": {
+        "brand": "魅族",
+        "model": "魅族 16 国际版"
+    },
+    "M971Q": {
+        "brand": "魅族",
+        "model": "魅族 16s 公开版"
+    },
+    "M971H": {
+        "brand": "魅族",
+        "model": "魅族 16s 国际版"
+    },
+    "M926Q": {
+        "brand": "魅族",
+        "model": "魅族 16Xs 公开版"
+    },
+    "M926H": {
+        "brand": "魅族",
+        "model": "魅族 16Xs 国际版"
+    },
+    "M973Q": {
+        "brand": "魅族",
+        "model": "魅族 16s Pro 公开版"
+    },
+    "M928Q": {
+        "brand": "魅族",
+        "model": "魅族 16T 公开版"
+    },
+    "M081Q": {
+        "brand": "魅族",
+        "model": "魅族 17 公开版"
+    },
+    "M081M": {
+        "brand": "魅族",
+        "model": "魅族 17 运营商定制版"
+    },
+    "M091Q": {
+        "brand": "魅族",
+        "model": "魅族 17 Pro 公开版"
+    },
+    "M091M": {
+        "brand": "魅族",
+        "model": "魅族 17 Pro 运营商定制版"
+    },
+    "M181Q": {
+        "brand": "魅族",
+        "model": "魅族 18"
+    },
+    "M191Q": {
+        "brand": "魅族",
+        "model": "魅族 18 Pro"
+    },
+    "M172Q": {
+        "brand": "魅族",
+        "model": "魅族 18X"
+    },
+    "M182Q": {
+        "brand": "魅族",
+        "model": "魅族 18s"
+    },
+    "M192Q": {
+        "brand": "魅族",
+        "model": "魅族 18s"
+    },
+    "M381Q": {
+        "brand": "魅族",
+        "model": "魅族 20 / 魅族 20 Classic"
+    },
+    "M391Q": {
+        "brand": "魅族",
+        "model": "魅族 20 PRO"
+    },
+    "M392Q": {
+        "brand": "魅族",
+        "model": "魅族 20 INFINITY 无界版"
+    },
+    "M461Q": {
+        "brand": "魅族",
+        "model": "魅族 21 公开版"
+    },
+    "M461H": {
+        "brand": "魅族",
+        "model": "魅族 21 国际版"
+    },
+    "M481Q": {
+        "brand": "魅族",
+        "model": "魅族 21 PRO"
+    },
+    "M468Q": {
+        "brand": "魅族",
+        "model": "LYNK & CO Phone Note"
+    },
+    "M468H": {
+        "brand": "魅族",
+        "model": "魅族 21 Note 国际版"
+    },
+    "M431Q": {
+        "brand": "魅族",
+        "model": "魅族 Lucky 08 公开版"
+    },
+    "M852Q": {
+        "brand": "魅族",
+        "model": "魅族 X8 公开版"
+    },
+    "M852H": {
+        "brand": "魅族",
+        "model": "魅族 X8 国际版"
+    },
+    "M813Q": {
+        "brand": "魅族",
+        "model": "魅族 V8 高配版"
+    },
+    "M813H": {
+        "brand": "魅族",
+        "model": "魅族 M8 国际版"
+    },
+    "M816Q": {
+        "brand": "魅族",
+        "model": "魅族 V8 标配版"
+    },
+    "M816H": {
+        "brand": "魅族",
+        "model": "魅族 M8 Lite 国际版"
+    },
+    "M822Q": {
+        "brand": "魅族",
+        "model": "魅族 Note8 公开版"
+    },
+    "M822H": {
+        "brand": "魅族",
+        "model": "魅族 Note8 国际版"
+    },
+    "M923Q": {
+        "brand": "魅族",
+        "model": "魅族 Note9 公开版"
+    },
+    "M923H": {
+        "brand": "魅族",
+        "model": "魅族 Note9 国际版"
+    },
+    "M411H": {
+        "brand": "魅族",
+        "model": "魅族 Note 21 国际版"
+    },
+    "M411L": {
+        "brand": "魅族",
+        "model": "魅族 Note 21 国际版"
+    },
+    "M412H": {
+        "brand": "魅族",
+        "model": "魅族 Note 21 Pro 国际版"
+    },
+    "M810H": {
+        "brand": "魅族",
+        "model": "魅族 M8c 国际版"
+    },
+    "M818H": {
+        "brand": "魅族",
+        "model": "魅族 C9 国际版"
+    },
+    "M819H": {
+        "brand": "魅族",
+        "model": "魅族 C9 Pro 国际版"
+    },
+    "M918H": {
+        "brand": "魅族",
+        "model": "魅族 M10 国际版"
+    },
+    "M463M": {
+        "brand": "魅族",
+        "model": "魅蓝 note 移动版"
+    },
+    "M463U": {
+        "brand": "魅族",
+        "model": "魅蓝 note 联通版"
+    },
+    "M463C": {
+        "brand": "魅族",
+        "model": "魅蓝 note 电信版"
+    },
+    "M463H": {
+        "brand": "魅族",
+        "model": "魅族 m1 note 国际版"
+    },
+    "M571": {
+        "brand": "魅族",
+        "model": "魅蓝 note2 公开版"
+    },
+    "M571M": {
+        "brand": "魅族",
+        "model": "魅蓝 note2 移动版"
+    },
+    "M571U": {
+        "brand": "魅族",
+        "model": "魅蓝 note2 联通版"
+    },
+    "M571C": {
+        "brand": "魅族",
+        "model": "魅蓝 note2 电信版"
+    },
+    "M571H": {
+        "brand": "魅族",
+        "model": "魅族 m2 note 国际版"
+    },
+    "M681Q": {
+        "brand": "魅族",
+        "model": "魅蓝 Note3 公开版"
+    },
+    "L681Q": {
+        "brand": "魅族",
+        "model": "魅蓝 Note3 公开版"
+    },
+    "M681M": {
+        "brand": "魅族",
+        "model": "魅蓝 Note3 移动版"
+    },
+    "L681M": {
+        "brand": "魅族",
+        "model": "魅蓝 Note3 移动版"
+    },
+    "M681C": {
+        "brand": "魅族",
+        "model": "魅蓝 Note3 电信版"
+    },
+    "L681C": {
+        "brand": "魅族",
+        "model": "魅蓝 Note3 电信版"
+    },
+    "M681H": {
+        "brand": "魅族",
+        "model": "魅族 M3 note 国际版"
+    },
+    "L681H": {
+        "brand": "魅族",
+        "model": "魅族 M3 note 国际版"
+    },
+    "M621Q": {
+        "brand": "魅族",
+        "model": "魅蓝 Note5 公开版"
+    },
+    "M621M": {
+        "brand": "魅族",
+        "model": "魅蓝 Note5 移动版"
+    },
+    "M621C": {
+        "brand": "魅族",
+        "model": "魅蓝 Note5 电信版"
+    },
+    "M621C-S": {
+        "brand": "魅族",
+        "model": "魅蓝 Note5 电信版"
+    },
+    "M621H": {
+        "brand": "魅族",
+        "model": "魅族 M5 Note 国际版"
+    },
+    "M721Q": {
+        "brand": "魅族",
+        "model": "魅蓝 Note6 公开版"
+    },
+    "M721M": {
+        "brand": "魅族",
+        "model": "魅蓝 Note6 移动版"
+    },
+    "M721C": {
+        "brand": "魅族",
+        "model": "魅蓝 Note6 电信版"
+    },
+    "M721H": {
+        "brand": "魅族",
+        "model": "魅族 M6 Note 国际版"
+    },
+    "A680Q": {
+        "brand": "魅族",
+        "model": "魅蓝 E 公开版"
+    },
+    "A680M": {
+        "brand": "魅族",
+        "model": "魅蓝 E 移动版"
+    },
+    "A680H": {
+        "brand": "魅族",
+        "model": "魅族 M3E 国际版"
+    },
+    "M741A": {
+        "brand": "魅族",
+        "model": "魅蓝 E2 公开版"
+    },
+    "M741Y": {
+        "brand": "魅族",
+        "model": "魅蓝 E2 移动版"
+    },
+    "M851Q": {
+        "brand": "魅族",
+        "model": "魅蓝 E3 公开版"
+    },
+    "M851M": {
+        "brand": "魅族",
+        "model": "魅蓝 E3 移动版"
+    },
+    "M682Q": {
+        "brand": "魅族",
+        "model": "魅蓝 X"
+    },
+    "M465M": {
+        "brand": "魅族",
+        "model": "魅蓝 移动版"
+    },
+    "M465A": {
+        "brand": "魅族",
+        "model": "魅蓝 YunOS 版"
+    },
+    "M578": {
+        "brand": "魅族",
+        "model": "魅蓝 2 公开版"
+    },
+    "M578A": {
+        "brand": "魅族",
+        "model": "魅蓝 2 YunOS 公开版"
+    },
+    "M578M": {
+        "brand": "魅族",
+        "model": "魅蓝 2 移动版"
+    },
+    "M578MA": {
+        "brand": "魅族",
+        "model": "魅蓝 2 YunOS 移动版"
+    },
+    "M578U": {
+        "brand": "魅族",
+        "model": "魅蓝 2 联通版"
+    },
+    "M578C": {
+        "brand": "魅族",
+        "model": "魅蓝 2 电信版"
+    },
+    "M578CA": {
+        "brand": "魅族",
+        "model": "魅蓝 2 YunOS 电信版"
+    },
+    "M578CE": {
+        "brand": "魅族",
+        "model": "魅蓝 2 电信定制版"
+    },
+    "M578H": {
+        "brand": "魅族",
+        "model": "魅族 m2 国际版"
+    },
+    "M688Q": {
+        "brand": "魅族",
+        "model": "魅蓝 3 公开版"
+    },
+    "M688M": {
+        "brand": "魅族",
+        "model": "魅蓝 3 移动定制版"
+    },
+    "M688U": {
+        "brand": "魅族",
+        "model": "魅蓝 3 联通版"
+    },
+    "M688C": {
+        "brand": "魅族",
+        "model": "魅蓝 3 电信版"
+    },
+    "Y685Q": {
+        "brand": "魅族",
+        "model": "魅蓝 3s 公开版"
+    },
+    "Y685M": {
+        "brand": "魅族",
+        "model": "魅蓝 3s 移动版"
+    },
+    "Y685C": {
+        "brand": "魅族",
+        "model": "魅蓝 3s 电信版"
+    },
+    "Y685H": {
+        "brand": "魅族",
+        "model": "魅族 M3s 国际版"
+    },
+    "M611A": {
+        "brand": "魅族",
+        "model": "魅蓝 5 公开版"
+    },
+    "M611Y": {
+        "brand": "魅族",
+        "model": "魅蓝 5 移动版"
+    },
+    "M611D": {
+        "brand": "魅族",
+        "model": "魅蓝 5 电信版"
+    },
+    "M611H": {
+        "brand": "魅族",
+        "model": "魅族 M5 国际版"
+    },
+    "M612Q": {
+        "brand": "魅族",
+        "model": "魅蓝 5s 公开版"
+    },
+    "M612M": {
+        "brand": "魅族",
+        "model": "魅蓝 5s 移动版"
+    },
+    "M612C": {
+        "brand": "魅族",
+        "model": "魅蓝 5s 电信版"
+    },
+    "M612H": {
+        "brand": "魅族",
+        "model": "魅族 M5s 国际版"
+    },
+    "M711Q": {
+        "brand": "魅族",
+        "model": "魅蓝 6 公开版"
+    },
+    "M711M": {
+        "brand": "魅族",
+        "model": "魅蓝 6 移动版"
+    },
+    "M711C": {
+        "brand": "魅族",
+        "model": "魅蓝 6 电信版"
+    },
+    "M711H": {
+        "brand": "魅族",
+        "model": "魅族 M6 国际版"
+    },
+    "M712Q": {
+        "brand": "魅族",
+        "model": "魅蓝 S6 公开版"
+    },
+    "M712Q-B": {
+        "brand": "魅族",
+        "model": "魅蓝 S6 公开版"
+    },
+    "M712M": {
+        "brand": "魅族",
+        "model": "魅蓝 S6 移动版"
+    },
+    "M712C": {
+        "brand": "魅族",
+        "model": "魅蓝 S6 电信版"
+    },
+    "M712H": {
+        "brand": "魅族",
+        "model": "魅族 M6s 国际版"
+    },
+    "M811Q": {
+        "brand": "魅族",
+        "model": "魅蓝 6T 公开版"
+    },
+    "M811H": {
+        "brand": "魅族",
+        "model": "魅族 M6T 国际版"
+    },
+    "M2112": {
+        "brand": "魅族",
+        "model": "魅蓝 10"
+    },
+    "M2111": {
+        "brand": "魅族",
+        "model": "魅蓝 10s"
+    },
+    "M421Q": {
+        "brand": "魅族",
+        "model": "魅蓝 20 / 魅族 M20"
+    },
+    "M416L": {
+        "brand": "魅族",
+        "model": "魅族 MBLU 21"
+    },
+    "S685Q": {
+        "brand": "魅族",
+        "model": "魅蓝 Max 公开版"
+    },
+    "S685M": {
+        "brand": "魅族",
+        "model": "魅蓝 Max 移动版"
+    },
+    "S685C": {
+        "brand": "魅族",
+        "model": "魅蓝 Max 电信版"
+    },
+    "S685H": {
+        "brand": "魅族",
+        "model": "魅族 M3 Max 国际版"
+    },
+    "U680A": {
+        "brand": "魅族",
+        "model": "魅蓝 U10 公开版"
+    },
+    "U680Y": {
+        "brand": "魅族",
+        "model": "魅蓝 U10 移动版"
+    },
+    "U680D": {
+        "brand": "魅族",
+        "model": "魅蓝 U10 电信版"
+    },
+    "U680H": {
+        "brand": "魅族",
+        "model": "魅蓝 U10 国际版"
+    },
+    "U685Q": {
+        "brand": "魅族",
+        "model": "魅蓝 U20 公开版"
+    },
+    "U685M": {
+        "brand": "魅族",
+        "model": "魅蓝 U20 移动版"
+    },
+    "U685C": {
+        "brand": "魅族",
+        "model": "魅蓝 U20 电信版"
+    },
+    "U685H": {
+        "brand": "魅族",
+        "model": "魅蓝 U20 国际版"
+    },
+    "M57A": {
+        "brand": "魅族",
+        "model": "魅蓝 metal 公开版"
+    },
+    "M57AM": {
+        "brand": "魅族",
+        "model": "魅蓝 metal 移动版"
+    },
+    "M57AU": {
+        "brand": "魅族",
+        "model": "魅蓝 metal 联通版"
+    },
+    "M57AC": {
+        "brand": "魅族",
+        "model": "魅蓝 metal 电信版"
+    },
+    "M710M": {
+        "brand": "魅族",
+        "model": "魅蓝 A5 移动定制版"
+    },
+    "M710H": {
+        "brand": "魅族",
+        "model": "魅族 M5c 国际版"
+    },
+    "M481S": {
+        "brand": "魅族",
+        "model": "Polestar Phone"
+    },
+    "M481R": {
+        "brand": "魅族",
+        "model": "HongQi Phone"
+    }
+}

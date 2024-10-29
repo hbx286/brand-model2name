@@ -1,0 +1,846 @@
+{
+    "CPH1871": {
+        "brand": "oppo",
+        "model": "OPPO Find X"
+    },
+    "CPH1875": {
+        "brand": "oppo",
+        "model": "OPPO Find X"
+    },
+    "CPH2023": {
+        "brand": "oppo",
+        "model": "OPPO Find X2"
+    },
+    "CPH2025": {
+        "brand": "oppo",
+        "model": "OPPO Find X2 Pro"
+    },
+    "OPG01": {
+        "brand": "oppo",
+        "model": "OPPO Find X2 Pro (KDDI)"
+    },
+    "CPH2005": {
+        "brand": "oppo",
+        "model": "OPPO Find X2 Lite"
+    },
+    "CPH2009": {
+        "brand": "oppo",
+        "model": "OPPO Reno3 Pro India"
+    },
+    "CPH2173": {
+        "brand": "oppo",
+        "model": "OPPO Find X3 Pro"
+    },
+    "OPG03": {
+        "brand": "oppo",
+        "model": "OPPO Find X3 Pro (KDDI)"
+    },
+    "CPH2145": {
+        "brand": "oppo",
+        "model": "OPPO Reno5 5G"
+    },
+    "CPH2207": {
+        "brand": "oppo",
+        "model": "OPPO Reno5 Pro 5G"
+    },
+    "CPH2307": {
+        "brand": "oppo",
+        "model": "OPPO Find X5"
+    },
+    "CPH2305": {
+        "brand": "oppo",
+        "model": "OPPO Find X5 Pro"
+    },
+    "CPH2371": {
+        "brand": "oppo",
+        "model": "OPPO Reno7 5G"
+    },
+    "CPH2439": {
+        "brand": "oppo",
+        "model": "OPPO Find N2"
+    },
+    "CPH2437": {
+        "brand": "oppo",
+        "model": "OPPO Find N2 Flip"
+    },
+    "CPH2499": {
+        "brand": "oppo",
+        "model": "OPPO Find N3"
+    },
+    "CPH2519": {
+        "brand": "oppo",
+        "model": "OPPO Find N3 Flip"
+    },
+    "CPH1917": {
+        "brand": "oppo",
+        "model": "OPPO Reno"
+    },
+    "CPH1921": {
+        "brand": "oppo",
+        "model": "OPPO Reno 5G"
+    },
+    "CPH1919": {
+        "brand": "oppo",
+        "model": "OPPO Reno 10x Zoom"
+    },
+    "CPH1983": {
+        "brand": "oppo",
+        "model": "OPPO Reno A"
+    },
+    "CPH1979": {
+        "brand": "oppo",
+        "model": "OPPO Reno Z"
+    },
+    "CPH1907": {
+        "brand": "oppo",
+        "model": "OPPO Reno2"
+    },
+    "CPH1945": {
+        "brand": "oppo",
+        "model": "OPPO Reno2 Z"
+    },
+    "CPH1951": {
+        "brand": "oppo",
+        "model": "OPPO Reno2 Z"
+    },
+    "CPH1951RU": {
+        "brand": "oppo",
+        "model": "OPPO Reno2 Z"
+    },
+    "CPH1989": {
+        "brand": "oppo",
+        "model": "OPPO Reno2 F"
+    },
+    "CPH2043": {
+        "brand": "oppo",
+        "model": "OPPO Reno3"
+    },
+    "A001OP": {
+        "brand": "oppo",
+        "model": "OPPO Reno3 (SoftBank)"
+    },
+    "CPH2035": {
+        "brand": "oppo",
+        "model": "OPPO Reno3 Pro Global"
+    },
+    "CPH2036": {
+        "brand": "oppo",
+        "model": "OPPO Reno3 Pro Global"
+    },
+    "CPH2037": {
+        "brand": "oppo",
+        "model": "OPPO Reno3 Pro Global"
+    },
+    "CPH2013": {
+        "brand": "oppo",
+        "model": "OPPO Reno3 A"
+    },
+    "A002OP": {
+        "brand": "oppo",
+        "model": "OPPO Reno3 A (SoftBank)"
+    },
+    "CPH2091": {
+        "brand": "oppo",
+        "model": "OPPO Reno4"
+    },
+    "CPH2113": {
+        "brand": "oppo",
+        "model": "OPPO Reno4"
+    },
+    "CPH2089": {
+        "brand": "oppo",
+        "model": "OPPO Reno4 Pro"
+    },
+    "CPH2109": {
+        "brand": "oppo",
+        "model": "OPPO Reno4 Pro"
+    },
+    "CPH2119": {
+        "brand": "oppo",
+        "model": "OPPO F17 Pro"
+    },
+    "CPH2125": {
+        "brand": "oppo",
+        "model": "OPPO Reno4 Lite"
+    },
+    "CPH2209": {
+        "brand": "oppo",
+        "model": "OPPO Reno4 F"
+    },
+    "CPH2065": {
+        "brand": "oppo",
+        "model": "OPPO Reno4 Z"
+    },
+    "CPH2159": {
+        "brand": "oppo",
+        "model": "OPPO Reno5"
+    },
+    "CPH2201": {
+        "brand": "oppo",
+        "model": "OPPO Reno5 Pro"
+    },
+    "CPH2205": {
+        "brand": "oppo",
+        "model": "OPPO Reno5 Lite"
+    },
+    "CPH2199": {
+        "brand": "oppo",
+        "model": "OPPO Reno5 A"
+    },
+    "A101OP": {
+        "brand": "oppo",
+        "model": "OPPO Reno5 A (SoftBank)"
+    },
+    "CPH2217": {
+        "brand": "oppo",
+        "model": "OPPO F19 Pro"
+    },
+    "CPH2211": {
+        "brand": "oppo",
+        "model": "OPPO A94 5G"
+    },
+    "CPH2213": {
+        "brand": "oppo",
+        "model": "OPPO F19 Pro+ 5G"
+    },
+    "CPH2235": {
+        "brand": "oppo",
+        "model": "OPPO Reno6"
+    },
+    "CPH2251": {
+        "brand": "oppo",
+        "model": "OPPO Reno6 5G"
+    },
+    "CPH2247": {
+        "brand": "oppo",
+        "model": "OPPO Reno6 Pro 5G"
+    },
+    "CPH2249": {
+        "brand": "oppo",
+        "model": "OPPO Reno6 Pro 5G"
+    },
+    "CPH2237": {
+        "brand": "oppo",
+        "model": "OPPO K10 5G"
+    },
+    "CPH2365": {
+        "brand": "oppo",
+        "model": "OPPO A95"
+    },
+    "CPH2363": {
+        "brand": "oppo",
+        "model": "OPPO F21 Pro"
+    },
+    "CPH2293": {
+        "brand": "oppo",
+        "model": "OPPO Reno7 Pro 5G"
+    },
+    "CPH2353": {
+        "brand": "oppo",
+        "model": "OPPO Reno7 A"
+    },
+    "A201OP": {
+        "brand": "oppo",
+        "model": "OPPO Reno7 A (SoftBank)"
+    },
+    "OPG04": {
+        "brand": "oppo",
+        "model": "OPPO Reno7 A (KDDI)"
+    },
+    "CPH2343": {
+        "brand": "oppo",
+        "model": "OPPO F21 Pro 5G"
+    },
+    "CPH2461": {
+        "brand": "oppo",
+        "model": "OPPO F21s Pro"
+    },
+    "CPH2359": {
+        "brand": "oppo",
+        "model": "OPPO Reno8 5G"
+    },
+    "CPH2357": {
+        "brand": "oppo",
+        "model": "OPPO Reno8 Pro 5G"
+    },
+    "CPH2457": {
+        "brand": "oppo",
+        "model": "OPPO Reno8 Z 5G"
+    },
+    "CPH2481": {
+        "brand": "oppo",
+        "model": "OPPO F23"
+    },
+    "CPH2505": {
+        "brand": "oppo",
+        "model": "OPPO Reno8 T 5G"
+    },
+    "CPH2523": {
+        "brand": "oppo",
+        "model": "OPPO Reno9 A"
+    },
+    "A301OP": {
+        "brand": "oppo",
+        "model": "OPPO Reno9 A (SoftBank)"
+    },
+    "CPH2531": {
+        "brand": "oppo",
+        "model": "OPPO Reno10 5G"
+    },
+    "CPH2525": {
+        "brand": "oppo",
+        "model": "OPPO Reno10 Pro 5G"
+    },
+    "CPH2541": {
+        "brand": "oppo",
+        "model": "OPPO Reno10 Pro 5G (Japan)"
+    },
+    "CPH2521": {
+        "brand": "oppo",
+        "model": "OPPO Reno10 Pro+ 5G"
+    },
+    "CPH2599": {
+        "brand": "oppo",
+        "model": "OPPO Reno11 5G"
+    },
+    "CPH2607": {
+        "brand": "oppo",
+        "model": "OPPO Reno11 Pro 5G"
+    },
+    "CPH2603": {
+        "brand": "oppo",
+        "model": "OPPO F25 Pro 5G"
+    },
+    "CPH2625": {
+        "brand": "oppo",
+        "model": "OPPO Reno12 5G"
+    },
+    "CPH2629": {
+        "brand": "oppo",
+        "model": "OPPO Reno12 Pro 5G"
+    },
+    "CPH2637": {
+        "brand": "oppo",
+        "model": "OPPO F27 5G"
+    },
+    "CPH1819": {
+        "brand": "oppo",
+        "model": "OPPO F7"
+    },
+    "CPH1821": {
+        "brand": "oppo",
+        "model": "OPPO F7"
+    },
+    "CPH1859": {
+        "brand": "oppo",
+        "model": "OPPO F7 Youth"
+    },
+    "CPH1823": {
+        "brand": "oppo",
+        "model": "OPPO F9"
+    },
+    "CPH1825": {
+        "brand": "oppo",
+        "model": "OPPO F9"
+    },
+    "CPH1881": {
+        "brand": "oppo",
+        "model": "OPPO F9"
+    },
+    "CPH1911": {
+        "brand": "oppo",
+        "model": "OPPO F11"
+    },
+    "CPH1969": {
+        "brand": "oppo",
+        "model": "OPPO F11 Pro"
+    },
+    "CPH1987": {
+        "brand": "oppo",
+        "model": "OPPO F11 Pro"
+    },
+    "CPH2001": {
+        "brand": "oppo",
+        "model": "OPPO A91"
+    },
+    "CPH2095": {
+        "brand": "oppo",
+        "model": "OPPO A73"
+    },
+    "CPH2197": {
+        "brand": "oppo",
+        "model": "OPPO A74 5G"
+    },
+    "CPH2219": {
+        "brand": "oppo",
+        "model": "OPPO A74"
+    },
+    "CPH2285": {
+        "brand": "oppo",
+        "model": "OPPO F19 Pro"
+    },
+    "CPH2223": {
+        "brand": "oppo",
+        "model": "OPPO F19s"
+    },
+    "CPH2341": {
+        "brand": "oppo",
+        "model": "OPPO F21 Pro 5G"
+    },
+    "CPH2455": {
+        "brand": "oppo",
+        "model": "OPPO F21s Pro 5G"
+    },
+    "CPH2527": {
+        "brand": "oppo",
+        "model": "OPPO F23 5G"
+    },
+    "CPH2643": {
+        "brand": "oppo",
+        "model": "OPPO F27 Pro+ 5G"
+    },
+    "CPH1835": {
+        "brand": "oppo",
+        "model": "OPPO R15"
+    },
+    "CPH1831": {
+        "brand": "oppo",
+        "model": "OPPO R15 Pro"
+    },
+    "CPH1833": {
+        "brand": "oppo",
+        "model": "OPPO R15 Pro"
+    },
+    "CPH1879": {
+        "brand": "oppo",
+        "model": "OPPO R17"
+    },
+    "CPH1877": {
+        "brand": "oppo",
+        "model": "OPPO R17 Pro"
+    },
+    "CPH1893": {
+        "brand": "oppo",
+        "model": "OPPO AX7 Pro"
+    },
+    "CPH1893RU": {
+        "brand": "oppo",
+        "model": "OPPO AX7 Pro"
+    },
+    "CPH1923": {
+        "brand": "oppo",
+        "model": "OPPO A1k"
+    },
+    "CPH1923RU": {
+        "brand": "oppo",
+        "model": "OPPO A1k"
+    },
+    "CPH1837": {
+        "brand": "oppo",
+        "model": "OPPO A3"
+    },
+    "CPH2639": {
+        "brand": "oppo",
+        "model": "OPPO A80 5G"
+    },
+    "A402OP": {
+        "brand": "oppo",
+        "model": "OPPO A3 5G (SoftBank)"
+    },
+    "CPH1803": {
+        "brand": "oppo",
+        "model": "OPPO A3s"
+    },
+    "CPH1853": {
+        "brand": "oppo",
+        "model": "OPPO A3s"
+    },
+    "CPH1805": {
+        "brand": "oppo",
+        "model": "OPPO A3s"
+    },
+    "CPH2641": {
+        "brand": "oppo",
+        "model": "OPPO A3x 5G"
+    },
+    "CPH2681": {
+        "brand": "oppo",
+        "model": "OPPO A3x 5G"
+    },
+    "CPH2665": {
+        "brand": "oppo",
+        "model": "OPPO A3 Pro 5G"
+    },
+    "CPH2667": {
+        "brand": "oppo",
+        "model": "OPPO K12x 5G"
+    },
+    "CPH1809": {
+        "brand": "oppo",
+        "model": "OPPO A5"
+    },
+    "CPH1909": {
+        "brand": "oppo",
+        "model": "OPPO A5s"
+    },
+    "CPH1909RU": {
+        "brand": "oppo",
+        "model": "OPPO A5s"
+    },
+    "CPH1912": {
+        "brand": "oppo",
+        "model": "OPPO A5s"
+    },
+    "CPH1851": {
+        "brand": "oppo",
+        "model": "OPPO AX5"
+    },
+    "CPH1920": {
+        "brand": "oppo",
+        "model": "OPPO AX5s"
+    },
+    "CPH1931": {
+        "brand": "oppo",
+        "model": "OPPO A11"
+    },
+    "CPH1933": {
+        "brand": "oppo",
+        "model": "OPPO A5 2020"
+    },
+    "CPH1943": {
+        "brand": "oppo",
+        "model": "OPPO A11"
+    },
+    "CPH1901": {
+        "brand": "oppo",
+        "model": "OPPO A7"
+    },
+    "CPH1905": {
+        "brand": "oppo",
+        "model": "OPPO A7"
+    },
+    "CPH1903": {
+        "brand": "oppo",
+        "model": "OPPO AX7"
+    },
+    "CPH1938": {
+        "brand": "oppo",
+        "model": "OPPO A9"
+    },
+    "CPH1937": {
+        "brand": "oppo",
+        "model": "OPPO A9 2020"
+    },
+    "CPH1941": {
+        "brand": "oppo",
+        "model": "OPPO A11"
+    },
+    "CPH2071": {
+        "brand": "oppo",
+        "model": "OPPO A11k"
+    },
+    "CPH2083": {
+        "brand": "oppo",
+        "model": "OPPO A12"
+    },
+    "CPH2077": {
+        "brand": "oppo",
+        "model": "OPPO A12"
+    },
+    "CPH2185": {
+        "brand": "oppo",
+        "model": "OPPO A15"
+    },
+    "CPH2179": {
+        "brand": "oppo",
+        "model": "OPPO A15s"
+    },
+    "CPH2269": {
+        "brand": "oppo",
+        "model": "OPPO A16"
+    },
+    "CPH2275": {
+        "brand": "oppo",
+        "model": "OPPO A16"
+    },
+    "CPH2349": {
+        "brand": "oppo",
+        "model": "OPPO A16k"
+    },
+    "CPH2351": {
+        "brand": "oppo",
+        "model": "OPPO A16k"
+    },
+    "CPH2271": {
+        "brand": "oppo",
+        "model": "OPPO A16s"
+    },
+    "CPH2421": {
+        "brand": "oppo",
+        "model": "OPPO A16e"
+    },
+    "CPH2477": {
+        "brand": "oppo",
+        "model": "OPPO A17"
+    },
+    "CPH2471": {
+        "brand": "oppo",
+        "model": "OPPO A17k"
+    },
+    "CPH2591": {
+        "brand": "oppo",
+        "model": "OPPO A18"
+    },
+    "CPH2015": {
+        "brand": "oppo",
+        "model": "OPPO A31"
+    },
+    "CPH2031": {
+        "brand": "oppo",
+        "model": "OPPO A31"
+    },
+    "CPH2073": {
+        "brand": "oppo",
+        "model": "OPPO A31"
+    },
+    "CPH2081": {
+        "brand": "oppo",
+        "model": "OPPO A31"
+    },
+    "CPH2127": {
+        "brand": "oppo",
+        "model": "OPPO A53"
+    },
+    "CPH2137": {
+        "brand": "oppo",
+        "model": "OPPO A53"
+    },
+    "CPH2579": {
+        "brand": "oppo",
+        "model": "OPPO A38"
+    },
+    "CPH2061": {
+        "brand": "oppo",
+        "model": "OPPO A52"
+    },
+    "CPH2069": {
+        "brand": "oppo",
+        "model": "OPPO A52"
+    },
+    "CPH2131": {
+        "brand": "oppo",
+        "model": "OPPO A53"
+    },
+    "CPH2133": {
+        "brand": "oppo",
+        "model": "OPPO A53"
+    },
+    "CPH2139": {
+        "brand": "oppo",
+        "model": "OPPO A53"
+    },
+    "CPH2135": {
+        "brand": "oppo",
+        "model": "OPPO A53s"
+    },
+    "CPH2321": {
+        "brand": "oppo",
+        "model": "OPPO A53s 5G"
+    },
+    "CPH2239": {
+        "brand": "oppo",
+        "model": "OPPO A54"
+    },
+    "CPH2195": {
+        "brand": "oppo",
+        "model": "OPPO A54 5G"
+    },
+    "CPH2303": {
+        "brand": "oppo",
+        "model": "OPPO A54 5G"
+    },
+    "OPG02": {
+        "brand": "oppo",
+        "model": "OPPO A54 5G (KDDI)"
+    },
+    "CPH2273": {
+        "brand": "oppo",
+        "model": "OPPO A54s"
+    },
+    "CPH2325": {
+        "brand": "oppo",
+        "model": "OPPO A55"
+    },
+    "CPH2309": {
+        "brand": "oppo",
+        "model": "OPPO A55s 5G"
+    },
+    "A102OP": {
+        "brand": "oppo",
+        "model": "OPPO A55s 5G (SoftBank)"
+    },
+    "CPH1701": {
+        "brand": "oppo",
+        "model": "OPPO A57 (2016)"
+    },
+    "CPH2387": {
+        "brand": "oppo",
+        "model": "OPPO A57"
+    },
+    "CPH2407": {
+        "brand": "oppo",
+        "model": "OPPO A57"
+    },
+    "CPH2385": {
+        "brand": "oppo",
+        "model": "OPPO A77"
+    },
+    "CPH2577": {
+        "brand": "oppo",
+        "model": "OPPO A58"
+    },
+    "CPH2617": {
+        "brand": "oppo",
+        "model": "OPPO A59 5G"
+    },
+    "CPH2631": {
+        "brand": "oppo",
+        "model": "OPPO A60"
+    },
+    "CPH2683": {
+        "brand": "oppo",
+        "model": "OPPO A60 5G"
+    },
+    "CPH2067": {
+        "brand": "oppo",
+        "model": "OPPO A72"
+    },
+    "CPH2099": {
+        "brand": "oppo",
+        "model": "OPPO A73"
+    },
+    "CPH2161": {
+        "brand": "oppo",
+        "model": "OPPO A73 5G"
+    },
+    "CPH2263": {
+        "brand": "oppo",
+        "model": "OPPO A74 5G"
+    },
+    "CPH2375": {
+        "brand": "oppo",
+        "model": "OPPO A76"
+    },
+    "CPH2339": {
+        "brand": "oppo",
+        "model": "OPPO A77 5G"
+    },
+    "CPH2473": {
+        "brand": "oppo",
+        "model": "OPPO A77s"
+    },
+    "CPH2565": {
+        "brand": "oppo",
+        "model": "OPPO A78"
+    },
+    "CPH2483": {
+        "brand": "oppo",
+        "model": "OPPO A78 5G"
+    },
+    "CPH2495": {
+        "brand": "oppo",
+        "model": "OPPO A78 5G"
+    },
+    "CPH2553": {
+        "brand": "oppo",
+        "model": "OPPO A79 5G"
+    },
+    "CPH2557": {
+        "brand": "oppo",
+        "model": "OPPO A79 5G"
+    },
+    "A303OP": {
+        "brand": "oppo",
+        "model": "OPPO A79 5G (SoftBank)"
+    },
+    "CPH2021": {
+        "brand": "oppo",
+        "model": "OPPO A91"
+    },
+    "CPH2059": {
+        "brand": "oppo",
+        "model": "OPPO A92"
+    },
+    "CPH2121": {
+        "brand": "oppo",
+        "model": "OPPO A93"
+    },
+    "CPH2123": {
+        "brand": "oppo",
+        "model": "OPPO A93"
+    },
+    "CPH2203": {
+        "brand": "oppo",
+        "model": "OPPO A94"
+    },
+    "CPH2333": {
+        "brand": "oppo",
+        "model": "OPPO A96"
+    },
+    "CPH2529": {
+        "brand": "oppo",
+        "model": "OPPO A98 5G"
+    },
+    "CPH1955": {
+        "brand": "oppo",
+        "model": "OPPO K3"
+    },
+    "CPH2373": {
+        "brand": "oppo",
+        "model": "OPPO K10"
+    },
+    "OPD2102A": {
+        "brand": "oppo",
+        "model": "OPPO Pad Air"
+    },
+    "OPD2202": {
+        "brand": "oppo",
+        "model": "OPPO Pad 2"
+    },
+    "OPD2302": {
+        "brand": "oppo",
+        "model": "OPPO Pad Neo Wi-Fi"
+    },
+    "OPD2303": {
+        "brand": "oppo",
+        "model": "OPPO Pad Neo LTE"
+    },
+    "OB19B1": {
+        "brand": "oppo",
+        "model": "OPPO Band / Style"
+    },
+    "OBBE215": {
+        "brand": "oppo",
+        "model": "OPPO Band 2 Japan"
+    },
+    "OWWE201": {
+        "brand": "oppo",
+        "model": "OPPO Watch Free"
+    },
+    "OW19W6": {
+        "brand": "oppo",
+        "model": "OPPO Watch 41mm Wi-Fi"
+    },
+    "OW19W8": {
+        "brand": "oppo",
+        "model": "OPPO Watch 46mm Wi-Fi"
+    },
+    "OW19W12": {
+        "brand": "oppo",
+        "model": "OPPO Watch 46mm LTE"
+    },
+    "OWWE231": {
+        "brand": "oppo",
+        "model": "OPPO Watch X"
+    }
+}

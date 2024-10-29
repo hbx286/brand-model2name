@@ -1,0 +1,846 @@
+{
+    "A1324": {
+        "brand": "苹果",
+        "model": "iPhone 3G"
+    },
+    "A1303": {
+        "brand": "苹果",
+        "model": "iPhone 3GS"
+    },
+    "A1325": {
+        "brand": "苹果",
+        "model": "iPhone 3GS (无 WLAN 功能)"
+    },
+    "A1332": {
+        "brand": "苹果",
+        "model": "iPhone 4 (2011)"
+    },
+    "A1431": {
+        "brand": "苹果",
+        "model": "iPhone 4S (中国联通)"
+    },
+    "A1387": {
+        "brand": "苹果",
+        "model": "iPhone 4S (中国电信)"
+    },
+    "A1429": {
+        "brand": "苹果",
+        "model": "iPhone 5 (中国联通)"
+    },
+    "A1442": {
+        "brand": "苹果",
+        "model": "iPhone 5 (中国电信)"
+    },
+    "A1533": {
+        "brand": "苹果",
+        "model": "iPhone 5s (中国电信)"
+    },
+    "A1518": {
+        "brand": "苹果",
+        "model": "iPhone 5s (中国移动)"
+    },
+    "A1528": {
+        "brand": "苹果",
+        "model": "iPhone 5s (中国联通)"
+    },
+    "A1530": {
+        "brand": "苹果",
+        "model": "iPhone 5s (LTE)"
+    },
+    "A1532": {
+        "brand": "苹果",
+        "model": "iPhone 5c (中国电信)"
+    },
+    "A1516": {
+        "brand": "苹果",
+        "model": "iPhone 5c (中国移动)"
+    },
+    "A1526": {
+        "brand": "苹果",
+        "model": "iPhone 5c (中国联通)"
+    },
+    "A1529": {
+        "brand": "苹果",
+        "model": "iPhone 5c (LTE)"
+    },
+    "A1586": {
+        "brand": "苹果",
+        "model": "iPhone 6"
+    },
+    "A1589": {
+        "brand": "苹果",
+        "model": "iPhone 6 (中国移动)"
+    },
+    "A1524": {
+        "brand": "苹果",
+        "model": "iPhone 6 Plus"
+    },
+    "A1593": {
+        "brand": "苹果",
+        "model": "iPhone 6 Plus (中国移动)"
+    },
+    "A1700": {
+        "brand": "苹果",
+        "model": "iPhone 6s"
+    },
+    "A1691": {
+        "brand": "苹果",
+        "model": "iPhone 6s (中国移动)"
+    },
+    "A1699": {
+        "brand": "苹果",
+        "model": "iPhone 6s Plus"
+    },
+    "A1690": {
+        "brand": "苹果",
+        "model": "iPhone 6s Plus (中国移动)"
+    },
+    "A1723": {
+        "brand": "苹果",
+        "model": "iPhone SE"
+    },
+    "A1724": {
+        "brand": "苹果",
+        "model": "iPhone SE (中国移动)"
+    },
+    "A1660": {
+        "brand": "苹果",
+        "model": "iPhone 7"
+    },
+    "A1780": {
+        "brand": "苹果",
+        "model": "iPhone 7 (中国移动)"
+    },
+    "A1661": {
+        "brand": "苹果",
+        "model": "iPhone 7 Plus"
+    },
+    "A1786": {
+        "brand": "苹果",
+        "model": "iPhone 7 Plus (中国移动)"
+    },
+    "A1863": {
+        "brand": "苹果",
+        "model": "iPhone 8"
+    },
+    "A1907": {
+        "brand": "苹果",
+        "model": "iPhone 8 (中国移动)"
+    },
+    "A1864": {
+        "brand": "苹果",
+        "model": "iPhone 8 Plus"
+    },
+    "A1899": {
+        "brand": "苹果",
+        "model": "iPhone 8 Plus (中国移动)"
+    },
+    "A1865": {
+        "brand": "苹果",
+        "model": "iPhone X"
+    },
+    "A1903": {
+        "brand": "苹果",
+        "model": "iPhone X (中国移动)"
+    },
+    "A2100": {
+        "brand": "苹果",
+        "model": "iPhone XS"
+    },
+    "A2099": {
+        "brand": "苹果",
+        "model": "iPhone XS (中国移动)"
+    },
+    "A2104": {
+        "brand": "苹果",
+        "model": "iPhone XS Max"
+    },
+    "A2103": {
+        "brand": "苹果",
+        "model": "iPhone XS Max (中国移动)"
+    },
+    "A2108": {
+        "brand": "苹果",
+        "model": "iPhone XR"
+    },
+    "A2107": {
+        "brand": "苹果",
+        "model": "iPhone XR (中国移动)"
+    },
+    "A2223": {
+        "brand": "苹果",
+        "model": "iPhone 11"
+    },
+    "A2222": {
+        "brand": "苹果",
+        "model": "iPhone 11 (中国移动)"
+    },
+    "A2217": {
+        "brand": "苹果",
+        "model": "iPhone 11 Pro"
+    },
+    "A2216": {
+        "brand": "苹果",
+        "model": "iPhone 11 Pro (中国移动)"
+    },
+    "A2220": {
+        "brand": "苹果",
+        "model": "iPhone 11 Pro Max"
+    },
+    "A2219": {
+        "brand": "苹果",
+        "model": "iPhone 11 Pro Max (中国移动)"
+    },
+    "A2298": {
+        "brand": "苹果",
+        "model": "iPhone SE (第 2 代)"
+    },
+    "A2297": {
+        "brand": "苹果",
+        "model": "iPhone SE (第 2 代) (中国移动)"
+    },
+    "A2400": {
+        "brand": "苹果",
+        "model": "iPhone 12 mini"
+    },
+    "A2404": {
+        "brand": "苹果",
+        "model": "iPhone 12"
+    },
+    "A2408": {
+        "brand": "苹果",
+        "model": "iPhone 12 Pro"
+    },
+    "A2412": {
+        "brand": "苹果",
+        "model": "iPhone 12 Pro Max"
+    },
+    "A2629": {
+        "brand": "苹果",
+        "model": "iPhone 13 mini"
+    },
+    "A2634": {
+        "brand": "苹果",
+        "model": "iPhone 13"
+    },
+    "A2639": {
+        "brand": "苹果",
+        "model": "iPhone 13 Pro"
+    },
+    "A2644": {
+        "brand": "苹果",
+        "model": "iPhone 13 Pro Max"
+    },
+    "A2785": {
+        "brand": "苹果",
+        "model": "iPhone SE (第 3 代)"
+    },
+    "A2884": {
+        "brand": "苹果",
+        "model": "iPhone 14"
+    },
+    "A2888": {
+        "brand": "苹果",
+        "model": "iPhone 14 Plus"
+    },
+    "A2892": {
+        "brand": "苹果",
+        "model": "iPhone 14 Pro"
+    },
+    "A2896": {
+        "brand": "苹果",
+        "model": "iPhone 14 Pro Max"
+    },
+    "A3092": {
+        "brand": "苹果",
+        "model": "iPhone 15"
+    },
+    "A3096": {
+        "brand": "苹果",
+        "model": "iPhone 15 Plus"
+    },
+    "A3104": {
+        "brand": "苹果",
+        "model": "iPhone 15 Pro"
+    },
+    "A3108": {
+        "brand": "苹果",
+        "model": "iPhone 15 Pro Max"
+    },
+    "A3288": {
+        "brand": "苹果",
+        "model": "iPhone 16"
+    },
+    "A3291": {
+        "brand": "苹果",
+        "model": "iPhone 16 Plus"
+    },
+    "A3294": {
+        "brand": "苹果",
+        "model": "iPhone 16 Pro"
+    },
+    "A3297": {
+        "brand": "苹果",
+        "model": "iPhone 16 Pro Max"
+    },
+    "A1219": {
+        "brand": "苹果",
+        "model": "iPad (无线局域网)"
+    },
+    "A1337": {
+        "brand": "苹果",
+        "model": "iPad (无线局域网 + 3G)"
+    },
+    "A1395": {
+        "brand": "苹果",
+        "model": "iPad 2 (无线局域网, 2012)"
+    },
+    "A1396": {
+        "brand": "苹果",
+        "model": "iPad 2 (无线局域网 + 3G) (GSM)"
+    },
+    "A1397": {
+        "brand": "苹果",
+        "model": "iPad 2 (无线局域网 + 3G) (CDMA)"
+    },
+    "A1416": {
+        "brand": "苹果",
+        "model": "iPad (第 3 代) (无线局域网)"
+    },
+    "A1430": {
+        "brand": "苹果",
+        "model": "iPad (第 3 代) (无线局域网 + 蜂窝网络)"
+    },
+    "A1458": {
+        "brand": "苹果",
+        "model": "iPad (第 4 代) (无线局域网)"
+    },
+    "A1460": {
+        "brand": "苹果",
+        "model": "iPad (第 4 代) (无线局域网 + 蜂窝网络)"
+    },
+    "A1822": {
+        "brand": "苹果",
+        "model": "iPad (第 5 代) (无线局域网)"
+    },
+    "A1823": {
+        "brand": "苹果",
+        "model": "iPad (第 5 代) (无线局域网 + 蜂窝网络)"
+    },
+    "A1893": {
+        "brand": "苹果",
+        "model": "iPad (第 6 代) (无线局域网)"
+    },
+    "A1954": {
+        "brand": "苹果",
+        "model": "iPad (第 6 代) (无线局域网 + 蜂窝网络)"
+    },
+    "A2197": {
+        "brand": "苹果",
+        "model": "iPad (第 7 代) (无线局域网)"
+    },
+    "A2199": {
+        "brand": "苹果",
+        "model": "iPad (第 7 代) (无线局域网 + 蜂窝网络)"
+    },
+    "A2270": {
+        "brand": "苹果",
+        "model": "iPad (第 8 代) (无线局域网)"
+    },
+    "A2430": {
+        "brand": "苹果",
+        "model": "iPad (第 8 代) (无线局域网 + 蜂窝网络)"
+    },
+    "A2602": {
+        "brand": "苹果",
+        "model": "iPad (第 9 代) (无线局域网)"
+    },
+    "A2605": {
+        "brand": "苹果",
+        "model": "iPad (第 9 代) (无线局域网 + 蜂窝网络)"
+    },
+    "A2696": {
+        "brand": "苹果",
+        "model": "iPad (第 10 代) (无线局域网)"
+    },
+    "A2777": {
+        "brand": "苹果",
+        "model": "iPad (第 10 代) (无线局域网 + 蜂窝网络)"
+    },
+    "A3162": {
+        "brand": "苹果",
+        "model": "iPad (第 10 代) (无线局域网 + 蜂窝网络) (eSIM)"
+    },
+    "A1474": {
+        "brand": "苹果",
+        "model": "iPad Air (无线局域网)"
+    },
+    "A1475": {
+        "brand": "苹果",
+        "model": "iPad Air (无线局域网 + 蜂窝网络)"
+    },
+    "A1476": {
+        "brand": "苹果",
+        "model": "iPad Air (无线局域网 + 蜂窝网络) (TD-LTE)"
+    },
+    "A1566": {
+        "brand": "苹果",
+        "model": "iPad Air 2 (无线局域网)"
+    },
+    "A1567": {
+        "brand": "苹果",
+        "model": "iPad Air 2 (无线局域网 + 蜂窝网络)"
+    },
+    "A2152": {
+        "brand": "苹果",
+        "model": "iPad Air (第 3 代) (无线局域网)"
+    },
+    "A2154": {
+        "brand": "苹果",
+        "model": "iPad Air (第 3 代) (无线局域网 + 蜂窝网络)"
+    },
+    "A2316": {
+        "brand": "苹果",
+        "model": "iPad Air (第 4 代) (无线局域网)"
+    },
+    "A2325": {
+        "brand": "苹果",
+        "model": "iPad Air (第 4 代) (无线局域网 + 蜂窝网络)"
+    },
+    "A2588": {
+        "brand": "苹果",
+        "model": "iPad Air (第 5 代) (无线局域网)"
+    },
+    "A2591": {
+        "brand": "苹果",
+        "model": "iPad Air (第 5 代) (无线局域网 + 蜂窝网络)"
+    },
+    "A2902": {
+        "brand": "苹果",
+        "model": "iPad Air (11 英寸, M2) (无线局域网)"
+    },
+    "A2904": {
+        "brand": "苹果",
+        "model": "iPad Air (11 英寸, M2) (无线局域网 + 蜂窝网络)"
+    },
+    "A2898": {
+        "brand": "苹果",
+        "model": "iPad Air (13 英寸, M2) (无线局域网)"
+    },
+    "A2900": {
+        "brand": "苹果",
+        "model": "iPad Air (13 英寸, M2) (无线局域网 + 蜂窝网络)"
+    },
+    "A1584": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9 英寸) (无线局域网)"
+    },
+    "A1652": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9 英寸) (无线局域网 + 蜂窝网络)"
+    },
+    "A1673": {
+        "brand": "苹果",
+        "model": "iPad Pro (9.7 英寸) (无线局域网)"
+    },
+    "A1675": {
+        "brand": "苹果",
+        "model": "iPad Pro (9.7 英寸) (无线局域网 + 蜂窝网络)"
+    },
+    "A1670": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9 英寸, 第 2 代) (无线局域网)"
+    },
+    "A1821": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9 英寸, 第 2 代) (无线局域网 + 蜂窝网络)"
+    },
+    "A1701": {
+        "brand": "苹果",
+        "model": "iPad Pro (10.5 英寸) (无线局域网)"
+    },
+    "A1852": {
+        "brand": "苹果",
+        "model": "iPad Pro (10.5 英寸) (无线局域网 + 蜂窝网络)"
+    },
+    "A1980": {
+        "brand": "苹果",
+        "model": "iPad Pro (11 英寸) (无线局域网, 1TB)"
+    },
+    "A1979": {
+        "brand": "苹果",
+        "model": "iPad Pro (11 英寸) (无线局域网 + 蜂窝网络, 1TB)"
+    },
+    "A1876": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9 英寸, 第 3 代) (无线局域网, 1TB)"
+    },
+    "A1983": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9 英寸, 第 3 代) (无线局域网 + 蜂窝网络, 1TB)"
+    },
+    "A2228": {
+        "brand": "苹果",
+        "model": "iPad Pro (11 英寸, 第 2 代) (无线局域网)"
+    },
+    "A2231": {
+        "brand": "苹果",
+        "model": "iPad Pro (11 英寸, 第 2 代) (无线局域网 + 蜂窝网络)"
+    },
+    "A2229": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9 英寸, 第 4 代) (无线局域网)"
+    },
+    "A2233": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9 英寸, 第 4 代) (无线局域网 + 蜂窝网络)"
+    },
+    "A2377": {
+        "brand": "苹果",
+        "model": "iPad Pro (11 英寸, 第 3 代) (无线局域网, 16GB RAM)"
+    },
+    "A2460": {
+        "brand": "苹果",
+        "model": "iPad Pro (11 英寸, 第 3 代) (无线局域网 + 蜂窝网络, 16GB RAM)"
+    },
+    "A2378": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9 英寸, 第 5 代) (无线局域网, 16GB RAM)"
+    },
+    "A2462": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9 英寸, 第 5 代) (无线局域网 + 蜂窝网络, 16GB RAM)"
+    },
+    "A2759": {
+        "brand": "苹果",
+        "model": "iPad Pro (11 英寸, 第 4 代) (无线局域网)"
+    },
+    "A2762": {
+        "brand": "苹果",
+        "model": "iPad Pro (11 英寸, 第 4 代) (无线局域网 + 蜂窝网络)"
+    },
+    "A2436": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9 英寸, 第 6 代) (无线局域网)"
+    },
+    "A2766": {
+        "brand": "苹果",
+        "model": "iPad Pro (12.9 英寸, 第 6 代) (无线局域网 + 蜂窝网络)"
+    },
+    "A2836": {
+        "brand": "苹果",
+        "model": "iPad Pro (11 英寸, M4) (无线局域网)"
+    },
+    "A3006": {
+        "brand": "苹果",
+        "model": "iPad Pro (11 英寸, M4) (无线局域网 + 蜂窝网络)"
+    },
+    "A2925": {
+        "brand": "苹果",
+        "model": "iPad Pro (13 英寸, M4) (无线局域网)"
+    },
+    "A3007": {
+        "brand": "苹果",
+        "model": "iPad Pro (13 英寸, M4) (无线局域网 + 蜂窝网络)"
+    },
+    "A1432": {
+        "brand": "苹果",
+        "model": "iPad mini (无线局域网)"
+    },
+    "A1455": {
+        "brand": "苹果",
+        "model": "iPad mini (无线局域网 + 蜂窝网络)"
+    },
+    "A1489": {
+        "brand": "苹果",
+        "model": "iPad mini 2 (无线局域网)"
+    },
+    "A1490": {
+        "brand": "苹果",
+        "model": "iPad mini 2 (无线局域网 + 蜂窝网络)"
+    },
+    "A1491": {
+        "brand": "苹果",
+        "model": "iPad mini 2 (无线局域网 + 蜂窝网络) (TD-LTE)"
+    },
+    "A1599": {
+        "brand": "苹果",
+        "model": "iPad mini 3 (无线局域网)"
+    },
+    "A1600": {
+        "brand": "苹果",
+        "model": "iPad mini 3 (无线局域网 + 蜂窝网络)"
+    },
+    "A1601": {
+        "brand": "苹果",
+        "model": "iPad mini 3 (无线局域网 + 蜂窝网络) (TD-LTE)"
+    },
+    "A1538": {
+        "brand": "苹果",
+        "model": "iPad mini 4 (无线局域网)"
+    },
+    "A1550": {
+        "brand": "苹果",
+        "model": "iPad mini 4 (无线局域网 + 蜂窝网络)"
+    },
+    "A2133": {
+        "brand": "苹果",
+        "model": "iPad mini (第 5 代) (无线局域网)"
+    },
+    "A2125": {
+        "brand": "苹果",
+        "model": "iPad mini (第 5 代) (无线局域网 + 蜂窝网络)"
+    },
+    "A2567": {
+        "brand": "苹果",
+        "model": "iPad mini (第 6 代) (无线局域网)"
+    },
+    "A2569": {
+        "brand": "苹果",
+        "model": "iPad mini (第 6 代) (无线局域网 + 蜂窝网络)"
+    },
+    "A2993": {
+        "brand": "苹果",
+        "model": "iPad mini (A17 Pro) (无线局域网)"
+    },
+    "A2996": {
+        "brand": "苹果",
+        "model": "iPad mini (A17 Pro) (无线局域网 + 蜂窝网络)"
+    },
+    "A1553": {
+        "brand": "苹果",
+        "model": "Apple Watch (第 1 代, 38 毫米表壳)"
+    },
+    "A1554": {
+        "brand": "苹果",
+        "model": "Apple Watch (第 1 代, 42 毫米表壳)"
+    },
+    "A1802": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 1 (38 毫米表壳)"
+    },
+    "A1803": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 1 (42 毫米表壳)"
+    },
+    "A1757": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 2 (38 毫米表壳)"
+    },
+    "A1816": {
+        "brand": "苹果",
+        "model": "Apple Watch Edition (38 毫米表壳)"
+    },
+    "A1758": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 2 (42 毫米表壳)"
+    },
+    "A1817": {
+        "brand": "苹果",
+        "model": "Apple Watch Edition (42 毫米表壳)"
+    },
+    "A1890": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 3 (GPS + 蜂窝网络) (38 毫米表壳)"
+    },
+    "A1892": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 3 (GPS + 蜂窝网络) (42 毫米表壳)"
+    },
+    "A1858": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 3 (GPS) (38 毫米表壳)"
+    },
+    "A1859": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 3 (GPS) (42 毫米表壳)"
+    },
+    "A1977": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 4 (GPS) (40 毫米表壳)"
+    },
+    "A1978": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 4 (GPS) (44 毫米表壳)"
+    },
+    "A2007": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 4 (GPS + 蜂窝网络) (40 毫米表壳)"
+    },
+    "A2008": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 4 (GPS + 蜂窝网络) (44 毫米表壳)"
+    },
+    "A2092": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 5 (GPS) (40 毫米表壳)"
+    },
+    "A2093": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 5 (GPS) (44 毫米表壳)"
+    },
+    "A2156": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 5 (GPS + 蜂窝网络) (40 毫米表壳)"
+    },
+    "A2157": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 5 (GPS + 蜂窝网络) (44 毫米表壳)"
+    },
+    "A2351": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (GPS) (40 毫米表壳)"
+    },
+    "A2352": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (GPS) (44 毫米表壳)"
+    },
+    "A2355": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (GPS + 蜂窝网络) (40 毫米表壳)"
+    },
+    "A2356": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (GPS + 蜂窝网络) (44 毫米表壳)"
+    },
+    "A2291": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 6 (GPS) (40 毫米表壳)"
+    },
+    "A2292": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 6 (GPS) (44 毫米表壳)"
+    },
+    "A2375": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 6 (GPS + 蜂窝网络) (40 毫米表壳)"
+    },
+    "A2376": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 6 (GPS + 蜂窝网络) (44 毫米表壳)"
+    },
+    "A2473": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 7 (GPS) (41 毫米表壳)"
+    },
+    "A2474": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 7 (GPS) (45 毫米表壳)"
+    },
+    "A2476": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 7 (GPS + 蜂窝网络) (41 毫米表壳)"
+    },
+    "A2478": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 7 (GPS + 蜂窝网络) (45 毫米表壳)"
+    },
+    "A2722": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (第二代) (GPS) (40 毫米表壳)"
+    },
+    "A2723": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (第二代) (GPS) (44 毫米表壳)"
+    },
+    "A2855": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (第二代) (GPS + 蜂窝网络) (40 毫米表壳)"
+    },
+    "A2856": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (第二代) (GPS + 蜂窝网络) (44 毫米表壳)"
+    },
+    "A2770": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 8 (GPS) (41 毫米表壳)"
+    },
+    "A2771": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 8 (GPS) (45 毫米表壳)"
+    },
+    "A2857": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 8 (GPS + 蜂窝网络) (41 毫米表壳)"
+    },
+    "A2858": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 8 (GPS + 蜂窝网络) (45 毫米表壳)"
+    },
+    "A2859": {
+        "brand": "苹果",
+        "model": "Apple Watch Ultra"
+    },
+    "A2978": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 9 (GPS) (41 毫米表壳)"
+    },
+    "A2980": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 9 (GPS) (45 毫米表壳)"
+    },
+    "A2983": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 9 (GPS + 蜂窝网络) (41 毫米表壳)"
+    },
+    "A2985": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 9 (GPS + 蜂窝网络) (45 毫米表壳)"
+    },
+    "A2987": {
+        "brand": "苹果",
+        "model": "Apple Watch Ultra 2"
+    },
+    "A2998": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 10 (GPS) (42 毫米表壳)"
+    },
+    "A3000": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 10 (GPS) (46 毫米表壳)"
+    },
+    "A3002": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 10 (GPS + 蜂窝网络) (42 毫米表壳)"
+    },
+    "A3206": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 10 (GPS + 蜂窝网络) (46 毫米表壳)"
+    },
+    "A2117": {
+        "brand": "苹果",
+        "model": "Apple Vision Pro"
+    },
+    "A1213": {
+        "brand": "苹果",
+        "model": "iPod touch"
+    },
+    "A1319": {
+        "brand": "苹果",
+        "model": "iPod touch (第 2 代)"
+    },
+    "A1318": {
+        "brand": "苹果",
+        "model": "iPod touch (第 3 代)"
+    },
+    "A1367": {
+        "brand": "苹果",
+        "model": "iPod touch (第 4 代)"
+    },
+    "A1421": {
+        "brand": "苹果",
+        "model": "iPod touch (第 5 代)"
+    },
+    "A1509": {
+        "brand": "苹果",
+        "model": "iPod touch (第 5 代) (16GB)"
+    },
+    "A1574": {
+        "brand": "苹果",
+        "model": "iPod touch (第 6 代)"
+    },
+    "A2178": {
+        "brand": "苹果",
+        "model": "iPod touch (第 7 代)"
+    }
+}

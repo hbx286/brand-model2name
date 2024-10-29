@@ -1,0 +1,354 @@
+{
+    "RMX1901": {
+        "brand": "真我",
+        "model": "真我 X"
+    },
+    "RMX1851": {
+        "brand": "真我",
+        "model": "真我 X 青春版"
+    },
+    "RMX1991": {
+        "brand": "真我",
+        "model": "真我 X2"
+    },
+    "RMX1931": {
+        "brand": "真我",
+        "model": "真我 X2 Pro"
+    },
+    "RMX2051": {
+        "brand": "真我",
+        "model": "真我 X50 5G 全网通版"
+    },
+    "RMX2025": {
+        "brand": "真我",
+        "model": "真我 X50 5G 移动版"
+    },
+    "RMX2071": {
+        "brand": "真我",
+        "model": "真我 X50 Pro 5G"
+    },
+    "RMX2072": {
+        "brand": "真我",
+        "model": "真我 X50 Pro 玩家版"
+    },
+    "RMX2141": {
+        "brand": "真我",
+        "model": "真我 X50m 5G"
+    },
+    "RMX2142": {
+        "brand": "真我",
+        "model": "真我 X50m 5G 运营商定制版"
+    },
+    "RMX2052": {
+        "brand": "真我",
+        "model": "真我 X50t 5G 电信合作版"
+    },
+    "RMX2176": {
+        "brand": "真我",
+        "model": "真我 X7 5G"
+    },
+    "RMX2121": {
+        "brand": "真我",
+        "model": "真我 X7 Pro 5G"
+    },
+    "RMX3115": {
+        "brand": "真我",
+        "model": "真我 X7 Pro 至尊版 5G 全网通版"
+    },
+    "RMX3116": {
+        "brand": "真我",
+        "model": "真我 X7 Pro 至尊版 5G 运营商定制版"
+    },
+    "RMX2202": {
+        "brand": "真我",
+        "model": "真我 GT 5G"
+    },
+    "RMX3361": {
+        "brand": "真我",
+        "model": "真我 GT 大师版"
+    },
+    "RMX3366": {
+        "brand": "真我",
+        "model": "真我 GT 大师探索版"
+    },
+    "RMX3310": {
+        "brand": "真我",
+        "model": "真我 GT2"
+    },
+    "RMX3300": {
+        "brand": "真我",
+        "model": "真我 GT2 Pro"
+    },
+    "RMX3551": {
+        "brand": "真我",
+        "model": "真我 GT2 大师探索版"
+    },
+    "RMX3820": {
+        "brand": "真我",
+        "model": "真我 GT5 150W"
+    },
+    "RMX3823": {
+        "brand": "真我",
+        "model": "真我 GT5 240W"
+    },
+    "RMX3888": {
+        "brand": "真我",
+        "model": "真我 GT5 Pro"
+    },
+    "RMX3800": {
+        "brand": "真我",
+        "model": "真我 GT6"
+    },
+    "RMX5010": {
+        "brand": "真我",
+        "model": "真我 GT7 Pro"
+    },
+    "RMX3031": {
+        "brand": "真我",
+        "model": "真我 GT Neo 5G"
+    },
+    "RMX3350": {
+        "brand": "真我",
+        "model": "真我 GT Neo 闪速版"
+    },
+    "RMX3370": {
+        "brand": "真我",
+        "model": "真我 GT Neo2"
+    },
+    "RMX3357": {
+        "brand": "真我",
+        "model": "真我 GT Neo2T"
+    },
+    "RMX3560": {
+        "brand": "真我",
+        "model": "真我 GT Neo3 80W"
+    },
+    "RMX3562": {
+        "brand": "真我",
+        "model": "真我 GT Neo3 150W"
+    },
+    "RMX3706": {
+        "brand": "真我",
+        "model": "真我 GT Neo5 150W"
+    },
+    "RMX3708": {
+        "brand": "真我",
+        "model": "真我 GT Neo5 240W"
+    },
+    "RMX3700": {
+        "brand": "真我",
+        "model": "真我 GT Neo5 SE"
+    },
+    "RMX3852": {
+        "brand": "真我",
+        "model": "真我 GT Neo6"
+    },
+    "RMX3850": {
+        "brand": "真我",
+        "model": "真我 GT Neo6 SE"
+    },
+    "RMX1971": {
+        "brand": "真我",
+        "model": "真我 Q"
+    },
+    "RMX2117": {
+        "brand": "真我",
+        "model": "真我 Q2 5G"
+    },
+    "RMX2173": {
+        "brand": "真我",
+        "model": "真我 Q2 Pro 5G"
+    },
+    "RMX2200": {
+        "brand": "真我",
+        "model": "真我 V3 5G 全网通版"
+    },
+    "RMX3161": {
+        "brand": "真我",
+        "model": "真我 Q3 5G"
+    },
+    "RMX2205": {
+        "brand": "真我",
+        "model": "真我 Q3 Pro 5G"
+    },
+    "RMX3142": {
+        "brand": "真我",
+        "model": "真我 Q3 Pro 狂欢版"
+    },
+    "RMX3042": {
+        "brand": "真我",
+        "model": "真我 Q3i 5G"
+    },
+    "RMX3461": {
+        "brand": "真我",
+        "model": "真我 Q3s"
+    },
+    "RMX3462": {
+        "brand": "真我",
+        "model": "真我 Q3t"
+    },
+    "RMX3478": {
+        "brand": "真我",
+        "model": "真我 Q5"
+    },
+    "RMX3372": {
+        "brand": "真我",
+        "model": "真我 Q5 Pro"
+    },
+    "RMX3574": {
+        "brand": "真我",
+        "model": "真我 Q5i"
+    },
+    "RMX3616": {
+        "brand": "真我",
+        "model": "真我 Q5x"
+    },
+    "RMX3615": {
+        "brand": "真我",
+        "model": "真我 10"
+    },
+    "RMX3617": {
+        "brand": "真我",
+        "model": "真我 10s"
+    },
+    "RMX3663": {
+        "brand": "真我",
+        "model": "真我 10 Pro"
+    },
+    "RMX3687": {
+        "brand": "真我",
+        "model": "真我 10 Pro+"
+    },
+    "RMX3751": {
+        "brand": "真我",
+        "model": "真我 11"
+    },
+    "RMX3770": {
+        "brand": "真我",
+        "model": "真我 11 Pro"
+    },
+    "RMX3740": {
+        "brand": "真我",
+        "model": "真我 11 Pro+"
+    },
+    "RMX3992": {
+        "brand": "真我",
+        "model": "真我 12"
+    },
+    "RMX3993": {
+        "brand": "真我",
+        "model": "真我 12x"
+    },
+    "RMX3843": {
+        "brand": "真我",
+        "model": "真我 12 Pro / 真我 12 Pro 至尊版"
+    },
+    "RMX3841": {
+        "brand": "真我",
+        "model": "真我 12 Pro+"
+    },
+    "RMX3952": {
+        "brand": "真我",
+        "model": "真我 13"
+    },
+    "RMX5002": {
+        "brand": "真我",
+        "model": "真我 13 Pro"
+    },
+    "RMX3989": {
+        "brand": "真我",
+        "model": "真我 13 Pro 至尊版"
+    },
+    "RMX3920": {
+        "brand": "真我",
+        "model": "真我 13 Pro+"
+    },
+    "RMX2201": {
+        "brand": "真我",
+        "model": "真我 V3 5G 运营商定制版"
+    },
+    "RMX2111": {
+        "brand": "真我",
+        "model": "真我 V5 5G 全网通版"
+    },
+    "RMX2112": {
+        "brand": "真我",
+        "model": "真我 V5 5G 运营商定制版"
+    },
+    "RMX3121": {
+        "brand": "真我",
+        "model": "真我 V11 5G 全网通版"
+    },
+    "RMX3122": {
+        "brand": "真我",
+        "model": "真我 V11 5G 运营商定制版"
+    },
+    "RMX3125": {
+        "brand": "真我",
+        "model": "真我 V11s 5G"
+    },
+    "RMX3041": {
+        "brand": "真我",
+        "model": "真我 V13 5G 全网通版"
+    },
+    "RMX3043": {
+        "brand": "真我",
+        "model": "真我 V13 5G 运营商定制版"
+    },
+    "RMX3092": {
+        "brand": "真我",
+        "model": "真我 V15 5G 全网通版"
+    },
+    "RMX3093": {
+        "brand": "真我",
+        "model": "真我 V15 5G 运营商定制版"
+    },
+    "RMX3610": {
+        "brand": "真我",
+        "model": "真我 V20"
+    },
+    "RMX3611": {
+        "brand": "真我",
+        "model": "真我 V20"
+    },
+    "RMX3571": {
+        "brand": "真我",
+        "model": "真我 V23"
+    },
+    "RMX3576": {
+        "brand": "真我",
+        "model": "真我 V23i"
+    },
+    "RMX3475": {
+        "brand": "真我",
+        "model": "真我 V25"
+    },
+    "RMX3619": {
+        "brand": "真我",
+        "model": "真我 V30"
+    },
+    "RMX3618": {
+        "brand": "真我",
+        "model": "真我 V30t"
+    },
+    "RMX3783": {
+        "brand": "真我",
+        "model": "真我 V50"
+    },
+    "RMX3781": {
+        "brand": "真我",
+        "model": "真我 V50s"
+    },
+    "RMX3995": {
+        "brand": "真我",
+        "model": "真我 V60"
+    },
+    "RMX3996": {
+        "brand": "真我",
+        "model": "真我 V60s"
+    },
+    "RMP2108": {
+        "brand": "真我",
+        "model": "真我平板 X"
+    }
+}

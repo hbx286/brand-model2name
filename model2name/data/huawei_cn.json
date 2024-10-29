@@ -1,0 +1,3502 @@
+{
+    "HUAWEI MT1-T00": {
+        "brand": "华为",
+        "model": "华为 Ascend Mate 移动版"
+    },
+    "HUAWEI MT1-U06": {
+        "brand": "华为",
+        "model": "华为 Ascend Mate 联通版"
+    },
+    "HUAWEI MT2-U071": {
+        "brand": "华为",
+        "model": "华为 Ascend Mate 2 联通 3G 版"
+    },
+    "HUAWEI MT2-C00": {
+        "brand": "华为",
+        "model": "华为 Ascend Mate 2 电信 3G 版"
+    },
+    "HUAWEI MT2-L02": {
+        "brand": "华为",
+        "model": "华为 Ascend Mate 2 移动 4G 版"
+    },
+    "HUAWEI MT2-L05": {
+        "brand": "华为",
+        "model": "华为 Ascend Mate 2 联通 4G 版"
+    },
+    "HUAWEI MT7-TL00": {
+        "brand": "华为",
+        "model": "华为 Ascend Mate 7 移动版"
+    },
+    "HUAWEI MT7-TL10": {
+        "brand": "华为",
+        "model": "华为 Ascend Mate 7 双 4G 版"
+    },
+    "HUAWEI MT7-UL00": {
+        "brand": "华为",
+        "model": "华为 Ascend Mate 7 联通版"
+    },
+    "HUAWEI MT7-CL00": {
+        "brand": "华为",
+        "model": "华为 Ascend Mate 7 电信版"
+    },
+    "HUAWEI CRR-TL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate S 移动臻享版"
+    },
+    "HUAWEI CRR-UL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate S 双 4G 臻享版"
+    },
+    "HUAWEI CRR-UL20": {
+        "brand": "华为",
+        "model": "HUAWEI Mate S 双 4G 臻逸版"
+    },
+    "HUAWEI CRR-CL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate S 电信臻享版"
+    },
+    "HUAWEI CRR-CL20": {
+        "brand": "华为",
+        "model": "HUAWEI Mate S 电信臻逸版"
+    },
+    "HUAWEI NXT-AL10": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 8 全网通版"
+    },
+    "HUAWEI NXT-TL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 8 移动版"
+    },
+    "HUAWEI NXT-DL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 8 双 4G 版"
+    },
+    "HUAWEI NXT-CL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 8 电信版"
+    },
+    "MHA-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 9 全网通版"
+    },
+    "MHA-TL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 9 移动 4G+ 版"
+    },
+    "LON-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 9 保时捷设计"
+    },
+    "ALP-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 10 全网通版"
+    },
+    "ALP-TL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 10 移动 4G+ 版"
+    },
+    "BLA-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 10 保时捷设计"
+    },
+    "BLA-TL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 10 Pro 移动 4G+ 版"
+    },
+    "NEO-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate RS 保时捷设计"
+    },
+    "HMA-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 20 全网通版"
+    },
+    "HMA-TL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 20 移动 4G+ 版"
+    },
+    "LYA-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 20 Pro 全网通版"
+    },
+    "LYA-AL10": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 20 Pro 全网通版 (8GB+256GB)"
+    },
+    "LYA-TL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 20 Pro 移动 4G+ 版"
+    },
+    "EVR-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 20 X 全网通版"
+    },
+    "EVR-TL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 20 X 移动 4G+ 版"
+    },
+    "EVR-AN00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 20 X 5G"
+    },
+    "LYA-AL00P": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 20 RS 保时捷设计"
+    },
+    "TAS-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 30 全网通版"
+    },
+    "TAS-TL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 30 移动 4G+ 版"
+    },
+    "TAS-AN00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 30 5G 全网通版"
+    },
+    "TAS-TN00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 30 5G 移动版"
+    },
+    "LIO-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 30 Pro 全网通版"
+    },
+    "LIO-TL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 30 Pro 移动 4G+ 版"
+    },
+    "LIO-AN00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 30 Pro 5G 全网通版"
+    },
+    "LIO-TN00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 30 Pro 5G 移动版"
+    },
+    "LIO-AN00m": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 30E Pro 5G"
+    },
+    "LIO-AN00P": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 30 RS 保时捷设计"
+    },
+    "OCE-AN10": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 40 5G"
+    },
+    "OCE-AN50": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 40E 5G"
+    },
+    "OCE-AL50": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 40E 4G"
+    },
+    "NOH-AN00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 40 Pro 5G"
+    },
+    "NOH-AN01": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 40 Pro 5G"
+    },
+    "NOH-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 40 Pro 4G"
+    },
+    "NOH-AL10": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 40 Pro 4G"
+    },
+    "NOH-AN50": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 40E Pro 5G"
+    },
+    "NOH-AN80": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 40E Pro 5G"
+    },
+    "NOP-AN00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 40 RS 保时捷设计"
+    },
+    "CET-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 50"
+    },
+    "CET-AL60": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 50E"
+    },
+    "DCO-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 50 RS 保时捷设计"
+    },
+    "BRA-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 60"
+    },
+    "ALN-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 60 Pro"
+    },
+    "ALN-AL80": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 60 Pro"
+    },
+    "ALN-AL10": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 60 RS ULTIMATE DESIGN 非凡大师"
+    },
+    "TAH-AN00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate X"
+    },
+    "TAH-AN00m": {
+        "brand": "华为",
+        "model": "HUAWEI Mate Xs"
+    },
+    "TET-AN00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate X2 5G"
+    },
+    "TET-AN10": {
+        "brand": "华为",
+        "model": "HUAWEI Mate X2 5G"
+    },
+    "TET-AN50": {
+        "brand": "华为",
+        "model": "HUAWEI Mate X2 典藏版 5G"
+    },
+    "TET-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate X2 4G"
+    },
+    "PAL-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate Xs 2"
+    },
+    "PAL-AL10": {
+        "brand": "华为",
+        "model": "HUAWEI Mate Xs 2"
+    },
+    "ALT-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate X3"
+    },
+    "ALT-AL10": {
+        "brand": "华为",
+        "model": "HUAWEI Mate X5"
+    },
+    "GRL-AL10": {
+        "brand": "华为",
+        "model": "HUAWEI Mate XT ULTIMATE DESIGN 非凡大师"
+    },
+    "HUAWEI U9200": {
+        "brand": "华为",
+        "model": "华为 Ascend P1"
+    },
+    "HUAWEI U9200E": {
+        "brand": "华为",
+        "model": "华为 Ascend P1 XL"
+    },
+    "HUAWEI U9200S": {
+        "brand": "华为",
+        "model": "华为 Ascend P1 S"
+    },
+    "HUAWEI P2-0000": {
+        "brand": "华为",
+        "model": "华为 Ascend P2"
+    },
+    "HUAWEI P6-T00": {
+        "brand": "华为",
+        "model": "华为 Ascend P6 移动渠道版"
+    },
+    "HUAWEI P6-T00V": {
+        "brand": "华为",
+        "model": "华为 Ascend P6 移动定制版"
+    },
+    "HUAWEI P6-U06": {
+        "brand": "华为",
+        "model": "华为 Ascend P6 联通版"
+    },
+    "HUAWEI P6-C00": {
+        "brand": "华为",
+        "model": "华为 Ascend P6 电信版"
+    },
+    "HUAWEI P6 S-U06": {
+        "brand": "华为",
+        "model": "华为 Ascend P6S 联通版"
+    },
+    "HUAWEI P7-L00": {
+        "brand": "华为",
+        "model": "华为 Ascend P7 联通版"
+    },
+    "HUAWEI P7-L05": {
+        "brand": "华为",
+        "model": "华为 Ascend P7 移动渠道版"
+    },
+    "HUAWEI P7-L07": {
+        "brand": "华为",
+        "model": "华为 Ascend P7 移动定制版"
+    },
+    "HUAWEI P7-L09": {
+        "brand": "华为",
+        "model": "华为 Ascend P7 电信版"
+    },
+    "HUAWEI GRA-TL00": {
+        "brand": "华为",
+        "model": "华为 P8 移动标配版"
+    },
+    "HUAWEI GRA-UL00": {
+        "brand": "华为",
+        "model": "华为 P8 双 4G 标配版"
+    },
+    "HUAWEI GRA-UL10": {
+        "brand": "华为",
+        "model": "华为 P8 双 4G 高配版"
+    },
+    "HUAWEI GRA-CL00": {
+        "brand": "华为",
+        "model": "华为 P8 电信标配版"
+    },
+    "HUAWEI GRA-CL10": {
+        "brand": "华为",
+        "model": "华为 P8 电信高配版"
+    },
+    "HUAWEI ALE-TL00": {
+        "brand": "华为",
+        "model": "华为 P8 青春版 移动版"
+    },
+    "HUAWEI ALE-UL00": {
+        "brand": "华为",
+        "model": "华为 P8 青春版 双 4G 版"
+    },
+    "HUAWEI ALE-CL00": {
+        "brand": "华为",
+        "model": "华为 P8 青春版 电信版"
+    },
+    "DAV-703L": {
+        "brand": "华为",
+        "model": "华为 P8 Max"
+    },
+    "DAV-713L": {
+        "brand": "华为",
+        "model": "华为 P8 Max"
+    },
+    "EVA-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI P9 全网通版 (32GB)"
+    },
+    "EVA-AL10": {
+        "brand": "华为",
+        "model": "HUAWEI P9 全网通版 (64GB)"
+    },
+    "EVA-TL00": {
+        "brand": "华为",
+        "model": "HUAWEI P9 移动版"
+    },
+    "EVA-DL00": {
+        "brand": "华为",
+        "model": "HUAWEI P9 双 4G 版"
+    },
+    "EVA-CL00": {
+        "brand": "华为",
+        "model": "HUAWEI P9 电信版"
+    },
+    "VIE-AL10": {
+        "brand": "华为",
+        "model": "HUAWEI P9 Plus"
+    },
+    "VTR-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI P10 全网通版"
+    },
+    "VTR-TL00": {
+        "brand": "华为",
+        "model": "HUAWEI P10 移动 4G+ 版"
+    },
+    "VKY-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI P10 Plus 全网通版"
+    },
+    "VKY-TL00": {
+        "brand": "华为",
+        "model": "HUAWEI P10 Plus 移动 4G+ 版"
+    },
+    "EML-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI P20 全网通版"
+    },
+    "EML-TL00": {
+        "brand": "华为",
+        "model": "HUAWEI P20 移动 4G+ 版"
+    },
+    "CLT-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI P20 Pro 全网通版"
+    },
+    "CLT-AL01": {
+        "brand": "华为",
+        "model": "HUAWEI P20 Pro 全网通版 (6GB+64GB)"
+    },
+    "CLT-AL00l": {
+        "brand": "华为",
+        "model": "HUAWEI P20 Pro 真皮限量版 全网通版"
+    },
+    "CLT-TL00": {
+        "brand": "华为",
+        "model": "HUAWEI P20 Pro 移动 4G+ 版"
+    },
+    "CLT-TL01": {
+        "brand": "华为",
+        "model": "HUAWEI P20 Pro 移动 4G+ 版 (6GB+64GB)"
+    },
+    "ELE-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI P30 全网通版"
+    },
+    "ELE-TL00": {
+        "brand": "华为",
+        "model": "HUAWEI P30 移动 4G+ 版"
+    },
+    "VOG-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI P30 Pro 全网通版 (8GB+128GB)"
+    },
+    "VOG-AL10": {
+        "brand": "华为",
+        "model": "HUAWEI P30 Pro 全网通版"
+    },
+    "VOG-TL00": {
+        "brand": "华为",
+        "model": "HUAWEI P30 Pro 移动 4G+ 版"
+    },
+    "ANA-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI P40 4G 全网通版"
+    },
+    "ANA-AN00": {
+        "brand": "华为",
+        "model": "HUAWEI P40 5G 全网通版"
+    },
+    "ANA-TN00": {
+        "brand": "华为",
+        "model": "HUAWEI P40 5G 移动版"
+    },
+    "ELS-AN00": {
+        "brand": "华为",
+        "model": "HUAWEI P40 Pro 5G 全网通版"
+    },
+    "ELS-TN00": {
+        "brand": "华为",
+        "model": "HUAWEI P40 Pro 5G 移动版"
+    },
+    "ELS-AN10": {
+        "brand": "华为",
+        "model": "HUAWEI P40 Pro+ 5G 全网通版"
+    },
+    "ELS-TN10": {
+        "brand": "华为",
+        "model": "HUAWEI P40 Pro+ 5G 移动版"
+    },
+    "ABR-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI P50"
+    },
+    "ABR-AL80": {
+        "brand": "华为",
+        "model": "HUAWEI P50"
+    },
+    "ABR-AL60": {
+        "brand": "华为",
+        "model": "HUAWEI P50E"
+    },
+    "ABR-AL90": {
+        "brand": "华为",
+        "model": "HUAWEI P50E"
+    },
+    "JAD-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI P50 Pro (骁龙 888)"
+    },
+    "JAD-AL80": {
+        "brand": "华为",
+        "model": "HUAWEI P50 Pro (骁龙 888)"
+    },
+    "JAD-AL50": {
+        "brand": "华为",
+        "model": "HUAWEI P50 Pro (麒麟 9000)"
+    },
+    "JAD-AL60": {
+        "brand": "华为",
+        "model": "HUAWEI P50 Pro (麒麟 9000)"
+    },
+    "BAL-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI P50 Pocket"
+    },
+    "BAL-AL80": {
+        "brand": "华为",
+        "model": "HUAWEI P50 Pocket"
+    },
+    "LNA-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI P60"
+    },
+    "MNA-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI P60 Art"
+    },
+    "ADY-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI Pura 70"
+    },
+    "ADY-AL10": {
+        "brand": "华为",
+        "model": "HUAWEI Pura 70 北斗卫星消息版"
+    },
+    "HBN-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI Pura 70 Pro"
+    },
+    "HBN-AL10": {
+        "brand": "华为",
+        "model": "HUAWEI Pura 70 Pro+"
+    },
+    "HBN-AL80": {
+        "brand": "华为",
+        "model": "HUAWEI Pura 70 Pro+"
+    },
+    "HBP-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI Pura 70 Ultra"
+    },
+    "BAL-AL60": {
+        "brand": "华为",
+        "model": "HUAWEI Pocket S"
+    },
+    "LEM-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI Pocket 2"
+    },
+    "HUAWEI CAZ-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 全网通标配版"
+    },
+    "HUAWEI CAZ-AL10": {
+        "brand": "华为",
+        "model": "HUAWEI nova 全网通高配版"
+    },
+    "HUAWEI CAZ-TL10": {
+        "brand": "华为",
+        "model": "HUAWEI nova 移动定制标配版"
+    },
+    "HUAWEI CAZ-TL20": {
+        "brand": "华为",
+        "model": "HUAWEI nova 移动定制高配版"
+    },
+    "WAS-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 青春版 全网通版"
+    },
+    "WAS-TL10": {
+        "brand": "华为",
+        "model": "HUAWEI nova 青春版 移动 4G+ 版"
+    },
+    "PIC-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 2 全网通版"
+    },
+    "PIC-TL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 2 移动 4G+ 版"
+    },
+    "BAC-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 2 Plus 全网通版"
+    },
+    "BAC-TL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 2 Plus 移动 4G+ 版"
+    },
+    "HWI-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 2s 全网通版"
+    },
+    "HWI-TL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 2s 移动 4G+ 版"
+    },
+    "ANE-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 3e 全网通版"
+    },
+    "ANE-TL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 3e 移动 4G+ 版"
+    },
+    "PAR-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 3 全网通版"
+    },
+    "PAR-TL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 3 移动 4G+ 版"
+    },
+    "INE-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 3i 全网通版"
+    },
+    "INE-TL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 3i 移动 4G+ 版"
+    },
+    "VCE-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 4 全网通版"
+    },
+    "VCE-TL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 4 移动 4G+ 版"
+    },
+    "MAR-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 4e 全网通版"
+    },
+    "MAR-TL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 4e 移动 4G+ 版"
+    },
+    "SEA-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 5 全网通版"
+    },
+    "SEA-TL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 5 移动 4G+ 版"
+    },
+    "SEA-AL10": {
+        "brand": "华为",
+        "model": "HUAWEI nova 5 Pro 全网通版"
+    },
+    "SEA-TL10": {
+        "brand": "华为",
+        "model": "HUAWEI nova 5 Pro 移动 4G+ 版"
+    },
+    "GLK-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 5i 全网通版"
+    },
+    "GLK-TL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 5i 移动 4G+ 版"
+    },
+    "GLK-LX1U": {
+        "brand": "华为",
+        "model": "HUAWEI nova 5i 联通定制版"
+    },
+    "SPN-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 5z 全网通版"
+    },
+    "SPN-TL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 5z 移动 4G+ 版"
+    },
+    "WLZ-AL10": {
+        "brand": "华为",
+        "model": "HUAWEI nova 6 4G"
+    },
+    "WLZ-AN00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 6 5G"
+    },
+    "JNY-AL10": {
+        "brand": "华为",
+        "model": "HUAWEI nova 6 SE 全网通版"
+    },
+    "JNY-TL10": {
+        "brand": "华为",
+        "model": "HUAWEI nova 6 SE 移动版"
+    },
+    "JEF-AN00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 7 5G 全网通版"
+    },
+    "JEF-AN20": {
+        "brand": "华为",
+        "model": "HUAWEI nova 7 5G 全网通版"
+    },
+    "JEF-TN00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 7 5G 移动版"
+    },
+    "JEF-TN20": {
+        "brand": "华为",
+        "model": "HUAWEI nova 7 5G 移动版"
+    },
+    "JER-AN10": {
+        "brand": "华为",
+        "model": "HUAWEI nova 7 Pro 5G 全网通版"
+    },
+    "JER-AN20": {
+        "brand": "华为",
+        "model": "HUAWEI nova 7 Pro 5G 全网通版"
+    },
+    "JER-TN10": {
+        "brand": "华为",
+        "model": "HUAWEI nova 7 Pro 5G 移动版"
+    },
+    "JER-TN20": {
+        "brand": "华为",
+        "model": "HUAWEI nova 7 Pro 5G 移动版"
+    },
+    "CDY-AN00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 7 SE 5G 全网通版"
+    },
+    "CDY-AN20": {
+        "brand": "华为",
+        "model": "HUAWEI nova 7 SE 5G 全网通版"
+    },
+    "CDY-TN00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 7 SE 5G 移动版"
+    },
+    "CDY-TN20": {
+        "brand": "华为",
+        "model": "HUAWEI nova 7 SE 5G 移动版"
+    },
+    "CND-AN00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 7 SE 5G 活力版"
+    },
+    "CDL-AN50": {
+        "brand": "华为",
+        "model": "HUAWEI nova 7 SE 5G 乐活版"
+    },
+    "ANG-AN00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 8 5G"
+    },
+    "BRQ-AN00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 8 Pro 5G"
+    },
+    "BRQ-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 8 Pro 4G"
+    },
+    "JSC-AN00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 8 SE 5G 全网通版"
+    },
+    "JSC-TN00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 8 SE 5G 移动版"
+    },
+    "JSC-AL50": {
+        "brand": "华为",
+        "model": "HUAWEI nova 8 SE 4G 全网通版"
+    },
+    "CHL-AL60": {
+        "brand": "华为",
+        "model": "HUAWEI nova 8 SE 活力版"
+    },
+    "NAM-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 9"
+    },
+    "RTE-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 9 Pro"
+    },
+    "JLN-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 10 青春版"
+    },
+    "NCO-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 10"
+    },
+    "GLA-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 10 Pro"
+    },
+    "CHA-AL80": {
+        "brand": "华为",
+        "model": "HUAWEI nova 10z"
+    },
+    "BNE-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 10 SE"
+    },
+    "FOA-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 11"
+    },
+    "GOA-AL80": {
+        "brand": "华为",
+        "model": "HUAWEI nova 11 Pro"
+    },
+    "GOA-AL80U": {
+        "brand": "华为",
+        "model": "HUAWEI nova 11 Ultra"
+    },
+    "BON-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 11 SE"
+    },
+    "BLK-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 12"
+    },
+    "FIN-AL60": {
+        "brand": "华为",
+        "model": "HUAWEI nova 12 活力版"
+    },
+    "ADA-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 12 Pro"
+    },
+    "ADA-AL00U": {
+        "brand": "华为",
+        "model": "HUAWEI nova 12 Ultra"
+    },
+    "ADA-AL10U": {
+        "brand": "华为",
+        "model": "HUAWEI nova 12 Ultra 星耀版"
+    },
+    "PSD-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova Flip"
+    },
+    "BLK-AL80": {
+        "brand": "华为",
+        "model": "HUAWEI nova 13"
+    },
+    "MIS-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 13 Pro"
+    },
+    "HUAWEI G6-T00": {
+        "brand": "华为",
+        "model": "华为 Ascend G6 移动版"
+    },
+    "HUAWEI G6-U00": {
+        "brand": "华为",
+        "model": "华为 Ascend G6 联通版"
+    },
+    "HUAWEI G6-C00": {
+        "brand": "华为",
+        "model": "华为 Ascend G6 电信版"
+    },
+    "HUAWEI G7-TL00": {
+        "brand": "华为",
+        "model": "华为 Ascend G7 移动版"
+    },
+    "HUAWEI G7-UL20": {
+        "brand": "华为",
+        "model": "华为 Ascend G7 联通版"
+    },
+    "HUAWEI RIO-TL00": {
+        "brand": "华为",
+        "model": "华为 G7 Plus 移动版"
+    },
+    "HUAWEI RIO-UL00": {
+        "brand": "华为",
+        "model": "华为 G7 Plus 联通版"
+    },
+    "HUAWEI VNS-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI G9 青春版 全网通版"
+    },
+    "HUAWEI VNS-TL00": {
+        "brand": "华为",
+        "model": "HUAWEI G9 青春版 移动版"
+    },
+    "HUAWEI VNS-DL00": {
+        "brand": "华为",
+        "model": "HUAWEI G9 青春版 双 4G 版"
+    },
+    "HUAWEI VNS-CL00": {
+        "brand": "华为",
+        "model": "HUAWEI G9 青春版 电信版"
+    },
+    "HUAWEI MLA-TL00": {
+        "brand": "华为",
+        "model": "HUAWEI G9 Plus 移动 4G 版"
+    },
+    "HUAWEI MLA-TL10": {
+        "brand": "华为",
+        "model": "HUAWEI G9 Plus 移动版"
+    },
+    "HUAWEI MLA-UL00": {
+        "brand": "华为",
+        "model": "HUAWEI G9 Plus 双 4G 版"
+    },
+    "HUAWEI A199": {
+        "brand": "华为",
+        "model": "华为麦芒 A199"
+    },
+    "HUAWEI B199": {
+        "brand": "华为",
+        "model": "华为麦芒 B199"
+    },
+    "HUAWEI C199": {
+        "brand": "华为",
+        "model": "华为麦芒 C199"
+    },
+    "HUAWEI C199s": {
+        "brand": "华为",
+        "model": "华为麦芒 3S"
+    },
+    "HUAWEI RIO-AL00": {
+        "brand": "华为",
+        "model": "华为麦芒 4 全网通版"
+    },
+    "HUAWEI RIO-CL00": {
+        "brand": "华为",
+        "model": "华为麦芒 4 电信 4G 版"
+    },
+    "HUAWEI MLA-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI 麦芒 5 全网通标配版"
+    },
+    "HUAWEI MLA-AL10": {
+        "brand": "华为",
+        "model": "HUAWEI 麦芒 5 全网通高配版"
+    },
+    "RNE-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI 麦芒 6"
+    },
+    "SNE-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI 麦芒 7"
+    },
+    "POT-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI 麦芒 8"
+    },
+    "POT-AL10": {
+        "brand": "华为",
+        "model": "HUAWEI 麦芒 8"
+    },
+    "TNN-AN00": {
+        "brand": "华为",
+        "model": "华为麦芒 9 5G"
+    },
+    "HUAWEI TIT-AL00": {
+        "brand": "华为",
+        "model": "华为畅享 5 全网通版"
+    },
+    "HUAWEI TIT-TL00": {
+        "brand": "华为",
+        "model": "华为畅享 5 移动 4G 版"
+    },
+    "HUAWEI TIT-CL00": {
+        "brand": "华为",
+        "model": "华为畅享 5 电信 4G 版"
+    },
+    "HUAWEI TIT-CL10": {
+        "brand": "华为",
+        "model": "华为畅享 5 电信 4G 版"
+    },
+    "HUAWEI TAG-AL00": {
+        "brand": "华为",
+        "model": "华为畅享 5S 全网通版"
+    },
+    "HUAWEI TAG-TL00": {
+        "brand": "华为",
+        "model": "华为畅享 5S 移动 4G 版"
+    },
+    "HUAWEI TAG-CL00": {
+        "brand": "华为",
+        "model": "华为畅享 5S 电信 4G 版"
+    },
+    "NCE-AL00": {
+        "brand": "华为",
+        "model": "华为畅享 6 全网通版"
+    },
+    "NCE-AL10": {
+        "brand": "华为",
+        "model": "华为畅享 6 全网通版"
+    },
+    "NCE-TL00": {
+        "brand": "华为",
+        "model": "华为畅享 6 移动 4G+ 版"
+    },
+    "NCE-TL10": {
+        "brand": "华为",
+        "model": "华为畅享 6 移动 4G+ 版"
+    },
+    "DIG-AL00": {
+        "brand": "华为",
+        "model": "华为畅享 6S 全网通版"
+    },
+    "DIG-TL10": {
+        "brand": "华为",
+        "model": "华为畅享 6S 移动 4G+ 版"
+    },
+    "TRT-AL00": {
+        "brand": "华为",
+        "model": "华为畅享 7 Plus 全网通版"
+    },
+    "TRT-AL00A": {
+        "brand": "华为",
+        "model": "华为畅享 7 Plus 全网通版"
+    },
+    "TRT-TL10": {
+        "brand": "华为",
+        "model": "华为畅享 7 Plus 移动 4G+ 版"
+    },
+    "TRT-TL10A": {
+        "brand": "华为",
+        "model": "华为畅享 7 Plus 移动 4G+ 版"
+    },
+    "SLA-AL00": {
+        "brand": "华为",
+        "model": "华为畅享 7 全网通版"
+    },
+    "SLA-TL10": {
+        "brand": "华为",
+        "model": "华为畅享 7 移动 4G+ 版"
+    },
+    "FIG-AL00": {
+        "brand": "华为",
+        "model": "华为畅享 7S 全网通标配版"
+    },
+    "FIG-AL10": {
+        "brand": "华为",
+        "model": "华为畅享 7S 全网通高配版"
+    },
+    "FIG-TL00": {
+        "brand": "华为",
+        "model": "华为畅享 7S 移动 4G+ 标配版"
+    },
+    "FIG-TL10": {
+        "brand": "华为",
+        "model": "华为畅享 7S 移动 4G+ 高配版"
+    },
+    "FLA-AL00": {
+        "brand": "华为",
+        "model": "华为畅享 8 Plus 全网通版"
+    },
+    "FLA-AL10": {
+        "brand": "华为",
+        "model": "华为畅享 8 Plus 全网通版"
+    },
+    "FLA-AL20": {
+        "brand": "华为",
+        "model": "华为畅享 8 Plus 全网通版"
+    },
+    "FLA-TL00": {
+        "brand": "华为",
+        "model": "华为畅享 8 Plus 移动 4G+ 版"
+    },
+    "FLA-TL10": {
+        "brand": "华为",
+        "model": "华为畅享 8 Plus 移动 4G+ 版"
+    },
+    "LDN-AL00": {
+        "brand": "华为",
+        "model": "华为畅享 8 全网通标配版"
+    },
+    "LDN-AL10": {
+        "brand": "华为",
+        "model": "华为畅享 8 全网通 NFC 版"
+    },
+    "LDN-AL20": {
+        "brand": "华为",
+        "model": "华为畅享 8 全网通高配版"
+    },
+    "LDN-TL00": {
+        "brand": "华为",
+        "model": "华为畅享 8 移动 4G+ 标配版"
+    },
+    "LDN-TL10": {
+        "brand": "华为",
+        "model": "华为畅享 8 移动 4G+ NFC 版"
+    },
+    "LDN-TL20": {
+        "brand": "华为",
+        "model": "华为畅享 8 移动 4G+ 高配版"
+    },
+    "ATU-AL10": {
+        "brand": "华为",
+        "model": "华为畅享 8e 全网通版"
+    },
+    "ATU-TL10": {
+        "brand": "华为",
+        "model": "华为畅享 8e 移动 4G+ 版"
+    },
+    "DRA-AL00": {
+        "brand": "华为",
+        "model": "华为畅享 8e 青春 全网通版"
+    },
+    "DRA-TL00": {
+        "brand": "华为",
+        "model": "华为畅享 8e 青春 移动 4G+ 版"
+    },
+    "JKM-AL00": {
+        "brand": "华为",
+        "model": "华为畅享 9 Plus 全网通版"
+    },
+    "JKM-AL00a": {
+        "brand": "华为",
+        "model": "华为畅享 9 Plus 全网通版 (4GB+64GB)"
+    },
+    "JKM-AL00b": {
+        "brand": "华为",
+        "model": "华为畅享 9 Plus 全网通版 (麒麟 710F)"
+    },
+    "JKM-TL00": {
+        "brand": "华为",
+        "model": "华为畅享 9 Plus 移动 4G+ 版"
+    },
+    "ARS-AL00": {
+        "brand": "华为",
+        "model": "华为畅享 MAX 全网通版"
+    },
+    "ARS-TL00": {
+        "brand": "华为",
+        "model": "华为畅享 MAX 移动 4G+ 版"
+    },
+    "DUB-AL00": {
+        "brand": "华为",
+        "model": "华为畅享 9 全网通标配/高配版"
+    },
+    "DUB-AL20": {
+        "brand": "华为",
+        "model": "华为畅享 9 全网通标配/高配版"
+    },
+    "DUB-AL00a": {
+        "brand": "华为",
+        "model": "华为畅享 9 全网通顶配版"
+    },
+    "DUB-TL00": {
+        "brand": "华为",
+        "model": "华为畅享 9 移动 4G+ 标配/高配版"
+    },
+    "DUB-TL00a": {
+        "brand": "华为",
+        "model": "华为畅享 9 移动 4G+ 顶配版"
+    },
+    "POT-AL00a": {
+        "brand": "华为",
+        "model": "华为畅享 9S 全网通版"
+    },
+    "POT-TL00a": {
+        "brand": "华为",
+        "model": "华为畅享 9S 移动 4G+ 版"
+    },
+    "MRD-AL00": {
+        "brand": "华为",
+        "model": "华为畅享 9e 全网通版"
+    },
+    "MRD-TL00": {
+        "brand": "华为",
+        "model": "华为畅享 9e 移动 4G+ 版"
+    },
+    "STK-AL00": {
+        "brand": "华为",
+        "model": "华为畅享 10 Plus 全网通版"
+    },
+    "STK-TL00": {
+        "brand": "华为",
+        "model": "华为畅享 10 Plus 移动 4G+ 版"
+    },
+    "ART-AL00x": {
+        "brand": "华为",
+        "model": "华为畅享 10 全网通版"
+    },
+    "ART-AL00m": {
+        "brand": "华为",
+        "model": "华为畅享 10 全网通版"
+    },
+    "ART-TL00x": {
+        "brand": "华为",
+        "model": "华为畅享 10 移动 4G+ 版"
+    },
+    "AQM-AL00": {
+        "brand": "华为",
+        "model": "华为畅享 10S 全网通版"
+    },
+    "AQM-TL00": {
+        "brand": "华为",
+        "model": "华为畅享 10S 移动 4G+ 版"
+    },
+    "MED-AL00": {
+        "brand": "华为",
+        "model": "华为畅享 10e 全网通版"
+    },
+    "MED-AL20": {
+        "brand": "华为",
+        "model": "华为畅享 10e 全网通版"
+    },
+    "MED-TL00": {
+        "brand": "华为",
+        "model": "华为畅享 10e 移动 4G+ 版"
+    },
+    "DVC-AN00": {
+        "brand": "华为",
+        "model": "华为畅享 Z 5G"
+    },
+    "DVC-AN20": {
+        "brand": "华为",
+        "model": "华为畅享 20 Pro 5G 全网通版"
+    },
+    "DVC-TN20": {
+        "brand": "华为",
+        "model": "华为畅享 20 Pro 5G 移动版"
+    },
+    "WKG-AN00": {
+        "brand": "华为",
+        "model": "华为畅享 20 5G 全网通版"
+    },
+    "WKG-TN00": {
+        "brand": "华为",
+        "model": "华为畅享 20 5G 移动版"
+    },
+    "FRL-AN00a": {
+        "brand": "华为",
+        "model": "华为畅享 20 Plus 5G 全网通版"
+    },
+    "FRL-TN00": {
+        "brand": "华为",
+        "model": "华为畅享 20 Plus 5G 移动版"
+    },
+    "PPA-AL20": {
+        "brand": "华为",
+        "model": "华为畅享 20 SE"
+    },
+    "MLD-AL00": {
+        "brand": "华为",
+        "model": "华为畅享 20e (麒麟 710A)"
+    },
+    "MLD-AL10": {
+        "brand": "华为",
+        "model": "华为畅享 20e (Helio P35)"
+    },
+    "MGA-AL00": {
+        "brand": "华为",
+        "model": "华为畅享 50"
+    },
+    "CTR-AL00": {
+        "brand": "华为",
+        "model": "华为畅享 50 Pro"
+    },
+    "EVE-AL00": {
+        "brand": "华为",
+        "model": "华为畅享 50z"
+    },
+    "MGA-AL40": {
+        "brand": "华为",
+        "model": "华为畅享 70z"
+    },
+    "STG-AL00": {
+        "brand": "华为",
+        "model": "华为畅享 60X"
+    },
+    "MAO-AL00": {
+        "brand": "华为",
+        "model": "华为畅享 60 Pro"
+    },
+    "FGD-AL00": {
+        "brand": "华为",
+        "model": "华为畅享 70"
+    },
+    "CTR-AL20": {
+        "brand": "华为",
+        "model": "华为畅享 70 Pro"
+    },
+    "GFY-AL00": {
+        "brand": "华为",
+        "model": "华为畅享 70S"
+    },
+    "S8-301W": {
+        "brand": "华为",
+        "model": "华为 MediaPad M1 Wi-Fi 版"
+    },
+    "S8-301U": {
+        "brand": "华为",
+        "model": "华为 MediaPad M1 3G 版"
+    },
+    "S8-303L": {
+        "brand": "华为",
+        "model": "华为 MediaPad M1 LTE 版"
+    },
+    "HUAWEI M2-801W": {
+        "brand": "华为",
+        "model": "华为揽阅 M2 8.0 Wi-Fi 版"
+    },
+    "HUAWEI M2-803L": {
+        "brand": "华为",
+        "model": "华为揽阅 M2 8.0 LTE 版"
+    },
+    "HUAWEI M2-A01W": {
+        "brand": "华为",
+        "model": "华为揽阅 M2 10.0 Wi-Fi 版"
+    },
+    "HUAWEI M2-A01L": {
+        "brand": "华为",
+        "model": "华为揽阅 M2 10.0 LTE 版"
+    },
+    "PLE-703L": {
+        "brand": "华为",
+        "model": "华为揽阅 M2 青春版 7.0 英寸 全网通版"
+    },
+    "PLE-703LT": {
+        "brand": "华为",
+        "model": "华为揽阅 M2 青春版 7.0 英寸 双 4G 版"
+    },
+    "FDR-A01w": {
+        "brand": "华为",
+        "model": "华为揽阅 M2 青春版 10.1 英寸 Wi-Fi 版"
+    },
+    "FDR-A03L": {
+        "brand": "华为",
+        "model": "华为揽阅 M2 青春版 10.1 英寸 LTE 版"
+    },
+    "BTV-W09": {
+        "brand": "华为",
+        "model": "华为平板 M3 Wi-Fi 版"
+    },
+    "BTV-DL09": {
+        "brand": "华为",
+        "model": "华为平板 M3 LTE 版"
+    },
+    "CPN-W09": {
+        "brand": "华为",
+        "model": "华为平板 M3 青春版 8.0 英寸 Wi-Fi 版"
+    },
+    "CPN-AL00": {
+        "brand": "华为",
+        "model": "华为平板 M3 青春版 8.0 英寸 全网通版"
+    },
+    "BAH-W09": {
+        "brand": "华为",
+        "model": "华为平板 M3 青春版 10.1 英寸 Wi-Fi 版"
+    },
+    "BAH-AL00": {
+        "brand": "华为",
+        "model": "华为平板 M3 青春版 10.1 英寸 全网通版"
+    },
+    "SHT-W09": {
+        "brand": "华为",
+        "model": "华为平板 M5 8.4 英寸 Wi-Fi 版"
+    },
+    "SHT-AL09": {
+        "brand": "华为",
+        "model": "华为平板 M5 8.4 英寸 全网通版"
+    },
+    "CMR-W09": {
+        "brand": "华为",
+        "model": "华为平板 M5 10.8 英寸 Wi-Fi 版"
+    },
+    "CMR-AL09": {
+        "brand": "华为",
+        "model": "华为平板 M5 10.8 英寸 全网通版"
+    },
+    "CMR-W19": {
+        "brand": "华为",
+        "model": "华为平板 M5 Pro Wi-Fi 版"
+    },
+    "CMR-AL19": {
+        "brand": "华为",
+        "model": "华为平板 M5 Pro 全网通版"
+    },
+    "BAH2-W09": {
+        "brand": "华为",
+        "model": "华为平板 M5 青春版 10.1 英寸 Wi-Fi 版"
+    },
+    "BAH2-AL10": {
+        "brand": "华为",
+        "model": "华为平板 M5 青春版 10.1 英寸 全网通版"
+    },
+    "JDN2-W09": {
+        "brand": "华为",
+        "model": "华为平板 M5 青春版 8 英寸 Wi-Fi 版"
+    },
+    "JDN2-AL00": {
+        "brand": "华为",
+        "model": "华为平板 M5 青春版 8 英寸 全网通版"
+    },
+    "JDN2-AL50": {
+        "brand": "华为",
+        "model": "华为平板 M5 青春版 8 英寸 全网通版"
+    },
+    "VRD-W09": {
+        "brand": "华为",
+        "model": "华为平板 M6 8.4 英寸 Wi-Fi 版"
+    },
+    "VRD-AL09": {
+        "brand": "华为",
+        "model": "华为平板 M6 8.4 英寸 全网通版"
+    },
+    "VRD-W10": {
+        "brand": "华为",
+        "model": "华为平板 M6 高能版 8.4 英寸 Wi-Fi 版"
+    },
+    "VRD-AL10": {
+        "brand": "华为",
+        "model": "华为平板 M6 高能版 8.4 英寸 全网通版"
+    },
+    "SCM-W09": {
+        "brand": "华为",
+        "model": "华为平板 M6 10.8 英寸 Wi-Fi 版"
+    },
+    "SCM-AL09": {
+        "brand": "华为",
+        "model": "华为平板 M6 10.8 英寸 全网通版"
+    },
+    "MRX-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 10.8 英寸 Wi-Fi 版 (6GB+128GB/8GB+256GB)"
+    },
+    "MRX-W29": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 10.8 英寸 Wi-Fi 版 (6GB+128GB/8GB+256GB)"
+    },
+    "MRX-AL09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 10.8 英寸 4G 全网通版 (6GB+128GB/8GB+256GB)"
+    },
+    "MRX-W19": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 10.8 英寸 Wi-Fi 版 (8GB+256GB)"
+    },
+    "MRX-W39": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 10.8 英寸 Wi-Fi 版 (8GB+256GB)"
+    },
+    "MRX-AL19": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 10.8 英寸 4G 全网通版 (8GB+512GB)"
+    },
+    "MRX-AN19": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 10.8 英寸 5G 全网通版"
+    },
+    "MRR-W29": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 10.8 英寸 2021 Wi-Fi 版"
+    },
+    "MRR-W39": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 10.8 英寸 2021 Wi-Fi 版"
+    },
+    "GOT-W29": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 11 英寸 Wi-Fi 版"
+    },
+    "GOT-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 11 英寸 性能版 Wi-Fi 版"
+    },
+    "GOT-AL09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 11 英寸 性能版 全网通版"
+    },
+    "GOT-AL19": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 11 英寸 性能版 全网通版 (12GB+512GB)"
+    },
+    "XYAO-W00": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 11 英寸 2024 Wi-Fi 版"
+    },
+    "WGR-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 12.6 英寸 2021 Wi-Fi 版"
+    },
+    "WGR-W19": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 12.6 英寸 2021 Wi-Fi 版"
+    },
+    "WGR-AN19": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 12.6 英寸 2021 5G 全网通版"
+    },
+    "WGRR-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 12.6 英寸 2022 Wi-Fi 版"
+    },
+    "WGRR-W19": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 12.6 英寸 2022 Wi-Fi 版"
+    },
+    "PCE-W30": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 13.2 英寸 Wi-Fi 版"
+    },
+    "PCE-W40": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 13.2 英寸 Wi-Fi 版 (16GB+1TB)"
+    },
+    "PCE-AL30": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 13.2 英寸 全网通版"
+    },
+    "PCE-AL40": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 13.2 英寸 典藏版 全网通版"
+    },
+    "MRO-W00": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 12.2 英寸 Wi-Fi 版"
+    },
+    "MRO-W10": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 12.2 英寸 Wi-Fi 版 (16GB+1TB)"
+    },
+    "MRO-AL10": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 12.2 英寸 全网通版 (16GB+1TB)"
+    },
+    "DBY2-W00": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Air 11.5 英寸 Wi-Fi 版"
+    },
+    "DBY2-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Air 11.5 英寸 全网通版"
+    },
+    "BKY-W00": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Air 12 英寸 Wi-Fi 版 (8GB+256GB)"
+    },
+    "BKY-W10": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Air 12 英寸 Wi-Fi 版 (12GB+256GB)"
+    },
+    "BKY-W20": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Air 12 英寸 柔光版 Wi-Fi 版"
+    },
+    "BAH3-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 10.4 英寸 Wi-Fi 版 (麒麟 810)"
+    },
+    "BAH3-W59": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 10.4 英寸 Wi-Fi 版 (麒麟 820)"
+    },
+    "BAH3-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 10.4 英寸 全网通版 (麒麟 810)"
+    },
+    "BAH3-AN10": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 5G 10.4 英寸 全网通版 (麒麟 820)"
+    },
+    "BAH4-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 10.4 英寸 2022 Wi-Fi 版 (麒麟 710A)"
+    },
+    "BAH4-W29": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 10.4 英寸 2022 Wi-Fi 版 (麒麟 710A)"
+    },
+    "BAH4-W39": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 10.4 英寸 2022 Wi-Fi 版 (麒麟 710A)"
+    },
+    "BAH4-W19": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 10.4 英寸 2022 悦动版 Wi-Fi 版 (骁龙 778G 4G)"
+    },
+    "BAH4-AL10": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 10.4 英寸 2022 悦动版 全网通版 (骁龙 778G 4G)"
+    },
+    "BTK-W00": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 11.5 英寸 2023 Wi-Fi 版"
+    },
+    "BTK-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 11.5 英寸 2023 全网通版"
+    },
+    "SCMR-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 10.8 英寸 Wi-Fi 版"
+    },
+    "SCMR-AL09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 10.8 英寸 全网通版"
+    },
+    "DBY-W09": {
+        "brand": "华为",
+        "model": "华为平板 C7 10.95 英寸 Wi-Fi 版"
+    },
+    "DBR-W00": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 11 英寸 2023 Wi-Fi 版"
+    },
+    "DBR-W10": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 11 英寸 2023 柔光版 Wi-Fi 版"
+    },
+    "TGR-W00": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 11.5\" S Wi-Fi 版"
+    },
+    "TGR-W10": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 11.5\" S 柔光版 Wi-Fi 版"
+    },
+    "DMG-W00": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 11.5\" S 灵动款 Wi-Fi 版"
+    },
+    "AGS2-W09": {
+        "brand": "华为",
+        "model": "华为畅享平板 10.1 英寸 Wi-Fi 版"
+    },
+    "AGS2-AL00": {
+        "brand": "华为",
+        "model": "华为畅享平板 10.1 英寸 全网通版"
+    },
+    "AGS3-W00D": {
+        "brand": "华为",
+        "model": "华为畅享平板 2 10.1 英寸 Wi-Fi 版 (4GB+64GB)"
+    },
+    "AGS3-W00E": {
+        "brand": "华为",
+        "model": "华为畅享平板 2 10.1 英寸 Wi-Fi 版 (4GB+128GB)"
+    },
+    "AGS3K-W00": {
+        "brand": "华为",
+        "model": "华为畅享平板 2 10.1 英寸 Wi-Fi 版"
+    },
+    "AGS3K-W10": {
+        "brand": "华为",
+        "model": "华为畅享平板 2 10.1 英寸 Wi-Fi 版"
+    },
+    "AGS3-AL00": {
+        "brand": "华为",
+        "model": "华为畅享平板 2 10.1 英寸 全网通版"
+    },
+    "AGS3K-AL00": {
+        "brand": "华为",
+        "model": "华为畅享平板 2 10.1 英寸 全网通版"
+    },
+    "AGS3K-W20": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad SE 10.1 英寸 Wi-Fi 版"
+    },
+    "AGS3K-AL20": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad SE 10.1 英寸 全网通版"
+    },
+    "AGS5-W00": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad SE 10.4 英寸 Wi-Fi 版"
+    },
+    "AGS5-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad SE 10.4 英寸 全网通版"
+    },
+    "AGS6-W00": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad SE 11 英寸 Wi-Fi 版"
+    },
+    "AGS6-W10": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad SE 活力版 11 英寸 Wi-Fi 版"
+    },
+    "HMW-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Paper 10.3 英寸 Wi-Fi 版"
+    },
+    "HMW-AL10": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Paper 典藏版 10.3 英寸 全网通版"
+    },
+    "BZK-W00": {
+        "brand": "华为",
+        "model": "华为平板 C3 (华为平板 T3 行业专享版) 8 英寸 Wi-Fi 版"
+    },
+    "BZK-L00": {
+        "brand": "华为",
+        "model": "华为平板 C3 (华为平板 T3 行业专享版) 8 英寸 LTE 版"
+    },
+    "BZA-W00": {
+        "brand": "华为",
+        "model": "华为平板 C3 (华为平板 T3 行业专享版) 9.6 英寸 Wi-Fi 版"
+    },
+    "BZA-L00": {
+        "brand": "华为",
+        "model": "华为平板 C3 (华为平板 T3 行业专享版) 9.6 英寸 LTE 版"
+    },
+    "BZD-W00": {
+        "brand": "华为",
+        "model": "华为平板 C3 8 英寸 2020 Wi-Fi 版"
+    },
+    "BZD-AL00": {
+        "brand": "华为",
+        "model": "华为平板 C3 8 英寸 2020 全网通版"
+    },
+    "BZD-AL10": {
+        "brand": "华为",
+        "model": "华为平板 C3 8 英寸 2020 全网通版"
+    },
+    "BZC-W00": {
+        "brand": "华为",
+        "model": "华为平板 C3 9.7 英寸 2020 Wi-Fi 版"
+    },
+    "BZC-AL00": {
+        "brand": "华为",
+        "model": "华为平板 C3 9.7 英寸 2020 全网通版"
+    },
+    "BZH-W00": {
+        "brand": "华为",
+        "model": "华为平板 C3 9.7 英寸 2022 Wi-Fi 版"
+    },
+    "BZH-W30": {
+        "brand": "华为",
+        "model": "华为平板 C3 9.7 英寸 2022 Wi-Fi 版"
+    },
+    "BXE3-W00": {
+        "brand": "华为",
+        "model": "华为擎云 C3 10.4 英寸 Wi-Fi 版"
+    },
+    "BVE3-W00": {
+        "brand": "华为",
+        "model": "华为擎云 C3 10.4 英寸 Wi-Fi 版"
+    },
+    "BXN3-W00": {
+        "brand": "华为",
+        "model": "华为擎云 C3 10.4 英寸 Wi-Fi 版"
+    },
+    "MON-W19": {
+        "brand": "华为",
+        "model": "华为平板 C5 8 英寸 Wi-Fi 版"
+    },
+    "MON-AL19": {
+        "brand": "华为",
+        "model": "华为平板 C5 8 英寸 全网通版"
+    },
+    "BZT-W09": {
+        "brand": "华为",
+        "model": "华为平板 C5 10.1 英寸 Wi-Fi 版"
+    },
+    "BZT-AL00": {
+        "brand": "华为",
+        "model": "华为平板 C5 10.1 英寸 全网通标配版"
+    },
+    "BZT-AL10": {
+        "brand": "华为",
+        "model": "华为平板 C5 10.1 英寸 全网通高配版"
+    },
+    "BZW-AL00": {
+        "brand": "华为",
+        "model": "华为平板 C5 8 英寸 2020 全网通版 (4GB+32GB)"
+    },
+    "BZW-AL10": {
+        "brand": "华为",
+        "model": "华为平板 C5 8 英寸 2020 全网通版 (4GB+64GB)"
+    },
+    "BZT3-W09": {
+        "brand": "华为",
+        "model": "华为平板 C5 10.4 英寸 2020 Wi-Fi 版"
+    },
+    "BZT3-AL00": {
+        "brand": "华为",
+        "model": "华为平板 C5 10.4 英寸 2020 全网通版"
+    },
+    "BZT3-W59": {
+        "brand": "华为",
+        "model": "华为平板 C5 10.4 英寸 2021 Wi-Fi 版"
+    },
+    "BZT3-W69": {
+        "brand": "华为",
+        "model": "华为平板 C5 10.4 英寸 2021 Wi-Fi 版"
+    },
+    "BZT4-W19": {
+        "brand": "华为",
+        "model": "华为平板 C5 10.4 英寸 2022 Wi-Fi 版"
+    },
+    "BZT4-AL10": {
+        "brand": "华为",
+        "model": "华为平板 C5 10.4 英寸 2022 全网通版"
+    },
+    "KOB2KZ-W09": {
+        "brand": "华为",
+        "model": "华为擎云 C5 8 英寸 Wi-Fi 版"
+    },
+    "KOB2KZ-AL00": {
+        "brand": "华为",
+        "model": "华为擎云 C5 8 英寸 全网通版"
+    },
+    "BTKZ-W00": {
+        "brand": "华为",
+        "model": "华为擎云 C5 (第 2 代) 11.5 英寸 Wi-Fi 版"
+    },
+    "BTKZ-AL00": {
+        "brand": "华为",
+        "model": "华为擎云 C5 (第 2 代) 11.5 英寸 全网通版"
+    },
+    "BZI-W00": {
+        "brand": "华为",
+        "model": "华为平板 C5e 10.1 英寸 2022 Wi-Fi 版"
+    },
+    "BZI-W20": {
+        "brand": "华为",
+        "model": "华为平板 C5e 10.1 英寸 2022 Wi-Fi 版"
+    },
+    "BZI-AL00": {
+        "brand": "华为",
+        "model": "华为平板 C5e 10.1 英寸 2022 全网通版"
+    },
+    "BZI-AL20": {
+        "brand": "华为",
+        "model": "华为平板 C5e 10.1 英寸 2022 全网通版"
+    },
+    "AGS5Z-W09": {
+        "brand": "华为",
+        "model": "华为擎云 C5e 10.4 英寸 Wi-Fi 版"
+    },
+    "AGS5Z-W19": {
+        "brand": "华为",
+        "model": "华为擎云 C5e 10.4 英寸 Wi-Fi 版"
+    },
+    "AGS5Z-AL00": {
+        "brand": "华为",
+        "model": "华为擎云 C5e 10.4 英寸 全网通版"
+    },
+    "BZF5-W00": {
+        "brand": "华为",
+        "model": "华为擎云 C5e (第 2 代) 11 英寸 Wi-Fi 版"
+    },
+    "BLF5-W00": {
+        "brand": "华为",
+        "model": "华为擎云 C5e (第 2 代) 11 英寸 Wi-Fi 版"
+    },
+    "BZH5-W00": {
+        "brand": "华为",
+        "model": "华为擎云 C5e (第 2 代) 11 英寸 Wi-Fi 版"
+    },
+    "BVE-W10": {
+        "brand": "华为",
+        "model": "华为擎云 C5z 10.4 英寸 Wi-Fi 版"
+    },
+    "DBY2Z-AL00": {
+        "brand": "华为",
+        "model": "华为擎云 C7 11.5 英寸 Wi-Fi 版"
+    },
+    "BBG7-W00": {
+        "brand": "华为",
+        "model": "华为擎云 C7 (第 2 代) 11.5 英寸 Wi-Fi 版"
+    },
+    "HZ-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook m3"
+    },
+    "HZ-W19": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook m5"
+    },
+    "HZ-W29": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook m7"
+    },
+    "WT-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook X i5"
+    },
+    "WT-W19": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook X i7"
+    },
+    "EUL-W19": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook X 2020 i5 (8GB+512GB)"
+    },
+    "EUL-W19P": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook X 2020 i5 (16GB+512GB)"
+    },
+    "EUL-W29P": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook X 2020 i7 (16GB+512GB)"
+    },
+    "EULD-WFH9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook X 2021 i5"
+    },
+    "MACH-W19": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook X Pro i5"
+    },
+    "MACH-W29": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook X Pro i7"
+    },
+    "MACHR-W19": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook X Pro 2019 i5"
+    },
+    "MACHR-W19L": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook X Pro 2019 i5 Linux 版"
+    },
+    "MACHR-W29": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook X Pro 2019 i7"
+    },
+    "MACHR-W29BL": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook X Pro 2019 i7 Linux 版"
+    },
+    "MACHC-WAH9LP": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook X Pro 2020 i5"
+    },
+    "MACHC-WAE9LP": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook X Pro 2020 i7"
+    },
+    "MACHD-WFH9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook X Pro 2021 i5"
+    },
+    "MACHD-WFH9Q": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook X Pro 2021 i5"
+    },
+    "MACHD-WFE9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook X Pro 2021 i7"
+    },
+    "MACHD-WFE9Q": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook X Pro 2021 i7"
+    },
+    "MRG-W56": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook X Pro 2022 i5"
+    },
+    "MRG-W76": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook X Pro 2022 i7"
+    },
+    "MRGF-16": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook X Pro 2022 12 代酷睿版"
+    },
+    "MRGFG-16": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook X Pro 2023 (16GB 内存)"
+    },
+    "MRGFG-32": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook X Pro 2023 (32GB 内存)"
+    },
+    "VGHH-16": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook X Pro 酷睿 Ultra (16GB 内存)"
+    },
+    "VGHH-32": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook X Pro 酷睿 Ultra (32GB 内存)"
+    },
+    "WRT-W19": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 13 i5"
+    },
+    "WRT-W19L": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 13 i5 Linux 版"
+    },
+    "WRT-W29": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 13 i7"
+    },
+    "WRT-W29L": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 13 i7 Linux 版"
+    },
+    "HN-W19R": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 13 锐龙版"
+    },
+    "HN-W19L": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 13 锐龙 Linux 版"
+    },
+    "WRTB-WAH9L": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 13 2020 i5 (8GB+512GB)"
+    },
+    "WRTB-WFH9L": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 13 2020 i5 (16GB+512GB)"
+    },
+    "WRTB-WFE9L": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 13 2020 i7 (16GB+512GB)"
+    },
+    "HNL-WDQ9Q": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 13 2020 R5 (8GB+512GB)"
+    },
+    "HNL-WDP9Q": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 13 2020 R7 (8GB+512GB)"
+    },
+    "HNL-WFQ9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 13 2020 R5 (16GB+512GB)"
+    },
+    "HNL-WFP9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 13 2020 R7 (16GB+512GB)"
+    },
+    "HNL-WFP9Q": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 13 2020 R7 (16GB+512GB)"
+    },
+    "WRTD-WDH9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 13 2021 i5 (8GB+512GB)"
+    },
+    "WRTD-WDH9Q": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 13 2021 i5 (8GB+512GB)"
+    },
+    "WRTD-WDE9Q": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 13 2021 i7 (8GB+512GB)"
+    },
+    "WRTD-WFH9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 13 2021 i5 (16GB+512GB)"
+    },
+    "WRTD-WFH9Q": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 13 2021 i5 (16GB+512GB)"
+    },
+    "WRTD-WFE9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 13 2021 i7 (16GB+512GB)"
+    },
+    "WRTD-WFE9Q": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 13 2021 i7 (16GB+512GB)"
+    },
+    "EMD-W58": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 13s i5 (8GB+512GB)"
+    },
+    "EMD-W56": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 13s i5 (16GB+512GB)"
+    },
+    "EMD-W76": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 13s i7 (16GB+512GB)"
+    },
+    "EMF-16": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 13s 2023"
+    },
+    "KLV-W19": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 14 i5"
+    },
+    "KLV-W19DL": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 14 i5 Linux 版"
+    },
+    "KLV-W29": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 14 i7"
+    },
+    "KLVC-WAH9L": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 14 2020 i5 (8GB+512GB)"
+    },
+    "KLVC-WFH9L": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 14 2020 i5 (16GB+512GB)"
+    },
+    "KLVC-WFE9L": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 14 2020 i7 (16GB+512GB)"
+    },
+    "KLVL-WFH9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 14 2020 R5"
+    },
+    "KLVL-WFE9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 14 2020 R7"
+    },
+    "KLVL-WFE9Q": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 14 2020 R7"
+    },
+    "KLVD-WDH9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 14 2021 i5 (8GB+512GB)"
+    },
+    "KLVD-WDH9Q": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 14 2021 i5 (8GB+512GB)"
+    },
+    "KLVD-WDE9Q": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 14 2021 i7 (8GB+512GB)"
+    },
+    "KLVD-WFH9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 14 2021 i5 (16GB+512GB)"
+    },
+    "KLVD-WFE9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 14 2021 i7 (16GB+512GB)"
+    },
+    "KLVL-W56W": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 14 2021 R5"
+    },
+    "KLVL-W76W": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 14 2021 R7"
+    },
+    "KLVF-16": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 14 2022"
+    },
+    "KLVG-16": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 14 2023 (16GB 内存)"
+    },
+    "KLVG-32": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 14 2023 (32GB 内存)"
+    },
+    "FLMH-16": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 14 酷睿 Ultra (16GB 内存)"
+    },
+    "FLMH-32": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 14 酷睿 Ultra (32GB 内存)"
+    },
+    "HKD-W58": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 14s i5 (8GB+512GB)"
+    },
+    "HKD-W56": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 14s i5 (16GB+512GB)"
+    },
+    "HKD-W76": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 14s i7 (16GB+512GB/1TB)"
+    },
+    "HKF-16": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 14s 2022"
+    },
+    "HKFG-16": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 14s 2023 (16GB 内存)"
+    },
+    "HKFG-32": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 14s 2023 (32GB 内存)"
+    },
+    "CREM-WFG9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 16 R5"
+    },
+    "CREM-WFD9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 16 R7"
+    },
+    "CREF-16": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 16s"
+    },
+    "CREFG-16": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 16s 2023 (16GB 内存)"
+    },
+    "CREFG-32": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook 16s 2023 (32GB 内存)"
+    },
+    "ENZH-16": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook GT 14 (16GB 内存)"
+    },
+    "ENZH-32": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook GT 14 (32GB 内存)"
+    },
+    "PL-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D i5 集显"
+    },
+    "PL-W19": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D i5 独显"
+    },
+    "PL-W29": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D i7"
+    },
+    "MRC-W00": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 2018 i3 集显"
+    },
+    "MRC-W10BR": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 2018 i5 集显"
+    },
+    "MRC-W50": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 2018 i5 独显"
+    },
+    "MRC-W50R": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 2018 i5 独显 (8GB+512GB)"
+    },
+    "MRC-W60": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 2018 i7 独显"
+    },
+    "MRC-W60R": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 2018 i7 独显 (8GB+512GB)"
+    },
+    "MRC-W70": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 2018 i3 集显"
+    },
+    "Nbl-WAQ9R": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 14 R5"
+    },
+    "Nbl-WAQ9RP": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 14 R5 (16GB+512GB)"
+    },
+    "Nbl-WAQ9L": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 14 R5 Linux 版"
+    },
+    "NbB-WAH9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 14 i5 (8GB+512GB)"
+    },
+    "NbB-WAH9P": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 14 i5 (16GB+512GB)"
+    },
+    "NbB-WAE9P": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 14 i7 (16GB+512GB)"
+    },
+    "NblL-WFQ9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 14 2020 R5"
+    },
+    "NblL-WFP9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 14 2020 R7"
+    },
+    "NbD-WFH9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 14 2021 i5"
+    },
+    "NbD-WFE9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 14 2021 i7"
+    },
+    "NbM-WDQ9D": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 14 2021 R5 (8GB+512GB)"
+    },
+    "NbM-WFQ9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 14 2021 R5 (16GB+512GB)"
+    },
+    "NbM-WFP9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 14 2021 R7 (16GB+512GB)"
+    },
+    "NbDE-WFH9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 14 2022 i5"
+    },
+    "NbDE-WFE9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 14 2022 i7"
+    },
+    "NbDE-WDH9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 14 SE i5"
+    },
+    "NbF-08": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 14 SE 12 代酷睿版 (8GB 内存)"
+    },
+    "NbF-16": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 14 SE 12 代酷睿版 (16GB 内存)"
+    },
+    "MDF-16": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 14 2023 12 代酷睿版 / HUAWEI MateBook D 14 SE 2023"
+    },
+    "MDG-16": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 14 2023 13 代酷睿版 / HUAWEI MateBook D 14 SE 13 代酷睿版"
+    },
+    "Boh-WAQ9R": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 15 R5 (8GB+512GB)"
+    },
+    "Boh-WAQ9RP": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 15 R5 (16GB+256GB+1TB)"
+    },
+    "Boh-WAQ9L": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 15 R5 Linux 版"
+    },
+    "BoB-WAH9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 15 i5 (8GB+512GB)"
+    },
+    "BoB-WAH9P": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 15 i5 (16GB+512GB)"
+    },
+    "BoB-WAE9P": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 15 i7 (16GB+512GB)"
+    },
+    "BohL-WFQ9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 15 2020 R5"
+    },
+    "BohL-WFP9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 15 2020 R7"
+    },
+    "BoD-WFH9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 15 2021 i5"
+    },
+    "BoD-WFE9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 15 2021 i7"
+    },
+    "BoM-WFQ9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 15 2021 R5"
+    },
+    "BoM-WFP9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 15 2021 R7"
+    },
+    "BoDE-WFH9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 15 2022 i5"
+    },
+    "BoDE-WFE9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 15 2022 i7"
+    },
+    "BoDE-WDH9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 15 SE i5"
+    },
+    "BoF-16": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 15 2022 12 代酷睿版 (16GB 内存)"
+    },
+    "RLEF-16": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 16 2022 / HUAWEI MateBook D 16 SE"
+    },
+    "RLEG-16": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 16 2023"
+    },
+    "MCLF-16": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 16 SE 2024 12 代酷睿版"
+    },
+    "MCLG-16": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook D 16 2024 / HUAWEI MateBook D 16 SE 2024 13 代酷睿版 / HUAWEI MateBook D 16 高能版 2024"
+    },
+    "BL-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook E i3"
+    },
+    "BL-W19": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook E i5"
+    },
+    "PAK-AL09": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook E 2019"
+    },
+    "DRC-W58": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook E 2022 i5 (8GB+256GB)"
+    },
+    "DRC-W56": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook E 2022 i5 (16GB+512GB)"
+    },
+    "DRC-W76": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook E 2022 i7 (16GB+512GB)"
+    },
+    "DRR-W56": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook E 2023 i5"
+    },
+    "DRR-W76": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook E 2023 i7"
+    },
+    "GK-G58": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook E Go 全网通 (8GB+256GB)"
+    },
+    "GK-G56": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook E Go 全网通 (16GB+512GB)"
+    },
+    "GK-W76": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook E Go 性能版 Wi-Fi / HUAWEI MateBook E Go 2023 Wi-Fi"
+    },
+    "NBZ-WBH9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B3-410 i5 (8GB+256GB)"
+    },
+    "NBZ-WBH9B": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B3-410 i5 (8GB+512GB)"
+    },
+    "NBZ-WBE9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B3-410 i7"
+    },
+    "NDZ-WDI9A": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B3-420 i3"
+    },
+    "NDZ-WDH9A": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B3-420 i5 集显"
+    },
+    "NDZ-WFH9A": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B3-420 i5 集显"
+    },
+    "NDZ-WFH9B": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B3-420 i5 独显"
+    },
+    "NDZ-WFE9A": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B3-420 i7"
+    },
+    "NFZ-WDH9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B3-430 i5 (8GB+512GB)"
+    },
+    "NFZ-WFH9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B3-430 i5 (16GB+512GB)"
+    },
+    "NFZ-WFH9D": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B3-430 i5 (16GB+1TB)"
+    },
+    "NFZ-WFE9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B3-430 i7"
+    },
+    "BBZ-WBH9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B3-510 i5"
+    },
+    "BBZ-WBE9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B3-510 i7"
+    },
+    "BDZ-WDH9A": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B3-520 i5 (8GB+512GB)"
+    },
+    "BDZ-WFH9A": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B3-520 i5 (16GB+512GB)"
+    },
+    "BDZ-WFE9A": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B3-520 i7"
+    },
+    "WRTDZ-WFH9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B5-330 i5"
+    },
+    "WRTDZ-WFE9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B5-330 i7"
+    },
+    "KLCZ-WDH9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B5-420 i5"
+    },
+    "KLCZ-WDH9B": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B5-420 i5 独显"
+    },
+    "KLCZ-WFH9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B5-420 i7"
+    },
+    "KLVDZ-WDH9AQ": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B5-430 i5 (8GB+512GB)"
+    },
+    "KLVDZ-WFH9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B5-430 i5 (16GB+512GB)"
+    },
+    "KLVDZ-WFH9B": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B5-430 i5 独显 (16GB+512GB)"
+    },
+    "KLVDZ-WFE9": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B5-430 i7"
+    },
+    "KLVFZ-W56": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B5-440 i5 (16GB+512GB)"
+    },
+    "KLVFZ-006": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B5-440 i5 (16GB+1TB)"
+    },
+    "KLVFZ-W76": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B5-440 i7 (16GB+512GB)"
+    },
+    "KLVFZ-001": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B5-440 i7 (16GB+1TB)"
+    },
+    "MDZ-WDH9A": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B7-410 i5 (8GB+512GB)"
+    },
+    "MDZ-WDH9B": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B7-410 i5 (8GB+256GB)"
+    },
+    "MDZ-WFH9A": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B7-410 i5 (16GB+512GB)"
+    },
+    "MDZ-WFE9A": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B7-410 i7 (16GB+512GB)"
+    },
+    "MDZ-WFE9B": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B7-410 i7 (16GB+1TB)"
+    },
+    "MRGFZ-W5651": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B7-420 i5 (16GB+512GB)"
+    },
+    "MRGFZ-W7651": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B7-420 i7 (16GB+512GB)"
+    },
+    "MRGFZ-W7611": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook B7-420 i7 (16GB+1TB)"
+    },
+    "YTSFZ-5651TP": {
+        "brand": "华为",
+        "model": "华为擎云 G540 i5"
+    },
+    "YTSFZ-7611T": {
+        "brand": "华为",
+        "model": "华为擎云 S520 i7"
+    },
+    "YTGZ-5651SP": {
+        "brand": "华为",
+        "model": "华为擎云 S520 Gen2 i5 (16GB+512GB)"
+    },
+    "YTSGZ-5651TP": {
+        "brand": "华为",
+        "model": "华为擎云 G540 Gen2 i5"
+    },
+    "YTGZ-5611SP": {
+        "brand": "华为",
+        "model": "华为擎云 S520 Gen2 i5 (16GB+1TB)"
+    },
+    "YTGZ-7611S": {
+        "brand": "华为",
+        "model": "华为擎云 S520 Gen2 i7 (16GB+1TB)"
+    },
+    "YTSGZ-7611TP": {
+        "brand": "华为",
+        "model": "华为擎云 S520 Gen2 i7 (16GB+1TB)"
+    },
+    "YTFZ-5851S": {
+        "brand": "华为",
+        "model": "华为擎云 S540 i5 (U15) (8GB+512GB)"
+    },
+    "YTFZ-5851SP": {
+        "brand": "华为",
+        "model": "华为擎云 S540 i5 (P28) (8GB+512GB)"
+    },
+    "YTFZ-5651S": {
+        "brand": "华为",
+        "model": "华为擎云 S540 i5 (U15) (16GB+512GB)"
+    },
+    "YTFZ-5651SP": {
+        "brand": "华为",
+        "model": "华为擎云 S540 i5 (P28) (16GB+512GB)"
+    },
+    "YTFZ-7651S": {
+        "brand": "华为",
+        "model": "华为擎云 S540 i7 (U15) (16GB+512GB)"
+    },
+    "YTFZ-7651SP": {
+        "brand": "华为",
+        "model": "华为擎云 S540 i7 (P28) (16GB+512GB)"
+    },
+    "KLVG-16Z3-xxx": {
+        "brand": "华为",
+        "model": "华为擎云 G740 i5 (16GB+512GB)"
+    },
+    "KLVG-16Z2-xxx": {
+        "brand": "华为",
+        "model": "华为擎云 G740 i5 (16GB+1TB)"
+    },
+    "KLVG-16Z1-xxx": {
+        "brand": "华为",
+        "model": "华为擎云 G740 i7 (16GB+1TB)"
+    },
+    "KLVU-WDU0": {
+        "brand": "华为",
+        "model": "华为擎云 L410 (8GB+256GB)"
+    },
+    "KLVU-WDU0B": {
+        "brand": "华为",
+        "model": "华为擎云 L410 (8GB+512GB)"
+    },
+    "KLVV-W5821": {
+        "brand": "华为",
+        "model": "华为擎云 L420"
+    },
+    "HEGE-550": {
+        "brand": "华为",
+        "model": "华为智慧屏 V55i-A (4GB+64GB)"
+    },
+    "HEGE-550B": {
+        "brand": "华为",
+        "model": "华为智慧屏 V55i-B (4GB+32GB)"
+    },
+    "HEGE-560": {
+        "brand": "华为",
+        "model": "华为智慧屏 V65"
+    },
+    "HEGE-560B": {
+        "brand": "华为",
+        "model": "华为智慧屏 V65i"
+    },
+    "HEGE-560S": {
+        "brand": "华为",
+        "model": "华为智慧屏 V65 尊爵版"
+    },
+    "HEGE-570": {
+        "brand": "华为",
+        "model": "华为智慧屏 V75"
+    },
+    "HD55THAA": {
+        "brand": "华为",
+        "model": "华为智慧屏 V 55 2021"
+    },
+    "HD65THAA": {
+        "brand": "华为",
+        "model": "华为智慧屏 V 65 2021"
+    },
+    "HD75THAA": {
+        "brand": "华为",
+        "model": "华为智慧屏 V 75 2021"
+    },
+    "HD75FREA": {
+        "brand": "华为",
+        "model": "华为智慧屏 V 75 Super"
+    },
+    "HD85THAA": {
+        "brand": "华为",
+        "model": "华为智慧屏 V 85 2021"
+    },
+    "HD98SOKA": {
+        "brand": "华为",
+        "model": "华为智慧屏 V 98 2021"
+    },
+    "HD65FRUA": {
+        "brand": "华为",
+        "model": "华为智慧屏 V 65 Pro"
+    },
+    "HD75FRUA": {
+        "brand": "华为",
+        "model": "华为智慧屏 V 75 Pro"
+    },
+    "HD65FRUB": {
+        "brand": "华为",
+        "model": "华为智慧屏 V 65 三代"
+    },
+    "HD75FRUB": {
+        "brand": "华为",
+        "model": "华为智慧屏 V 75 三代"
+    },
+    "HD75ARKB": {
+        "brand": "华为",
+        "model": "华为智慧屏 V5 75"
+    },
+    "HD85ARKB": {
+        "brand": "华为",
+        "model": "华为智慧屏 V5 85"
+    },
+    "HD98ARKB": {
+        "brand": "华为",
+        "model": "华为智慧屏 V5 98"
+    },
+    "HD75ARKA": {
+        "brand": "华为",
+        "model": "华为智慧屏 V5 Pro 75"
+    },
+    "HD85ARKA": {
+        "brand": "华为",
+        "model": "华为智慧屏 V5 Pro 85"
+    },
+    "HD98ARKA": {
+        "brand": "华为",
+        "model": "华为智慧屏 V5 Pro 98"
+    },
+    "HDC0ARIA": {
+        "brand": "华为",
+        "model": "华为智慧屏 V5 Max 110"
+    },
+    "PLAT-760": {
+        "brand": "华为",
+        "model": "华为智慧屏 X65"
+    },
+    "HD55KANB": {
+        "brand": "华为",
+        "model": "华为智慧屏 S 55 60Hz (3GB+16GB)"
+    },
+    "HD55KANC": {
+        "brand": "华为",
+        "model": "华为智慧屏 S 55 60Hz (3GB+32GB)"
+    },
+    "HD55KANS": {
+        "brand": "华为",
+        "model": "华为智慧屏 S Pro 55 120Hz (3GB+16GB)"
+    },
+    "HD65KANA": {
+        "brand": "华为",
+        "model": "华为智慧屏 S 65 (3GB+16GB)"
+    },
+    "HD65KANS": {
+        "brand": "华为",
+        "model": "华为智慧屏 S Pro 65 (3GB+32GB)"
+    },
+    "HD75KANA": {
+        "brand": "华为",
+        "model": "华为智慧屏 S 75 (3GB+16GB)"
+    },
+    "HD75KANS": {
+        "brand": "华为",
+        "model": "华为智慧屏 S Pro 75 (3GB+32GB)"
+    },
+    "HD55AJMA": {
+        "brand": "华为",
+        "model": "华为智慧屏 S 55 二代"
+    },
+    "HD65AJMA": {
+        "brand": "华为",
+        "model": "华为智慧屏 S 65 二代"
+    },
+    "HD75AJMA": {
+        "brand": "华为",
+        "model": "华为智慧屏 S 75 二代"
+    },
+    "HD55DESU": {
+        "brand": "华为",
+        "model": "华为智慧屏 S55i Pro"
+    },
+    "HD65DESU": {
+        "brand": "华为",
+        "model": "华为智慧屏 S65i Pro"
+    },
+    "HD86KEPA": {
+        "brand": "华为",
+        "model": "华为智慧屏 S86 Pro"
+    },
+    "HD65AJMS": {
+        "brand": "华为",
+        "model": "华为智慧屏 S3 Pro 65"
+    },
+    "HD75AJMS": {
+        "brand": "华为",
+        "model": "华为智慧屏 S3 Pro 75"
+    },
+    "HD86AJMS": {
+        "brand": "华为",
+        "model": "华为智慧屏 S3 Pro 86"
+    },
+    "HDB5256H": {
+        "brand": "华为",
+        "model": "华为智慧屏 S5 55"
+    },
+    "HDB5266H": {
+        "brand": "华为",
+        "model": "华为智慧屏 S5 65"
+    },
+    "HDB5276H": {
+        "brand": "华为",
+        "model": "华为智慧屏 S5 75"
+    },
+    "HDB5286H": {
+        "brand": "华为",
+        "model": "华为智慧屏 S5 85"
+    },
+    "HD65AJMN": {
+        "brand": "华为",
+        "model": "华为智慧屏 S5 Pro 65"
+    },
+    "HD75AJMN": {
+        "brand": "华为",
+        "model": "华为智慧屏 S5 Pro 75"
+    },
+    "HD86AJMN": {
+        "brand": "华为",
+        "model": "华为智慧屏 S5 Pro 86"
+    },
+    "HD55DESA": {
+        "brand": "华为",
+        "model": "华为智慧屏 SE 55 (2GB+16GB)"
+    },
+    "HD55DESZ": {
+        "brand": "华为",
+        "model": "华为智慧屏 SE 55 畅连通话版 1080P (2GB+16GB)"
+    },
+    "HD55DESY": {
+        "brand": "华为",
+        "model": "华为智慧屏 SE 55 畅连通话版 1080P 金属底座 (2GB+16GB)"
+    },
+    "HD55DESV": {
+        "brand": "华为",
+        "model": "华为智慧屏 SE 55 畅连通话版 4K (2GB+16GB)"
+    },
+    "HD55DESS": {
+        "brand": "华为",
+        "model": "华为智慧屏 SE 55A 会员版 4K (2GB+16GB)"
+    },
+    "HD65DESA": {
+        "brand": "华为",
+        "model": "华为智慧屏 SE 65 (2GB+16GB)"
+    },
+    "HD65DESZ": {
+        "brand": "华为",
+        "model": "华为智慧屏 SE 65 畅连通话版 1080P (2GB+16GB)"
+    },
+    "HD65DESY": {
+        "brand": "华为",
+        "model": "华为智慧屏 SE 65 畅连通话版 1080P 金属底座 (2GB+16GB)"
+    },
+    "HD65DESV": {
+        "brand": "华为",
+        "model": "华为智慧屏 SE 65 畅连通话版 4K (2GB+16GB)"
+    },
+    "HD75DESA": {
+        "brand": "华为",
+        "model": "华为智慧屏 SE 75 (2GB+16GB)"
+    },
+    "HD43KHAA": {
+        "brand": "华为",
+        "model": "华为智慧屏 SE43 2022"
+    },
+    "HD55KHAA": {
+        "brand": "华为",
+        "model": "华为智慧屏 SE55 2022"
+    },
+    "HD55KHAS": {
+        "brand": "华为",
+        "model": "华为智慧屏 SE55 Pro 2022"
+    },
+    "HD65KHAA": {
+        "brand": "华为",
+        "model": "华为智慧屏 SE65 2022"
+    },
+    "HD65KHAS": {
+        "brand": "华为",
+        "model": "华为智慧屏 SE65 Pro 2022"
+    },
+    "HD65FRUC": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 Z65 电竞版"
+    },
+    "HD75FRUC": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 Z75 电竞版"
+    },
+    "HD65MILA": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 65"
+    },
+    "HD75MILA": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 75"
+    },
+    "HD86KHAA": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 86"
+    },
+    "HD65QINA": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 3 65"
+    },
+    "HD75QINA": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 3 75"
+    },
+    "HD86QINA": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 3 86"
+    },
+    "HD55KUNA": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 SE3 55"
+    },
+    "HD65KUNA": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 SE3 65"
+    },
+    "HD75KUNA": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 SE3 75"
+    },
+    "HD6XQINA": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 4 65"
+    },
+    "HD7XQINA": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 4 75"
+    },
+    "HD8XQINA": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 4 86"
+    },
+    "HD55KUNL": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 4 SE 55"
+    },
+    "HD65KUNL": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 4 SE 65"
+    },
+    "HD75KUNL": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 4 SE 75"
+    },
+    "HD85KUNL": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 4 SE 85"
+    },
+    "HD75ARQD": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 4 Pro 75"
+    },
+    "HD85ARQD": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 4 Pro 85"
+    },
+    "HD55DESB": {
+        "brand": "华为",
+        "model": "华为智慧屏 B3-500"
+    },
+    "HD65DESB": {
+        "brand": "华为",
+        "model": "华为智慧屏 B3-600"
+    },
+    "HDB325A7": {
+        "brand": "华为",
+        "model": "华为智慧屏 B3 55"
+    },
+    "HDB326A7": {
+        "brand": "华为",
+        "model": "华为智慧屏 B3 65"
+    },
+    "HD55KANY": {
+        "brand": "华为",
+        "model": "华为智慧屏 B5-510"
+    },
+    "HD65KANY": {
+        "brand": "华为",
+        "model": "华为智慧屏 B5-610"
+    },
+    "HEGE-550AX": {
+        "brand": "华为",
+        "model": "华为智慧屏 B7-500"
+    },
+    "HEGE-550X": {
+        "brand": "华为",
+        "model": "华为智慧屏 B7-510"
+    },
+    "BLM-00": {
+        "brand": "华为",
+        "model": "华为小精灵学习智慧屏 / 华为智慧屏便携版 / 华为全屋智能中控屏（桌面版）"
+    },
+    "Leo-B09": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH 2 蓝牙版"
+    },
+    "Leo-B19": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH 2 Classic"
+    },
+    "Leo-L00E": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH 2 2018"
+    },
+    "Leo-L09S": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH 2 4G"
+    },
+    "Leo-L19E": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH 2 Pro"
+    },
+    "LEO-DLXXU": {
+        "brand": "华为",
+        "model": "PORSCHE DESIGN HUAWEI Smartwatch"
+    },
+    "GLL-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH 3"
+    },
+    "GLL-AL30": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH 3"
+    },
+    "GLL-AL01": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH 3 Pro"
+    },
+    "GLL-AL08": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH 3 Pro new 时尚款"
+    },
+    "GLL-AL09": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH 3 Pro new 尊享款"
+    },
+    "ARC-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH 4"
+    },
+    "MDS-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH 4 Pro"
+    },
+    "MDS-AL10": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH 4 Pro"
+    },
+    "CLB-B19": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH Ultimate 非凡大师"
+    },
+    "WDS-B19": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH Ultimate 非凡探索"
+    },
+    "CLB-B39": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH ULTIMATE DESIGN 非凡大师"
+    },
+    "ELA-B19": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH GT 雅致款"
+    },
+    "FTN-B19": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH GT 时尚版/运动版"
+    },
+    "DAN-B19": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH GT 2 42mm"
+    },
+    "LTN-B19": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH GT 2 46mm"
+    },
+    "HCT-B19": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH GT 2e"
+    },
+    "VID-B19": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH GT 2 Pro"
+    },
+    "VID-B99": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH GT 2 Pro ECG"
+    },
+    "MIL-B19": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH GT 3 42mm"
+    },
+    "JPT-B19": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH GT 3 46mm"
+    },
+    "JPT-B29": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH GT 3 46mm"
+    },
+    "FRG-B19": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH GT 3 Pro 典藏版"
+    },
+    "ODN-B19": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH GT 3 保时捷设计"
+    },
+    "ARA-B19": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH GT 4 41mm"
+    },
+    "PNX-B19": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH GT 4 46mm"
+    },
+    "JNA-B19": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH GT 5 41mm"
+    },
+    "VLI-B19": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH GT 5 46mm"
+    },
+    "JNA-B29": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH GT 5 Pro 42mm"
+    },
+    "VLI-B29": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH GT 5 Pro 46mm"
+    },
+    "RUN-B19": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH GT Runner"
+    },
+    "RUN-B29": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH GT Runner"
+    },
+    "OCF-B29": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH GT 2022 典藏版"
+    },
+    "AND-B19": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH GT Cyber"
+    },
+    "TIA-B19": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH FIT new"
+    },
+    "TIA-B29": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH FIT"
+    },
+    "YDA-B09S": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH FIT 2"
+    },
+    "YDA-B19S": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH FIT 2"
+    },
+    "YDA-B19V": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH FIT 2"
+    },
+    "SLO-B19": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH FIT 3"
+    },
+    "MLY-B10": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH B9-D10"
+    },
+    "MLY-B11": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH D"
+    },
+    "LCA-B11": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH D2"
+    },
+    "SGA-B19": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH Buds"
+    },
+    "MIL-B29B": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH B5-532"
+    },
+    "JPT-B29B": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH B5-536"
+    },
+    "ODN-B99": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH B5-736"
+    },
+    "GLL-AL30B": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH B7-536"
+    },
+    "GLL-AL09B": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH B7-738"
+    },
+    "PNX-B19B": {
+        "brand": "华为",
+        "model": "华为擎云 H5546"
+    },
+    "ARC-AL2B": {
+        "brand": "华为",
+        "model": "华为擎云 H7546"
+    },
+    "ERS-B29": {
+        "brand": "华为",
+        "model": "华为运动手环"
+    },
+    "TER-B09": {
+        "brand": "华为",
+        "model": "华为手环 3"
+    },
+    "TER-B29": {
+        "brand": "华为",
+        "model": "华为手环 3 Pro"
+    },
+    "AW70-B29": {
+        "brand": "华为",
+        "model": "华为手环 3e"
+    },
+    "ADS-B29": {
+        "brand": "华为",
+        "model": "华为手环 4"
+    },
+    "TER-B29S": {
+        "brand": "华为",
+        "model": "华为手环 4 Pro"
+    },
+    "AW70-B39": {
+        "brand": "华为",
+        "model": "华为手环 4e"
+    },
+    "AW70-B49": {
+        "brand": "华为",
+        "model": "华为手环 4e 活力版"
+    },
+    "FRA-B19": {
+        "brand": "华为",
+        "model": "华为手环 6 标准版"
+    },
+    "FRA-B29": {
+        "brand": "华为",
+        "model": "华为手环 6 NFC 版"
+    },
+    "FRA-B29B": {
+        "brand": "华为",
+        "model": "华为手环 6 B20"
+    },
+    "FRA-B39": {
+        "brand": "华为",
+        "model": "华为手环 6 Pro"
+    },
+    "LEA-B19": {
+        "brand": "华为",
+        "model": "华为手环 7 标准版"
+    },
+    "LEA-B29": {
+        "brand": "华为",
+        "model": "华为手环 7 NFC 版"
+    },
+    "ASK-B19": {
+        "brand": "华为",
+        "model": "华为手环 8 标准版"
+    },
+    "ASK-B29": {
+        "brand": "华为",
+        "model": "华为手环 8 NFC 版"
+    },
+    "KIM-B19": {
+        "brand": "华为",
+        "model": "华为手环 9 标准版"
+    },
+    "KIM-B29": {
+        "brand": "华为",
+        "model": "华为手环 9 NFC 版"
+    },
+    "GMN-BX9": {
+        "brand": "华为",
+        "model": "华为手环 B3"
+    },
+    "GRU-B09": {
+        "brand": "华为",
+        "model": "华为手环 B3 青春版"
+    },
+    "JNS-BX9": {
+        "brand": "华为",
+        "model": "华为手环 B5"
+    },
+    "FDS-B19": {
+        "brand": "华为",
+        "model": "华为手环 B6"
+    },
+    "FDS-B49": {
+        "brand": "华为",
+        "model": "华为通话手环 B7"
+    },
+    "LEA-B29B": {
+        "brand": "华为",
+        "model": "华为手环 BA-570"
+    },
+    "KIM-B19B": {
+        "brand": "华为",
+        "model": "华为擎云 HA590"
+    },
+    "SIM-AL00": {
+        "brand": "华为",
+        "model": "华为儿童手表 3 Pro"
+    },
+    "NEO-AL10": {
+        "brand": "华为",
+        "model": "华为儿童手表 3s"
+    },
+    "ALX-AL10": {
+        "brand": "华为",
+        "model": "华为儿童手表 3X"
+    },
+    "ASN-AL10": {
+        "brand": "华为",
+        "model": "华为儿童手表 4 Pro"
+    },
+    "NIK-AL00": {
+        "brand": "华为",
+        "model": "华为儿童手表 4X"
+    },
+    "KTY-L10": {
+        "brand": "华为",
+        "model": "华为儿童手表 5"
+    },
+    "KTY-L10D": {
+        "brand": "华为",
+        "model": "华为儿童手表 5 新耀版"
+    },
+    "TGR-L10": {
+        "brand": "华为",
+        "model": "华为儿童手表 5 Pro"
+    },
+    "ALA-AL10": {
+        "brand": "华为",
+        "model": "华为儿童手表 5X"
+    },
+    "AHP-AL10": {
+        "brand": "华为",
+        "model": "华为儿童手表 5X Pro"
+    },
+    "CMG0-PER": {
+        "brand": "华为",
+        "model": "HUAWEI X GENTLE MONSTER Eyewear"
+    },
+    "FIJ-CG020": {
+        "brand": "华为",
+        "model": "HUAWEI X GENTLE MONSTER Eyewear II"
+    },
+    "EVI-CG010": {
+        "brand": "华为",
+        "model": "华为智能眼镜"
+    },
+    "LFT-G00": {
+        "brand": "华为",
+        "model": "华为智能眼镜 2"
+    },
+    "ALI-CG01": {
+        "brand": "华为",
+        "model": "HUAWEI Vision Glass"
+    },
+    "HUAWEI U9500": {
+        "brand": "华为",
+        "model": "华为 Ascend D1"
+    },
+    "HUAWEI U9500E": {
+        "brand": "华为",
+        "model": "华为 Ascend D1 XL"
+    },
+    "HUAWEI U9510": {
+        "brand": "华为",
+        "model": "华为 Ascend D1 四核"
+    },
+    "HUAWEI U9510E": {
+        "brand": "华为",
+        "model": "华为 Ascend D1 四核 XL"
+    },
+    "HUAWEI T9510E": {
+        "brand": "华为",
+        "model": "华为 Ascend D1 四核 XL 移动版"
+    },
+    "HUAWEI D2-5000": {
+        "brand": "华为",
+        "model": "华为 Ascend D2 移动 3G 版"
+    },
+    "HUAWEI D2-6070": {
+        "brand": "华为",
+        "model": "华为 Ascend D2 移动 4G 版"
+    },
+    "HUAWEI D2-0082": {
+        "brand": "华为",
+        "model": "华为 Ascend D2 联通版"
+    },
+    "HUAWEI D2-2010": {
+        "brand": "华为",
+        "model": "华为 Ascend D2 电信版"
+    }
+}

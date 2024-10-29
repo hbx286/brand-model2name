@@ -1,0 +1,258 @@
+{
+    "ZTE A2017": {
+        "brand": "中兴",
+        "model": "中兴天机 7"
+    },
+    "ZTE A2018": {
+        "brand": "中兴",
+        "model": "中兴天机 7S"
+    },
+    "ZTE C2017": {
+        "brand": "中兴",
+        "model": "中兴天机 7 MAX"
+    },
+    "Z999": {
+        "brand": "中兴",
+        "model": "中兴天机 Axon M"
+    },
+    "ZTE A2019 Pro": {
+        "brand": "中兴",
+        "model": "中兴天机 Axon 9 Pro"
+    },
+    "ZTE A2020 Pro": {
+        "brand": "中兴",
+        "model": "中兴天机 Axon 10 Pro 4G"
+    },
+    "ZTE A2020N2 Pro": {
+        "brand": "中兴",
+        "model": "中兴天机 Axon 10 Pro 5G"
+    },
+    "ZTE A2020 SP": {
+        "brand": "中兴",
+        "model": "中兴天机 Axon 10s Pro 5G"
+    },
+    "ZTE 9000N": {
+        "brand": "中兴",
+        "model": "中兴 Blade V2020"
+    },
+    "ZTE A2021": {
+        "brand": "中兴",
+        "model": "中兴天机 Axon 11 5G 公开版"
+    },
+    "ZTE A2021H": {
+        "brand": "中兴",
+        "model": "中兴天机 Axon 11 5G 行业版"
+    },
+    "ZTE A2121": {
+        "brand": "中兴",
+        "model": "中兴天机 Axon 20 5G"
+    },
+    "ZTE A2322": {
+        "brand": "中兴",
+        "model": "中兴 Axon 30 5G / 中兴 Axon 30S 5G"
+    },
+    "ZTE A2022": {
+        "brand": "中兴",
+        "model": "中兴 Axon 30 Pro 5G"
+    },
+    "ZTE A2022P": {
+        "brand": "中兴",
+        "model": "中兴天机 A31 Ultra 5G"
+    },
+    "ZTE A2122H": {
+        "brand": "中兴",
+        "model": "中兴 S30 Pro 5G"
+    },
+    "ZTE A2022H": {
+        "brand": "中兴",
+        "model": "中兴天机 A31 Pro 5G"
+    },
+    "ZTE A2023": {
+        "brand": "中兴",
+        "model": "中兴天机 A41 Pro"
+    },
+    "ZTE A2023P": {
+        "brand": "中兴",
+        "model": "中兴天机 A41 Ultra 至尊版"
+    },
+    "ZTE A2024H": {
+        "brand": "中兴",
+        "model": "中兴 Axon 50 Ultra"
+    },
+    "ZTE A2025HL": {
+        "brand": "中兴",
+        "model": "中兴 Axon 60 Ultra"
+    },
+    "ZTE A2025H": {
+        "brand": "中兴",
+        "model": "中兴 Axon 60 Ultra 天通版"
+    },
+    "ZTE A2023BH": {
+        "brand": "中兴",
+        "model": "中兴天机 A41"
+    },
+    "ZTE A2023H": {
+        "brand": "中兴",
+        "model": "中兴天机 A41 Ultra"
+    },
+    "ZTE 9030N": {
+        "brand": "中兴",
+        "model": "中兴 S30 5G"
+    },
+    "ZTE 8030N": {
+        "brand": "中兴",
+        "model": "中兴 S30 SE 5G"
+    },
+    "ZTE BV0730": {
+        "brand": "中兴",
+        "model": "中兴 Blade A2 Plus"
+    },
+    "ZTE V0721": {
+        "brand": "中兴",
+        "model": "中兴 Blade A2S"
+    },
+    "ZTE A0616": {
+        "brand": "中兴",
+        "model": "中兴 Blade A3"
+    },
+    "ZTE A0722": {
+        "brand": "中兴",
+        "model": "中兴 Blade A4"
+    },
+    "ZTE A7000": {
+        "brand": "中兴",
+        "model": "中兴 Blade A7"
+    },
+    "ZTE A7010": {
+        "brand": "中兴",
+        "model": "中兴 Blade A7S"
+    },
+    "ZTE BV0800": {
+        "brand": "中兴",
+        "model": "中兴 Blade V8"
+    },
+    "ZTE BV0850": {
+        "brand": "中兴",
+        "model": "中兴 Blade V8 mini"
+    },
+    "ZTE V0900": {
+        "brand": "中兴",
+        "model": "中兴 Blade V9"
+    },
+    "ZTE V1000": {
+        "brand": "中兴",
+        "model": "中兴 Blade V10"
+    },
+    "ZTE V1050": {
+        "brand": "中兴",
+        "model": "中兴 Blade 20 Smart"
+    },
+    "ZTE 8012N": {
+        "brand": "中兴",
+        "model": "中兴 Blade V2021 5G"
+    },
+    "ZTE 8010": {
+        "brand": "中兴",
+        "model": "中兴 Blade V2020 Smart"
+    },
+    "ZTE 8031": {
+        "brand": "中兴",
+        "model": "中兴 ZTE V2022"
+    },
+    "ZTE BV0701": {
+        "brand": "中兴",
+        "model": "中兴小鲜 4"
+    },
+    "ZTE V0840": {
+        "brand": "中兴",
+        "model": "中兴小鲜 5"
+    },
+    "ZTE V0920": {
+        "brand": "中兴",
+        "model": "中兴小鲜 5S"
+    },
+    "ZTE A0620": {
+        "brand": "中兴",
+        "model": "中兴远航 5 plus"
+    },
+    "ZTE 7530N": {
+        "brand": "中兴",
+        "model": "中兴远航 10"
+    },
+    "ZTE 9040N": {
+        "brand": "中兴",
+        "model": "中兴远航 20 Pro"
+    },
+    "ZTE 7532N": {
+        "brand": "中兴",
+        "model": "中兴远航 30"
+    },
+    "ZTE 7531N": {
+        "brand": "中兴",
+        "model": "中兴远航 30S"
+    },
+    "ZTE 7534N": {
+        "brand": "中兴",
+        "model": "中兴远航 30 畅行版"
+    },
+    "ZTE 8040N": {
+        "brand": "中兴",
+        "model": "中兴远航 30 Pro"
+    },
+    "ZTE 9041N": {
+        "brand": "中兴",
+        "model": "中兴 V70"
+    },
+    "ZTE 1010L": {
+        "brand": "中兴",
+        "model": "中兴畅行 30"
+    },
+    "ZTE 7542N": {
+        "brand": "中兴",
+        "model": "中兴远航 40"
+    },
+    "ZTE 9042N": {
+        "brand": "中兴",
+        "model": "中兴远航 40 Pro+"
+    },
+    "ZTE 7541N": {
+        "brand": "中兴",
+        "model": "中兴远航 41"
+    },
+    "ZTE 7546N": {
+        "brand": "中兴",
+        "model": "中兴远航 41S"
+    },
+    "ZTE 1021L": {
+        "brand": "中兴",
+        "model": "中兴畅行 40 SE"
+    },
+    "ZTE 7543N": {
+        "brand": "中兴",
+        "model": "中兴小鲜 50 / 中兴畅行 50"
+    },
+    "ZTE 7551N": {
+        "brand": "中兴",
+        "model": "中兴小鲜 60 / 中兴远航 60 / 中兴 V80"
+    },
+    "ZTE 7552N": {
+        "brand": "中兴",
+        "model": "中兴畅行 60"
+    },
+    "ZTE 7553N": {
+        "brand": "中兴",
+        "model": "中兴畅行 60 Plus / 中兴远航 61"
+    },
+    "Z9101": {
+        "brand": "中兴",
+        "model": "中兴远航 3D"
+    },
+    "ZTE 9043N": {
+        "brand": "中兴",
+        "model": "中兴 V70 Pro"
+    },
+    "ZTE PA01": {
+        "brand": "中兴",
+        "model": "中兴 Axon Pad"
+    }
+}

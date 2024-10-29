@@ -1,0 +1,418 @@
+{
+    "Lenovo L78011": {
+        "brand": "联想",
+        "model": "联想 Z5"
+    },
+    "Lenovo L78012": {
+        "brand": "联想",
+        "model": "联想 Z5"
+    },
+    "Lenovo L78031": {
+        "brand": "联想",
+        "model": "联想 Z5 Pro"
+    },
+    "Lenovo L78032": {
+        "brand": "联想",
+        "model": "联想 Z5 Pro GT"
+    },
+    "Lenovo L78071": {
+        "brand": "联想",
+        "model": "联想 Z5s"
+    },
+    "Lenovo L78051": {
+        "brand": "联想",
+        "model": "联想 Z6 Pro"
+    },
+    "Lenovo L79041": {
+        "brand": "联想",
+        "model": "联想 Z6 Pro 5G"
+    },
+    "Lenovo L78121": {
+        "brand": "联想",
+        "model": "联想 Z6"
+    },
+    "Lenovo L38111": {
+        "brand": "联想",
+        "model": "联想 Z6 青春版"
+    },
+    "Lenovo K520": {
+        "brand": "联想",
+        "model": "联想 S5"
+    },
+    "Lenovo K520t": {
+        "brand": "联想",
+        "model": "联想 S5 移动版"
+    },
+    "Lenovo L58041": {
+        "brand": "联想",
+        "model": "联想 S5 Pro"
+    },
+    "Lenovo L58091": {
+        "brand": "联想",
+        "model": "联想 S5 Pro GT"
+    },
+    "Lenovo K350t": {
+        "brand": "联想",
+        "model": "联想 K5"
+    },
+    "Lenovo L38012": {
+        "brand": "联想",
+        "model": "联想 K5 Note"
+    },
+    "Lenovo L38011": {
+        "brand": "联想",
+        "model": "联想 K5 Play"
+    },
+    "Lenovo L38021": {
+        "brand": "联想",
+        "model": "联想 K5 Play 移动版"
+    },
+    "Lenovo L38031": {
+        "brand": "联想",
+        "model": "联想 K5s"
+    },
+    "Lenovo L38041": {
+        "brand": "联想",
+        "model": "联想 K5 Pro"
+    },
+    "Lenovo L38082": {
+        "brand": "联想",
+        "model": "联想 K6 畅享版"
+    },
+    "Lenovo L18011": {
+        "brand": "联想",
+        "model": "联想 A5"
+    },
+    "Lenovo K320t": {
+        "brand": "联想",
+        "model": "联想 K320t"
+    },
+    "Lenovo L79031": {
+        "brand": "联想",
+        "model": "拯救者电竞手机 Pro"
+    },
+    "Lenovo L70081": {
+        "brand": "联想",
+        "model": "拯救者电竞手机 2 Pro"
+    },
+    "Lenovo L71091": {
+        "brand": "联想",
+        "model": "联想拯救者 Y70"
+    },
+    "Lenovo L71061": {
+        "brand": "联想",
+        "model": "联想拯救者 Y90"
+    },
+    "XT2081-4": {
+        "brand": "联想",
+        "model": "联想乐檬 K12"
+    },
+    "XT2091-7": {
+        "brand": "联想",
+        "model": "联想乐檬 K12 Pro"
+    },
+    "Z1221": {
+        "brand": "联想",
+        "model": "ZUK Z1"
+    },
+    "Z2131": {
+        "brand": "联想",
+        "model": "ZUK Z2"
+    },
+    "Z2121": {
+        "brand": "联想",
+        "model": "ZUK Z2 Pro"
+    },
+    "Z2122": {
+        "brand": "联想",
+        "model": "ZUK Z2 Pro"
+    },
+    "Z2151": {
+        "brand": "联想",
+        "model": "ZUK Edge"
+    },
+    "Lenovo TB-8804F": {
+        "brand": "联想",
+        "model": "联想小新平板 8 英寸"
+    },
+    "Lenovo TB-X804F": {
+        "brand": "联想",
+        "model": "联想小新平板 10 英寸"
+    },
+    "Lenovo TB-J606F": {
+        "brand": "联想",
+        "model": "Lenovo Tab K11 11 英寸 Wi-Fi 版"
+    },
+    "TB128FU": {
+        "brand": "联想",
+        "model": "联想启天 K10 Pro 10.61 英寸 Wi-Fi 版"
+    },
+    "TB331FC": {
+        "brand": "联想",
+        "model": "联想小新 Pad 2024"
+    },
+    "Lenovo TB-J607F": {
+        "brand": "联想",
+        "model": "联想小新 Pad Plus"
+    },
+    "Lenovo TB-J607Z": {
+        "brand": "联想",
+        "model": "联想启天 K11 Pro 5G"
+    },
+    "TB350FU": {
+        "brand": "联想",
+        "model": "联想小新 Pad Plus 2023"
+    },
+    "TB372FC": {
+        "brand": "联想",
+        "model": "联想小新学习平板 12.7"
+    },
+    "Lenovo TB-J706F": {
+        "brand": "联想",
+        "model": "联想小新 Pad Pro 2020"
+    },
+    "Lenovo TB-J716F": {
+        "brand": "联想",
+        "model": "联想小新 Pad Pro 2021"
+    },
+    "Lenovo TB-Q706F": {
+        "brand": "联想",
+        "model": "联想小新 Pad Pro 12.6"
+    },
+    "TB138FC": {
+        "brand": "联想",
+        "model": "联想小新 Pad Pro 2022 骁龙版"
+    },
+    "TB132FU": {
+        "brand": "联想",
+        "model": "联想小新 Pad Pro 2022 迅鲲版"
+    },
+    "TB371FC": {
+        "brand": "联想",
+        "model": "联想小新 Pad Pro 12.7 骁龙版"
+    },
+    "TB370FU": {
+        "brand": "联想",
+        "model": "联想小新 Pad Pro 12.7 天玑版"
+    },
+    "TB375FC": {
+        "brand": "联想",
+        "model": "联想小新 Pad Pro 12.7 2025"
+    },
+    "TB351FU": {
+        "brand": "联想",
+        "model": "联想小新 Pad Studio"
+    },
+    "Lenovo YT3-850F": {
+        "brand": "联想",
+        "model": "联想 YOGA Tab 3 8” Wi-Fi 版"
+    },
+    "Lenovo YT3-850L": {
+        "brand": "联想",
+        "model": "联想 YOGA Tab 3 8” LTE 版"
+    },
+    "Lenovo YT3-X50F": {
+        "brand": "联想",
+        "model": "联想 YOGA Tab 3 10” Wi-Fi 版"
+    },
+    "Lenovo YT3-X50L": {
+        "brand": "联想",
+        "model": "联想 YOGA Tab 3 10” LTE 版"
+    },
+    "Lenovo YT-X703F": {
+        "brand": "联想",
+        "model": "联想 YOGA Tab 3 Plus Wi-Fi 版"
+    },
+    "Lenovo YT-X703L": {
+        "brand": "联想",
+        "model": "联想 YOGA Tab 3 Plus LTE 版"
+    },
+    "Lenovo YT3-X90F": {
+        "brand": "联想",
+        "model": "联想 YOGA Tab 3 PRO 10” Wi-Fi 版"
+    },
+    "Lenovo YT3-X90L": {
+        "brand": "联想",
+        "model": "联想 YOGA Tab 3 PRO 10” LTE 版"
+    },
+    "Lenovo YT-K606F": {
+        "brand": "联想",
+        "model": "联想 YOGA Pad Pro"
+    },
+    "SP101FU": {
+        "brand": "联想",
+        "model": "联想 YOGA Paper 墨水平板"
+    },
+    "Lenovo TB-9707F": {
+        "brand": "联想",
+        "model": "联想拯救者 Y700 (2022)"
+    },
+    "TB320FC": {
+        "brand": "联想",
+        "model": "联想拯救者 Y700 (2023)"
+    },
+    "TB321FU": {
+        "brand": "联想",
+        "model": "联想拯救者 Y700 (2024)"
+    },
+    "TB570FU": {
+        "brand": "联想",
+        "model": "联想拯救者 Y900"
+    },
+    "Lenovo TB-J616F": {
+        "brand": "联想",
+        "model": "联想天骄平板电脑"
+    },
+    "Lenovo TB-8504F": {
+        "brand": "联想",
+        "model": "联想 TAB4 8 英寸 Wi-Fi 版"
+    },
+    "Lenovo TB-8504N": {
+        "brand": "联想",
+        "model": "联想 TAB4 8 英寸 LTE 版"
+    },
+    "Lenovo TB-8604F": {
+        "brand": "联想",
+        "model": "联想 TAB4 8 英寸 REL"
+    },
+    "Lenovo TB-8X04F": {
+        "brand": "联想",
+        "model": "联想 TAB4 8 英寸 REL"
+    },
+    "Lenovo TB-X304F": {
+        "brand": "联想",
+        "model": "联想 TAB4 10.1 英寸 Wi-Fi 版"
+    },
+    "Lenovo TB-X304N": {
+        "brand": "联想",
+        "model": "联想 TAB4 10.1 英寸 LTE 版"
+    },
+    "Lenovo TB-X504F": {
+        "brand": "联想",
+        "model": "联想 TAB4 10.1 英寸 REL"
+    },
+    "Lenovo TB-8704F": {
+        "brand": "联想",
+        "model": "联想 TAB4 Plus 8 英寸 Wi-Fi 版"
+    },
+    "Lenovo TB-8704N": {
+        "brand": "联想",
+        "model": "联想 TAB4 Plus 8 英寸 LTE 版"
+    },
+    "Lenovo TB-X704F": {
+        "brand": "联想",
+        "model": "联想 TAB4 Plus 10.1 英寸 Wi-Fi 版"
+    },
+    "Lenovo TB-X704N": {
+        "brand": "联想",
+        "model": "联想 TAB4 Plus 10.1 英寸 LTE 版"
+    },
+    "Lenovo TB-8705F": {
+        "brand": "联想",
+        "model": "联想 M8 8 英寸 Wi-Fi 版"
+    },
+    "Lenovo TB-8705N": {
+        "brand": "联想",
+        "model": "联想 M8 8 英寸 LTE 版"
+    },
+    "Lenovo TB-8505F": {
+        "brand": "联想",
+        "model": "联想 M8 8 英寸 Wi-Fi 版 (商用)"
+    },
+    "Lenovo TB-8505N": {
+        "brand": "联想",
+        "model": "联想 M8 8 英寸 LTE 版 (商用)"
+    },
+    "Lenovo TB-X306FC": {
+        "brand": "联想",
+        "model": "联想 M10 HD 10.1 英寸 Wi-Fi 版"
+    },
+    "Lenovo TB-X306NC": {
+        "brand": "联想",
+        "model": "联想 M10 HD 10.1 英寸 LTE 版"
+    },
+    "Lenovo TB-X605FC": {
+        "brand": "联想",
+        "model": "联想 M10 FHD-REL 10.1 英寸 Wi-Fi 版"
+    },
+    "Lenovo TB-X605LC": {
+        "brand": "联想",
+        "model": "联想 M10 FHD-REL 10.1 英寸 LTE 版"
+    },
+    "Lenovo TB-X606F": {
+        "brand": "联想",
+        "model": "联想 M10 PLUS 10.3 英寸 Wi-Fi 版"
+    },
+    "Lenovo TB-X616F": {
+        "brand": "联想",
+        "model": "联想平板 TB-X616F 10.3 英寸 Wi-Fi 版"
+    },
+    "TB310FU": {
+        "brand": "联想",
+        "model": "联想启天 K9 9 英寸 Wi-Fi 版"
+    },
+    "TB310XC": {
+        "brand": "联想",
+        "model": "联想启天 K9 9 英寸 LTE 版"
+    },
+    "Lenovo TB-X6C6F": {
+        "brand": "联想",
+        "model": "联想启天 K10 10.3 英寸 Wi-Fi 版"
+    },
+    "Lenovo TB-X6C6X": {
+        "brand": "联想",
+        "model": "联想启天 K10 10.3 英寸 LTE 版"
+    },
+    "TB223FC": {
+        "brand": "联想",
+        "model": "联想启天 K10 Pro 10.61 英寸 Wi-Fi 版"
+    },
+    "TB128XC": {
+        "brand": "联想",
+        "model": "联想启天 K10 Pro 10.61 英寸 LTE 版"
+    },
+    "TB226XC": {
+        "brand": "联想",
+        "model": "联想启天 K10 Pro 10.61 英寸 LTE 版"
+    },
+    "TB360ZU": {
+        "brand": "联想",
+        "model": "联想启天 K10 Pro 10.61 英寸 5G 版"
+    },
+    "Lenovo TB-J6C6F": {
+        "brand": "联想",
+        "model": "联想启天 K11 11 英寸 Wi-Fi 版"
+    },
+    "Lenovo TB-J6C6X": {
+        "brand": "联想",
+        "model": "联想启天 K11 11 英寸 LTE 版"
+    },
+    "TB230FC": {
+        "brand": "联想",
+        "model": "联想启天 K11 Gen2 11.5 英寸 Wi-Fi 版"
+    },
+    "TB230XC": {
+        "brand": "联想",
+        "model": "联想启天 K11 Gen2 11.5 英寸 LTE 版"
+    },
+    "TB240FC": {
+        "brand": "联想",
+        "model": "联想启天 K12 12.7 英寸 Wi-Fi 版"
+    },
+    "SP523FC": {
+        "brand": "联想",
+        "model": "联想启天 SmartPaper 10.3 英寸 Wi-Fi 版"
+    },
+    "Lenovo TB-X6E6F": {
+        "brand": "联想",
+        "model": "Lenovo Tab K10 10.3 英寸 Wi-Fi 版"
+    },
+    "Lenovo TB-X6E6X": {
+        "brand": "联想",
+        "model": "Lenovo Tab K10 10.3 英寸 LTE 版"
+    },
+    "Lenovo TB-J606N": {
+        "brand": "联想",
+        "model": "Lenovo Tab K11 11 英寸 LTE 版"
+    }
+}

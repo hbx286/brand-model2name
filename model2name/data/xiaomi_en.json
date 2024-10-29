@@ -1,0 +1,2942 @@
+{
+    "MI-ONE PLUS": {
+        "brand": "小米",
+        "model": "Mi 1 WCDMA"
+    },
+    "MI-ONE C1": {
+        "brand": "小米",
+        "model": "Mi 1 CDMA"
+    },
+    "MI-ONE": {
+        "brand": "小米",
+        "model": "Mi 1 Lite"
+    },
+    "2012051": {
+        "brand": "小米",
+        "model": "Mi 1S WCDMA"
+    },
+    "2012053": {
+        "brand": "小米",
+        "model": "Mi 1S CDMA"
+    },
+    "2012052": {
+        "brand": "小米",
+        "model": "Mi 1S Lite"
+    },
+    "2012061": {
+        "brand": "小米",
+        "model": "Mi 2 WCDMA"
+    },
+    "2012062": {
+        "brand": "小米",
+        "model": "Mi 2 CDMA"
+    },
+    "2013012": {
+        "brand": "小米",
+        "model": "Mi 2S WCDMA"
+    },
+    "2013021": {
+        "brand": "小米",
+        "model": "Mi 2S CDMA"
+    },
+    "2012121": {
+        "brand": "小米",
+        "model": "Mi 2A"
+    },
+    "2013061": {
+        "brand": "小米",
+        "model": "Mi 3 TD-SCDMA"
+    },
+    "2013062": {
+        "brand": "小米",
+        "model": "Mi 3 WCDMA"
+    },
+    "2013063": {
+        "brand": "小米",
+        "model": "Mi 3 CDMA"
+    },
+    "2014215": {
+        "brand": "小米",
+        "model": "Mi 4 WCDMA"
+    },
+    "2014218": {
+        "brand": "小米",
+        "model": "Mi 4 CDMA"
+    },
+    "2014216": {
+        "brand": "小米",
+        "model": "Mi 4 LTE China Mobile"
+    },
+    "2014719": {
+        "brand": "小米",
+        "model": "Mi 4 LTE China Unicom"
+    },
+    "2014716": {
+        "brand": "小米",
+        "model": "Mi 4 LTE China Telecom"
+    },
+    "2014726": {
+        "brand": "小米",
+        "model": "Mi 4 LTE China Telecom"
+    },
+    "2015015": {
+        "brand": "小米",
+        "model": "Mi 4i Global"
+    },
+    "2015561": {
+        "brand": "小米",
+        "model": "Mi 4c"
+    },
+    "2015562": {
+        "brand": "小米",
+        "model": "Mi 4c China Mobile"
+    },
+    "2015911": {
+        "brand": "小米",
+        "model": "Mi 4S"
+    },
+    "2015105": {
+        "brand": "小米",
+        "model": "Mi 5 (32GB) Global"
+    },
+    "2015201": {
+        "brand": "小米",
+        "model": "Mi 5 (32GB) China"
+    },
+    "2015628": {
+        "brand": "小米",
+        "model": "Mi 5 (64GB & 128GB) China"
+    },
+    "2015711": {
+        "brand": "小米",
+        "model": "Mi 5s"
+    },
+    "2016070": {
+        "brand": "小米",
+        "model": "Mi 5s Plus"
+    },
+    "2016089": {
+        "brand": "小米",
+        "model": "Mi 5c"
+    },
+    "MDE2": {
+        "brand": "小米",
+        "model": "Mi 5X China"
+    },
+    "MDT2": {
+        "brand": "小米",
+        "model": "Mi 5X China Mobile"
+    },
+    "MCE16": {
+        "brand": "小米",
+        "model": "Mi 6"
+    },
+    "MCT1": {
+        "brand": "小米",
+        "model": "Mi 6 China Mobile"
+    },
+    "M1804D2SE": {
+        "brand": "小米",
+        "model": "Mi 6X China"
+    },
+    "M1804D2ST": {
+        "brand": "小米",
+        "model": "Mi 6X China Mobile"
+    },
+    "M1804D2SC": {
+        "brand": "小米",
+        "model": "Mi 6X China Unicom & China Telecom"
+    },
+    "M1803E1A": {
+        "brand": "小米",
+        "model": "Mi 8"
+    },
+    "M1803E1T": {
+        "brand": "小米",
+        "model": "Mi 8 China Mobile"
+    },
+    "M1803E1C": {
+        "brand": "小米",
+        "model": "Mi 8 China Unicom & China Telecom"
+    },
+    "M1807E8S": {
+        "brand": "小米",
+        "model": "Mi 8 Explorer Edition"
+    },
+    "M1807E8A": {
+        "brand": "小米",
+        "model": "Mi 8 Pro"
+    },
+    "M1805E2A": {
+        "brand": "小米",
+        "model": "Mi 8 SE"
+    },
+    "M1808D2TG": {
+        "brand": "小米",
+        "model": "Mi 8 Lite Global"
+    },
+    "M1808D2TE": {
+        "brand": "小米",
+        "model": "Mi 8 Lite China"
+    },
+    "M1808D2TT": {
+        "brand": "小米",
+        "model": "Mi 8 Lite China Mobile"
+    },
+    "M1808D2TC": {
+        "brand": "小米",
+        "model": "Mi 8 Lite China Unicom & China Telecom"
+    },
+    "M1902F1G": {
+        "brand": "小米",
+        "model": "Mi 9 Global"
+    },
+    "M1902F1A": {
+        "brand": "小米",
+        "model": "Mi 9 China"
+    },
+    "M1902F1T": {
+        "brand": "小米",
+        "model": "Mi 9 China Mobile"
+    },
+    "M1902F1C": {
+        "brand": "小米",
+        "model": "Mi 9 China Unicom & China Telecom"
+    },
+    "M1908F1XE": {
+        "brand": "小米",
+        "model": "Mi 9 Pro 5G China"
+    },
+    "M1903F2G": {
+        "brand": "小米",
+        "model": "Mi 9 SE Global"
+    },
+    "M1903F2A": {
+        "brand": "小米",
+        "model": "Mi 9 SE China"
+    },
+    "M1903F10G": {
+        "brand": "小米",
+        "model": "Mi 9T Global"
+    },
+    "M1903F11G": {
+        "brand": "小米",
+        "model": "Mi 9T Pro Global"
+    },
+    "M1904F3BG": {
+        "brand": "小米",
+        "model": "Mi 9 Lite Global"
+    },
+    "M2001J2G": {
+        "brand": "小米",
+        "model": "Mi 10 Global"
+    },
+    "M2001J2I": {
+        "brand": "小米",
+        "model": "Mi 10 India"
+    },
+    "M2001J2E": {
+        "brand": "小米",
+        "model": "Mi 10 China"
+    },
+    "M2001J2C": {
+        "brand": "小米",
+        "model": "Mi 10 China"
+    },
+    "M2001J1G": {
+        "brand": "小米",
+        "model": "Mi 10 Pro Global"
+    },
+    "M2001J1E": {
+        "brand": "小米",
+        "model": "Mi 10 Pro China"
+    },
+    "M2001J1C": {
+        "brand": "小米",
+        "model": "Mi 10 Pro China"
+    },
+    "M2002J9G": {
+        "brand": "小米",
+        "model": "Mi 10 Lite Global"
+    },
+    "M2002J9S": {
+        "brand": "小米",
+        "model": "Mi 10 Lite Korea"
+    },
+    "M2002J9R": {
+        "brand": "小米",
+        "model": "Mi 10 Lite Japan (KDDI)"
+    },
+    "XIG01": {
+        "brand": "小米",
+        "model": "Mi 10 Lite Japan (KDDI)"
+    },
+    "M2002J9E": {
+        "brand": "小米",
+        "model": "Mi 10 Lite Zoom China"
+    },
+    "M2007J1SC": {
+        "brand": "小米",
+        "model": "Mi 10 Ultra China"
+    },
+    "M2007J3SY": {
+        "brand": "小米",
+        "model": "Mi 10T Global"
+    },
+    "M2007J3SP": {
+        "brand": "小米",
+        "model": "Mi 10T India"
+    },
+    "M2007J3SG": {
+        "brand": "小米",
+        "model": "Mi 10T Pro Global"
+    },
+    "M2007J3SI": {
+        "brand": "小米",
+        "model": "Mi 10T Pro India"
+    },
+    "M2007J17G": {
+        "brand": "小米",
+        "model": "Mi 10T Lite Global"
+    },
+    "M2007J17I": {
+        "brand": "小米",
+        "model": "Mi 10i India"
+    },
+    "M2102J2SC": {
+        "brand": "小米",
+        "model": "Mi 10S China"
+    },
+    "M2011K2G": {
+        "brand": "小米",
+        "model": "Mi 11 Global"
+    },
+    "M2011K2C": {
+        "brand": "小米",
+        "model": "Mi 11 China"
+    },
+    "M2102K1AC": {
+        "brand": "小米",
+        "model": "Mi 11 Pro China"
+    },
+    "M2102K1G": {
+        "brand": "小米",
+        "model": "Mi 11 Ultra Global"
+    },
+    "M2102K1C": {
+        "brand": "小米",
+        "model": "Mi 11 Ultra China"
+    },
+    "M2101K9G": {
+        "brand": "小米",
+        "model": "Mi 11 Lite 5G Global"
+    },
+    "M2101K9C": {
+        "brand": "小米",
+        "model": "Mi 11 Lite 5G China"
+    },
+    "M2101K9R": {
+        "brand": "小米",
+        "model": "Mi 11 Lite 5G Japan"
+    },
+    "M2101K9AG": {
+        "brand": "小米",
+        "model": "Mi 11 Lite 4G Global"
+    },
+    "M2101K9AI": {
+        "brand": "小米",
+        "model": "Mi 11 Lite 4G India"
+    },
+    "2109119DG": {
+        "brand": "小米",
+        "model": "Xiaomi 11 Lite 5G NE Global"
+    },
+    "2109119DI": {
+        "brand": "小米",
+        "model": "Xiaomi 11 Lite NE 5G India"
+    },
+    "2107119DC": {
+        "brand": "小米",
+        "model": "Mi 11 LE China"
+    },
+    "M2012K11G": {
+        "brand": "小米",
+        "model": "Mi 11i Global"
+    },
+    "M2012K11AI": {
+        "brand": "小米",
+        "model": "Mi 11X India"
+    },
+    "M2012K11I": {
+        "brand": "小米",
+        "model": "Mi 11X Pro India"
+    },
+    "21081111RG": {
+        "brand": "小米",
+        "model": "Xiaomi 11T Global"
+    },
+    "2107113SG": {
+        "brand": "小米",
+        "model": "Xiaomi 11T Pro Global"
+    },
+    "2107113SI": {
+        "brand": "小米",
+        "model": "Xiaomi 11T Pro India"
+    },
+    "2107113SR": {
+        "brand": "小米",
+        "model": "Xiaomi 11T Pro Japan"
+    },
+    "21091116I": {
+        "brand": "小米",
+        "model": "Xiaomi 11i India"
+    },
+    "21091116UI": {
+        "brand": "小米",
+        "model": "Xiaomi 11i HyperCharge India"
+    },
+    "2201123G": {
+        "brand": "小米",
+        "model": "Xiaomi 12 Global"
+    },
+    "2201123C": {
+        "brand": "小米",
+        "model": "Xiaomi 12 China"
+    },
+    "2112123AG": {
+        "brand": "小米",
+        "model": "Xiaomi 12X Global"
+    },
+    "2112123AC": {
+        "brand": "小米",
+        "model": "Xiaomi 12X China"
+    },
+    "2201122G": {
+        "brand": "小米",
+        "model": "Xiaomi 12 Pro Global"
+    },
+    "2201122C": {
+        "brand": "小米",
+        "model": "Xiaomi 12 Pro China"
+    },
+    "2207122MC": {
+        "brand": "小米",
+        "model": "Xiaomi 12 Pro Dimensity China"
+    },
+    "2203129G": {
+        "brand": "小米",
+        "model": "Xiaomi 12 Lite Global"
+    },
+    "2203129I": {
+        "brand": "小米",
+        "model": "Xiaomi 12 Lite India"
+    },
+    "2206123SC": {
+        "brand": "小米",
+        "model": "Xiaomi 12S China"
+    },
+    "2206122SC": {
+        "brand": "小米",
+        "model": "Xiaomi 12S Pro China"
+    },
+    "2203121C": {
+        "brand": "小米",
+        "model": "Xiaomi 12S Ultra China"
+    },
+    "22071212AG": {
+        "brand": "小米",
+        "model": "Xiaomi 12T Global"
+    },
+    "22081212UG": {
+        "brand": "小米",
+        "model": "Xiaomi 12T Pro Global"
+    },
+    "22081212R": {
+        "brand": "小米",
+        "model": "Xiaomi 12T Pro Japan (SIM Free)"
+    },
+    "22200414R": {
+        "brand": "小米",
+        "model": "Xiaomi 12T Pro Japan (SIM Free)"
+    },
+    "A201XM": {
+        "brand": "小米",
+        "model": "Xiaomi 12T Pro Japan (SoftBank)"
+    },
+    "2211133G": {
+        "brand": "小米",
+        "model": "Xiaomi 13 Global"
+    },
+    "2211133C": {
+        "brand": "小米",
+        "model": "Xiaomi 13 China"
+    },
+    "2210132G": {
+        "brand": "小米",
+        "model": "Xiaomi 13 Pro Global"
+    },
+    "2210132C": {
+        "brand": "小米",
+        "model": "Xiaomi 13 Pro China"
+    },
+    "2304FPN6DG": {
+        "brand": "小米",
+        "model": "Xiaomi 13 Ultra Global"
+    },
+    "2304FPN6DC": {
+        "brand": "小米",
+        "model": "Xiaomi 13 Ultra China"
+    },
+    "2210129SG": {
+        "brand": "小米",
+        "model": "Xiaomi 13 Lite Global"
+    },
+    "2306EPN60G": {
+        "brand": "小米",
+        "model": "Xiaomi 13T Global"
+    },
+    "2306EPN60R": {
+        "brand": "小米",
+        "model": "Xiaomi 13T Japan (SIM Free)"
+    },
+    "XIG04": {
+        "brand": "小米",
+        "model": "Xiaomi 13T Japan (KDDI)"
+    },
+    "23078PND5G": {
+        "brand": "小米",
+        "model": "Xiaomi 13T Pro Global"
+    },
+    "23088PND5R": {
+        "brand": "小米",
+        "model": "Xiaomi 13T Pro Japan (SIM Free)"
+    },
+    "A301XM": {
+        "brand": "小米",
+        "model": "Xiaomi 13T Pro Japan (SoftBank)"
+    },
+    "23127PN0CG": {
+        "brand": "小米",
+        "model": "Xiaomi 14 Global"
+    },
+    "23127PN0CC": {
+        "brand": "小米",
+        "model": "Xiaomi 14 China"
+    },
+    "23116PN5BC": {
+        "brand": "小米",
+        "model": "Xiaomi 14 Pro China / Xiaomi 14 Pro Ti China"
+    },
+    "2311BPN23C": {
+        "brand": "小米",
+        "model": "Xiaomi 14 Pro Ti Satellite China"
+    },
+    "24030PN60G": {
+        "brand": "小米",
+        "model": "Xiaomi 14 Ultra Global"
+    },
+    "24031PN0DC": {
+        "brand": "小米",
+        "model": "Xiaomi 14 Ultra China"
+    },
+    "24053PY09I": {
+        "brand": "小米",
+        "model": "Xiaomi 14 Civi India"
+    },
+    "2406APNFAG": {
+        "brand": "小米",
+        "model": "Xiaomi 14T Global"
+    },
+    "XIG07": {
+        "brand": "小米",
+        "model": "Xiaomi 14T Japan (KDDI)"
+    },
+    "2407FPN8EG": {
+        "brand": "小米",
+        "model": "Xiaomi 14T Pro Global"
+    },
+    "2407FPN8ER": {
+        "brand": "小米",
+        "model": "Xiaomi 14T Pro Japan (SIM Free)"
+    },
+    "XIG06": {
+        "brand": "小米",
+        "model": "Xiaomi 14T Pro Japan (KDDI)"
+    },
+    "A402XM": {
+        "brand": "小米",
+        "model": "Xiaomi 14T Pro Japan (SoftBank)"
+    },
+    "24129PN74G": {
+        "brand": "小米",
+        "model": "Xiaomi 15 Global"
+    },
+    "24129PN74I": {
+        "brand": "小米",
+        "model": "Xiaomi 15 India"
+    },
+    "24129PN74C": {
+        "brand": "小米",
+        "model": "Xiaomi 15 China"
+    },
+    "2410DPN6CC": {
+        "brand": "小米",
+        "model": "Xiaomi 15 Pro China"
+    },
+    "2015011": {
+        "brand": "小米",
+        "model": "Mi Note Global"
+    },
+    "2014616": {
+        "brand": "小米",
+        "model": "Mi Note China"
+    },
+    "2014619": {
+        "brand": "小米",
+        "model": "Mi Note China"
+    },
+    "2014618": {
+        "brand": "小米",
+        "model": "Mi Note China Mobile"
+    },
+    "2014617": {
+        "brand": "小米",
+        "model": "Mi Note China Unicom"
+    },
+    "2015021": {
+        "brand": "小米",
+        "model": "Mi Note Pro"
+    },
+    "2015022": {
+        "brand": "小米",
+        "model": "Mi Note Pro"
+    },
+    "2015501": {
+        "brand": "小米",
+        "model": "Mi Note Pro China Mobile"
+    },
+    "2015213": {
+        "brand": "小米",
+        "model": "Mi Note 2 Global"
+    },
+    "2015211": {
+        "brand": "小米",
+        "model": "Mi Note 2 China"
+    },
+    "2015212": {
+        "brand": "小米",
+        "model": "Mi Note 2 China Mobile"
+    },
+    "MCE8": {
+        "brand": "小米",
+        "model": "Mi Note 3"
+    },
+    "MCT8": {
+        "brand": "小米",
+        "model": "Mi Note 3 China Mobile"
+    },
+    "M1910F4G": {
+        "brand": "小米",
+        "model": "Mi Note 10 Global"
+    },
+    "M1910F4S": {
+        "brand": "小米",
+        "model": "Mi Note 10 Pro Global"
+    },
+    "M2002F4LG": {
+        "brand": "小米",
+        "model": "Mi Note 10 Lite Global"
+    },
+    "2016080": {
+        "brand": "小米",
+        "model": "Mi MIX"
+    },
+    "MDE5": {
+        "brand": "小米",
+        "model": "Mi MIX 2"
+    },
+    "MDT5": {
+        "brand": "小米",
+        "model": "Mi MIX 2 China Mobile"
+    },
+    "MDE5S": {
+        "brand": "小米",
+        "model": "Mi MIX 2 Unibody Ceramic Edition"
+    },
+    "M1803D5XA": {
+        "brand": "小米",
+        "model": "Mi MIX 2S Global"
+    },
+    "M1803D5XE": {
+        "brand": "小米",
+        "model": "Mi MIX 2S China"
+    },
+    "M1803D5XT": {
+        "brand": "小米",
+        "model": "Mi MIX 2S China Mobile"
+    },
+    "M1803D5XC": {
+        "brand": "小米",
+        "model": "Mi MIX 2S China Unicom & China Telecom"
+    },
+    "M1810E5A": {
+        "brand": "小米",
+        "model": "Mi MIX 3 Global"
+    },
+    "M1810E5E": {
+        "brand": "小米",
+        "model": "Mi MIX 3 China"
+    },
+    "M1810E5GG": {
+        "brand": "小米",
+        "model": "Mi MIX 3 5G"
+    },
+    "2106118C": {
+        "brand": "小米",
+        "model": "Xiaomi MIX 4 China"
+    },
+    "M2011J18C": {
+        "brand": "小米",
+        "model": "Mi MIX FOLD China"
+    },
+    "22061218C": {
+        "brand": "小米",
+        "model": "Xiaomi MIX Fold 2 China"
+    },
+    "2308CPXD0C": {
+        "brand": "小米",
+        "model": "Xiaomi MIX Fold 3 China"
+    },
+    "24072PX77C": {
+        "brand": "小米",
+        "model": "Xiaomi MIX Fold 4 China"
+    },
+    "2405CPX3DG": {
+        "brand": "小米",
+        "model": "Xiaomi MIX Flip Global"
+    },
+    "2405CPX3DC": {
+        "brand": "小米",
+        "model": "Xiaomi MIX Flip China"
+    },
+    "2016002": {
+        "brand": "小米",
+        "model": "Mi Max Global"
+    },
+    "2016001": {
+        "brand": "小米",
+        "model": "Mi Max China"
+    },
+    "2016007": {
+        "brand": "小米",
+        "model": "Mi Max Prime"
+    },
+    "MDE40": {
+        "brand": "小米",
+        "model": "Mi Max 2"
+    },
+    "MDT4": {
+        "brand": "小米",
+        "model": "Mi Max 2 China Mobile"
+    },
+    "MDI40": {
+        "brand": "小米",
+        "model": "Mi Max 2 India"
+    },
+    "M1804E4A": {
+        "brand": "小米",
+        "model": "Mi Max 3"
+    },
+    "M1804E4T": {
+        "brand": "小米",
+        "model": "Mi Max 3 China Mobile"
+    },
+    "M1804E4C": {
+        "brand": "小米",
+        "model": "Mi Max 3 China Unicom & China Telecom"
+    },
+    "M1904F3BC": {
+        "brand": "小米",
+        "model": "Mi CC 9 China"
+    },
+    "M1904F3BT": {
+        "brand": "小米",
+        "model": "Mi CC 9 Meitu Edition China"
+    },
+    "M1906F9SC": {
+        "brand": "小米",
+        "model": "Mi CC 9e China"
+    },
+    "M1910F4E": {
+        "brand": "小米",
+        "model": "Mi CC 9 Pro China"
+    },
+    "2109119BC": {
+        "brand": "小米",
+        "model": "Xiaomi Civi 1S China"
+    },
+    "2209129SC": {
+        "brand": "小米",
+        "model": "Xiaomi Civi 2 China"
+    },
+    "23046PNC9C": {
+        "brand": "小米",
+        "model": "Xiaomi Civi 3 China"
+    },
+    "24053PY09C": {
+        "brand": "小米",
+        "model": "Xiaomi Civi 4 Pro China"
+    },
+    "M1901F9E": {
+        "brand": "小米",
+        "model": "Mi Play"
+    },
+    "M1901F9T": {
+        "brand": "小米",
+        "model": "Mi Play China Mobile"
+    },
+    "MDG2": {
+        "brand": "小米",
+        "model": "Mi A1 Global"
+    },
+    "MDI2": {
+        "brand": "小米",
+        "model": "Mi A1 India"
+    },
+    "M1804D2SG": {
+        "brand": "小米",
+        "model": "Mi A2 Global"
+    },
+    "M1804D2SI": {
+        "brand": "小米",
+        "model": "Mi A2 India"
+    },
+    "M1805D1SG": {
+        "brand": "小米",
+        "model": "Mi A2 Lite Global"
+    },
+    "M1906F9SH": {
+        "brand": "小米",
+        "model": "Mi A3 Global"
+    },
+    "M1906F9SI": {
+        "brand": "小米",
+        "model": "Mi A3 India"
+    },
+    "2013022": {
+        "brand": "小米",
+        "model": "Redmi 1 TD-SCDMA"
+    },
+    "2013023": {
+        "brand": "小米",
+        "model": "Redmi 1 WCDMA"
+    },
+    "2013029": {
+        "brand": "小米",
+        "model": "Redmi 1S WCDMA"
+    },
+    "2013028": {
+        "brand": "小米",
+        "model": "Redmi 1S CDMA"
+    },
+    "2014011": {
+        "brand": "小米",
+        "model": "Redmi 1S TD-SCDMA"
+    },
+    "2014501": {
+        "brand": "小米",
+        "model": "Redmi 1S 4G China Mobile"
+    },
+    "2014813": {
+        "brand": "小米",
+        "model": "Redmi 2 China Mobile"
+    },
+    "2014112": {
+        "brand": "小米",
+        "model": "Redmi 2 China Mobile"
+    },
+    "2014817": {
+        "brand": "小米",
+        "model": "Redmi 2 Global"
+    },
+    "2014818": {
+        "brand": "小米",
+        "model": "Redmi 2 India"
+    },
+    "2014819": {
+        "brand": "小米",
+        "model": "Redmi 2 Brazil"
+    },
+    "2014811": {
+        "brand": "小米",
+        "model": "Redmi 2 China Unicom"
+    },
+    "2014812": {
+        "brand": "小米",
+        "model": "Redmi 2 China Telecom"
+    },
+    "2014821": {
+        "brand": "小米",
+        "model": "Redmi 2 China Telecom"
+    },
+    "2014502": {
+        "brand": "小米",
+        "model": "Redmi 2A"
+    },
+    "2014512": {
+        "brand": "小米",
+        "model": "Redmi 2A Prime"
+    },
+    "2014055": {
+        "brand": "小米",
+        "model": "Redmi 2A Prime"
+    },
+    "2014816": {
+        "brand": "小米",
+        "model": "Redmi 2A Prime (Snapdragon 410)"
+    },
+    "2015816": {
+        "brand": "小米",
+        "model": "Redmi 3 Global"
+    },
+    "2015811": {
+        "brand": "小米",
+        "model": "Redmi 3 China"
+    },
+    "2015815": {
+        "brand": "小米",
+        "model": "Redmi 3 China"
+    },
+    "2015812": {
+        "brand": "小米",
+        "model": "Redmi 3 China Mobile"
+    },
+    "2015810": {
+        "brand": "小米",
+        "model": "Redmi 3 China Unicom"
+    },
+    "2015817": {
+        "brand": "小米",
+        "model": "Redmi 3 Prime China"
+    },
+    "2015819": {
+        "brand": "小米",
+        "model": "Redmi 3 Prime China"
+    },
+    "2015818": {
+        "brand": "小米",
+        "model": "Redmi 3 Prime China Unicom"
+    },
+    "2016031": {
+        "brand": "小米",
+        "model": "Redmi 3S Global"
+    },
+    "2016037": {
+        "brand": "小米",
+        "model": "Redmi 3S India"
+    },
+    "2016032": {
+        "brand": "小米",
+        "model": "Redmi 3S Prime India"
+    },
+    "2016030": {
+        "brand": "小米",
+        "model": "Redmi 3S China"
+    },
+    "2016036": {
+        "brand": "小米",
+        "model": "Redmi 3X"
+    },
+    "2016035": {
+        "brand": "小米",
+        "model": "Redmi 3X China Mobile"
+    },
+    "2016033": {
+        "brand": "小米",
+        "model": "Redmi 3X China Unicom"
+    },
+    "2016090": {
+        "brand": "小米",
+        "model": "Redmi 4"
+    },
+    "2016060": {
+        "brand": "小米",
+        "model": "Redmi 4 Pro"
+    },
+    "2016117": {
+        "brand": "小米",
+        "model": "Redmi 4A Global"
+    },
+    "2016116": {
+        "brand": "小米",
+        "model": "Redmi 4A India"
+    },
+    "2016111": {
+        "brand": "小米",
+        "model": "Redmi 4A China"
+    },
+    "2016112": {
+        "brand": "小米",
+        "model": "Redmi 4A China Mobile"
+    },
+    "MAG138": {
+        "brand": "小米",
+        "model": "Redmi 4X Global"
+    },
+    "MAI132": {
+        "brand": "小米",
+        "model": "Redmi 4 India"
+    },
+    "MAE136": {
+        "brand": "小米",
+        "model": "Redmi 4X China"
+    },
+    "MAT136": {
+        "brand": "小米",
+        "model": "Redmi 4X China Mobile"
+    },
+    "MDG1": {
+        "brand": "小米",
+        "model": "Redmi 5 Global"
+    },
+    "MDI1": {
+        "brand": "小米",
+        "model": "Redmi 5 India"
+    },
+    "MDE1": {
+        "brand": "小米",
+        "model": "Redmi 5 China"
+    },
+    "MDT1": {
+        "brand": "小米",
+        "model": "Redmi 5 China Mobile"
+    },
+    "MEG7": {
+        "brand": "小米",
+        "model": "Redmi 5 Plus Global"
+    },
+    "MEE7": {
+        "brand": "小米",
+        "model": "Redmi 5 Plus China"
+    },
+    "MET7": {
+        "brand": "小米",
+        "model": "Redmi 5 Plus China Mobile"
+    },
+    "MCG3B": {
+        "brand": "小米",
+        "model": "Redmi 5A Global"
+    },
+    "MCI3B": {
+        "brand": "小米",
+        "model": "Redmi 5A India"
+    },
+    "MCE3B": {
+        "brand": "小米",
+        "model": "Redmi 5A China"
+    },
+    "MCT3B": {
+        "brand": "小米",
+        "model": "Redmi 5A China Mobile"
+    },
+    "M1804C3DG": {
+        "brand": "小米",
+        "model": "Redmi 6 Global"
+    },
+    "M1804C3DH": {
+        "brand": "小米",
+        "model": "Redmi 6 Global"
+    },
+    "M1804C3DI": {
+        "brand": "小米",
+        "model": "Redmi 6 India"
+    },
+    "M1804C3DE": {
+        "brand": "小米",
+        "model": "Redmi 6 China"
+    },
+    "M1804C3DT": {
+        "brand": "小米",
+        "model": "Redmi 6 China Mobile"
+    },
+    "M1804C3DC": {
+        "brand": "小米",
+        "model": "Redmi 6 China Unicom & China Telecom"
+    },
+    "M1805D1SI": {
+        "brand": "小米",
+        "model": "Redmi 6 Pro India"
+    },
+    "M1805D1SE": {
+        "brand": "小米",
+        "model": "Redmi 6 Pro China"
+    },
+    "M1805D1ST": {
+        "brand": "小米",
+        "model": "Redmi 6 Pro China Mobile"
+    },
+    "M1805D1SC": {
+        "brand": "小米",
+        "model": "Redmi 6 Pro China Unicom & China Telecom"
+    },
+    "M1804C3CG": {
+        "brand": "小米",
+        "model": "Redmi 6A Global"
+    },
+    "M1804C3CH": {
+        "brand": "小米",
+        "model": "Redmi 6A Global"
+    },
+    "M1804C3CI": {
+        "brand": "小米",
+        "model": "Redmi 6A India"
+    },
+    "M1804C3CE": {
+        "brand": "小米",
+        "model": "Redmi 6A China"
+    },
+    "M1804C3CT": {
+        "brand": "小米",
+        "model": "Redmi 6A China Mobile"
+    },
+    "M1804C3CC": {
+        "brand": "小米",
+        "model": "Redmi 6A China Unicom & China Telecom"
+    },
+    "M1810F6LG": {
+        "brand": "小米",
+        "model": "Redmi 7 Global"
+    },
+    "M1810F6LH": {
+        "brand": "小米",
+        "model": "Redmi 7 Global"
+    },
+    "M1810F6LI": {
+        "brand": "小米",
+        "model": "Redmi 7 India"
+    },
+    "M1810F6LE": {
+        "brand": "小米",
+        "model": "Redmi 7 China"
+    },
+    "M1810F6LT": {
+        "brand": "小米",
+        "model": "Redmi 7 Chinese Carrier Version"
+    },
+    "M1903C3EG": {
+        "brand": "小米",
+        "model": "Redmi 7A Global"
+    },
+    "M1903C3EH": {
+        "brand": "小米",
+        "model": "Redmi 7A Global"
+    },
+    "M1903C3EI": {
+        "brand": "小米",
+        "model": "Redmi 7A India"
+    },
+    "M1903C3EE": {
+        "brand": "小米",
+        "model": "Redmi 7A China"
+    },
+    "M1903C3ET": {
+        "brand": "小米",
+        "model": "Redmi 7A China Mobile"
+    },
+    "M1903C3EC": {
+        "brand": "小米",
+        "model": "Redmi 7A China Unicom & China Telecom"
+    },
+    "M1908C3IG": {
+        "brand": "小米",
+        "model": "Redmi 8 Global"
+    },
+    "M1908C3IH": {
+        "brand": "小米",
+        "model": "Redmi 8 Global"
+    },
+    "M1908C3II": {
+        "brand": "小米",
+        "model": "Redmi 8 India"
+    },
+    "M1908C3IE": {
+        "brand": "小米",
+        "model": "Redmi 8 China"
+    },
+    "M1908C3IC": {
+        "brand": "小米",
+        "model": "Redmi 8 Chinese Carrier Version"
+    },
+    "M1908C3KG": {
+        "brand": "小米",
+        "model": "Redmi 8A Global"
+    },
+    "M1908C3KH": {
+        "brand": "小米",
+        "model": "Redmi 8A Global"
+    },
+    "M1908C3KI": {
+        "brand": "小米",
+        "model": "Redmi 8A India"
+    },
+    "M1908C3KE": {
+        "brand": "小米",
+        "model": "Redmi 8A China"
+    },
+    "M2001C3K3I": {
+        "brand": "小米",
+        "model": "Redmi 8A Dual India / Redmi 8A Pro Global"
+    },
+    "M2004J19G": {
+        "brand": "小米",
+        "model": "Redmi 9 Global"
+    },
+    "M2004J19I": {
+        "brand": "小米",
+        "model": "Redmi 9 Prime India"
+    },
+    "M2004J19C": {
+        "brand": "小米",
+        "model": "Redmi 9 China"
+    },
+    "M2004J19AG": {
+        "brand": "小米",
+        "model": "Redmi 9 Global (NFC)"
+    },
+    "M2006C3LG": {
+        "brand": "小米",
+        "model": "Redmi 9A Global"
+    },
+    "M2006C3LVG": {
+        "brand": "小米",
+        "model": "Redmi 9AT Global"
+    },
+    "M2006C3LI": {
+        "brand": "小米",
+        "model": "Redmi 9A India / Redmi 9A Sport India"
+    },
+    "M2006C3LII": {
+        "brand": "小米",
+        "model": "Redmi 9i India / Redmi 9i Sport India"
+    },
+    "M2006C3LC": {
+        "brand": "小米",
+        "model": "Redmi 9A China"
+    },
+    "M2006C3MG": {
+        "brand": "小米",
+        "model": "Redmi 9C Global"
+    },
+    "M2006C3MT": {
+        "brand": "小米",
+        "model": "Redmi 9C Thailand"
+    },
+    "M2006C3MNG": {
+        "brand": "小米",
+        "model": "Redmi 9C NFC Global"
+    },
+    "M2006C3MII": {
+        "brand": "小米",
+        "model": "Redmi 9 India / Redmi 9 Activ India"
+    },
+    "M2010J19SG": {
+        "brand": "小米",
+        "model": "Redmi 9T Global"
+    },
+    "M2010J19SI": {
+        "brand": "小米",
+        "model": "Redmi 9 Power India"
+    },
+    "M2010J19SR": {
+        "brand": "小米",
+        "model": "Redmi 9T Japan"
+    },
+    "M2010J19ST": {
+        "brand": "小米",
+        "model": "Redmi 9T Thailand"
+    },
+    "M2010J19SY": {
+        "brand": "小米",
+        "model": "Redmi 9T Global (NFC)"
+    },
+    "M2010J19SL": {
+        "brand": "小米",
+        "model": "Redmi 9T Latin America"
+    },
+    "21061119AG": {
+        "brand": "小米",
+        "model": "Redmi 10 Global"
+    },
+    "21061119AL": {
+        "brand": "小米",
+        "model": "Redmi 10 Latin America"
+    },
+    "21061119BI": {
+        "brand": "小米",
+        "model": "Redmi 10 Prime India"
+    },
+    "21061119DG": {
+        "brand": "小米",
+        "model": "Redmi 10 Global (NFC)"
+    },
+    "21121119SG": {
+        "brand": "小米",
+        "model": "Redmi 10 2022 Global"
+    },
+    "21121119VL": {
+        "brand": "小米",
+        "model": "Redmi 10 2022 Latin America"
+    },
+    "22011119TI": {
+        "brand": "小米",
+        "model": "Redmi 10 Prime 2022 India"
+    },
+    "22011119UY": {
+        "brand": "小米",
+        "model": "Redmi 10 2022 Global (NFC)"
+    },
+    "22041219G": {
+        "brand": "小米",
+        "model": "Redmi 10 5G Global"
+    },
+    "22041219I": {
+        "brand": "小米",
+        "model": "Redmi 11 Prime 5G India"
+    },
+    "22041219NY": {
+        "brand": "小米",
+        "model": "Redmi 10 5G Global (NFC)"
+    },
+    "220333QAG": {
+        "brand": "小米",
+        "model": "Redmi 10C Global"
+    },
+    "220333QBI": {
+        "brand": "小米",
+        "model": "Redmi 10 India / Redmi 10 Power India"
+    },
+    "220333QNY": {
+        "brand": "小米",
+        "model": "Redmi 10C Global (NFC)"
+    },
+    "220333QL": {
+        "brand": "小米",
+        "model": "Redmi 10C Latin America"
+    },
+    "220233L2G": {
+        "brand": "小米",
+        "model": "Redmi 10A Global"
+    },
+    "220233L2I": {
+        "brand": "小米",
+        "model": "Redmi 10A India / Redmi 10A Sport India"
+    },
+    "220233L2C": {
+        "brand": "小米",
+        "model": "Redmi 10A China"
+    },
+    "22071219AI": {
+        "brand": "小米",
+        "model": "Redmi 11 Prime India"
+    },
+    "23053RN02A": {
+        "brand": "小米",
+        "model": "Redmi 12 Global"
+    },
+    "23053RN02I": {
+        "brand": "小米",
+        "model": "Redmi 12 India"
+    },
+    "23053RN02L": {
+        "brand": "小米",
+        "model": "Redmi 12 Latin America"
+    },
+    "23053RN02Y": {
+        "brand": "小米",
+        "model": "Redmi 12 Global (NFC)"
+    },
+    "23076RN8DY": {
+        "brand": "小米",
+        "model": "Redmi 12 5G Global (NFC)"
+    },
+    "23077RABDC": {
+        "brand": "小米",
+        "model": "Redmi 12 5G China"
+    },
+    "23076RA4BR": {
+        "brand": "小米",
+        "model": "Redmi 12 5G Japan (SIM Free)"
+    },
+    "XIG03": {
+        "brand": "小米",
+        "model": "Redmi 12 5G Japan (KDDI)"
+    },
+    "A401XM": {
+        "brand": "小米",
+        "model": "Redmi 12 5G Japan (SoftBank)"
+    },
+    "23076RN4BI": {
+        "brand": "小米",
+        "model": "Redmi 12 5G India"
+    },
+    "23076RA4BC": {
+        "brand": "小米",
+        "model": "Redmi Note 12R China"
+    },
+    "22120RN86G": {
+        "brand": "小米",
+        "model": "Redmi 12C Global"
+    },
+    "22120RN86H": {
+        "brand": "小米",
+        "model": "Redmi 12C India"
+    },
+    "22120RN86I": {
+        "brand": "小米",
+        "model": "Redmi 12C India"
+    },
+    "22120RN86C": {
+        "brand": "小米",
+        "model": "Redmi 12C China"
+    },
+    "2212ARNC4L": {
+        "brand": "小米",
+        "model": "Redmi 12C Latin America"
+    },
+    "22126RN91Y": {
+        "brand": "小米",
+        "model": "Redmi 12C Global (NFC)"
+    },
+    "2404ARN45A": {
+        "brand": "小米",
+        "model": "Redmi 13 Global"
+    },
+    "2404ARN45I": {
+        "brand": "小米",
+        "model": "Redmi 13 India"
+    },
+    "24049RN28L": {
+        "brand": "小米",
+        "model": "Redmi 13 Latin America"
+    },
+    "24040RN64Y": {
+        "brand": "小米",
+        "model": "Redmi 13 Global (NFC)"
+    },
+    "2406ERN9CI": {
+        "brand": "小米",
+        "model": "Redmi 13 5G India"
+    },
+    "23106RN0DA": {
+        "brand": "小米",
+        "model": "Redmi 13C Global"
+    },
+    "2311DRN14I": {
+        "brand": "小米",
+        "model": "Redmi 13C India"
+    },
+    "23100RN82L": {
+        "brand": "小米",
+        "model": "Redmi 13C Latin America"
+    },
+    "23108RN04Y": {
+        "brand": "小米",
+        "model": "Redmi 13C Global (NFC)"
+    },
+    "23124RN87G": {
+        "brand": "小米",
+        "model": "Redmi 13C 5G Global"
+    },
+    "23124RN87I": {
+        "brand": "小米",
+        "model": "Redmi 13C 5G India"
+    },
+    "23124RN87C": {
+        "brand": "小米",
+        "model": "Redmi 13C 5G China / Redmi 13R 5G China"
+    },
+    "2409BRN2CA": {
+        "brand": "小米",
+        "model": "Redmi 14C Global"
+    },
+    "2409BRN2CI": {
+        "brand": "小米",
+        "model": "Redmi 14C India"
+    },
+    "2409BRN2CL": {
+        "brand": "小米",
+        "model": "Redmi 14C Latin America"
+    },
+    "2409BRN2CC": {
+        "brand": "小米",
+        "model": "Redmi 14C China"
+    },
+    "2409BRN2CY": {
+        "brand": "小米",
+        "model": "Redmi 14C Global (NFC)"
+    },
+    "2411DRN47C": {
+        "brand": "小米",
+        "model": "Redmi 14R 5G China"
+    },
+    "2014018": {
+        "brand": "小米",
+        "model": "Redmi Note WCDMA (1GB RAM)"
+    },
+    "2013121": {
+        "brand": "小米",
+        "model": "Redmi Note WCDMA (2GB RAM)"
+    },
+    "2014017": {
+        "brand": "小米",
+        "model": "Redmi Note TD-SCDMA (1GB RAM)"
+    },
+    "2013122": {
+        "brand": "小米",
+        "model": "Redmi Note TD-SCDMA (2GB RAM)"
+    },
+    "2014715": {
+        "brand": "小米",
+        "model": "Redmi Note 4G Global"
+    },
+    "2014712": {
+        "brand": "小米",
+        "model": "Redmi Note 4G India"
+    },
+    "2014022": {
+        "brand": "小米",
+        "model": "Redmi Note 4G China Mobile"
+    },
+    "2014021": {
+        "brand": "小米",
+        "model": "Redmi Note 4G China Unicom"
+    },
+    "2014912": {
+        "brand": "小米",
+        "model": "Redmi Note 1S China Unicom / Redmi Note Prime India"
+    },
+    "2014915": {
+        "brand": "小米",
+        "model": "Redmi Note 1S China Mobile"
+    },
+    "2014911": {
+        "brand": "小米",
+        "model": "Redmi Note 1S China Mobile"
+    },
+    "2014916": {
+        "brand": "小米",
+        "model": "Redmi Note 1S China Telecom"
+    },
+    "2014910": {
+        "brand": "小米",
+        "model": "Redmi Note 1S China Telecom"
+    },
+    "2015051": {
+        "brand": "小米",
+        "model": "Redmi Note 2 (16GB)"
+    },
+    "2015712": {
+        "brand": "小米",
+        "model": "Redmi Note 2 (32GB)"
+    },
+    "2015052": {
+        "brand": "小米",
+        "model": "Redmi Note 2 (16GB) China Mobile"
+    },
+    "2015055": {
+        "brand": "小米",
+        "model": "Redmi Note 2 (16GB) China Mobile"
+    },
+    "2015056": {
+        "brand": "小米",
+        "model": "Redmi Note 2 (32GB) China Mobile"
+    },
+    "2015617": {
+        "brand": "小米",
+        "model": "Redmi Note 3 (Mediatek)"
+    },
+    "2015611": {
+        "brand": "小米",
+        "model": "Redmi Note 3 (Mediatek) China Mobile"
+    },
+    "2015116": {
+        "brand": "小米",
+        "model": "Redmi Note 3 (Qualcomm) Global"
+    },
+    "2015112": {
+        "brand": "小米",
+        "model": "Redmi Note 3 (Qualcomm) China"
+    },
+    "2015115": {
+        "brand": "小米",
+        "model": "Redmi Note 3 (Qualcomm) China"
+    },
+    "2015161": {
+        "brand": "小米",
+        "model": "Redmi Note 3 (Special Edition) Taiwan"
+    },
+    "2016050": {
+        "brand": "小米",
+        "model": "Redmi Note 4 (Mediatek)"
+    },
+    "2016051": {
+        "brand": "小米",
+        "model": "Redmi Note 4 (Mediatek) China Mobile"
+    },
+    "2016100": {
+        "brand": "小米",
+        "model": "Redmi Note 4 (Qualcomm) Global"
+    },
+    "2016102": {
+        "brand": "小米",
+        "model": "Redmi Note 4 (Qualcomm) Global"
+    },
+    "2016101": {
+        "brand": "小米",
+        "model": "Redmi Note 4X (Qualcomm) China"
+    },
+    "2016130": {
+        "brand": "小米",
+        "model": "Redmi Note 4X (Qualcomm) China Mobile"
+    },
+    "MBE6A5": {
+        "brand": "小米",
+        "model": "Redmi Note 4X (Mediatek)"
+    },
+    "MBT6A5": {
+        "brand": "小米",
+        "model": "Redmi Note 4X (Mediatek) China Mobile"
+    },
+    "MEI7": {
+        "brand": "小米",
+        "model": "Redmi Note 5 India"
+    },
+    "M1803E7SG": {
+        "brand": "小米",
+        "model": "Redmi Note 5 Global"
+    },
+    "M1803E7SH": {
+        "brand": "小米",
+        "model": "Redmi Note 5 Global"
+    },
+    "MEI7S": {
+        "brand": "小米",
+        "model": "Redmi Note 5 Pro India"
+    },
+    "MEE7S": {
+        "brand": "小米",
+        "model": "Redmi Note 5 China"
+    },
+    "MET7S": {
+        "brand": "小米",
+        "model": "Redmi Note 5 China Mobile"
+    },
+    "MEC7S": {
+        "brand": "小米",
+        "model": "Redmi Note 5 China Unicom & China Telecom"
+    },
+    "MDG6": {
+        "brand": "小米",
+        "model": "Redmi Note 5A Global"
+    },
+    "MDI6": {
+        "brand": "小米",
+        "model": "Redmi Y1 Lite India"
+    },
+    "MDE6": {
+        "brand": "小米",
+        "model": "Redmi Note 5A China"
+    },
+    "MDT6": {
+        "brand": "小米",
+        "model": "Redmi Note 5A China Mobile"
+    },
+    "MDG6S": {
+        "brand": "小米",
+        "model": "Redmi Note 5A Prime Global"
+    },
+    "MDI6S": {
+        "brand": "小米",
+        "model": "Redmi Y1 India"
+    },
+    "MDE6S": {
+        "brand": "小米",
+        "model": "Redmi Note 5A Prime China"
+    },
+    "MDT6S": {
+        "brand": "小米",
+        "model": "Redmi Note 5A Prime China Mobile"
+    },
+    "M1806E7TG": {
+        "brand": "小米",
+        "model": "Redmi Note 6 Pro Global"
+    },
+    "M1806E7TH": {
+        "brand": "小米",
+        "model": "Redmi Note 6 Pro Global"
+    },
+    "M1806E7TI": {
+        "brand": "小米",
+        "model": "Redmi Note 6 Pro India"
+    },
+    "M1901F7G": {
+        "brand": "小米",
+        "model": "Redmi Note 7 Global"
+    },
+    "M1901F7H": {
+        "brand": "小米",
+        "model": "Redmi Note 7 Global"
+    },
+    "M1901F7I": {
+        "brand": "小米",
+        "model": "Redmi Note 7 India / Redmi Note 7S India"
+    },
+    "M1901F7E": {
+        "brand": "小米",
+        "model": "Redmi Note 7 China"
+    },
+    "M1901F7T": {
+        "brand": "小米",
+        "model": "Redmi Note 7 China Mobile"
+    },
+    "M1901F7C": {
+        "brand": "小米",
+        "model": "Redmi Note 7 China Unicom & China Telecom"
+    },
+    "M1901F7S": {
+        "brand": "小米",
+        "model": "Redmi Note 7 Pro India"
+    },
+    "M1901F7BE": {
+        "brand": "小米",
+        "model": "Redmi Note 7 Pro China"
+    },
+    "M1908C3JG": {
+        "brand": "小米",
+        "model": "Redmi Note 8 Global"
+    },
+    "M1908C3JH": {
+        "brand": "小米",
+        "model": "Redmi Note 8 Global"
+    },
+    "M1908C3JI": {
+        "brand": "小米",
+        "model": "Redmi Note 8 India"
+    },
+    "M1908C3JE": {
+        "brand": "小米",
+        "model": "Redmi Note 8 China"
+    },
+    "M1908C3JC": {
+        "brand": "小米",
+        "model": "Redmi Note 8 Chinese Carrier Version"
+    },
+    "M1908C3XG": {
+        "brand": "小米",
+        "model": "Redmi Note 8T Global"
+    },
+    "M1908C3JGG": {
+        "brand": "小米",
+        "model": "Redmi Note 8 (2021) Global"
+    },
+    "M1906G7G": {
+        "brand": "小米",
+        "model": "Redmi Note 8 Pro Global"
+    },
+    "M1906G7E": {
+        "brand": "小米",
+        "model": "Redmi Note 8 Pro China"
+    },
+    "M1906G7T": {
+        "brand": "小米",
+        "model": "Redmi Note 8 Pro Chinese Carrier Version"
+    },
+    "M1906G7I": {
+        "brand": "小米",
+        "model": "Redmi Note 8 Pro India"
+    },
+    "M2003J15SS": {
+        "brand": "小米",
+        "model": "Redmi Note 9 Global"
+    },
+    "M2003J15SI": {
+        "brand": "小米",
+        "model": "Redmi Note 9 India"
+    },
+    "M2003J15SG": {
+        "brand": "小米",
+        "model": "Redmi Note 9 Global (NFC)"
+    },
+    "M2010J19SC": {
+        "brand": "小米",
+        "model": "Redmi Note 9 4G China"
+    },
+    "M2007J22C": {
+        "brand": "小米",
+        "model": "Redmi Note 9 5G China"
+    },
+    "M2007J22G": {
+        "brand": "小米",
+        "model": "Redmi Note 9T 5G Global"
+    },
+    "M2007J22R": {
+        "brand": "小米",
+        "model": "Redmi Note 9T 5G Japan (SoftBank)"
+    },
+    "A001XM": {
+        "brand": "小米",
+        "model": "Redmi Note 9T 5G Japan (SoftBank)"
+    },
+    "M2003J6A1G": {
+        "brand": "小米",
+        "model": "Redmi Note 9S Global"
+    },
+    "M2003J6A1R": {
+        "brand": "小米",
+        "model": "Redmi Note 9S Japan / Redmi Note 9S Korea"
+    },
+    "M2003J6A1I": {
+        "brand": "小米",
+        "model": "Redmi Note 9 Pro India"
+    },
+    "M2003J6B1I": {
+        "brand": "小米",
+        "model": "Redmi Note 9 Pro Max India"
+    },
+    "M2003J6B2G": {
+        "brand": "小米",
+        "model": "Redmi Note 9 Pro Global"
+    },
+    "M2007J17C": {
+        "brand": "小米",
+        "model": "Redmi Note 9 Pro 5G China"
+    },
+    "M2101K7AG": {
+        "brand": "小米",
+        "model": "Redmi Note 10 Global"
+    },
+    "M2101K7AI": {
+        "brand": "小米",
+        "model": "Redmi Note 10 India"
+    },
+    "M2101K7BG": {
+        "brand": "小米",
+        "model": "Redmi Note 10S Global"
+    },
+    "M2101K7BI": {
+        "brand": "小米",
+        "model": "Redmi Note 10S India"
+    },
+    "M2101K7BNY": {
+        "brand": "小米",
+        "model": "Redmi Note 10S Global (NFC)"
+    },
+    "M2101K7BL": {
+        "brand": "小米",
+        "model": "Redmi Note 10S Latin America"
+    },
+    "M2103K19G": {
+        "brand": "小米",
+        "model": "Redmi Note 10 5G Global"
+    },
+    "M2103K19Y": {
+        "brand": "小米",
+        "model": "Redmi Note 10T Global"
+    },
+    "M2103K19I": {
+        "brand": "小米",
+        "model": "Redmi Note 10T 5G India"
+    },
+    "M2103K19C": {
+        "brand": "小米",
+        "model": "Redmi Note 10 5G China / Redmi Note 11SE 5G China"
+    },
+    "M2104K19J": {
+        "brand": "小米",
+        "model": "Redmi Note 10 JE Japan (KDDI)"
+    },
+    "XIG02": {
+        "brand": "小米",
+        "model": "Redmi Note 10 JE Japan (KDDI)"
+    },
+    "22021119KR": {
+        "brand": "小米",
+        "model": "Redmi Note 10T Japan (SIM Free)"
+    },
+    "A101XM": {
+        "brand": "小米",
+        "model": "Redmi Note 10T Japan (SoftBank)"
+    },
+    "M2101K6G": {
+        "brand": "小米",
+        "model": "Redmi Note 10 Pro Global"
+    },
+    "M2101K6T": {
+        "brand": "小米",
+        "model": "Redmi Note 10 Pro Thailand"
+    },
+    "M2101K6R": {
+        "brand": "小米",
+        "model": "Redmi Note 10 Pro Japan"
+    },
+    "M2101K6P": {
+        "brand": "小米",
+        "model": "Redmi Note 10 Pro India"
+    },
+    "M2101K6I": {
+        "brand": "小米",
+        "model": "Redmi Note 10 Pro Max India"
+    },
+    "M2104K10AC": {
+        "brand": "小米",
+        "model": "Redmi Note 10 Pro 5G China"
+    },
+    "2109106A1I": {
+        "brand": "小米",
+        "model": "Redmi Note 10 Lite India"
+    },
+    "21121119SC": {
+        "brand": "小米",
+        "model": "Redmi Note 11 4G China"
+    },
+    "2201117TG": {
+        "brand": "小米",
+        "model": "Redmi Note 11 Global"
+    },
+    "2201117TI": {
+        "brand": "小米",
+        "model": "Redmi Note 11 India"
+    },
+    "2201117TL": {
+        "brand": "小米",
+        "model": "Redmi Note 11 Latin America"
+    },
+    "2201117TY": {
+        "brand": "小米",
+        "model": "Redmi Note 11 Global (NFC)"
+    },
+    "21091116AI": {
+        "brand": "小米",
+        "model": "Redmi Note 11T 5G India"
+    },
+    "21091116AC": {
+        "brand": "小米",
+        "model": "Redmi Note 11 5G China"
+    },
+    "22041219C": {
+        "brand": "小米",
+        "model": "Redmi Note 11E 5G China"
+    },
+    "2201117SG": {
+        "brand": "小米",
+        "model": "Redmi Note 11S Global"
+    },
+    "2201117SI": {
+        "brand": "小米",
+        "model": "Redmi Note 11S India"
+    },
+    "2201117SL": {
+        "brand": "小米",
+        "model": "Redmi Note 11S Latin America"
+    },
+    "2201117SY": {
+        "brand": "小米",
+        "model": "Redmi Note 11S Global (NFC)"
+    },
+    "22087RA4DI": {
+        "brand": "小米",
+        "model": "Redmi Note 11 SE India"
+    },
+    "22031116BG": {
+        "brand": "小米",
+        "model": "Redmi Note 11S 5G Global"
+    },
+    "2201116TG": {
+        "brand": "小米",
+        "model": "Redmi Note 11 Pro Global"
+    },
+    "2201116TI": {
+        "brand": "小米",
+        "model": "Redmi Note 11 Pro India"
+    },
+    "2201116SG": {
+        "brand": "小米",
+        "model": "Redmi Note 11 Pro 5G Global"
+    },
+    "2201116SR": {
+        "brand": "小米",
+        "model": "Redmi Note 11 Pro 5G Japan"
+    },
+    "2201116SC": {
+        "brand": "小米",
+        "model": "Redmi Note 11E Pro 5G China"
+    },
+    "2201116SI": {
+        "brand": "小米",
+        "model": "Redmi Note 11 Pro+ 5G India"
+    },
+    "21091116C": {
+        "brand": "小米",
+        "model": "Redmi Note 11 Pro 5G China"
+    },
+    "21091116UG": {
+        "brand": "小米",
+        "model": "Redmi Note 11 Pro+ 5G Global"
+    },
+    "21091116UC": {
+        "brand": "小米",
+        "model": "Redmi Note 11 Pro+ 5G China"
+    },
+    "22041216C": {
+        "brand": "小米",
+        "model": "Redmi Note 11T Pro 5G China"
+    },
+    "22041216UC": {
+        "brand": "小米",
+        "model": "Redmi Note 11T Pro+ 5G China"
+    },
+    "22095RA98C": {
+        "brand": "小米",
+        "model": "Redmi Note 11R 5G China"
+    },
+    "23021RAAEG": {
+        "brand": "小米",
+        "model": "Redmi Note 12 Global"
+    },
+    "23027RAD4I": {
+        "brand": "小米",
+        "model": "Redmi Note 12 India"
+    },
+    "23028RA60L": {
+        "brand": "小米",
+        "model": "Redmi Note 12 Latin America"
+    },
+    "23021RAA2Y": {
+        "brand": "小米",
+        "model": "Redmi Note 12 Global (NFC)"
+    },
+    "22111317G": {
+        "brand": "小米",
+        "model": "Redmi Note 12 5G Global"
+    },
+    "22111317I": {
+        "brand": "小米",
+        "model": "Redmi Note 12 5G India"
+    },
+    "22101317C": {
+        "brand": "小米",
+        "model": "Redmi Note 12 5G China / Redmi Note 12R Pro China"
+    },
+    "2303CRA44A": {
+        "brand": "小米",
+        "model": "Redmi Note 12S Global"
+    },
+    "2303ERA42L": {
+        "brand": "小米",
+        "model": "Redmi Note 12S Latin America"
+    },
+    "23030RAC7Y": {
+        "brand": "小米",
+        "model": "Redmi Note 12S Global (NFC)"
+    },
+    "2209116AG": {
+        "brand": "小米",
+        "model": "Redmi Note 12 Pro Global"
+    },
+    "22101316G": {
+        "brand": "小米",
+        "model": "Redmi Note 12 Pro 5G Global"
+    },
+    "22101316I": {
+        "brand": "小米",
+        "model": "Redmi Note 12 Pro 5G India"
+    },
+    "22101316C": {
+        "brand": "小米",
+        "model": "Redmi Note 12 Pro 5G China"
+    },
+    "22101316UG": {
+        "brand": "小米",
+        "model": "Redmi Note 12 Pro+ 5G Global"
+    },
+    "22101316UP": {
+        "brand": "小米",
+        "model": "Redmi Note 12 Pro+ 5G India"
+    },
+    "22101316UCP": {
+        "brand": "小米",
+        "model": "Redmi Note 12 Pro+ 5G China"
+    },
+    "22101316UC": {
+        "brand": "小米",
+        "model": "Redmi Note 12 Discovery Edition China"
+    },
+    "22101320C": {
+        "brand": "小米",
+        "model": "Redmi Note 12 Pro Speed China"
+    },
+    "23054RA19C": {
+        "brand": "小米",
+        "model": "Redmi Note 12T Pro China"
+    },
+    "23049RAD8C": {
+        "brand": "小米",
+        "model": "Redmi Note 12 Turbo China"
+    },
+    "23129RAA4G": {
+        "brand": "小米",
+        "model": "Redmi Note 13 Global"
+    },
+    "23129RA5FL": {
+        "brand": "小米",
+        "model": "Redmi Note 13 Latin America"
+    },
+    "23124RA7EO": {
+        "brand": "小米",
+        "model": "Redmi Note 13 Global (NFC)"
+    },
+    "2312DRAABG": {
+        "brand": "小米",
+        "model": "Redmi Note 13 5G Global"
+    },
+    "2312DRAABI": {
+        "brand": "小米",
+        "model": "Redmi Note 13 5G India"
+    },
+    "2312DRAABC": {
+        "brand": "小米",
+        "model": "Redmi Note 13 5G China"
+    },
+    "23117RA68G": {
+        "brand": "小米",
+        "model": "Redmi Note 13 Pro Global"
+    },
+    "2312DRA50G": {
+        "brand": "小米",
+        "model": "Redmi Note 13 Pro 5G Global"
+    },
+    "2312DRA50I": {
+        "brand": "小米",
+        "model": "Redmi Note 13 Pro 5G India"
+    },
+    "2312DRA50C": {
+        "brand": "小米",
+        "model": "Redmi Note 13 Pro 5G China"
+    },
+    "2312CRAD3C": {
+        "brand": "小米",
+        "model": "Redmi Note 13 Pro 5G China"
+    },
+    "XIG05": {
+        "brand": "小米",
+        "model": "Redmi Note 13 Pro 5G Japan (KDDI)"
+    },
+    "23090RA98G": {
+        "brand": "小米",
+        "model": "Redmi Note 13 Pro+ 5G Global"
+    },
+    "23090RA98I": {
+        "brand": "小米",
+        "model": "Redmi Note 13 Pro+ 5G India"
+    },
+    "23090RA98C": {
+        "brand": "小米",
+        "model": "Redmi Note 13 Pro+ 5G China"
+    },
+    "24040RA98R": {
+        "brand": "小米",
+        "model": "Redmi Note 13 Pro+ 5G Japan"
+    },
+    "2406ERN9CC": {
+        "brand": "小米",
+        "model": "Redmi Note 13R China"
+    },
+    "2311FRAFDC": {
+        "brand": "小米",
+        "model": "Redmi Note 13R Pro China"
+    },
+    "24094RAD4G": {
+        "brand": "小米",
+        "model": "Redmi Note 14 5G Global"
+    },
+    "24094RAD4I": {
+        "brand": "小米",
+        "model": "Redmi Note 14 5G India"
+    },
+    "24094RAD4C": {
+        "brand": "小米",
+        "model": "Redmi Note 14 5G China"
+    },
+    "24116RACCG": {
+        "brand": "小米",
+        "model": "Redmi Note 14 Pro Global"
+    },
+    "24090RA29G": {
+        "brand": "小米",
+        "model": "Redmi Note 14 Pro 5G Global"
+    },
+    "24090RA29I": {
+        "brand": "小米",
+        "model": "Redmi Note 14 Pro 5G India"
+    },
+    "24090RA29C": {
+        "brand": "小米",
+        "model": "Redmi Note 14 Pro 5G China"
+    },
+    "24115RA8EG": {
+        "brand": "小米",
+        "model": "Redmi Note 14 Pro+ 5G Global"
+    },
+    "24115RA8EI": {
+        "brand": "小米",
+        "model": "Redmi Note 14 Pro+ 5G India"
+    },
+    "24115RA8EC": {
+        "brand": "小米",
+        "model": "Redmi Note 14 Pro+ 5G China"
+    },
+    "M2004J7AC": {
+        "brand": "小米",
+        "model": "Redmi 10X 5G China"
+    },
+    "M2004J7BC": {
+        "brand": "小米",
+        "model": "Redmi 10X Pro 5G China"
+    },
+    "M2003J15SC": {
+        "brand": "小米",
+        "model": "Redmi 10X 4G China"
+    },
+    "24069RA21C": {
+        "brand": "小米",
+        "model": "Redmi Turbo 3 China"
+    },
+    "M1903F10A": {
+        "brand": "小米",
+        "model": "Redmi K20 China"
+    },
+    "M1903F10C": {
+        "brand": "小米",
+        "model": "Redmi K20 Chinese Carrier Version"
+    },
+    "M1903F10I": {
+        "brand": "小米",
+        "model": "Redmi K20 India"
+    },
+    "M1903F11A": {
+        "brand": "小米",
+        "model": "Redmi K20 Pro Premium Edition China"
+    },
+    "M1903F11C": {
+        "brand": "小米",
+        "model": "Redmi K20 Pro Chinese Carrier Version"
+    },
+    "M1903F11I": {
+        "brand": "小米",
+        "model": "Redmi K20 Pro India"
+    },
+    "M2001G7AE": {
+        "brand": "小米",
+        "model": "Redmi K30 5G China / Redmi K30 5G Speed China"
+    },
+    "M2001G7AC": {
+        "brand": "小米",
+        "model": "Redmi K30i 5G China"
+    },
+    "M1912G7BE": {
+        "brand": "小米",
+        "model": "Redmi K30 4G China"
+    },
+    "M1912G7BC": {
+        "brand": "小米",
+        "model": "Redmi K30 4G Chinese Carrier Version"
+    },
+    "M2001J11C": {
+        "brand": "小米",
+        "model": "Redmi K30 Pro Zoom Edition China"
+    },
+    "M2001J11E": {
+        "brand": "小米",
+        "model": "Redmi K30 Pro Zoom Edition China"
+    },
+    "M2006J10C": {
+        "brand": "小米",
+        "model": "Redmi K30 Ultra China"
+    },
+    "M2007J3SC": {
+        "brand": "小米",
+        "model": "Redmi K30S Ultra China"
+    },
+    "M2012K11AC": {
+        "brand": "小米",
+        "model": "Redmi K40 China"
+    },
+    "M2012K11C": {
+        "brand": "小米",
+        "model": "Redmi K40 Pro China / Redmi K40 Pro+ China"
+    },
+    "M2012K10C": {
+        "brand": "小米",
+        "model": "Redmi K40 Gaming China"
+    },
+    "22021211RC": {
+        "brand": "小米",
+        "model": "Redmi K40S China"
+    },
+    "22041211AC": {
+        "brand": "小米",
+        "model": "Redmi K50 China"
+    },
+    "22011211C": {
+        "brand": "小米",
+        "model": "Redmi K50 Pro China"
+    },
+    "21121210C": {
+        "brand": "小米",
+        "model": "Redmi K50G China"
+    },
+    "22081212C": {
+        "brand": "小米",
+        "model": "Redmi K50 Ultra China"
+    },
+    "22041216I": {
+        "brand": "小米",
+        "model": "Redmi K50i India"
+    },
+    "23013RK75C": {
+        "brand": "小米",
+        "model": "Redmi K60 China"
+    },
+    "22127RK46C": {
+        "brand": "小米",
+        "model": "Redmi K60 Pro China"
+    },
+    "22122RK93C": {
+        "brand": "小米",
+        "model": "Redmi K60E China"
+    },
+    "23078RKD5C": {
+        "brand": "小米",
+        "model": "Redmi K60 Ultra China"
+    },
+    "2407FRK8EC": {
+        "brand": "小米",
+        "model": "Redmi K70 Ultra China"
+    },
+    "23113RKC6C": {
+        "brand": "小米",
+        "model": "Redmi K70 China"
+    },
+    "23117RK66C": {
+        "brand": "小米",
+        "model": "Redmi K70 Pro China"
+    },
+    "2311DRK48C": {
+        "brand": "小米",
+        "model": "Redmi K70E China"
+    },
+    "24117RK2CC": {
+        "brand": "小米",
+        "model": "Redmi K80 China"
+    },
+    "2016020": {
+        "brand": "小米",
+        "model": "Redmi Pro (32GB)"
+    },
+    "2016021": {
+        "brand": "小米",
+        "model": "Redmi Pro (64GB & 128GB)"
+    },
+    "M1803E6G": {
+        "brand": "小米",
+        "model": "Redmi S2 Global"
+    },
+    "M1803E6H": {
+        "brand": "小米",
+        "model": "Redmi S2 Global"
+    },
+    "M1803E6I": {
+        "brand": "小米",
+        "model": "Redmi Y2 India"
+    },
+    "M1803E6E": {
+        "brand": "小米",
+        "model": "Redmi S2 China"
+    },
+    "M1803E6T": {
+        "brand": "小米",
+        "model": "Redmi S2 China Mobile"
+    },
+    "M1803E6C": {
+        "brand": "小米",
+        "model": "Redmi S2 China Unicom & China Telecom"
+    },
+    "M1810F6G": {
+        "brand": "小米",
+        "model": "Redmi Y3 Global"
+    },
+    "M1810F6I": {
+        "brand": "小米",
+        "model": "Redmi Y3 India"
+    },
+    "M1903C3GG": {
+        "brand": "小米",
+        "model": "Redmi Go Global"
+    },
+    "M1903C3GH": {
+        "brand": "小米",
+        "model": "Redmi Go Global"
+    },
+    "M1903C3GI": {
+        "brand": "小米",
+        "model": "Redmi Go India"
+    },
+    "220733SG": {
+        "brand": "小米",
+        "model": "Redmi A1 Global"
+    },
+    "220733SH": {
+        "brand": "小米",
+        "model": "Redmi A1 India"
+    },
+    "220733SI": {
+        "brand": "小米",
+        "model": "Redmi A1 India"
+    },
+    "220733SL": {
+        "brand": "小米",
+        "model": "Redmi A1 Latin America"
+    },
+    "220733SFG": {
+        "brand": "小米",
+        "model": "Redmi A1+ Global"
+    },
+    "220733SFH": {
+        "brand": "小米",
+        "model": "Redmi A1+ India"
+    },
+    "220743FI": {
+        "brand": "小米",
+        "model": "Redmi A1+ India"
+    },
+    "23028RN4DG": {
+        "brand": "小米",
+        "model": "Redmi A2 Global"
+    },
+    "23028RN4DH": {
+        "brand": "小米",
+        "model": "Redmi A2 India"
+    },
+    "23028RN4DI": {
+        "brand": "小米",
+        "model": "Redmi A2 India"
+    },
+    "23026RN54G": {
+        "brand": "小米",
+        "model": "Redmi A2 Latin America"
+    },
+    "23028RNCAG": {
+        "brand": "小米",
+        "model": "Redmi A2+ Global"
+    },
+    "23028RNCAH": {
+        "brand": "小米",
+        "model": "Redmi A2+ India"
+    },
+    "23028RNCAI": {
+        "brand": "小米",
+        "model": "Redmi A2+ India"
+    },
+    "23129RN51X": {
+        "brand": "小米",
+        "model": "Redmi A3 Global"
+    },
+    "23129RN51H": {
+        "brand": "小米",
+        "model": "Redmi A3 India"
+    },
+    "2312CRNCCL": {
+        "brand": "小米",
+        "model": "Redmi A3 Latin America"
+    },
+    "24048RN6CG": {
+        "brand": "小米",
+        "model": "Redmi A3x Global"
+    },
+    "24048RN6CI": {
+        "brand": "小米",
+        "model": "Redmi A3x India"
+    },
+    "24044RN32L": {
+        "brand": "小米",
+        "model": "Redmi A3x Latin America"
+    },
+    "2409BRN2CG": {
+        "brand": "小米",
+        "model": "Redmi A3 Pro Global"
+    },
+    "M1805E10A": {
+        "brand": "小米",
+        "model": "POCO F1"
+    },
+    "M2004J11G": {
+        "brand": "小米",
+        "model": "POCO F2 Pro Global"
+    },
+    "M2012K11AG": {
+        "brand": "小米",
+        "model": "POCO F3 Global"
+    },
+    "M2104K10I": {
+        "brand": "小米",
+        "model": "POCO F3 GT India"
+    },
+    "22021211RG": {
+        "brand": "小米",
+        "model": "POCO F4 Global"
+    },
+    "22021211RI": {
+        "brand": "小米",
+        "model": "POCO F4 India"
+    },
+    "21121210G": {
+        "brand": "小米",
+        "model": "POCO F4 GT Global"
+    },
+    "23049PCD8G": {
+        "brand": "小米",
+        "model": "POCO F5 Global"
+    },
+    "23049PCD8I": {
+        "brand": "小米",
+        "model": "POCO F5 India"
+    },
+    "23013PC75G": {
+        "brand": "小米",
+        "model": "POCO F5 Pro Global"
+    },
+    "24069PC21G": {
+        "brand": "小米",
+        "model": "POCO F6 Global"
+    },
+    "24069PC21I": {
+        "brand": "小米",
+        "model": "POCO F6 India"
+    },
+    "23113RKC6G": {
+        "brand": "小米",
+        "model": "POCO F6 Pro Global"
+    },
+    "M1912G7BI": {
+        "brand": "小米",
+        "model": "POCO X2 India"
+    },
+    "M2007J20CI": {
+        "brand": "小米",
+        "model": "POCO X3 India"
+    },
+    "M2007J20CG": {
+        "brand": "小米",
+        "model": "POCO X3 NFC Global"
+    },
+    "M2007J20CT": {
+        "brand": "小米",
+        "model": "POCO X3 NFC Thailand"
+    },
+    "M2102J20SG": {
+        "brand": "小米",
+        "model": "POCO X3 Pro Global"
+    },
+    "M2102J20SI": {
+        "brand": "小米",
+        "model": "POCO X3 Pro India"
+    },
+    "21061110AG": {
+        "brand": "小米",
+        "model": "POCO X3 GT Global"
+    },
+    "2201116PG": {
+        "brand": "小米",
+        "model": "POCO X4 Pro 5G Global"
+    },
+    "2201116PI": {
+        "brand": "小米",
+        "model": "POCO X4 Pro 5G India"
+    },
+    "22041216G": {
+        "brand": "小米",
+        "model": "POCO X4 GT Global"
+    },
+    "22111317PG": {
+        "brand": "小米",
+        "model": "POCO X5 5G Global"
+    },
+    "22111317PI": {
+        "brand": "小米",
+        "model": "POCO X5 5G India"
+    },
+    "22101320G": {
+        "brand": "小米",
+        "model": "POCO X5 Pro 5G Global"
+    },
+    "22101320I": {
+        "brand": "小米",
+        "model": "POCO X5 Pro 5G India"
+    },
+    "23122PCD1G": {
+        "brand": "小米",
+        "model": "POCO X6 5G Global"
+    },
+    "23122PCD1I": {
+        "brand": "小米",
+        "model": "POCO X6 5G India"
+    },
+    "2311DRK48G": {
+        "brand": "小米",
+        "model": "POCO X6 Pro 5G Global"
+    },
+    "2311DRK48I": {
+        "brand": "小米",
+        "model": "POCO X6 Pro 5G India"
+    },
+    "2312FRAFDI": {
+        "brand": "小米",
+        "model": "POCO X6 Neo India"
+    },
+    "M2004J19PI": {
+        "brand": "小米",
+        "model": "POCO M2 India"
+    },
+    "M2003J6CI": {
+        "brand": "小米",
+        "model": "POCO M2 Pro India"
+    },
+    "M2010J19CG": {
+        "brand": "小米",
+        "model": "POCO M3 Global"
+    },
+    "M2010J19CT": {
+        "brand": "小米",
+        "model": "POCO M3 Thailand"
+    },
+    "M2010J19CI": {
+        "brand": "小米",
+        "model": "POCO M3 India"
+    },
+    "M2103K19PG": {
+        "brand": "小米",
+        "model": "POCO M3 Pro 5G Global"
+    },
+    "M2103K19PY": {
+        "brand": "小米",
+        "model": "POCO M3 Pro 5G Global"
+    },
+    "M2103K19PI": {
+        "brand": "小米",
+        "model": "POCO M3 Pro 5G India"
+    },
+    "22041219PG": {
+        "brand": "小米",
+        "model": "POCO M4 5G Global"
+    },
+    "22041219PI": {
+        "brand": "小米",
+        "model": "POCO M4 5G India"
+    },
+    "2201117PG": {
+        "brand": "小米",
+        "model": "POCO M4 Pro Global"
+    },
+    "2201117PI": {
+        "brand": "小米",
+        "model": "POCO M4 Pro India"
+    },
+    "21091116AG": {
+        "brand": "小米",
+        "model": "POCO M4 Pro 5G Global"
+    },
+    "22031116AI": {
+        "brand": "小米",
+        "model": "POCO M4 Pro 5G India"
+    },
+    "22071219CG": {
+        "brand": "小米",
+        "model": "POCO M5 Global"
+    },
+    "22071219CI": {
+        "brand": "小米",
+        "model": "POCO M5 India"
+    },
+    "2207117BPG": {
+        "brand": "小米",
+        "model": "POCO M5s Global"
+    },
+    "2404APC5FG": {
+        "brand": "小米",
+        "model": "POCO M6 Global"
+    },
+    "2404APC5FI": {
+        "brand": "小米",
+        "model": "POCO M6 India"
+    },
+    "23128PC33I": {
+        "brand": "小米",
+        "model": "POCO M6 5G India"
+    },
+    "24066PC95I": {
+        "brand": "小米",
+        "model": "POCO M6 Plus 5G India"
+    },
+    "2312FPCA6G": {
+        "brand": "小米",
+        "model": "POCO M6 Pro Global"
+    },
+    "23076PC4BI": {
+        "brand": "小米",
+        "model": "POCO M6 Pro 5G India"
+    },
+    "24108PCE2I": {
+        "brand": "小米",
+        "model": "POCO M7 5G India"
+    },
+    "2409FPCC4G": {
+        "brand": "小米",
+        "model": "POCO M7 Pro 5G Global"
+    },
+    "M2006C3MI": {
+        "brand": "小米",
+        "model": "POCO C3 India"
+    },
+    "211033MI": {
+        "brand": "小米",
+        "model": "POCO C31 India"
+    },
+    "220333QPG": {
+        "brand": "小米",
+        "model": "POCO C40 Global"
+    },
+    "220333QPI": {
+        "brand": "小米",
+        "model": "POCO C40 India"
+    },
+    "220733SPH": {
+        "brand": "小米",
+        "model": "POCO C50 India"
+    },
+    "220733SPI": {
+        "brand": "小米",
+        "model": "POCO C50 India"
+    },
+    "2305EPCC4G": {
+        "brand": "小米",
+        "model": "POCO C51 Global"
+    },
+    "2302EPCC4H": {
+        "brand": "小米",
+        "model": "POCO C51 India"
+    },
+    "2302EPCC4I": {
+        "brand": "小米",
+        "model": "POCO C51 India"
+    },
+    "22127PC95G": {
+        "brand": "小米",
+        "model": "POCO C55 Global"
+    },
+    "22127PC95H": {
+        "brand": "小米",
+        "model": "POCO C55 India"
+    },
+    "22127PC95I": {
+        "brand": "小米",
+        "model": "POCO C55 India"
+    },
+    "2312BPC51X": {
+        "brand": "小米",
+        "model": "POCO C61 Global"
+    },
+    "2312BPC51H": {
+        "brand": "小米",
+        "model": "POCO C61 India"
+    },
+    "2310FPCA4G": {
+        "brand": "小米",
+        "model": "POCO C65 Global"
+    },
+    "2310FPCA4I": {
+        "brand": "小米",
+        "model": "POCO C65 India"
+    },
+    "2410FPCC5G": {
+        "brand": "小米",
+        "model": "POCO C75 Global"
+    },
+    "2410FPCC5I": {
+        "brand": "小米",
+        "model": "POCO C75 India"
+    },
+    "A0101": {
+        "brand": "小米",
+        "model": "Mi Pad"
+    },
+    "2015716": {
+        "brand": "小米",
+        "model": "Mi Pad 2"
+    },
+    "MCE91": {
+        "brand": "小米",
+        "model": "Mi Pad 3"
+    },
+    "M1806D9W": {
+        "brand": "小米",
+        "model": "Mi Pad 4 Wi-Fi"
+    },
+    "M1806D9E": {
+        "brand": "小米",
+        "model": "Mi Pad 4 LTE"
+    },
+    "M1806D9PE": {
+        "brand": "小米",
+        "model": "Mi Pad 4 Plus LTE"
+    },
+    "21051182G": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 5 Global"
+    },
+    "21051182C": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 5 China"
+    },
+    "M2105K81AC": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 5 Pro Wi-Fi China"
+    },
+    "M2105K81C": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 5 Pro 5G China"
+    },
+    "22081281AC": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 5 Pro 12.4 China"
+    },
+    "23043RP34G": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 6 Global"
+    },
+    "23043RP34I": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 6 India"
+    },
+    "23043RP34C": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 6 China"
+    },
+    "23046RP50C": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 6 Pro China"
+    },
+    "2307BRPDCC": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 6 Max 14 China"
+    },
+    "24018RPACG": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 6S Pro 12.4 Global"
+    },
+    "24018RPACC": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 6S Pro 12.4 China"
+    },
+    "2410CRP4CG": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 7 Global"
+    },
+    "2410CRP4CC": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 7 China"
+    },
+    "24091RPADG": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 7 Pro Global"
+    },
+    "24091RPADC": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 7 Pro China"
+    },
+    "22081283G": {
+        "brand": "小米",
+        "model": "Redmi Pad Global"
+    },
+    "22081283C": {
+        "brand": "小米",
+        "model": "Redmi Pad China"
+    },
+    "23073RPBFG": {
+        "brand": "小米",
+        "model": "Redmi Pad SE Global"
+    },
+    "23073RPBFC": {
+        "brand": "小米",
+        "model": "Redmi Pad M7 China"
+    },
+    "23073RPBFL": {
+        "brand": "小米",
+        "model": "Redmi Pad SE Latin America"
+    },
+    "2405CRPFDG": {
+        "brand": "小米",
+        "model": "Redmi Pad Pro Wi-Fi Global"
+    },
+    "2405CRPFDC": {
+        "brand": "小米",
+        "model": "Redmi Pad Pro Wi-Fi China"
+    },
+    "2405CRPFDI": {
+        "brand": "小米",
+        "model": "Redmi Pad Pro Wi-Fi India"
+    },
+    "2405CRPFDL": {
+        "brand": "小米",
+        "model": "Redmi Pad Pro Wi-Fi Latin America"
+    },
+    "24074RPD2G": {
+        "brand": "小米",
+        "model": "Redmi Pad Pro 5G Global"
+    },
+    "24074RPD2C": {
+        "brand": "小米",
+        "model": "Redmi Pad Pro 5G China"
+    },
+    "24074RPD2I": {
+        "brand": "小米",
+        "model": "Redmi Pad Pro 5G India"
+    },
+    "24075RP89G": {
+        "brand": "小米",
+        "model": "Redmi Pad SE 8.7 Wi-Fi Global"
+    },
+    "24076RP19G": {
+        "brand": "小米",
+        "model": "Redmi Pad SE 8.7 4G Global"
+    },
+    "24076RP19I": {
+        "brand": "小米",
+        "model": "Redmi Pad SE 4G India"
+    },
+    "2405CPCFBG": {
+        "brand": "小米",
+        "model": "POCO Pad Wi-Fi Global"
+    },
+    "24074PCD2I": {
+        "brand": "小米",
+        "model": "POCO Pad 5G India"
+    },
+    "FYJ01QP": {
+        "brand": "小米",
+        "model": "Xiaomi Mijia Translator"
+    },
+    "21051191C": {
+        "brand": "小米",
+        "model": "Xiaomi CyberDog Bio-inspired Quadruped Robot"
+    }
+}

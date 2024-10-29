@@ -1,0 +1,618 @@
+{
+    "ONE A0001": {
+        "brand": "一加",
+        "model": "OnePlus One China / China Mobile / Global"
+    },
+    "ONE A1001": {
+        "brand": "一加",
+        "model": "OnePlus One China Unicom"
+    },
+    "ONE A2001": {
+        "brand": "一加",
+        "model": "OnePlus 2 China"
+    },
+    "ONE A2003": {
+        "brand": "一加",
+        "model": "OnePlus 2 Global"
+    },
+    "ONE A2005": {
+        "brand": "一加",
+        "model": "OnePlus 2 North America"
+    },
+    "ONE E1000": {
+        "brand": "一加",
+        "model": "OnePlus X China"
+    },
+    "ONE E1001": {
+        "brand": "一加",
+        "model": "OnePlus X China Mobile / China Unicom"
+    },
+    "ONE E1003": {
+        "brand": "一加",
+        "model": "OnePlus X Global"
+    },
+    "ONE E1005": {
+        "brand": "一加",
+        "model": "OnePlus X North America"
+    },
+    "ONEPLUS A3000": {
+        "brand": "一加",
+        "model": "OnePlus 3 China / North America"
+    },
+    "ONEPLUS A3003": {
+        "brand": "一加",
+        "model": "OnePlus 3 Global"
+    },
+    "ONEPLUS A3010": {
+        "brand": "一加",
+        "model": "OnePlus 3T China"
+    },
+    "ONEPLUS A3013": {
+        "brand": "一加",
+        "model": "OnePlus 3T Global"
+    },
+    "ONEPLUS A5000": {
+        "brand": "一加",
+        "model": "OnePlus 5"
+    },
+    "ONEPLUS A5010": {
+        "brand": "一加",
+        "model": "OnePlus 5T"
+    },
+    "ONEPLUS A6000": {
+        "brand": "一加",
+        "model": "OnePlus 6 China"
+    },
+    "ONEPLUS A6003": {
+        "brand": "一加",
+        "model": "OnePlus 6 Global"
+    },
+    "ONEPLUS A6010": {
+        "brand": "一加",
+        "model": "OnePlus 6T China"
+    },
+    "ONEPLUS A6013": {
+        "brand": "一加",
+        "model": "OnePlus 6T Global"
+    },
+    "GM1900": {
+        "brand": "一加",
+        "model": "OnePlus 7 China"
+    },
+    "GM1901": {
+        "brand": "一加",
+        "model": "OnePlus 7 India"
+    },
+    "GM1903": {
+        "brand": "一加",
+        "model": "OnePlus 7 Europe"
+    },
+    "GM1905": {
+        "brand": "一加",
+        "model": "OnePlus 7 North America / Global"
+    },
+    "GM1910": {
+        "brand": "一加",
+        "model": "OnePlus 7 Pro China"
+    },
+    "GM1911": {
+        "brand": "一加",
+        "model": "OnePlus 7 Pro India"
+    },
+    "GM1913": {
+        "brand": "一加",
+        "model": "OnePlus 7 Pro Europe"
+    },
+    "GM1915": {
+        "brand": "一加",
+        "model": "OnePlus 7 Pro North America / Global"
+    },
+    "GM1917": {
+        "brand": "一加",
+        "model": "OnePlus 7 Pro T-Mobile"
+    },
+    "GM1920": {
+        "brand": "一加",
+        "model": "OnePlus 7 Pro 5G Europe"
+    },
+    "GM1925": {
+        "brand": "一加",
+        "model": "OnePlus 7 Pro 5G Sprint"
+    },
+    "HD1900": {
+        "brand": "一加",
+        "model": "OnePlus 7T China"
+    },
+    "HD1901": {
+        "brand": "一加",
+        "model": "OnePlus 7T India"
+    },
+    "HD1903": {
+        "brand": "一加",
+        "model": "OnePlus 7T Europe"
+    },
+    "HD1905": {
+        "brand": "一加",
+        "model": "OnePlus 7T North America / Global"
+    },
+    "HD1907": {
+        "brand": "一加",
+        "model": "OnePlus 7T T-Mobile"
+    },
+    "HD1910": {
+        "brand": "一加",
+        "model": "OnePlus 7T Pro China"
+    },
+    "HD1911": {
+        "brand": "一加",
+        "model": "OnePlus 7T Pro India"
+    },
+    "HD1913": {
+        "brand": "一加",
+        "model": "OnePlus 7T Pro Europe / Global"
+    },
+    "HD1925": {
+        "brand": "一加",
+        "model": "OnePlus 7T Pro 5G T-Mobile / OnePlus Concept One"
+    },
+    "IN2010": {
+        "brand": "一加",
+        "model": "OnePlus 8 China"
+    },
+    "IN2011": {
+        "brand": "一加",
+        "model": "OnePlus 8 India"
+    },
+    "IN2013": {
+        "brand": "一加",
+        "model": "OnePlus 8 Europe"
+    },
+    "IN2015": {
+        "brand": "一加",
+        "model": "OnePlus 8 North America / Global"
+    },
+    "IN2017": {
+        "brand": "一加",
+        "model": "OnePlus 8 T-Mobile"
+    },
+    "IN2019": {
+        "brand": "一加",
+        "model": "OnePlus 8 Visible / Verzion"
+    },
+    "IN2020": {
+        "brand": "一加",
+        "model": "OnePlus 8 Pro China"
+    },
+    "IN2021": {
+        "brand": "一加",
+        "model": "OnePlus 8 Pro India"
+    },
+    "IN2023": {
+        "brand": "一加",
+        "model": "OnePlus 8 Pro Europe"
+    },
+    "IN2025": {
+        "brand": "一加",
+        "model": "OnePlus 8 Pro North America / Global"
+    },
+    "KB2000": {
+        "brand": "一加",
+        "model": "OnePlus 8T China"
+    },
+    "KB2001": {
+        "brand": "一加",
+        "model": "OnePlus 8T India"
+    },
+    "KB2003": {
+        "brand": "一加",
+        "model": "OnePlus 8T Europe"
+    },
+    "KB2005": {
+        "brand": "一加",
+        "model": "OnePlus 8T North America / Global / OnePlus 8T Concept"
+    },
+    "KB2007": {
+        "brand": "一加",
+        "model": "OnePlus 8T+ T-Mobile"
+    },
+    "LE2100": {
+        "brand": "一加",
+        "model": "OnePlus 9R China"
+    },
+    "LE2101": {
+        "brand": "一加",
+        "model": "OnePlus 9R India"
+    },
+    "LE2110": {
+        "brand": "一加",
+        "model": "OnePlus 9 China"
+    },
+    "LE2111": {
+        "brand": "一加",
+        "model": "OnePlus 9 India"
+    },
+    "LE2113": {
+        "brand": "一加",
+        "model": "OnePlus 9 Europe"
+    },
+    "LE2115": {
+        "brand": "一加",
+        "model": "OnePlus 9 North America / Global"
+    },
+    "LE2117": {
+        "brand": "一加",
+        "model": "OnePlus 9 T-Mobile"
+    },
+    "LE2119": {
+        "brand": "一加",
+        "model": "OnePlus 9 Verzion"
+    },
+    "LE2120": {
+        "brand": "一加",
+        "model": "OnePlus 9 Pro China"
+    },
+    "LE2121": {
+        "brand": "一加",
+        "model": "OnePlus 9 Pro India"
+    },
+    "LE2123": {
+        "brand": "一加",
+        "model": "OnePlus 9 Pro Europe"
+    },
+    "LE2125": {
+        "brand": "一加",
+        "model": "OnePlus 9 Pro North America / Global"
+    },
+    "LE2127": {
+        "brand": "一加",
+        "model": "OnePlus 9 Pro T-Mobile"
+    },
+    "MT2110": {
+        "brand": "一加",
+        "model": "OnePlus 9RT China"
+    },
+    "MT2111": {
+        "brand": "一加",
+        "model": "OnePlus 9RT India"
+    },
+    "NE2210": {
+        "brand": "一加",
+        "model": "OnePlus 10 Pro China"
+    },
+    "NE2211": {
+        "brand": "一加",
+        "model": "OnePlus 10 Pro India"
+    },
+    "NE2213": {
+        "brand": "一加",
+        "model": "OnePlus 10 Pro Europe / Global"
+    },
+    "NE2215": {
+        "brand": "一加",
+        "model": "OnePlus 10 Pro North America"
+    },
+    "NE2217": {
+        "brand": "一加",
+        "model": "OnePlus 10 Pro T-Mobile"
+    },
+    "PGKM10": {
+        "brand": "一加",
+        "model": "OnePlus Ace China"
+    },
+    "CPH2423": {
+        "brand": "一加",
+        "model": "OnePlus 10R India"
+    },
+    "CPH2411": {
+        "brand": "一加",
+        "model": "OnePlus 10R Endurance India"
+    },
+    "PGZ110": {
+        "brand": "一加",
+        "model": "OnePlus Ace Race China"
+    },
+    "PGP110": {
+        "brand": "一加",
+        "model": "OnePlus Ace Pro China / Genshin Impact Edition"
+    },
+    "CPH2413": {
+        "brand": "一加",
+        "model": "OnePlus 10T India"
+    },
+    "CPH2415": {
+        "brand": "一加",
+        "model": "OnePlus 10T Europe / Global"
+    },
+    "CPH2417": {
+        "brand": "一加",
+        "model": "OnePlus 10T North America"
+    },
+    "CPH2419": {
+        "brand": "一加",
+        "model": "OnePlus 10T T-Mobile"
+    },
+    "PHB110": {
+        "brand": "一加",
+        "model": "OnePlus 11 China"
+    },
+    "CPH2447": {
+        "brand": "一加",
+        "model": "OnePlus 11 India"
+    },
+    "CPH2449": {
+        "brand": "一加",
+        "model": "OnePlus 11 Europe / Global / OnePlus 11 Concept"
+    },
+    "CPH2451": {
+        "brand": "一加",
+        "model": "OnePlus 11 North America"
+    },
+    "PHK110": {
+        "brand": "一加",
+        "model": "OnePlus Ace 2 China / Genshin Impact Edition"
+    },
+    "CPH2487": {
+        "brand": "一加",
+        "model": "OnePlus 11R India"
+    },
+    "PHP110": {
+        "brand": "一加",
+        "model": "OnePlus Ace 2V China"
+    },
+    "CPH2491": {
+        "brand": "一加",
+        "model": "OnePlus Nord 3 India"
+    },
+    "CPH2493": {
+        "brand": "一加",
+        "model": "OnePlus Nord 3 Europe"
+    },
+    "PJA110": {
+        "brand": "一加",
+        "model": "OnePlus Ace 2 Pro China / Genshin Impact Edition"
+    },
+    "PJD110": {
+        "brand": "一加",
+        "model": "OnePlus 12 China"
+    },
+    "CPH2573": {
+        "brand": "一加",
+        "model": "OnePlus 12 India"
+    },
+    "CPH2581": {
+        "brand": "一加",
+        "model": "OnePlus 12 Europe / Global"
+    },
+    "CPH2583": {
+        "brand": "一加",
+        "model": "OnePlus 12 North America"
+    },
+    "PJE110": {
+        "brand": "一加",
+        "model": "OnePlus Ace 3 China / Genshin Impact Edition"
+    },
+    "CPH2585": {
+        "brand": "一加",
+        "model": "OnePlus 12R India / Genshin Impact Edition"
+    },
+    "CPH2609": {
+        "brand": "一加",
+        "model": "OnePlus 12R Europe / Global / Genshin Impact Edition"
+    },
+    "CPH2611": {
+        "brand": "一加",
+        "model": "OnePlus 12R North America / Genshin Impact Edition"
+    },
+    "PJF110": {
+        "brand": "一加",
+        "model": "OnePlus Ace 3V China"
+    },
+    "PJX110": {
+        "brand": "一加",
+        "model": "OnePlus Ace 3 Pro China"
+    },
+    "PJZ110": {
+        "brand": "一加",
+        "model": "OnePlus 13 China"
+    },
+    "AC2001": {
+        "brand": "一加",
+        "model": "OnePlus Nord India"
+    },
+    "AC2003": {
+        "brand": "一加",
+        "model": "OnePlus Nord Europe / Global"
+    },
+    "DN2101": {
+        "brand": "一加",
+        "model": "OnePlus Nord 2 India"
+    },
+    "DN2103": {
+        "brand": "一加",
+        "model": "OnePlus Nord 2 Europe"
+    },
+    "CPH2399": {
+        "brand": "一加",
+        "model": "OnePlus Nord 2T Global"
+    },
+    "CPH2401": {
+        "brand": "一加",
+        "model": "OnePlus Nord 2T India"
+    },
+    "CPH2661": {
+        "brand": "一加",
+        "model": "OnePlus Nord 4 India"
+    },
+    "CPH2663": {
+        "brand": "一加",
+        "model": "OnePlus Nord 4 Europe / Global"
+    },
+    "EB2101": {
+        "brand": "一加",
+        "model": "OnePlus Nord CE India"
+    },
+    "EB2103": {
+        "brand": "一加",
+        "model": "OnePlus Nord CE Europe / Global"
+    },
+    "IV2201": {
+        "brand": "一加",
+        "model": "OnePlus Nord CE 2 India"
+    },
+    "CPH2381": {
+        "brand": "一加",
+        "model": "OnePlus Nord CE 2 Lite India"
+    },
+    "CPH2409": {
+        "brand": "一加",
+        "model": "OnePlus Nord CE 2 Lite Europe / Global"
+    },
+    "CPH2569": {
+        "brand": "一加",
+        "model": "OnePlus Nord CE 3 India"
+    },
+    "CPH2465": {
+        "brand": "一加",
+        "model": "OnePlus Nord CE 3 Lite Global"
+    },
+    "CPH2467": {
+        "brand": "一加",
+        "model": "OnePlus Nord CE 3 Lite India"
+    },
+    "CPH2513": {
+        "brand": "一加",
+        "model": "OnePlus Nord N30 North America"
+    },
+    "CPH2515": {
+        "brand": "一加",
+        "model": "OnePlus Nord N30 T-Mobile"
+    },
+    "CPH2613": {
+        "brand": "一加",
+        "model": "OnePlus Nord CE 4 India"
+    },
+    "CPH2619": {
+        "brand": "一加",
+        "model": "OnePlus Nord CE 4 Lite India"
+    },
+    "CPH2621": {
+        "brand": "一加",
+        "model": "OnePlus Nord CE 4 Lite Europe / Global"
+    },
+    "BE2025": {
+        "brand": "一加",
+        "model": "OnePlus Nord N10 Metro"
+    },
+    "BE2026": {
+        "brand": "一加",
+        "model": "OnePlus Nord N10 North America"
+    },
+    "BE2029": {
+        "brand": "一加",
+        "model": "OnePlus Nord N10 Europe / Global"
+    },
+    "BE2028": {
+        "brand": "一加",
+        "model": "OnePlus Nord N10 T-Mobile"
+    },
+    "BE2011": {
+        "brand": "一加",
+        "model": "OnePlus Nord N100 North America"
+    },
+    "BE2012": {
+        "brand": "一加",
+        "model": "OnePlus Nord N100 T-Mobile"
+    },
+    "BE2013": {
+        "brand": "一加",
+        "model": "OnePlus Nord N100 Global"
+    },
+    "BE2015": {
+        "brand": "一加",
+        "model": "OnePlus Nord N100 Metro"
+    },
+    "GN2200": {
+        "brand": "一加",
+        "model": "OnePlus Nord N20"
+    },
+    "CPH2459": {
+        "brand": "一加",
+        "model": "OnePlus Nord N20"
+    },
+    "CPH2469": {
+        "brand": "一加",
+        "model": "OnePlus Nord 20 SE"
+    },
+    "CPH2605": {
+        "brand": "一加",
+        "model": "OnePlus Nord N30 SE Europe"
+    },
+    "DE2117": {
+        "brand": "一加",
+        "model": "OnePlus Nord N200 North America"
+    },
+    "DE2118": {
+        "brand": "一加",
+        "model": "OnePlus Nord N200 T-Mobile"
+    },
+    "CPH2389": {
+        "brand": "一加",
+        "model": "OnePlus Nord N300"
+    },
+    "CPH2551": {
+        "brand": "一加",
+        "model": "OnePlus Open"
+    },
+    "OPD2203": {
+        "brand": "一加",
+        "model": "OnePlus Pad"
+    },
+    "OPD2304": {
+        "brand": "一加",
+        "model": "OnePlus Pad Go LTE"
+    },
+    "OPD2305": {
+        "brand": "一加",
+        "model": "OnePlus Pad Go Wi-Fi"
+    },
+    "OPD2404": {
+        "brand": "一加",
+        "model": "OnePlus Pad Pro"
+    },
+    "OPD2403": {
+        "brand": "一加",
+        "model": "OnePlus Pad 2"
+    },
+    "W101IN": {
+        "brand": "一加",
+        "model": "OnePlus Band India"
+    },
+    "OPBBE221": {
+        "brand": "一加",
+        "model": "OnePlus Nord Watch"
+    },
+    "W301CN": {
+        "brand": "一加",
+        "model": "OnePlus Watch China / Cyberpunk 2077 Limited Edition"
+    },
+    "W501CN": {
+        "brand": "一加",
+        "model": "OnePlus Watch Cobalt Limited Edition (China)"
+    },
+    "W301GB": {
+        "brand": "一加",
+        "model": "OnePlus Watch Global / Cobalt Limited Edition (Global)"
+    },
+    "OPWW234": {
+        "brand": "一加",
+        "model": "OnePlus Watch 2 (CN)"
+    },
+    "OPWWE234": {
+        "brand": "一加",
+        "model": "OnePlus Watch 2R"
+    },
+    "OPWWE231": {
+        "brand": "一加",
+        "model": "OnePlus Watch 2"
+    }
+}

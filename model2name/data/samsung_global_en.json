@@ -1,0 +1,2990 @@
+{
+    "SM-G970F": {
+        "brand": "三星",
+        "model": "Galaxy S10e Global"
+    },
+    "SM-G970N": {
+        "brand": "三星",
+        "model": "Galaxy S10e South Korea"
+    },
+    "SM-G970U": {
+        "brand": "三星",
+        "model": "Galaxy S10e US Carrier"
+    },
+    "SM-G970U1": {
+        "brand": "三星",
+        "model": "Galaxy S10e US Unlocked"
+    },
+    "SM-G970W": {
+        "brand": "三星",
+        "model": "Galaxy S10e Canada"
+    },
+    "SM-G9700": {
+        "brand": "三星",
+        "model": "Galaxy S10e China"
+    },
+    "SM-G9708": {
+        "brand": "三星",
+        "model": "Galaxy S10e China Mobile"
+    },
+    "SM-G973F": {
+        "brand": "三星",
+        "model": "Galaxy S10 Global"
+    },
+    "SM-G973N": {
+        "brand": "三星",
+        "model": "Galaxy S10 South Korea"
+    },
+    "SM-G973U": {
+        "brand": "三星",
+        "model": "Galaxy S10 US Carrier"
+    },
+    "SM-G973U1": {
+        "brand": "三星",
+        "model": "Galaxy S10 US Unlocked"
+    },
+    "SM-G973W": {
+        "brand": "三星",
+        "model": "Galaxy S10 Canada"
+    },
+    "SM-G9730": {
+        "brand": "三星",
+        "model": "Galaxy S10 China"
+    },
+    "SM-G9738": {
+        "brand": "三星",
+        "model": "Galaxy S10 China Mobile"
+    },
+    "SM-G973C": {
+        "brand": "三星",
+        "model": "Galaxy S10 Japan (Rakuten Mobile)"
+    },
+    "SCV41": {
+        "brand": "三星",
+        "model": "Galaxy S10 Japan (au)"
+    },
+    "SC-03L": {
+        "brand": "三星",
+        "model": "Galaxy S10 Japan (NTT Docomo)"
+    },
+    "SM-G975F": {
+        "brand": "三星",
+        "model": "Galaxy S10+ Global"
+    },
+    "SM-G975N": {
+        "brand": "三星",
+        "model": "Galaxy S10+ South Korea"
+    },
+    "SM-G975U": {
+        "brand": "三星",
+        "model": "Galaxy S10+ US Carrier"
+    },
+    "SM-G975U1": {
+        "brand": "三星",
+        "model": "Galaxy S10+ US Unlocked"
+    },
+    "SM-G975W": {
+        "brand": "三星",
+        "model": "Galaxy S10+ Canada"
+    },
+    "SM-G9750": {
+        "brand": "三星",
+        "model": "Galaxy S10+ China"
+    },
+    "SM-G9758": {
+        "brand": "三星",
+        "model": "Galaxy S10+ China Mobile"
+    },
+    "SCV42": {
+        "brand": "三星",
+        "model": "Galaxy S10+ Japan (au)"
+    },
+    "SC-04L": {
+        "brand": "三星",
+        "model": "Galaxy S10+ Japan (NTT Docomo)"
+    },
+    "SC-05L": {
+        "brand": "三星",
+        "model": "Galaxy S10+ Olympic Games Edition Japan (NTT Docomo)"
+    },
+    "SM-G977B": {
+        "brand": "三星",
+        "model": "Galaxy S10 5G Global"
+    },
+    "SM-G977N": {
+        "brand": "三星",
+        "model": "Galaxy S10 5G South Korea"
+    },
+    "SM-G977U": {
+        "brand": "三星",
+        "model": "Galaxy S10 5G US Carrier"
+    },
+    "SM-G977T": {
+        "brand": "三星",
+        "model": "Galaxy S10 5G T-Mobile"
+    },
+    "SM-G977P": {
+        "brand": "三星",
+        "model": "Galaxy S10 5G Sprint"
+    },
+    "SM-G770F": {
+        "brand": "三星",
+        "model": "Galaxy S10 Lite Global"
+    },
+    "SM-G770U1": {
+        "brand": "三星",
+        "model": "Galaxy S10 Lite US Unlocked"
+    },
+    "SM-G980F": {
+        "brand": "三星",
+        "model": "Galaxy S20 Global"
+    },
+    "SM-G981B": {
+        "brand": "三星",
+        "model": "Galaxy S20 5G Global"
+    },
+    "SM-G981U": {
+        "brand": "三星",
+        "model": "Galaxy S20 5G US Carrier"
+    },
+    "SM-G981U1": {
+        "brand": "三星",
+        "model": "Galaxy S20 5G US Unlocked"
+    },
+    "SM-G981V": {
+        "brand": "三星",
+        "model": "Galaxy S20 5G UW Verizon"
+    },
+    "SM-G981W": {
+        "brand": "三星",
+        "model": "Galaxy S20 5G Canada"
+    },
+    "SM-G9810": {
+        "brand": "三星",
+        "model": "Galaxy S20 5G China"
+    },
+    "SM-G981N": {
+        "brand": "三星",
+        "model": "Galaxy S20 5G South Korea"
+    },
+    "SCG01": {
+        "brand": "三星",
+        "model": "Galaxy S20 5G Japan (au)"
+    },
+    "SC-51A": {
+        "brand": "三星",
+        "model": "Galaxy S20 5G Japan (NTT Docomo)"
+    },
+    "SC51Aa": {
+        "brand": "三星",
+        "model": "Galaxy S20 5G Japan (NTT Docomo)"
+    },
+    "SM-G985F": {
+        "brand": "三星",
+        "model": "Galaxy S20+ Global"
+    },
+    "SM-G986B": {
+        "brand": "三星",
+        "model": "Galaxy S20+ 5G Global"
+    },
+    "SM-G986U": {
+        "brand": "三星",
+        "model": "Galaxy S20+ 5G US Carrier"
+    },
+    "SM-G986U1": {
+        "brand": "三星",
+        "model": "Galaxy S20+ 5G US Unlocked"
+    },
+    "SM-G986W": {
+        "brand": "三星",
+        "model": "Galaxy S20+ 5G Canada"
+    },
+    "SM-G9860": {
+        "brand": "三星",
+        "model": "Galaxy S20+ 5G China"
+    },
+    "SM-G986N": {
+        "brand": "三星",
+        "model": "Galaxy S20+ 5G South Korea"
+    },
+    "SCG02": {
+        "brand": "三星",
+        "model": "Galaxy S20+ 5G Japan (au)"
+    },
+    "SC-52A": {
+        "brand": "三星",
+        "model": "Galaxy S20+ 5G Japan (NTT Docomo)"
+    },
+    "SM-G988B": {
+        "brand": "三星",
+        "model": "Galaxy S20 Ultra 5G Global"
+    },
+    "SM-G988U": {
+        "brand": "三星",
+        "model": "Galaxy S20 Ultra 5G US Carrier"
+    },
+    "SM-G988U1": {
+        "brand": "三星",
+        "model": "Galaxy S20 Ultra 5G US Unlocked"
+    },
+    "SM-G988W": {
+        "brand": "三星",
+        "model": "Galaxy S20 Ultra 5G Canada"
+    },
+    "SM-G9880": {
+        "brand": "三星",
+        "model": "Galaxy S20 Ultra 5G China"
+    },
+    "SM-G988N": {
+        "brand": "三星",
+        "model": "Galaxy S20 Ultra 5G South Korea"
+    },
+    "SM-G988Q": {
+        "brand": "三星",
+        "model": "Galaxy S20 Ultra 5G Japan (SIM Free)"
+    },
+    "SCG03": {
+        "brand": "三星",
+        "model": "Galaxy S20 Ultra 5G Japan (au)"
+    },
+    "SM-G780F": {
+        "brand": "三星",
+        "model": "Galaxy S20 FE Global (Exynos)"
+    },
+    "SM-G780G": {
+        "brand": "三星",
+        "model": "Galaxy S20 FE Global (Snapdragon)"
+    },
+    "SM-G781B": {
+        "brand": "三星",
+        "model": "Galaxy S20 FE 5G Global"
+    },
+    "SM-G781U": {
+        "brand": "三星",
+        "model": "Galaxy S20 FE 5G US Carrier"
+    },
+    "SM-G781U1": {
+        "brand": "三星",
+        "model": "Galaxy S20 FE 5G US Unlocked"
+    },
+    "SM-G781V": {
+        "brand": "三星",
+        "model": "Galaxy S20 FE 5G UW Verizon"
+    },
+    "SM-G781W": {
+        "brand": "三星",
+        "model": "Galaxy S20 FE 5G Canada"
+    },
+    "SM-G7810": {
+        "brand": "三星",
+        "model": "Galaxy S20 FE 5G China"
+    },
+    "SM-G781N": {
+        "brand": "三星",
+        "model": "Galaxy S20 FE 5G South Korea"
+    },
+    "SM-G991B": {
+        "brand": "三星",
+        "model": "Galaxy S21 5G Global"
+    },
+    "SM-G991N": {
+        "brand": "三星",
+        "model": "Galaxy S21 5G South Korea"
+    },
+    "SM-G991U": {
+        "brand": "三星",
+        "model": "Galaxy S21 5G US Carrier"
+    },
+    "SM-G991U1": {
+        "brand": "三星",
+        "model": "Galaxy S21 5G US Unlocked"
+    },
+    "SM-G991W": {
+        "brand": "三星",
+        "model": "Galaxy S21 5G Canada"
+    },
+    "SM-G9910": {
+        "brand": "三星",
+        "model": "Galaxy S21 5G China"
+    },
+    "SCG09": {
+        "brand": "三星",
+        "model": "Galaxy S21 5G Japan (au)"
+    },
+    "SC-51B": {
+        "brand": "三星",
+        "model": "Galaxy S21 5G Japan (NTT Docomo)"
+    },
+    "SM-G996B": {
+        "brand": "三星",
+        "model": "Galaxy S21+ 5G Global"
+    },
+    "SM-G996N": {
+        "brand": "三星",
+        "model": "Galaxy S21+ 5G South Korea"
+    },
+    "SM-G996U": {
+        "brand": "三星",
+        "model": "Galaxy S21+ 5G US Carrier"
+    },
+    "SM-G996U1": {
+        "brand": "三星",
+        "model": "Galaxy S21+ 5G US Unlocked"
+    },
+    "SM-G996W": {
+        "brand": "三星",
+        "model": "Galaxy S21+ 5G Canada"
+    },
+    "SM-G9960": {
+        "brand": "三星",
+        "model": "Galaxy S21+ 5G China"
+    },
+    "SCG10": {
+        "brand": "三星",
+        "model": "Galaxy S21+ 5G Japan (au)"
+    },
+    "SM-G998B": {
+        "brand": "三星",
+        "model": "Galaxy S21 Ultra 5G Global"
+    },
+    "SM-G998N": {
+        "brand": "三星",
+        "model": "Galaxy S21 Ultra 5G South Korea"
+    },
+    "SM-G998U": {
+        "brand": "三星",
+        "model": "Galaxy S21 Ultra 5G US Carrier"
+    },
+    "SM-G998U1": {
+        "brand": "三星",
+        "model": "Galaxy S21 Ultra 5G US Unlocked"
+    },
+    "SM-G998W": {
+        "brand": "三星",
+        "model": "Galaxy S21 Ultra 5G Canada"
+    },
+    "SM-G9980": {
+        "brand": "三星",
+        "model": "Galaxy S21 Ultra 5G China"
+    },
+    "SC-52B": {
+        "brand": "三星",
+        "model": "Galaxy S21 Ultra 5G Japan (NTT Docomo)"
+    },
+    "SM-G990B": {
+        "brand": "三星",
+        "model": "Galaxy S21 FE 5G Global"
+    },
+    "SM-G990B2": {
+        "brand": "三星",
+        "model": "Galaxy S21 FE 5G EU"
+    },
+    "SM-G990U": {
+        "brand": "三星",
+        "model": "Galaxy S21 FE 5G US Carrier"
+    },
+    "SM-G990U2": {
+        "brand": "三星",
+        "model": "Galaxy S21 FE 5G US Carrier"
+    },
+    "SM-G990U1": {
+        "brand": "三星",
+        "model": "Galaxy S21 FE 5G US Unlocked"
+    },
+    "SM-G990U3": {
+        "brand": "三星",
+        "model": "Galaxy S21 FE 5G US Unlocked"
+    },
+    "SM-G990W": {
+        "brand": "三星",
+        "model": "Galaxy S21 FE 5G Canada"
+    },
+    "SM-G990W2": {
+        "brand": "三星",
+        "model": "Galaxy S21 FE 5G Canada"
+    },
+    "SM-G9900": {
+        "brand": "三星",
+        "model": "Galaxy S21 FE 5G China"
+    },
+    "SM-G990E": {
+        "brand": "三星",
+        "model": "Galaxy S21 FE 5G (Exynos)"
+    },
+    "SM-S901E": {
+        "brand": "三星",
+        "model": "Galaxy S22 Global (Snapdragon)"
+    },
+    "SM-S901U": {
+        "brand": "三星",
+        "model": "Galaxy S22 US Carrier"
+    },
+    "SM-S901U1": {
+        "brand": "三星",
+        "model": "Galaxy S22 US Unlocked"
+    },
+    "SM-S901W": {
+        "brand": "三星",
+        "model": "Galaxy S22 Canada"
+    },
+    "SM-S9010": {
+        "brand": "三星",
+        "model": "Galaxy S22 China"
+    },
+    "SM-S901N": {
+        "brand": "三星",
+        "model": "Galaxy S22 South Korea"
+    },
+    "SCG13": {
+        "brand": "三星",
+        "model": "Galaxy S22 Japan (au)"
+    },
+    "SC-51C": {
+        "brand": "三星",
+        "model": "Galaxy S22 Japan (NTT Docomo)"
+    },
+    "SM-S901B": {
+        "brand": "三星",
+        "model": "Galaxy S22 Global (Exynos)"
+    },
+    "SM-S906E": {
+        "brand": "三星",
+        "model": "Galaxy S22+ Global (Snapdragon)"
+    },
+    "SM-S906U": {
+        "brand": "三星",
+        "model": "Galaxy S22+ US Carrier"
+    },
+    "SM-S906U1": {
+        "brand": "三星",
+        "model": "Galaxy S22+ US Unlocked"
+    },
+    "SM-S906W": {
+        "brand": "三星",
+        "model": "Galaxy S22+ Canada"
+    },
+    "SM-S9060": {
+        "brand": "三星",
+        "model": "Galaxy S22+ China"
+    },
+    "SM-S906N": {
+        "brand": "三星",
+        "model": "Galaxy S22+ South Korea"
+    },
+    "SM-S906B": {
+        "brand": "三星",
+        "model": "Galaxy S22+ Global (Exynos)"
+    },
+    "SM-S908E": {
+        "brand": "三星",
+        "model": "Galaxy S22 Ultra Global (Snapdragon)"
+    },
+    "SM-S908U": {
+        "brand": "三星",
+        "model": "Galaxy S22 Ultra US Carrier"
+    },
+    "SM-S908U1": {
+        "brand": "三星",
+        "model": "Galaxy S22 Ultra US Unlocked"
+    },
+    "SM-S908W": {
+        "brand": "三星",
+        "model": "Galaxy S22 Ultra Canada"
+    },
+    "SM-S9080": {
+        "brand": "三星",
+        "model": "Galaxy S22 Ultra China"
+    },
+    "SM-S908N": {
+        "brand": "三星",
+        "model": "Galaxy S22 Ultra South Korea"
+    },
+    "SCG14": {
+        "brand": "三星",
+        "model": "Galaxy S22 Ultra Japan (au)"
+    },
+    "SC-52C": {
+        "brand": "三星",
+        "model": "Galaxy S22 Ultra Japan (NTT Docomo)"
+    },
+    "SM-S908B": {
+        "brand": "三星",
+        "model": "Galaxy S22 Ultra Global (Exynos)"
+    },
+    "SM-S911B": {
+        "brand": "三星",
+        "model": "Galaxy S23 Global"
+    },
+    "SM-S911U": {
+        "brand": "三星",
+        "model": "Galaxy S23 US Carrier"
+    },
+    "SM-S911U1": {
+        "brand": "三星",
+        "model": "Galaxy S23 US Unlocked"
+    },
+    "SM-S911W": {
+        "brand": "三星",
+        "model": "Galaxy S23 Canada"
+    },
+    "SM-S9110": {
+        "brand": "三星",
+        "model": "Galaxy S23 China"
+    },
+    "SM-S911N": {
+        "brand": "三星",
+        "model": "Galaxy S23 South Korea"
+    },
+    "SM-S911C": {
+        "brand": "三星",
+        "model": "Galaxy S23 Japan (Rakuten Mobile)"
+    },
+    "SCG19": {
+        "brand": "三星",
+        "model": "Galaxy S23 Japan (au)"
+    },
+    "SC-51D": {
+        "brand": "三星",
+        "model": "Galaxy S23 Japan (NTT Docomo)"
+    },
+    "SM-S916B": {
+        "brand": "三星",
+        "model": "Galaxy S23+ Global"
+    },
+    "SM-S916U": {
+        "brand": "三星",
+        "model": "Galaxy S23+ US Carrier"
+    },
+    "SM-S916U1": {
+        "brand": "三星",
+        "model": "Galaxy S23+ US Unlocked"
+    },
+    "SM-S916W": {
+        "brand": "三星",
+        "model": "Galaxy S23+ Canada"
+    },
+    "SM-S9160": {
+        "brand": "三星",
+        "model": "Galaxy S23+ China"
+    },
+    "SM-S916N": {
+        "brand": "三星",
+        "model": "Galaxy S23+ South Korea"
+    },
+    "SM-S918B": {
+        "brand": "三星",
+        "model": "Galaxy S23 Ultra Global"
+    },
+    "SM-S918U": {
+        "brand": "三星",
+        "model": "Galaxy S23 Ultra US Carrier"
+    },
+    "SM-S918U1": {
+        "brand": "三星",
+        "model": "Galaxy S23 Ultra US Unlocked"
+    },
+    "SM-S918W": {
+        "brand": "三星",
+        "model": "Galaxy S23 Ultra Canada"
+    },
+    "SM-S9180": {
+        "brand": "三星",
+        "model": "Galaxy S23 Ultra China"
+    },
+    "SM-S918N": {
+        "brand": "三星",
+        "model": "Galaxy S23 Ultra South Korea"
+    },
+    "SM-S918Q": {
+        "brand": "三星",
+        "model": "Galaxy S23 Ultra Japan (SIM Free)"
+    },
+    "SCG20": {
+        "brand": "三星",
+        "model": "Galaxy S23 Ultra Japan (au)"
+    },
+    "SC-52D": {
+        "brand": "三星",
+        "model": "Galaxy S23 Ultra Japan (NTT Docomo)"
+    },
+    "SM-S711U": {
+        "brand": "三星",
+        "model": "Galaxy S23 FE US Carrier"
+    },
+    "SM-S711U1": {
+        "brand": "三星",
+        "model": "Galaxy S23 FE US Unlocked"
+    },
+    "SM-S711W": {
+        "brand": "三星",
+        "model": "Galaxy S23 FE Canada"
+    },
+    "SM-S7110": {
+        "brand": "三星",
+        "model": "Galaxy S23 FE China"
+    },
+    "SCG24": {
+        "brand": "三星",
+        "model": "Galaxy S23 FE Japan (au)"
+    },
+    "SM-S711B": {
+        "brand": "三星",
+        "model": "Galaxy S23 FE Global"
+    },
+    "SM-S711N": {
+        "brand": "三星",
+        "model": "Galaxy S23 FE South Korea"
+    },
+    "SM-S921B": {
+        "brand": "三星",
+        "model": "Galaxy S24 Global"
+    },
+    "SM-S921N": {
+        "brand": "三星",
+        "model": "Galaxy S24 South Korea"
+    },
+    "SM-S921U": {
+        "brand": "三星",
+        "model": "Galaxy S24 US Carrier"
+    },
+    "SM-S921U1": {
+        "brand": "三星",
+        "model": "Galaxy S24 US Unlocked"
+    },
+    "SM-S921W": {
+        "brand": "三星",
+        "model": "Galaxy S24 Canada"
+    },
+    "SM-S9210": {
+        "brand": "三星",
+        "model": "Galaxy S24 China"
+    },
+    "SM-S921Q": {
+        "brand": "三星",
+        "model": "Galaxy S24 Japan (SIM Free)"
+    },
+    "SCG25": {
+        "brand": "三星",
+        "model": "Galaxy S24 Japan (au)"
+    },
+    "SC-51E": {
+        "brand": "三星",
+        "model": "Galaxy S24 Japan (NTT Docomo)"
+    },
+    "SM-S926B": {
+        "brand": "三星",
+        "model": "Galaxy S24+ Global"
+    },
+    "SM-S926N": {
+        "brand": "三星",
+        "model": "Galaxy S24+ South Korea"
+    },
+    "SM-S926U": {
+        "brand": "三星",
+        "model": "Galaxy S24+ US Carrier"
+    },
+    "SM-S926U1": {
+        "brand": "三星",
+        "model": "Galaxy S24+ US Unlocked"
+    },
+    "SM-S926W": {
+        "brand": "三星",
+        "model": "Galaxy S24+ Canada"
+    },
+    "SM-S9260": {
+        "brand": "三星",
+        "model": "Galaxy S24+ China"
+    },
+    "SM-S928B": {
+        "brand": "三星",
+        "model": "Galaxy S24 Ultra Global"
+    },
+    "SM-S928U": {
+        "brand": "三星",
+        "model": "Galaxy S24 Ultra US Carrier"
+    },
+    "SM-S928U1": {
+        "brand": "三星",
+        "model": "Galaxy S24 Ultra US Unlocked"
+    },
+    "SM-S928W": {
+        "brand": "三星",
+        "model": "Galaxy S24 Ultra Canada"
+    },
+    "SM-S9280": {
+        "brand": "三星",
+        "model": "Galaxy S24 Ultra China"
+    },
+    "SM-S928N": {
+        "brand": "三星",
+        "model": "Galaxy S24 Ultra South Korea"
+    },
+    "SM-S928Q": {
+        "brand": "三星",
+        "model": "Galaxy S24 Ultra Japan (SIM Free)"
+    },
+    "SCG26": {
+        "brand": "三星",
+        "model": "Galaxy S24 Ultra Japan (au)"
+    },
+    "SC-52E": {
+        "brand": "三星",
+        "model": "Galaxy S24 Ultra Japan (NTT Docomo)"
+    },
+    "SM-S721B": {
+        "brand": "三星",
+        "model": "Galaxy S24 FE Global"
+    },
+    "SM-S721U": {
+        "brand": "三星",
+        "model": "Galaxy S24 FE US Carrier"
+    },
+    "SM-S721U1": {
+        "brand": "三星",
+        "model": "Galaxy S24 FE US Unlocked"
+    },
+    "SM-S721W": {
+        "brand": "三星",
+        "model": "Galaxy S24 FE Canada"
+    },
+    "SM-S7210": {
+        "brand": "三星",
+        "model": "Galaxy S24 FE HK & TW"
+    },
+    "SCG30": {
+        "brand": "三星",
+        "model": "Galaxy S24 FE Japan (au)"
+    },
+    "SM-S721N": {
+        "brand": "三星",
+        "model": "Galaxy S24 FE South Korea"
+    },
+    "SM-N960F": {
+        "brand": "三星",
+        "model": "Galaxy Note9 Global"
+    },
+    "SM-N960U": {
+        "brand": "三星",
+        "model": "Galaxy Note9 US Carrier"
+    },
+    "SM-N960U1": {
+        "brand": "三星",
+        "model": "Galaxy Note9 US Unlocked"
+    },
+    "SM-N960W": {
+        "brand": "三星",
+        "model": "Galaxy Note9 Canada"
+    },
+    "SM-N9600": {
+        "brand": "三星",
+        "model": "Galaxy Note9 China"
+    },
+    "SM-N9608": {
+        "brand": "三星",
+        "model": "Galaxy Note9 China Mobile"
+    },
+    "SM-N960N": {
+        "brand": "三星",
+        "model": "Galaxy Note9 South Korea"
+    },
+    "SCV40": {
+        "brand": "三星",
+        "model": "Galaxy Note9 Japan (au)"
+    },
+    "SC-01L": {
+        "brand": "三星",
+        "model": "Galaxy Note9 Japan (NTT Docomo)"
+    },
+    "SM-N970F": {
+        "brand": "三星",
+        "model": "Galaxy Note10 Global"
+    },
+    "SM-N970U": {
+        "brand": "三星",
+        "model": "Galaxy Note10 US Carrier"
+    },
+    "SM-N970U1": {
+        "brand": "三星",
+        "model": "Galaxy Note10 US Unlocked"
+    },
+    "SM-N970W": {
+        "brand": "三星",
+        "model": "Galaxy Note10 Canada"
+    },
+    "SM-N9700": {
+        "brand": "三星",
+        "model": "Galaxy Note10 China"
+    },
+    "SM-N971N": {
+        "brand": "三星",
+        "model": "Galaxy Note10 5G South Korea"
+    },
+    "SM-N975F": {
+        "brand": "三星",
+        "model": "Galaxy Note 10+ Global"
+    },
+    "SM-N975U": {
+        "brand": "三星",
+        "model": "Galaxy Note 10+ US Carrier"
+    },
+    "SM-N975U1": {
+        "brand": "三星",
+        "model": "Galaxy Note 10+ US Unlocked"
+    },
+    "SM-N975W": {
+        "brand": "三星",
+        "model": "Galaxy Note 10+ Canada"
+    },
+    "SM-N9750": {
+        "brand": "三星",
+        "model": "Galaxy Note 10+ HK & TW"
+    },
+    "SM-N975C": {
+        "brand": "三星",
+        "model": "Galaxy Note 10+ Japan (Rakuten Mobile)"
+    },
+    "SCV45": {
+        "brand": "三星",
+        "model": "Galaxy Note 10+ Japan (au)"
+    },
+    "SC-01M": {
+        "brand": "三星",
+        "model": "Galaxy Note 10+ Japan (NTT Docomo)"
+    },
+    "SM-N976B": {
+        "brand": "三星",
+        "model": "Galaxy Note10+ 5G Global (Exynos)"
+    },
+    "SM-N976N": {
+        "brand": "三星",
+        "model": "Galaxy Note10+ 5G South Korea"
+    },
+    "SM-N976Q": {
+        "brand": "三星",
+        "model": "Galaxy Note10+ 5G Global (Snapdragon)"
+    },
+    "SM-N976V": {
+        "brand": "三星",
+        "model": "Galaxy Note10+ 5G Verizon"
+    },
+    "SM-N9760": {
+        "brand": "三星",
+        "model": "Galaxy Note10+ 5G China"
+    },
+    "SM-N976U": {
+        "brand": "三星",
+        "model": "Galaxy Note10+ 5G US Carrier"
+    },
+    "SM-N770F": {
+        "brand": "三星",
+        "model": "Galaxy Note10 Lite Global"
+    },
+    "SM-N770X": {
+        "brand": "三星",
+        "model": "Galaxy Note10 Lite Global"
+    },
+    "SM-N980F": {
+        "brand": "三星",
+        "model": "Galaxy Note20 Global"
+    },
+    "SM-N981B": {
+        "brand": "三星",
+        "model": "Galaxy Note20 5G Global"
+    },
+    "SM-N981U": {
+        "brand": "三星",
+        "model": "Galaxy Note20 5G US Carrier"
+    },
+    "SM-N981U1": {
+        "brand": "三星",
+        "model": "Galaxy Note20 5G US Unlocked"
+    },
+    "SM-N981W": {
+        "brand": "三星",
+        "model": "Galaxy Note20 5G Canada"
+    },
+    "SM-N9810": {
+        "brand": "三星",
+        "model": "Galaxy Note20 5G China"
+    },
+    "SM-N981N": {
+        "brand": "三星",
+        "model": "Galaxy Note20 5G South Korea"
+    },
+    "SM-N985F": {
+        "brand": "三星",
+        "model": "Galaxy Note20 Ultra Global"
+    },
+    "SM-N986B": {
+        "brand": "三星",
+        "model": "Galaxy Note20 Ultra 5G Global"
+    },
+    "SM-N986U": {
+        "brand": "三星",
+        "model": "Galaxy Note20 Ultra 5G US Carrier"
+    },
+    "SM-N986U1": {
+        "brand": "三星",
+        "model": "Galaxy Note20 Ultra 5G US Unlocked"
+    },
+    "SM-N986W": {
+        "brand": "三星",
+        "model": "Galaxy Note20 Ultra 5G Canada"
+    },
+    "SM-N9860": {
+        "brand": "三星",
+        "model": "Galaxy Note20 Ultra 5G China"
+    },
+    "SM-N986N": {
+        "brand": "三星",
+        "model": "Galaxy Note20 Ultra 5G South Korea"
+    },
+    "SCG06": {
+        "brand": "三星",
+        "model": "Galaxy Note20 Ultra 5G Japan (au)"
+    },
+    "SC-53A": {
+        "brand": "三星",
+        "model": "Galaxy Note20 Ultra 5G Japan (NTT Docomo)"
+    },
+    "SM-F900F": {
+        "brand": "三星",
+        "model": "Galaxy Fold Global"
+    },
+    "SM-F900U": {
+        "brand": "三星",
+        "model": "Galaxy Fold US Carrier"
+    },
+    "SM-F900U1": {
+        "brand": "三星",
+        "model": "Galaxy Fold US Unlocked"
+    },
+    "SM-F900W": {
+        "brand": "三星",
+        "model": "Galaxy Fold Canada"
+    },
+    "SM-F9000": {
+        "brand": "三星",
+        "model": "Galaxy Fold China"
+    },
+    "SCV44": {
+        "brand": "三星",
+        "model": "Galaxy Fold Japan (au)"
+    },
+    "SM-F907B": {
+        "brand": "三星",
+        "model": "Galaxy Fold 5G Global"
+    },
+    "SM-F907N": {
+        "brand": "三星",
+        "model": "Galaxy Fold 5G South Korea"
+    },
+    "SM-F916B": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold2 5G Global"
+    },
+    "SM-F916U": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold2 5G US Carrier"
+    },
+    "SM-F916U1": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold2 5G US Unlocked"
+    },
+    "SM-F916W": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold2 5G Canada"
+    },
+    "SM-F9160": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold2 5G China"
+    },
+    "SM-F916N": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold2 5G South Korea"
+    },
+    "SM-F916Q": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold2 5G Japan (SIM Free)"
+    },
+    "SM-F926B": {
+        "brand": "三星",
+        "model": " Galaxy Z Fold3 5G Global"
+    },
+    "SM-F926U": {
+        "brand": "三星",
+        "model": " Galaxy Z Fold3 5G US Carrier"
+    },
+    "SM-F926U1": {
+        "brand": "三星",
+        "model": " Galaxy Z Fold3 5G US Unlocked"
+    },
+    "SM-F926W": {
+        "brand": "三星",
+        "model": " Galaxy Z Fold3 5G Canada"
+    },
+    "SM-F9260": {
+        "brand": "三星",
+        "model": " Galaxy Z Fold3 5G China"
+    },
+    "SM-F926N": {
+        "brand": "三星",
+        "model": " Galaxy Z Fold3 5G South Korea"
+    },
+    "SCG11": {
+        "brand": "三星",
+        "model": " Galaxy Z Fold3 5G Japan (au)"
+    },
+    "SC-55B": {
+        "brand": "三星",
+        "model": " Galaxy Z Fold3 5G Japan (NTT Docomo)"
+    },
+    "SM-F936B": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold4 Global"
+    },
+    "SM-F936U": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold4 US Carrier"
+    },
+    "SM-F936U1": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold4 US Unlocked"
+    },
+    "SM-F936W": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold4 Canada"
+    },
+    "SM-F9360": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold4 China"
+    },
+    "SM-F936N": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold4 South Korea"
+    },
+    "SCG16": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold4 Japan (au)"
+    },
+    "SC-55C": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold4 Japan (NTT Docomo)"
+    },
+    "SM-F946B": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold5 Global"
+    },
+    "SM-F946U": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold5 US Carrier"
+    },
+    "SM-F946U1": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold5 US Unlocked"
+    },
+    "SM-F946W": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold5 Canada"
+    },
+    "SM-F9460": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold5 China"
+    },
+    "SM-F946N": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold5 South Korea"
+    },
+    "SM-F946Q": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold5 Japan (SIM Free)"
+    },
+    "SCG22": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold5 Japan (au)"
+    },
+    "SC-55D": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold5 Japan (NTT Docomo)"
+    },
+    "SM-F956B": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold6 Global"
+    },
+    "SM-F956U": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold6 US Carrier"
+    },
+    "SM-F956U1": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold6 US Unlocked"
+    },
+    "SM-F956W": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold6 Canada"
+    },
+    "SM-F9560": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold6 China"
+    },
+    "SM-F956N": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold6 South Korea"
+    },
+    "SM-F956Q": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold6 Japan (SIM Free)"
+    },
+    "SCG28": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold6 Japan (au)"
+    },
+    "SC-55E": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold6 Japan (NTT Docomo)"
+    },
+    "SM-F958N": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold Special Edition South Korea"
+    },
+    "SM-F700F": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip Global"
+    },
+    "SM-F700U": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip US Carrier"
+    },
+    "SM-F700U1": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip US Unlocked"
+    },
+    "SM-F700W": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip Canada"
+    },
+    "SM-F7000": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip China"
+    },
+    "SM-F700N": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip South Korea"
+    },
+    "SCV47": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip Japan (au)"
+    },
+    "SM-F707B": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip 5G Global"
+    },
+    "SM-F707U": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip 5G US Carrier"
+    },
+    "SM-F707U1": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip 5G US Unlocked"
+    },
+    "SM-F707W": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip 5G Canada"
+    },
+    "SM-F7070": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip 5G China"
+    },
+    "SM-F707N": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip 5G South Korea"
+    },
+    "SCG04": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip 5G Japan (au)"
+    },
+    "SM-F711B": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip3 5G Global"
+    },
+    "SM-F711U": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip3 5G US Carrier"
+    },
+    "SM-F711U1": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip3 5G US Unlocked"
+    },
+    "SM-F711W": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip3 5G Canada"
+    },
+    "SM-F7110": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip3 5G China"
+    },
+    "SM-F711N": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip3 5G South Korea"
+    },
+    "SCG12": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip3 5G Japan (au)"
+    },
+    "SC-54B": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip3 5G Japan (NTT Docomo)"
+    },
+    "SM-F721B": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip4 Global"
+    },
+    "SM-F721U": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip4 US Carrier"
+    },
+    "SM-F721U1": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip4 US Unlocked"
+    },
+    "SM-F721W": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip4 Canada"
+    },
+    "SM-F7210": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip4 China"
+    },
+    "SM-F721N": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip4 South Korea"
+    },
+    "SM-F721C": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip4 Japan (Rakuten Mobile)"
+    },
+    "SCG17": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip4 Japan (au)"
+    },
+    "SC-54C": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip4 Japan (NTT Docomo)"
+    },
+    "SM-F731B": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip5 Global"
+    },
+    "SM-F731U": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip5 US Carrier"
+    },
+    "SM-F731U1": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip5 US Unlocked"
+    },
+    "SM-F731W": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip5 Canada"
+    },
+    "SM-F7310": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip5 China"
+    },
+    "SM-F731N": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip5 South Korea"
+    },
+    "SM-F731Q": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip5 Japan (SIM Free)"
+    },
+    "SCG23": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip5 Japan (au)"
+    },
+    "SC-54D": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip5 Japan (NTT Docomo)"
+    },
+    "SM-F741B": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip6 Global"
+    },
+    "SM-F741U": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip6 US Carrier"
+    },
+    "SM-F741U1": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip6 US Unlocked"
+    },
+    "SM-F741W": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip6 Canada"
+    },
+    "SM-F7410": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip6 China"
+    },
+    "SM-F741N": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip6 South Korea"
+    },
+    "SM-F741Q": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip6 Japan (SIM Free)"
+    },
+    "SCG29": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip6 Japan (au)"
+    },
+    "SC-54E": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip6 Japan (NTT Docomo)"
+    },
+    "SM-A015F": {
+        "brand": "三星",
+        "model": "Galaxy A01 Global"
+    },
+    "SM-A015U": {
+        "brand": "三星",
+        "model": "Galaxy A01 US Carrier"
+    },
+    "SM-A015U1": {
+        "brand": "三星",
+        "model": "Galaxy A01 US Unlocked"
+    },
+    "SM-A015A": {
+        "brand": "三星",
+        "model": "Galaxy A01 AT&T"
+    },
+    "SM-A015AZ": {
+        "brand": "三星",
+        "model": "Galaxy A01 Cricket"
+    },
+    "SM-A015T1": {
+        "brand": "三星",
+        "model": "Galaxy A01 T-Mobile"
+    },
+    "SM-A015V": {
+        "brand": "三星",
+        "model": "Galaxy A01 Verizon"
+    },
+    "SM-S111DL": {
+        "brand": "三星",
+        "model": "Galaxy A01 TracFone"
+    },
+    "SM-A015G": {
+        "brand": "三星",
+        "model": "Galaxy A10 Global"
+    },
+    "SM-A015M": {
+        "brand": "三星",
+        "model": "Galaxy A01 Latin America"
+    },
+    "SM-A013F": {
+        "brand": "三星",
+        "model": "Galaxy A01 Core Global"
+    },
+    "SM-A013G": {
+        "brand": "三星",
+        "model": "Galaxy A01 Core Global"
+    },
+    "SM-A013M": {
+        "brand": "三星",
+        "model": "Galaxy A01 Core Latin America"
+    },
+    "SM-A022F": {
+        "brand": "三星",
+        "model": "Galaxy A02 Global"
+    },
+    "SM-A022G": {
+        "brand": "三星",
+        "model": "Galaxy A02 Global"
+    },
+    "SM-A022M": {
+        "brand": "三星",
+        "model": "Galaxy A02 Latin America"
+    },
+    "SM-A025F": {
+        "brand": "三星",
+        "model": "Galaxy A02s Global"
+    },
+    "SM-A025G": {
+        "brand": "三星",
+        "model": "Galaxy A02s EU"
+    },
+    "SM-A025U": {
+        "brand": "三星",
+        "model": "Galaxy A02s US Carrier"
+    },
+    "SM-A025U1": {
+        "brand": "三星",
+        "model": "Galaxy A02s US Unlocked"
+    },
+    "SM-A025A": {
+        "brand": "三星",
+        "model": "Galaxy A02s AT&T"
+    },
+    "SM-A025AZ": {
+        "brand": "三星",
+        "model": "Galaxy A02s Cricket"
+    },
+    "SM-A025V": {
+        "brand": "三星",
+        "model": "Galaxy A02s Verizon"
+    },
+    "SM-S124DL": {
+        "brand": "三星",
+        "model": "Galaxy A02s TracFone"
+    },
+    "SM-A025M": {
+        "brand": "三星",
+        "model": "Galaxy A02s Latin America"
+    },
+    "SM-A035F": {
+        "brand": "三星",
+        "model": "Galaxy A03 Global"
+    },
+    "SM-A035G": {
+        "brand": "三星",
+        "model": "Galaxy A03 EU"
+    },
+    "SM-A035M": {
+        "brand": "三星",
+        "model": "Galaxy A03 Latin America"
+    },
+    "SM-A032F": {
+        "brand": "三星",
+        "model": "Galaxy A03 Core Global"
+    },
+    "SM-A032M": {
+        "brand": "三星",
+        "model": "Galaxy A03 Core Latin America"
+    },
+    "SM-A037F": {
+        "brand": "三星",
+        "model": "Galaxy A03s Global"
+    },
+    "SM-A037G": {
+        "brand": "三星",
+        "model": "Galaxy A03s EU"
+    },
+    "SM-A037M": {
+        "brand": "三星",
+        "model": "Galaxy A03s Latin America"
+    },
+    "SM-A037U": {
+        "brand": "三星",
+        "model": "Galaxy A03s US Carrier"
+    },
+    "SM-A037U1": {
+        "brand": "三星",
+        "model": "Galaxy A03s US Unlocked"
+    },
+    "SM-S134DL": {
+        "brand": "三星",
+        "model": "Galaxy A03s TracFone"
+    },
+    "SM-A037W": {
+        "brand": "三星",
+        "model": "Galaxy A03s Canada"
+    },
+    "SM-A045F": {
+        "brand": "三星",
+        "model": "Galaxy A04 Global"
+    },
+    "SM-A045M": {
+        "brand": "三星",
+        "model": "Galaxy A04 Latin America"
+    },
+    "SM-A042F": {
+        "brand": "三星",
+        "model": "Galaxy A04e Global"
+    },
+    "SM-A042M": {
+        "brand": "三星",
+        "model": "Galaxy A04e Latin America"
+    },
+    "SM-A047F": {
+        "brand": "三星",
+        "model": "Galaxy A04s Global"
+    },
+    "SM-A047M": {
+        "brand": "三星",
+        "model": "Galaxy A04s Latin America"
+    },
+    "SM-A055F": {
+        "brand": "三星",
+        "model": "Galaxy A05 Global"
+    },
+    "SM-A055M": {
+        "brand": "三星",
+        "model": "Galaxy A05 Latin America"
+    },
+    "SM-A057F": {
+        "brand": "三星",
+        "model": "Galaxy A05s Global"
+    },
+    "SM-A057G": {
+        "brand": "三星",
+        "model": "Galaxy A05s EU"
+    },
+    "SM-A057M": {
+        "brand": "三星",
+        "model": "Galaxy A05s Latin America"
+    },
+    "SM-A065F": {
+        "brand": "三星",
+        "model": "Galaxy A06 Global"
+    },
+    "SM-A065M": {
+        "brand": "三星",
+        "model": "Galaxy A06 Latin America"
+    },
+    "SM-A105F": {
+        "brand": "三星",
+        "model": "Galaxy A10 Global"
+    },
+    "SM-A015FN": {
+        "brand": "三星",
+        "model": "Galaxy A10 Global"
+    },
+    "SM-A105M": {
+        "brand": "三星",
+        "model": "Galaxy A10 Latin America"
+    },
+    "SM-A105N": {
+        "brand": "三星",
+        "model": "Galaxy A10 South Korea"
+    },
+    "SM-A102U": {
+        "brand": "三星",
+        "model": "Galaxy A10e US Carrier"
+    },
+    "SM-A102U1": {
+        "brand": "三星",
+        "model": "Galaxy A10e US Unlocked"
+    },
+    "SM-S102DL": {
+        "brand": "三星",
+        "model": "Galaxy A10e TracFone"
+    },
+    "SM-A102W": {
+        "brand": "三星",
+        "model": "Galaxy A10e Canada"
+    },
+    "SM-A102N": {
+        "brand": "三星",
+        "model": "Galaxy A10e South Korea"
+    },
+    "SM-A107F": {
+        "brand": "三星",
+        "model": "Galaxy A10s Global"
+    },
+    "SM-A107M": {
+        "brand": "三星",
+        "model": "Galaxy A10s Latin America"
+    },
+    "SM-A115F": {
+        "brand": "三星",
+        "model": "Galaxy A11 Global"
+    },
+    "SM-A115U": {
+        "brand": "三星",
+        "model": "Galaxy A11 US Carrier"
+    },
+    "SM-A115U1": {
+        "brand": "三星",
+        "model": "Galaxy A11 US Unlocked"
+    },
+    "SM-A115A": {
+        "brand": "三星",
+        "model": "Galaxy A11 AT&T"
+    },
+    "SM-A115AP": {
+        "brand": "三星",
+        "model": "Galaxy A11 AT&T"
+    },
+    "SM-A115AZ": {
+        "brand": "三星",
+        "model": "Galaxy A11 Cricket"
+    },
+    "SM-S115DL": {
+        "brand": "三星",
+        "model": "Galaxy A11 TracFone"
+    },
+    "SM-A115W": {
+        "brand": "三星",
+        "model": "Galaxy A11 Canada"
+    },
+    "SM-A115M": {
+        "brand": "三星",
+        "model": "Galaxy A11 Latin America"
+    },
+    "SM-A125F": {
+        "brand": "三星",
+        "model": "Galaxy A12 Global"
+    },
+    "SM-A125M": {
+        "brand": "三星",
+        "model": "Galaxy A12 Latin America"
+    },
+    "SM-A125N": {
+        "brand": "三星",
+        "model": "Galaxy A12 South Korea"
+    },
+    "SM-A125U": {
+        "brand": "三星",
+        "model": "Galaxy A12 US Carrier"
+    },
+    "SM-A125U1": {
+        "brand": "三星",
+        "model": "Galaxy A12 US Unlocked"
+    },
+    "SM-S127DL": {
+        "brand": "三星",
+        "model": "Galaxy A12 TracFone"
+    },
+    "SM-A125W": {
+        "brand": "三星",
+        "model": "Galaxy A12 Canada"
+    },
+    "SM-A127F": {
+        "brand": "三星",
+        "model": "Galaxy A12 Nacho Global"
+    },
+    "SM-A127M": {
+        "brand": "三星",
+        "model": "Galaxy A12 Nacho Latin America"
+    },
+    "SM-A135F": {
+        "brand": "三星",
+        "model": "Galaxy A13 Global (Exynos)"
+    },
+    "SM-A135U": {
+        "brand": "三星",
+        "model": "Galaxy A13 US Carrier"
+    },
+    "SM-A135U1": {
+        "brand": "三星",
+        "model": "Galaxy A13 US Unlocked"
+    },
+    "SM-A135M": {
+        "brand": "三星",
+        "model": "Galaxy A13 Latin America"
+    },
+    "SM-A135N": {
+        "brand": "三星",
+        "model": "Galaxy A13 South Korea"
+    },
+    "SM-A137F": {
+        "brand": "三星",
+        "model": "Galaxy A13 Global (Mediatek)"
+    },
+    "SM-A136B": {
+        "brand": "三星",
+        "model": "Galaxy A13 5G Global"
+    },
+    "SM-A136U": {
+        "brand": "三星",
+        "model": "Galaxy A13 5G US Carrier"
+    },
+    "SM-A136U1": {
+        "brand": "三星",
+        "model": "Galaxy A13 5G US Unlocked"
+    },
+    "SM-S136DL": {
+        "brand": "三星",
+        "model": "Galaxy A13 5G TracFone"
+    },
+    "SM-A136W": {
+        "brand": "三星",
+        "model": "Galaxy A13 5G Canada"
+    },
+    "SM-A136M": {
+        "brand": "三星",
+        "model": "Galaxy A13 5G Latin America"
+    },
+    "SM-A145F": {
+        "brand": "三星",
+        "model": "Galaxy A14 Global (Exynos)"
+    },
+    "SM-A145FB": {
+        "brand": "三星",
+        "model": "Galaxy A14 Global (Exynos)"
+    },
+    "SM-A145M": {
+        "brand": "三星",
+        "model": "Galaxy A14 Latin America"
+    },
+    "SM-A145MB": {
+        "brand": "三星",
+        "model": "Galaxy A14 Latin America"
+    },
+    "SM-A145P": {
+        "brand": "三星",
+        "model": "Galaxy A14 MEA (Mediatek)"
+    },
+    "SM-A145R": {
+        "brand": "三星",
+        "model": "Galaxy A14 EU (Mediatek)"
+    },
+    "SM-A146B": {
+        "brand": "三星",
+        "model": "Galaxy A14 5G Global (Exynos)"
+    },
+    "SM-A146M": {
+        "brand": "三星",
+        "model": "Galaxy A14 5G Latin America"
+    },
+    "SM-A146P": {
+        "brand": "三星",
+        "model": "Galaxy A14 5G Global (Mediatek)"
+    },
+    "SM-A146U": {
+        "brand": "三星",
+        "model": "Galaxy A14 5G US Carrier"
+    },
+    "SM-A146U1": {
+        "brand": "三星",
+        "model": "Galaxy A14 5G US Unlocked"
+    },
+    "SM-S146VL": {
+        "brand": "三星",
+        "model": "Galaxy A14 5G TracFone"
+    },
+    "SM-A146W": {
+        "brand": "三星",
+        "model": "Galaxy A14 5G Canada"
+    },
+    "SM-A155F": {
+        "brand": "三星",
+        "model": "Galaxy A15 Global"
+    },
+    "SM-A155M": {
+        "brand": "三星",
+        "model": "Galaxy A15 Latin America"
+    },
+    "SM-A155N": {
+        "brand": "三星",
+        "model": "Galaxy A15 South Korea"
+    },
+    "SM-A156E": {
+        "brand": "三星",
+        "model": "Galaxy A15 5G Global"
+    },
+    "SM-A156B": {
+        "brand": "三星",
+        "model": "Galaxy A15 5G EU"
+    },
+    "SM-A156U": {
+        "brand": "三星",
+        "model": "Galaxy A15 5G US Carrier"
+    },
+    "SM-A156U1": {
+        "brand": "三星",
+        "model": "Galaxy A15 5G US Unlocked"
+    },
+    "SM-S156V": {
+        "brand": "三星",
+        "model": "Galaxy A15 5G TracFone"
+    },
+    "SM-A156W": {
+        "brand": "三星",
+        "model": "Galaxy A15 5G Canada"
+    },
+    "SM-A156M": {
+        "brand": "三星",
+        "model": "Galaxy A15 5G Latin America"
+    },
+    "SM-A1560": {
+        "brand": "三星",
+        "model": "Galaxy A15 5G HK & TW"
+    },
+    "SM-A166E": {
+        "brand": "三星",
+        "model": "Galaxy A16 5G Global"
+    },
+    "SM-A166B": {
+        "brand": "三星",
+        "model": "Galaxy A16 5G EU"
+    },
+    "SM-A166U": {
+        "brand": "三星",
+        "model": "Galaxy A16 5G US Carrier"
+    },
+    "SM-A166U1": {
+        "brand": "三星",
+        "model": "Galaxy A16 5G US Unlocked"
+    },
+    "SM-S166V": {
+        "brand": "三星",
+        "model": "Galaxy A16 5G TracFone"
+    },
+    "SM-A166M": {
+        "brand": "三星",
+        "model": "Galaxy A16 5G Latin America"
+    },
+    "SM-A1660": {
+        "brand": "三星",
+        "model": "Galaxy A16 5G HK & TW"
+    },
+    "SM-A260F": {
+        "brand": "三星",
+        "model": "Galaxy A2 Core Global"
+    },
+    "SM-A260G": {
+        "brand": "三星",
+        "model": "Galaxy A2 Core India"
+    },
+    "SM-A205F": {
+        "brand": "三星",
+        "model": "Galaxy A20 Global"
+    },
+    "SM-A205FN": {
+        "brand": "三星",
+        "model": "Galaxy A20 EU"
+    },
+    "SM-A205G": {
+        "brand": "三星",
+        "model": "Galaxy A20 Latin America"
+    },
+    "SM-A205GN": {
+        "brand": "三星",
+        "model": "Galaxy A20 Southeast Asia"
+    },
+    "SM-A205W": {
+        "brand": "三星",
+        "model": "Galaxy A20 Canada"
+    },
+    "SM-A205YN": {
+        "brand": "三星",
+        "model": "Galaxy A20 Australia & New Zealand"
+    },
+    "SCV46": {
+        "brand": "三星",
+        "model": "Galaxy A20 Japan (au)"
+    },
+    "SC-02M": {
+        "brand": "三星",
+        "model": "Galaxy A20 Japan (NTT Docomo)"
+    },
+    "SM-A205U": {
+        "brand": "三星",
+        "model": "Galaxy A20 US Carrier"
+    },
+    "SM-A205U1": {
+        "brand": "三星",
+        "model": "Galaxy A20 US Unlocked"
+    },
+    "SM-S205DL": {
+        "brand": "三星",
+        "model": "Galaxy A20 TracFone"
+    },
+    "SM-A202F": {
+        "brand": "三星",
+        "model": "Galaxy A20e Global"
+    },
+    "SM-A207F": {
+        "brand": "三星",
+        "model": "Galaxy A20s Global"
+    },
+    "SM-A207W": {
+        "brand": "三星",
+        "model": "Galaxy A20s Latin America"
+    },
+    "SM-A2070": {
+        "brand": "三星",
+        "model": "Galaxy A20s China"
+    },
+    "SM-A215U": {
+        "brand": "三星",
+        "model": "Galaxy A21 US Carrier"
+    },
+    "SM-A215U1": {
+        "brand": "三星",
+        "model": "Galaxy A21 US Unlocked"
+    },
+    "SM-S215DL": {
+        "brand": "三星",
+        "model": "Galaxy A21 TracFone"
+    },
+    "SM-A215W": {
+        "brand": "三星",
+        "model": "Galaxy A21 Canada"
+    },
+    "SCV49": {
+        "brand": "三星",
+        "model": "Galaxy A21 Japan (au)"
+    },
+    "SC-42A": {
+        "brand": "三星",
+        "model": "Galaxy A21 Japan (NTT Docomo)"
+    },
+    "SM-A217F": {
+        "brand": "三星",
+        "model": "Galaxy A21s Global"
+    },
+    "SM-A217M": {
+        "brand": "三星",
+        "model": "Galaxy A21s Latin America"
+    },
+    "SM-A217N": {
+        "brand": "三星",
+        "model": "Galaxy A21s South Korea"
+    },
+    "SM-A225F": {
+        "brand": "三星",
+        "model": "Galaxy A22 Global"
+    },
+    "SM-A225M": {
+        "brand": "三星",
+        "model": "Galaxy A22 Latin America"
+    },
+    "SM-A226B": {
+        "brand": "三星",
+        "model": "Galaxy A22s 5G Global"
+    },
+    "SM-A226BR": {
+        "brand": "三星",
+        "model": "Galaxy A22 5G Global"
+    },
+    "SC-56B": {
+        "brand": "三星",
+        "model": "Galaxy A22 5G Japan (NTT DOcomo)"
+    },
+    "SM-A235F": {
+        "brand": "三星",
+        "model": "Galaxy A23 Global"
+    },
+    "SM-A235M": {
+        "brand": "三星",
+        "model": "Galaxy A23 Latin America"
+    },
+    "SM-A235N": {
+        "brand": "三星",
+        "model": "Galaxy A23 South Korea"
+    },
+    "SM-A235E": {
+        "brand": "三星",
+        "model": "Galaxy A23 5G Global"
+    },
+    "SM-A236B": {
+        "brand": "三星",
+        "model": "Galaxy A23 5G EU"
+    },
+    "SM-A236U": {
+        "brand": "三星",
+        "model": "Galaxy A23 5G US Carrier"
+    },
+    "SM-A236U1": {
+        "brand": "三星",
+        "model": "Galaxy A23 5G US Unlocked"
+    },
+    "SM-A236V": {
+        "brand": "三星",
+        "model": "Galaxy A23 5G UW Verizon"
+    },
+    "SM-S236DL": {
+        "brand": "三星",
+        "model": "Galaxy A23 5G TracFone"
+    },
+    "SM-S237VL": {
+        "brand": "三星",
+        "model": "Galaxy A23 5G TracFone"
+    },
+    "SM-A236M": {
+        "brand": "三星",
+        "model": "Galaxy A23 5G Latin America"
+    },
+    "SM-A2360": {
+        "brand": "三星",
+        "model": "Galaxy A23 5G HK"
+    },
+    "SCG18": {
+        "brand": "三星",
+        "model": "Galaxy A23 5G Japan (au)"
+    },
+    "SC-56C": {
+        "brand": "三星",
+        "model": "Galaxy A23 5G Japan (NTT Docomo)"
+    },
+    "SM-A233C": {
+        "brand": "三星",
+        "model": "Galaxy A23 5G Japan (Rakuten Mobile)"
+    },
+    "SM-A245F": {
+        "brand": "三星",
+        "model": "Galaxy A24 Global"
+    },
+    "SM-A245M": {
+        "brand": "三星",
+        "model": "Galaxy A24 Latin America"
+    },
+    "SM-A245N": {
+        "brand": "三星",
+        "model": "Galaxy A24 South Korea"
+    },
+    "SM-A256E": {
+        "brand": "三星",
+        "model": "Galaxy A25 5G Global"
+    },
+    "SM-A256B": {
+        "brand": "三星",
+        "model": "Galaxy A25 5G EU"
+    },
+    "SM-A256U": {
+        "brand": "三星",
+        "model": "Galaxy A25 5G US Carrier"
+    },
+    "SM-A256U1": {
+        "brand": "三星",
+        "model": "Galaxy A25 5G US Unlocked"
+    },
+    "SM-S256VL": {
+        "brand": "三星",
+        "model": "Galaxy A25 5G TracFone"
+    },
+    "SM-A2560": {
+        "brand": "三星",
+        "model": "Galaxy A25 5G HK"
+    },
+    "SM-A256N": {
+        "brand": "三星",
+        "model": "Galaxy A25 5G South Korea"
+    },
+    "SM-A305F": {
+        "brand": "三星",
+        "model": "Galaxy A30 Global"
+    },
+    "SM-A305FN": {
+        "brand": "三星",
+        "model": "Galaxy A30 EU"
+    },
+    "SM-A305G": {
+        "brand": "三星",
+        "model": "Galaxy A30 Latin America"
+    },
+    "SM-A305GN": {
+        "brand": "三星",
+        "model": "Galaxy A30 Southeast Asia"
+    },
+    "SM-A305GT": {
+        "brand": "三星",
+        "model": "Galaxy A30 Brazil"
+    },
+    "SM-A305N": {
+        "brand": "三星",
+        "model": "Galaxy A30 South Korea"
+    },
+    "SM-A305YN": {
+        "brand": "三星",
+        "model": "Galaxy A30 Australia & New Zealand"
+    },
+    "SCV43": {
+        "brand": "三星",
+        "model": "Galaxy A30 Japan (au)"
+    },
+    "SM-A307FN": {
+        "brand": "三星",
+        "model": "Galaxy A30s Global"
+    },
+    "SM-A307G": {
+        "brand": "三星",
+        "model": "Galaxy A30s Latin America"
+    },
+    "SM-A307GN": {
+        "brand": "三星",
+        "model": "Galaxy A30s Southeast Asia"
+    },
+    "SM-A307GT": {
+        "brand": "三星",
+        "model": "Galaxy A30s Brazil"
+    },
+    "SM-A315F": {
+        "brand": "三星",
+        "model": "Galaxy A31 Global"
+    },
+    "SM-A315G": {
+        "brand": "三星",
+        "model": "Galaxy A31 Global"
+    },
+    "SM-A315N": {
+        "brand": "三星",
+        "model": "Galaxy A31 South Korea"
+    },
+    "SM-A325F": {
+        "brand": "三星",
+        "model": "Galaxy A32 Global"
+    },
+    "SM-A325M": {
+        "brand": "三星",
+        "model": "Galaxy A32 Latin America"
+    },
+    "SM-A325N": {
+        "brand": "三星",
+        "model": "Galaxy A32 South Korea"
+    },
+    "SM-A326B": {
+        "brand": "三星",
+        "model": "Galaxy A32 5G Global"
+    },
+    "SM-A326BR": {
+        "brand": "三星",
+        "model": "Galaxy A32 5G Global"
+    },
+    "SM-A326U": {
+        "brand": "三星",
+        "model": "Galaxy A32 5G US Carrier"
+    },
+    "SM-A326U1": {
+        "brand": "三星",
+        "model": "Galaxy A32 5G US Unlocked"
+    },
+    "SM-S326DL": {
+        "brand": "三星",
+        "model": "Galaxy A32 5G TracFone"
+    },
+    "SM-A326W": {
+        "brand": "三星",
+        "model": "Galaxy A32 5G Canada"
+    },
+    "SCG08": {
+        "brand": "三星",
+        "model": "Galaxy A32 5G Japan (au)"
+    },
+    "SM-A336E": {
+        "brand": "三星",
+        "model": "Galaxy A33 5G Global"
+    },
+    "SM-A336B": {
+        "brand": "三星",
+        "model": "Galaxy A33 5G EU"
+    },
+    "SM-A336M": {
+        "brand": "三星",
+        "model": "Galaxy A33 5G Latin America"
+    },
+    "SM-A3360": {
+        "brand": "三星",
+        "model": "Galaxy A33 5G HK"
+    },
+    "SM-A336N": {
+        "brand": "三星",
+        "model": "Galaxy A33 5G South Korea"
+    },
+    "SM-A346E": {
+        "brand": "三星",
+        "model": "Galaxy A34 5G Global"
+    },
+    "SM-A346B": {
+        "brand": "三星",
+        "model": "Galaxy A34 5G EU"
+    },
+    "SM-A346M": {
+        "brand": "三星",
+        "model": "Galaxy A34 5G Latin America"
+    },
+    "SM-A3460": {
+        "brand": "三星",
+        "model": "Galaxy A34 5G HK & TW"
+    },
+    "SM-A346N": {
+        "brand": "三星",
+        "model": "Galaxy A34 5G South Korea"
+    },
+    "SM-A356E": {
+        "brand": "三星",
+        "model": "Galaxy A35 5G Global"
+    },
+    "SM-A356B": {
+        "brand": "三星",
+        "model": "Galaxy A35 5G EU"
+    },
+    "SM-A356U": {
+        "brand": "三星",
+        "model": "Galaxy A35 5G US Carrier"
+    },
+    "SM-A356U1": {
+        "brand": "三星",
+        "model": "Galaxy A35 5G US Unlocked"
+    },
+    "SM-S356V": {
+        "brand": "三星",
+        "model": "Galaxy A35 5G TracFone"
+    },
+    "SM-A356W": {
+        "brand": "三星",
+        "model": "Galaxy A35 5G Canada"
+    },
+    "SM-A3560": {
+        "brand": "三星",
+        "model": "Galaxy A35 5G HK & TW"
+    },
+    "SM-A356N": {
+        "brand": "三星",
+        "model": "Galaxy A35 5G South Korea"
+    },
+    "SM-A405FN": {
+        "brand": "三星",
+        "model": "Galaxy A40 Global"
+    },
+    "SM-A405FM": {
+        "brand": "三星",
+        "model": "Galaxy A40 Russia"
+    },
+    "SM-A405S": {
+        "brand": "三星",
+        "model": "Galaxy A40 South Korea (SK Telecom)"
+    },
+    "SM-A3050": {
+        "brand": "三星",
+        "model": "Galaxy A40s China mainland"
+    },
+    "SM-A3058": {
+        "brand": "三星",
+        "model": "Galaxy A40s China Mobile"
+    },
+    "SM-A3051": {
+        "brand": "三星",
+        "model": "Galaxy A40s TW"
+    },
+    "SM-A415F": {
+        "brand": "三星",
+        "model": "Galaxy A41 Global"
+    },
+    "SCV48": {
+        "brand": "三星",
+        "model": "Galaxy A41 Japan (au)"
+    },
+    "SC-41A": {
+        "brand": "三星",
+        "model": "Galaxy A41 Japan (NTT Docomo)"
+    },
+    "SM-A426B": {
+        "brand": "三星",
+        "model": "Galaxy A42 5G Global"
+    },
+    "SM-A4260": {
+        "brand": "三星",
+        "model": "Galaxy A42 5G HK"
+    },
+    "SM-A426N": {
+        "brand": "三星",
+        "model": "Galaxy A42 5G South Korea"
+    },
+    "SM-A426U": {
+        "brand": "三星",
+        "model": "Galaxy A42 5G US Carrier"
+    },
+    "SM-A426U1": {
+        "brand": "三星",
+        "model": "Galaxy A42 5G US Unlocked"
+    },
+    "SM-S426DL": {
+        "brand": "三星",
+        "model": "Galaxy A42 5G TracFone"
+    },
+    "SM-A505F": {
+        "brand": "三星",
+        "model": "Galaxy A50 Global"
+    },
+    "SM-A505FN": {
+        "brand": "三星",
+        "model": "Galaxy A50 EU"
+    },
+    "SM-A505FM": {
+        "brand": "三星",
+        "model": "Galaxy A50 Russia"
+    },
+    "SM-A505G": {
+        "brand": "三星",
+        "model": "Galaxy A50 Latin America"
+    },
+    "SM-A505GN": {
+        "brand": "三星",
+        "model": "Galaxy A50 Southeast Asia"
+    },
+    "SM-A505GT": {
+        "brand": "三星",
+        "model": "Galaxy A50 Brazil"
+    },
+    "SM-A505U": {
+        "brand": "三星",
+        "model": "Galaxy A50 US Carrier"
+    },
+    "SM-A505U1": {
+        "brand": "三星",
+        "model": "Galaxy A50 US Unlocked"
+    },
+    "SM-S506DL": {
+        "brand": "三星",
+        "model": "Galaxy A50 TracFone"
+    },
+    "SM-A505W": {
+        "brand": "三星",
+        "model": "Galaxy A50 Canada"
+    },
+    "SM-A505N": {
+        "brand": "三星",
+        "model": "Galaxy A50 South Korea"
+    },
+    "SM-A505YN": {
+        "brand": "三星",
+        "model": "Galaxy A50 Australia & New Zealand"
+    },
+    "SM-A507FN": {
+        "brand": "三星",
+        "model": "Galaxy A50s Global"
+    },
+    "SM-A5070": {
+        "brand": "三星",
+        "model": "Galaxy A50s China"
+    },
+    "SM-A515F": {
+        "brand": "三星",
+        "model": "Galaxy A51 Global"
+    },
+    "SM-A515X": {
+        "brand": "三星",
+        "model": "Galaxy A51 Global"
+    },
+    "SM-A515U": {
+        "brand": "三星",
+        "model": "Galaxy A51 US Carrier"
+    },
+    "SM-A515U1": {
+        "brand": "三星",
+        "model": "Galaxy A51 US Unlocked"
+    },
+    "SM-S515DL": {
+        "brand": "三星",
+        "model": "Galaxy A51 TracFone"
+    },
+    "SM-A515W": {
+        "brand": "三星",
+        "model": "Galaxy A51 Canada"
+    },
+    "SM-A516B": {
+        "brand": "三星",
+        "model": "Galaxy A51 5G Global"
+    },
+    "SM-A516U": {
+        "brand": "三星",
+        "model": "Galaxy A51 5G US Carrier"
+    },
+    "SM-A516U1": {
+        "brand": "三星",
+        "model": "Galaxy A51 5G US Unlocked"
+    },
+    "SM-A5160": {
+        "brand": "三星",
+        "model": "Galaxy A51 5G China"
+    },
+    "SM-A516N": {
+        "brand": "三星",
+        "model": "Galaxy A51 5G South Korea"
+    },
+    "SM-A516V": {
+        "brand": "三星",
+        "model": "Galaxy A51 5G UW Verizon"
+    },
+    "SM-A525F": {
+        "brand": "三星",
+        "model": "Galaxy A52 Global"
+    },
+    "SM-A525M": {
+        "brand": "三星",
+        "model": "Galaxy A52 Latin America"
+    },
+    "SM-A526B": {
+        "brand": "三星",
+        "model": "Galaxy A52 5G Global"
+    },
+    "SM-A526U": {
+        "brand": "三星",
+        "model": "Galaxy A52 5G US Carrier"
+    },
+    "SM-A526U1": {
+        "brand": "三星",
+        "model": "Galaxy A52 5G US Unlocked"
+    },
+    "SM-A526W": {
+        "brand": "三星",
+        "model": "Galaxy A52 5G Canada"
+    },
+    "SM-A5260": {
+        "brand": "三星",
+        "model": "Galaxy A52 5G China"
+    },
+    "SM-A526N": {
+        "brand": "三星",
+        "model": "Galaxy A52 5G South Korea"
+    },
+    "SC-53B": {
+        "brand": "三星",
+        "model": "Galaxy A52 5G Japan (NTT Docomo)"
+    },
+    "SM-A528B": {
+        "brand": "三星",
+        "model": "Galaxy A52s 5G Global"
+    },
+    "SM-A528N": {
+        "brand": "三星",
+        "model": "Galaxy A52s 5G South Korea"
+    },
+    "SM-A536E": {
+        "brand": "三星",
+        "model": "Galaxy A53 5G Global"
+    },
+    "SM-A536B": {
+        "brand": "三星",
+        "model": "Galaxy A53 5G EU"
+    },
+    "SM-A536U": {
+        "brand": "三星",
+        "model": "Galaxy A53 5G US Carrier"
+    },
+    "SM-A536U1": {
+        "brand": "三星",
+        "model": "Galaxy A53 5G US Unlocked"
+    },
+    "SM-A536V": {
+        "brand": "三星",
+        "model": "Galaxy A53 5G UW Verizon"
+    },
+    "SM-S536DL": {
+        "brand": "三星",
+        "model": "Galaxy A53 5G TracFone"
+    },
+    "SM-A536W": {
+        "brand": "三星",
+        "model": "Galaxy A53 5G Canada"
+    },
+    "SM-A5360": {
+        "brand": "三星",
+        "model": "Galaxy A53 5G China"
+    },
+    "SM-A536N": {
+        "brand": "三星",
+        "model": "Galaxy A53 5G South Korea"
+    },
+    "SCG15": {
+        "brand": "三星",
+        "model": "Galaxy A53 5G Japan (au)"
+    },
+    "SC-53C": {
+        "brand": "三星",
+        "model": "Galaxy A53 5G Japan (NTT Docomo)"
+    },
+    "SM-A546E": {
+        "brand": "三星",
+        "model": "Galaxy A54 5G Global"
+    },
+    "SM-A546B": {
+        "brand": "三星",
+        "model": "Galaxy A54 5G EU"
+    },
+    "SM-A546U": {
+        "brand": "三星",
+        "model": "Galaxy A54 5G US Carrier"
+    },
+    "SM-A546U1": {
+        "brand": "三星",
+        "model": "Galaxy A54 5G US Unlocked"
+    },
+    "SM-A546V": {
+        "brand": "三星",
+        "model": "Galaxy A54 5G Verizon"
+    },
+    "SM-S546VL": {
+        "brand": "三星",
+        "model": "Galaxy A54 5G TracFone"
+    },
+    "SM-A546W": {
+        "brand": "三星",
+        "model": "Galaxy A54 5G Canada"
+    },
+    "SM-A5460": {
+        "brand": "三星",
+        "model": "Galaxy A54 5G China"
+    },
+    "SCG21": {
+        "brand": "三星",
+        "model": "Galaxy A54 5G Japan (au)"
+    },
+    "SC-53D": {
+        "brand": "三星",
+        "model": "Galaxy A54 5G Japan (NTT Docomo)"
+    },
+    "SM-A556E": {
+        "brand": "三星",
+        "model": "Galaxy A55 5G Global"
+    },
+    "SM-A556B": {
+        "brand": "三星",
+        "model": "Galaxy A55 5G EU"
+    },
+    "SM-A5560": {
+        "brand": "三星",
+        "model": "Galaxy A55 5G China"
+    },
+    "SCG27": {
+        "brand": "三星",
+        "model": "Galaxy A55 5G Japan (au)"
+    },
+    "SC-53E": {
+        "brand": "三星",
+        "model": "Galaxy A55 5G Japan (NTT Docomo)"
+    },
+    "SM-A606F": {
+        "brand": "三星",
+        "model": "Galaxy A60 Global"
+    },
+    "SM-A6060": {
+        "brand": "三星",
+        "model": "Galaxy A60 China mainland"
+    },
+    "SM-A606Y": {
+        "brand": "三星",
+        "model": "Galaxy A60 TW"
+    },
+    "SM-A705F": {
+        "brand": "三星",
+        "model": "Galaxy A70 Global"
+    },
+    "SM-A705FN": {
+        "brand": "三星",
+        "model": "Galaxy A70 Global"
+    },
+    "SM-A705GM": {
+        "brand": "三星",
+        "model": "Galaxy A70 India"
+    },
+    "SM-A705MN": {
+        "brand": "三星",
+        "model": "Galaxy A70 Latin America"
+    },
+    "SM-A705U": {
+        "brand": "三星",
+        "model": "Galaxy A70 US Carrier"
+    },
+    "SM-A705U1": {
+        "brand": "三星",
+        "model": "Galaxy A70 US Unlocked"
+    },
+    "SM-A705W": {
+        "brand": "三星",
+        "model": "Galaxy A70 Canada"
+    },
+    "SM-A7050": {
+        "brand": "三星",
+        "model": "Galaxy A70 China"
+    },
+    "SM-A705YN": {
+        "brand": "三星",
+        "model": "Galaxy A70 Australia & New Zealand"
+    },
+    "SM-A707F": {
+        "brand": "三星",
+        "model": "Galaxy A70s Global"
+    },
+    "SM-A7070": {
+        "brand": "三星",
+        "model": "Galaxy A70s China"
+    },
+    "SM-A715F": {
+        "brand": "三星",
+        "model": "Galaxy A71 Global"
+    },
+    "SM-A715X": {
+        "brand": "三星",
+        "model": "Galaxy A71 Global"
+    },
+    "SM-A715W": {
+        "brand": "三星",
+        "model": "Galaxy A71 Canada"
+    },
+    "SM-A716B": {
+        "brand": "三星",
+        "model": "Galaxy A71 5G Global"
+    },
+    "SM-A7160": {
+        "brand": "三星",
+        "model": "Galaxy A71 5G China"
+    },
+    "SM-A716U": {
+        "brand": "三星",
+        "model": "Galaxy A71 5G US Carrier"
+    },
+    "SM-A716U1": {
+        "brand": "三星",
+        "model": "Galaxy A71 5G US Unlocked"
+    },
+    "SM-A716V": {
+        "brand": "三星",
+        "model": "Galaxy A71 5G UW Verizon"
+    },
+    "SM-A725F": {
+        "brand": "三星",
+        "model": "Galaxy A72 Global"
+    },
+    "SM-A725M": {
+        "brand": "三星",
+        "model": "Galaxy A72 Latin America"
+    },
+    "SM-A736B": {
+        "brand": "三星",
+        "model": "Galaxy A73 5G Global"
+    },
+    "SM-A805F": {
+        "brand": "三星",
+        "model": "Galaxy A80 Global"
+    },
+    "SM-A8050": {
+        "brand": "三星",
+        "model": "Galaxy A80 China"
+    },
+    "SM-A805N": {
+        "brand": "三星",
+        "model": "Galaxy A80 South Korea"
+    },
+    "SM-A908B": {
+        "brand": "三星",
+        "model": "Galaxy A90 5G Global"
+    },
+    "SM-A9080": {
+        "brand": "三星",
+        "model": "Galaxy A90 5G China"
+    },
+    "SM-A908N": {
+        "brand": "三星",
+        "model": "Galaxy A90 5G South Korea"
+    },
+    "SM-M015F": {
+        "brand": "三星",
+        "model": "Galaxy M01"
+    },
+    "SM-M015G": {
+        "brand": "三星",
+        "model": "Galaxy M01"
+    },
+    "SM-M013F": {
+        "brand": "三星",
+        "model": "Galaxy M01s"
+    },
+    "SM-M022F": {
+        "brand": "三星",
+        "model": "Galaxy M02 India"
+    },
+    "SM-M022G": {
+        "brand": "三星",
+        "model": "Galaxy M02 India (2GB RAM)"
+    },
+    "SM-M022M": {
+        "brand": "三星",
+        "model": "Galaxy M02 Latin America"
+    },
+    "SM-M025F": {
+        "brand": "三星",
+        "model": "Galaxy M02s"
+    },
+    "SM-M045F": {
+        "brand": "三星",
+        "model": "Galaxy M04"
+    },
+    "SM-M055F": {
+        "brand": "三星",
+        "model": "Galaxy M05"
+    },
+    "SM-M105G": {
+        "brand": "三星",
+        "model": "Galaxy M10 Global"
+    },
+    "SM-M105F": {
+        "brand": "三星",
+        "model": "Galaxy M10 India"
+    },
+    "SM-M105M": {
+        "brand": "三星",
+        "model": "Galaxy M10 Latin America"
+    },
+    "SM-M105Y": {
+        "brand": "三星",
+        "model": "Galaxy M10 Philippines"
+    },
+    "SM-M107F": {
+        "brand": "三星",
+        "model": "Galaxy M10s"
+    },
+    "SM-M115F": {
+        "brand": "三星",
+        "model": "Galaxy M11 India"
+    },
+    "SM-M115M": {
+        "brand": "三星",
+        "model": "Galaxy M11 Latin America"
+    },
+    "SM-M127G": {
+        "brand": "三星",
+        "model": "Galaxy M12 India"
+    },
+    "SM-M127F": {
+        "brand": "三星",
+        "model": "Galaxy M12 Latin America"
+    },
+    "SM-M127N": {
+        "brand": "三星",
+        "model": "Galaxy M12 South Korea"
+    },
+    "SM-M135F": {
+        "brand": "三星",
+        "model": "Galaxy M13 EU"
+    },
+    "SM-M135FU": {
+        "brand": "三星",
+        "model": "Galaxy M13 India"
+    },
+    "SM-M135M": {
+        "brand": "三星",
+        "model": "Galaxy M13 Latin America"
+    },
+    "SM-M136B": {
+        "brand": "三星",
+        "model": "Galaxy M13 5G"
+    },
+    "SM-M145F": {
+        "brand": "三星",
+        "model": "Galaxy M14"
+    },
+    "SM-M146B": {
+        "brand": "三星",
+        "model": "Galaxy M14 5G"
+    },
+    "SM-M156B": {
+        "brand": "三星",
+        "model": "Galaxy M15 5G Global"
+    },
+    "SM-E156B": {
+        "brand": "三星",
+        "model": "Galaxy F15 5G"
+    },
+    "SM-M205N": {
+        "brand": "三星",
+        "model": "Galaxy M20 South Korea"
+    },
+    "SM-M205F": {
+        "brand": "三星",
+        "model": "Galaxy M20 Global"
+    },
+    "SM-M205FN": {
+        "brand": "三星",
+        "model": "Galaxy M20 EU"
+    },
+    "SM-M205G": {
+        "brand": "三星",
+        "model": "Galaxy M20 Southeast Asia"
+    },
+    "SM-M205M": {
+        "brand": "三星",
+        "model": "Galaxy M20 Latin America"
+    },
+    "SM-M215F": {
+        "brand": "三星",
+        "model": "Galaxy M21"
+    },
+    "SM-M215G": {
+        "brand": "三星",
+        "model": "Galaxy M21 2021 Edition"
+    },
+    "SM-M225FV": {
+        "brand": "三星",
+        "model": "Galaxy M22"
+    },
+    "SM-M236B": {
+        "brand": "三星",
+        "model": "Galaxy M23 5G Global"
+    },
+    "SM-M236Q": {
+        "brand": "三星",
+        "model": "Galaxy M23 5G Japan"
+    },
+    "SM-M305F": {
+        "brand": "三星",
+        "model": "Galaxy M30 Global"
+    },
+    "SM-M305M": {
+        "brand": "三星",
+        "model": "Galaxy M30 Latin America"
+    },
+    "SM-M307F": {
+        "brand": "三星",
+        "model": "Galaxy M30s Southeast Asia"
+    },
+    "SM-M307FN": {
+        "brand": "三星",
+        "model": "Galaxy M30s Global"
+    },
+    "SM-M3070": {
+        "brand": "三星",
+        "model": "Galaxy M30s China"
+    },
+    "SM-M315F": {
+        "brand": "三星",
+        "model": "Galaxy M31"
+    },
+    "SM-M317F": {
+        "brand": "三星",
+        "model": "Galaxy M31s"
+    },
+    "SM-M325F": {
+        "brand": "三星",
+        "model": "Galaxy M32 India"
+    },
+    "SM-M325FV": {
+        "brand": "三星",
+        "model": "Galaxy M32 Southeast Asia"
+    },
+    "SM-M326B": {
+        "brand": "三星",
+        "model": "Galaxy M32 5G"
+    },
+    "SM-M336B": {
+        "brand": "三星",
+        "model": "Galaxy M33 5G Global"
+    },
+    "SM-M336BU": {
+        "brand": "三星",
+        "model": "Galaxy M33 5G India"
+    },
+    "SM-M346B": {
+        "brand": "三星",
+        "model": "Galaxy M34 5G India"
+    },
+    "SM-M346B1": {
+        "brand": "三星",
+        "model": "Galaxy M34 5G Southeast Asia"
+    },
+    "SM-M346B2": {
+        "brand": "三星",
+        "model": "Galaxy M34 5G Global"
+    },
+    "SM-M356B": {
+        "brand": "三星",
+        "model": "Galaxy M35 5G"
+    },
+    "SM-M405F": {
+        "brand": "三星",
+        "model": "Galaxy M40"
+    },
+    "SM-M426B": {
+        "brand": "三星",
+        "model": "Galaxy M42 5G"
+    },
+    "SM-M515F": {
+        "brand": "三星",
+        "model": "Galaxy M51"
+    },
+    "SM-M526B": {
+        "brand": "三星",
+        "model": "Galaxy M52 5G"
+    },
+    "SM-M526BR": {
+        "brand": "三星",
+        "model": "Galaxy M52 5G"
+    },
+    "SM-M536B": {
+        "brand": "三星",
+        "model": "Galaxy M53 5G"
+    },
+    "SM-M546B": {
+        "brand": "三星",
+        "model": "Galaxy M54 5G"
+    },
+    "SM-M556B": {
+        "brand": "三星",
+        "model": "Galaxy M55 5G India"
+    },
+    "SM-M556E": {
+        "brand": "三星",
+        "model": "Galaxy M55 5G Global"
+    },
+    "SM-M558B": {
+        "brand": "三星",
+        "model": "Galaxy M55s 5G"
+    },
+    "SM-C5560": {
+        "brand": "三星",
+        "model": "Galaxy C55 5G"
+    },
+    "SM-M625F": {
+        "brand": "三星",
+        "model": "Galaxy M62"
+    },
+    "SM-E025F": {
+        "brand": "三星",
+        "model": "Galaxy F02s"
+    },
+    "SM-E045F": {
+        "brand": "三星",
+        "model": "Galaxy F04"
+    },
+    "SM-E055F": {
+        "brand": "三星",
+        "model": "Galaxy F05"
+    },
+    "SM-F127G": {
+        "brand": "三星",
+        "model": "Galaxy F12"
+    },
+    "SM-E135F": {
+        "brand": "三星",
+        "model": "Galaxy F13"
+    },
+    "SM-E145F": {
+        "brand": "三星",
+        "model": "Galaxy F14"
+    },
+    "SM-E146B": {
+        "brand": "三星",
+        "model": "Galaxy F14 5G"
+    },
+    "SM-E225F": {
+        "brand": "三星",
+        "model": "Galaxy F22"
+    },
+    "SM-E236B": {
+        "brand": "三星",
+        "model": "Galaxy F23 5G"
+    },
+    "SM-E346B": {
+        "brand": "三星",
+        "model": "Galaxy F34 5G"
+    },
+    "SM-F415F": {
+        "brand": "三星",
+        "model": "Galaxy F41"
+    },
+    "SM-E426B": {
+        "brand": "三星",
+        "model": "Galaxy F42 5G"
+    },
+    "SM-E5260": {
+        "brand": "三星",
+        "model": "Galaxy F52 5G"
+    },
+    "SM-E546B": {
+        "brand": "三星",
+        "model": "Galaxy F54 5G"
+    },
+    "SM-E556B": {
+        "brand": "三星",
+        "model": "Galaxy F55 5G"
+    },
+    "SM-E625F": {
+        "brand": "三星",
+        "model": "Galaxy F62"
+    }
+}

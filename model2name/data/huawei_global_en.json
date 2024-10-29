@@ -1,0 +1,1290 @@
+{
+    "MT7-L09": {
+        "brand": "华为",
+        "model": "HUAWEI Ascend Mate 7 Single SIM"
+    },
+    "MT7-TL10": {
+        "brand": "华为",
+        "model": "HUAWEI Ascend Mate 7 Dual SIM"
+    },
+    "CRR-L09": {
+        "brand": "华为",
+        "model": "HUAWEI Mate S Single SIM"
+    },
+    "CRR-UL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate S Dual SIM"
+    },
+    "NXT-L09": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 8 Single SIM"
+    },
+    "NXT-L29": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 8 Dual SIM"
+    },
+    "MHA-L09": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 9 Single SIM"
+    },
+    "MHA-L29": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 9 Dual SIM"
+    },
+    "LON-L29": {
+        "brand": "华为",
+        "model": "PORSCHE DESIGN HUAWEI Mate 9 Dual SIM"
+    },
+    "ALP-L09": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 10 Single SIM"
+    },
+    "ALP-L29": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 10 Dual SIM"
+    },
+    "BLA-L09": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 10 Pro Single SIM"
+    },
+    "BLA-A09": {
+        "brand": "华为",
+        "model": "PORSCHE DESIGN HUAWEI Mate 10 (United States)"
+    },
+    "BLA-L29": {
+        "brand": "华为",
+        "model": "PORSCHE DESIGN HUAWEI Mate 10 Dual SIM"
+    },
+    "RNE-L01": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 10 Lite Single SIM"
+    },
+    "RNE-L03": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 10 Lite Single SIM"
+    },
+    "RNE-L21": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 10 Lite Dual SIM"
+    },
+    "RNE-L23": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 10 Lite Dual SIM"
+    },
+    "BND-L34": {
+        "brand": "华为",
+        "model": "HUAWEI Mate SE (United States)"
+    },
+    "NEO-L29": {
+        "brand": "华为",
+        "model": "PORSCHE DESIGN HUAWEI Mate RS Dual SIM"
+    },
+    "HMA-L09": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 20 Single SIM"
+    },
+    "HMA-L29": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 20 Dual SIM"
+    },
+    "LYA-L09": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 20 Single SIM"
+    },
+    "LYA-L0C": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 20 Single SIM"
+    },
+    "LYA-L29": {
+        "brand": "华为",
+        "model": "PORSCHE DESIGN HUAWEI Mate 20 RS Dual SIM"
+    },
+    "EVR-L29": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 20 X Dual SIM"
+    },
+    "EVR-N29": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 20 X 5G Dual SIM"
+    },
+    "SNE-LX1": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 20 lite"
+    },
+    "SNE-LX2": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 20 lite"
+    },
+    "SNE-LX3": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 20 lite"
+    },
+    "TAS-L09": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 30 Single SIM"
+    },
+    "TAS-L29": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 30 Dual SIM"
+    },
+    "LIO-L09": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 30 Pro Single SIM"
+    },
+    "LIO-L29": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 30 Pro Dual SIM"
+    },
+    "LIO-N29": {
+        "brand": "华为",
+        "model": "PORSCHE DESIGN HUAWEI Mate 30 RS Dual SIM"
+    },
+    "NOH-NX9": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 40 Pro 5G Dual SIM"
+    },
+    "CET-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 50"
+    },
+    "DCO-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 50 Pro"
+    },
+    "ALN-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 60 Pro"
+    },
+    "TAH-N29m": {
+        "brand": "华为",
+        "model": "HUAWEI Mate Xs Dual SIM"
+    },
+    "PAL-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI Mate Xs 2"
+    },
+    "PAL-L29": {
+        "brand": "华为",
+        "model": "HUAWEI Mate Xs 2"
+    },
+    "ALT-L29": {
+        "brand": "华为",
+        "model": "HUAWEI Mate X3"
+    },
+    "P6-U06": {
+        "brand": "华为",
+        "model": "HUAWEI Ascend P6 Single SIM"
+    },
+    "P7-L10": {
+        "brand": "华为",
+        "model": "HUAWEI Ascend P7"
+    },
+    "P7-L11": {
+        "brand": "华为",
+        "model": "HUAWEI Ascend P7"
+    },
+    "P7-L12": {
+        "brand": "华为",
+        "model": "HUAWEI Ascend P7"
+    },
+    "GRA-L09": {
+        "brand": "华为",
+        "model": "HUAWEI P8 Single SIM"
+    },
+    "GRA-UL00": {
+        "brand": "华为",
+        "model": "HUAWEI P8 Dual SIM"
+    },
+    "GRA-UL10": {
+        "brand": "华为",
+        "model": "HUAWEI P8 Dual SIM"
+    },
+    "ALE-L02": {
+        "brand": "华为",
+        "model": "HUAWEI P8 Lite"
+    },
+    "ALE-L04": {
+        "brand": "华为",
+        "model": "HUAWEI P8 Lite"
+    },
+    "ALE-L21": {
+        "brand": "华为",
+        "model": "HUAWEI P8 Lite"
+    },
+    "ALE-L23": {
+        "brand": "华为",
+        "model": "HUAWEI P8 Lite"
+    },
+    "PRA-LA1": {
+        "brand": "华为",
+        "model": "HUAWEI P8 lite 2017"
+    },
+    "PRA-LX1": {
+        "brand": "华为",
+        "model": "HUAWEI P8 lite 2017"
+    },
+    "EVA-L09": {
+        "brand": "华为",
+        "model": "HUAWEI P9 Single SIM"
+    },
+    "EVA-L19": {
+        "brand": "华为",
+        "model": "HUAWEI P9 Dual SIM"
+    },
+    "EVA-L29": {
+        "brand": "华为",
+        "model": "HUAWEI P9 Dual SIM"
+    },
+    "VIE-L09": {
+        "brand": "华为",
+        "model": "HUAWEI P9 Plus Single SIM"
+    },
+    "VIE-L29": {
+        "brand": "华为",
+        "model": "HUAWEI P9 Plus Dual SIM"
+    },
+    "VNS-L21": {
+        "brand": "华为",
+        "model": "HUAWEI P9 lite"
+    },
+    "VNS-L22": {
+        "brand": "华为",
+        "model": "HUAWEI P9 lite"
+    },
+    "VNS-L23": {
+        "brand": "华为",
+        "model": "HUAWEI P9 lite"
+    },
+    "VNS-L31": {
+        "brand": "华为",
+        "model": "HUAWEI P9 lite"
+    },
+    "VNS-L52": {
+        "brand": "华为",
+        "model": "HUAWEI P9 lite"
+    },
+    "VNS-L53": {
+        "brand": "华为",
+        "model": "HUAWEI P9 lite"
+    },
+    "VNS-L62": {
+        "brand": "华为",
+        "model": "HUAWEI P9 lite"
+    },
+    "VTR-L09": {
+        "brand": "华为",
+        "model": "HUAWEI P10 Single SIM"
+    },
+    "VTR-L29": {
+        "brand": "华为",
+        "model": "HUAWEI P10 Dual SIM"
+    },
+    "VKY-L09": {
+        "brand": "华为",
+        "model": "HUAWEI P10 Plus Single SIM"
+    },
+    "VKY-L29": {
+        "brand": "华为",
+        "model": "HUAWEI P10 Plus Dual SIM"
+    },
+    "WAS-LX1": {
+        "brand": "华为",
+        "model": "HUAWEI P10 lite"
+    },
+    "WAS-LX1A": {
+        "brand": "华为",
+        "model": "HUAWEI P10 lite"
+    },
+    "WAS-LX2": {
+        "brand": "华为",
+        "model": "HUAWEI P10 lite"
+    },
+    "WAS-LX2J": {
+        "brand": "华为",
+        "model": "HUAWEI P10 lite"
+    },
+    "WAS-LX3": {
+        "brand": "华为",
+        "model": "HUAWEI P10 lite"
+    },
+    "WAS-L03T": {
+        "brand": "华为",
+        "model": "HUAWEI P10 lite"
+    },
+    "EML-L09": {
+        "brand": "华为",
+        "model": "HUAWEI P20 Single SIM"
+    },
+    "EML-L29": {
+        "brand": "华为",
+        "model": "HUAWEI P20 Dual SIM"
+    },
+    "CLT-L04": {
+        "brand": "华为",
+        "model": "HUAWEI P20 Pro Single SIM"
+    },
+    "CLT-L09": {
+        "brand": "华为",
+        "model": "HUAWEI P20 Pro Single SIM"
+    },
+    "CLT-L29": {
+        "brand": "华为",
+        "model": "HUAWEI P20 Pro Dual SIM"
+    },
+    "ANE-LX1": {
+        "brand": "华为",
+        "model": "HUAWEI P20 lite"
+    },
+    "ANE-LX2": {
+        "brand": "华为",
+        "model": "HUAWEI P20 lite"
+    },
+    "ANE-LX2J": {
+        "brand": "华为",
+        "model": "HUAWEI P20 lite"
+    },
+    "ANE-LX3": {
+        "brand": "华为",
+        "model": "HUAWEI P20 lite"
+    },
+    "ELE-L09": {
+        "brand": "华为",
+        "model": "HUAWEI P30 Single SIM"
+    },
+    "ELE-L29": {
+        "brand": "华为",
+        "model": "HUAWEI P30 Dual SIM"
+    },
+    "VOG-L09": {
+        "brand": "华为",
+        "model": "HUAWEI P30 Pro Single SIM"
+    },
+    "VOG-L29": {
+        "brand": "华为",
+        "model": "HUAWEI P30 Pro Dual SIM"
+    },
+    "MAR-LX1A": {
+        "brand": "华为",
+        "model": "HUAWEI P30 lite"
+    },
+    "MAR-LX1Am": {
+        "brand": "华为",
+        "model": "HUAWEI P30 lite"
+    },
+    "MAR-LX1B": {
+        "brand": "华为",
+        "model": "HUAWEI P30 lite"
+    },
+    "MAR-LX1M": {
+        "brand": "华为",
+        "model": "HUAWEI P30 lite"
+    },
+    "MAR-LX1Mm": {
+        "brand": "华为",
+        "model": "HUAWEI P30 lite"
+    },
+    "MAR-LX2": {
+        "brand": "华为",
+        "model": "HUAWEI P30 lite"
+    },
+    "MAR-LX2m": {
+        "brand": "华为",
+        "model": "HUAWEI P30 lite"
+    },
+    "MAR-LX2B": {
+        "brand": "华为",
+        "model": "HUAWEI P30 lite"
+    },
+    "MAR-LX2J": {
+        "brand": "华为",
+        "model": "HUAWEI P30 lite"
+    },
+    "MAR-LX3A": {
+        "brand": "华为",
+        "model": "HUAWEI P30 lite"
+    },
+    "MAR-LX3Am": {
+        "brand": "华为",
+        "model": "HUAWEI P30 lite"
+    },
+    "MAR-LX3Bm": {
+        "brand": "华为",
+        "model": "HUAWEI P30 lite"
+    },
+    "ANA-NX9": {
+        "brand": "华为",
+        "model": "HUAWEI P40 Dual SIM"
+    },
+    "ELS-N04": {
+        "brand": "华为",
+        "model": "HUAWEI P40 Pro Single SIM"
+    },
+    "ELS-NX9": {
+        "brand": "华为",
+        "model": "HUAWEI P40 Pro Dual SIM"
+    },
+    "JNY-LX1": {
+        "brand": "华为",
+        "model": "HUAWEI nova 7i Dual SIM"
+    },
+    "JNY-LX2": {
+        "brand": "华为",
+        "model": "HUAWEI P40 lite Single SIM"
+    },
+    "CDY-NX9": {
+        "brand": "华为",
+        "model": "HUAWEI nova 7 SE 5G"
+    },
+    "ART-L29": {
+        "brand": "华为",
+        "model": "HUAWEI Y7p Dual SIM"
+    },
+    "JAD-LX4": {
+        "brand": "华为",
+        "model": "HUAWEI P50 Pro"
+    },
+    "JAD-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI P50 Pro"
+    },
+    "BAL-L49": {
+        "brand": "华为",
+        "model": "HUAWEI P50 Pocket"
+    },
+    "BAL-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI P50 Pocket"
+    },
+    "LNA-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI P60"
+    },
+    "MNA-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI P60 Pro"
+    },
+    "ADY-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI Pura 70"
+    },
+    "HBN-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI Pura 70 Pro"
+    },
+    "HBP-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI Pura 70 Ultra"
+    },
+    "FIG-LA1": {
+        "brand": "华为",
+        "model": "HUAWEI P smart"
+    },
+    "FIG-LX1": {
+        "brand": "华为",
+        "model": "HUAWEI P smart"
+    },
+    "FIG-LX2": {
+        "brand": "华为",
+        "model": "HUAWEI P smart"
+    },
+    "FIG-LX3": {
+        "brand": "华为",
+        "model": "HUAWEI P smart"
+    },
+    "INE-LX1": {
+        "brand": "华为",
+        "model": "HUAWEI nova 3i"
+    },
+    "POT-LX1": {
+        "brand": "华为",
+        "model": "HUAWEI P smart 2019"
+    },
+    "POT-LX1AF": {
+        "brand": "华为",
+        "model": "HUAWEI P smart 2019"
+    },
+    "POT-LX1RU": {
+        "brand": "华为",
+        "model": "HUAWEI P smart 2019"
+    },
+    "POT-LX3": {
+        "brand": "华为",
+        "model": "HUAWEI P smart 2019"
+    },
+    "POT-LX1T": {
+        "brand": "华为",
+        "model": "HUAWEI P smart+ 2019"
+    },
+    "STK-LX1": {
+        "brand": "华为",
+        "model": "HUAWEI P smart Z Dual SIM"
+    },
+    "STK-L21": {
+        "brand": "华为",
+        "model": "HUAWEI Y9s Dual SIM"
+    },
+    "AQM-LX1": {
+        "brand": "华为",
+        "model": "HUAWEI Y8p Dual SIM"
+    },
+    "POT-LX1A": {
+        "brand": "华为",
+        "model": "HUAWEI P smart 2020 Dual SIM"
+    },
+    "PPA-LX2": {
+        "brand": "华为",
+        "model": "HUAWEI Y7a Dual SIM"
+    },
+    "CAN-L01": {
+        "brand": "华为",
+        "model": "HUAWEI nova"
+    },
+    "CAN-L02": {
+        "brand": "华为",
+        "model": "HUAWEI nova"
+    },
+    "CAN-L03": {
+        "brand": "华为",
+        "model": "HUAWEI nova"
+    },
+    "CAN-L11": {
+        "brand": "华为",
+        "model": "HUAWEI nova"
+    },
+    "CAN-L12": {
+        "brand": "华为",
+        "model": "HUAWEI nova"
+    },
+    "CAN-L13": {
+        "brand": "华为",
+        "model": "HUAWEI nova"
+    },
+    "MLA-L01": {
+        "brand": "华为",
+        "model": "HUAWEI nova Plus"
+    },
+    "MLA-L02": {
+        "brand": "华为",
+        "model": "HUAWEI nova Plus"
+    },
+    "MLA-L03": {
+        "brand": "华为",
+        "model": "HUAWEI nova Plus"
+    },
+    "MLA-L11": {
+        "brand": "华为",
+        "model": "HUAWEI nova Plus"
+    },
+    "MLA-L12": {
+        "brand": "华为",
+        "model": "HUAWEI nova Plus"
+    },
+    "MLA-L13": {
+        "brand": "华为",
+        "model": "HUAWEI nova Plus"
+    },
+    "PRA-LX2": {
+        "brand": "华为",
+        "model": "HUAWEI nova lite"
+    },
+    "PRA-LX3": {
+        "brand": "华为",
+        "model": "HUAWEI nova lite"
+    },
+    "PIC-L09": {
+        "brand": "华为",
+        "model": "HUAWEI nova 2 Single SIM"
+    },
+    "PIC-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI nova 2 Dual SIM"
+    },
+    "BAC-L01": {
+        "brand": "华为",
+        "model": "HUAWEI nova 2 Plus Single SIM"
+    },
+    "BAC-L03": {
+        "brand": "华为",
+        "model": "HUAWEI nova 2 Plus Single SIM"
+    },
+    "BAC-L21": {
+        "brand": "华为",
+        "model": "HUAWEI nova 2 Plus Dual SIM"
+    },
+    "BAC-L22": {
+        "brand": "华为",
+        "model": "HUAWEI nova 2 Plus Dual SIM"
+    },
+    "BAC-L23": {
+        "brand": "华为",
+        "model": "HUAWEI nova 2 Plus Dual SIM"
+    },
+    "RNE-L02": {
+        "brand": "华为",
+        "model": "HUAWEI nova 2 Single SIM"
+    },
+    "RNE-L22": {
+        "brand": "华为",
+        "model": "HUAWEI nova 2 Dual SIM"
+    },
+    "LDN-LX2": {
+        "brand": "华为",
+        "model": "HUAWEI nova 2 lite"
+    },
+    "PAR-LX1": {
+        "brand": "华为",
+        "model": "HUAWEI nova 3"
+    },
+    "PAR-LX1M": {
+        "brand": "华为",
+        "model": "HUAWEI nova 3"
+    },
+    "PAR-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI nova 3"
+    },
+    "PAR-L21": {
+        "brand": "华为",
+        "model": "HUAWEI nova 3"
+    },
+    "PAR-L29": {
+        "brand": "华为",
+        "model": "HUAWEI nova 3"
+    },
+    "INE-LX1r": {
+        "brand": "华为",
+        "model": "HUAWEI nova 3i"
+    },
+    "INE-LX2": {
+        "brand": "华为",
+        "model": "HUAWEI nova 3i"
+    },
+    "INE-LX2r": {
+        "brand": "华为",
+        "model": "HUAWEI nova 3i"
+    },
+    "POT-LX2J": {
+        "brand": "华为",
+        "model": "HUAWEI nova lite 3 (Japan)"
+    },
+    "VCE-L22": {
+        "brand": "华为",
+        "model": "HUAWEI nova 4"
+    },
+    "YAL-L21": {
+        "brand": "华为",
+        "model": "HUAWEI nova 5T"
+    },
+    "YAL-L41": {
+        "brand": "华为",
+        "model": "HUAWEI nova 5T Pro"
+    },
+    "ANG-LX1": {
+        "brand": "华为",
+        "model": "HUAWEI nova 8"
+    },
+    "ANG-LX2": {
+        "brand": "华为",
+        "model": "HUAWEI nova 8"
+    },
+    "NEN-LX1": {
+        "brand": "华为",
+        "model": "HUAWEI nova 8i"
+    },
+    "NEN-L22": {
+        "brand": "华为",
+        "model": "HUAWEI nova 8i"
+    },
+    "NEN-LX3": {
+        "brand": "华为",
+        "model": "HUAWEI nova 8i"
+    },
+    "NAM-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI nova 9"
+    },
+    "JLN-LX1": {
+        "brand": "华为",
+        "model": "HUAWEI nova 9 SE"
+    },
+    "JLN-LX3": {
+        "brand": "华为",
+        "model": "HUAWEI nova 9 SE"
+    },
+    "NCO-LX1": {
+        "brand": "华为",
+        "model": "HUAWEI nova 10"
+    },
+    "NCO-LX3": {
+        "brand": "华为",
+        "model": "HUAWEI nova 10"
+    },
+    "GLA-LX1": {
+        "brand": "华为",
+        "model": "HUAWEI nova 10 Pro"
+    },
+    "GLA-LX3": {
+        "brand": "华为",
+        "model": "HUAWEI nova 10 Pro"
+    },
+    "BNE-LX1": {
+        "brand": "华为",
+        "model": "HUAWEI nova 12 SE"
+    },
+    "BNE-LX3": {
+        "brand": "华为",
+        "model": "HUAWEI nova 12 SE"
+    },
+    "FOA-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI nova 12s"
+    },
+    "GOA-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI nova 11 Pro"
+    },
+    "MAO-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI nova 11i"
+    },
+    "MAO-LX9N": {
+        "brand": "华为",
+        "model": "HUAWEI nova 11i"
+    },
+    "CTR-L81": {
+        "brand": "华为",
+        "model": "HUAWEI nova 12i"
+    },
+    "WKG-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI nova Y60"
+    },
+    "EVE-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI nova Y61 / HUAWEI nova Y62 / HUAWEI nova Y62 Plus"
+    },
+    "EVE-LX9N": {
+        "brand": "华为",
+        "model": "HUAWEI nova Y61 / HUAWEI nova Y62 / HUAWEI nova Y62 Plus"
+    },
+    "EVE-LX3": {
+        "brand": "华为",
+        "model": "HUAWEI nova Y61 / HUAWEI nova Y62 / HUAWEI nova Y62 Plus"
+    },
+    "MGA-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI nova Y70 / HUAWEI nova Y70 Plus / HUAWEI nova Y71"
+    },
+    "MGA-LX9N": {
+        "brand": "华为",
+        "model": "HUAWEI nova Y70 / HUAWEI nova Y70 Plus / HUAWEI nova Y71"
+    },
+    "MGA-LX3": {
+        "brand": "华为",
+        "model": "HUAWEI nova Y72"
+    },
+    "GFY-LX1": {
+        "brand": "华为",
+        "model": "HUAWEI nova Y73"
+    },
+    "CTR-LX1": {
+        "brand": "华为",
+        "model": "HUAWEI nova Y90"
+    },
+    "CTR-LX2": {
+        "brand": "华为",
+        "model": "HUAWEI nova Y90"
+    },
+    "CTR-LX3": {
+        "brand": "华为",
+        "model": "HUAWEI nova Y90"
+    },
+    "STG-LX1": {
+        "brand": "华为",
+        "model": "HUAWEI nova Y91"
+    },
+    "STG-LX2": {
+        "brand": "华为",
+        "model": "HUAWEI nova Y91"
+    },
+    "DRA-L01": {
+        "brand": "华为",
+        "model": "HUAWEI Y5 Prime 2018 Single SIM"
+    },
+    "DRA-L21": {
+        "brand": "华为",
+        "model": "HUAWEI Y5 Prime 2018 Dual SIM"
+    },
+    "DRA-LX2": {
+        "brand": "华为",
+        "model": "HUAWEI Y5 Prime 2018 Dual SIM"
+    },
+    "AMN-LX3": {
+        "brand": "华为",
+        "model": "HUAWEI Y5 2019 Dual SIM"
+    },
+    "AMN-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI Y5 2019 Dual SIM"
+    },
+    "AMN-LX1": {
+        "brand": "华为",
+        "model": "HUAWEI Y5 2019 Dual SIM"
+    },
+    "AMN-LX2": {
+        "brand": "华为",
+        "model": "HUAWEI Y5 2019 Dual SIM"
+    },
+    "DRA-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI Y5p Dual SIM"
+    },
+    "MYA-L11": {
+        "brand": "华为",
+        "model": "HUAWEI Y6 2017 Single SIM"
+    },
+    "MYA-L41": {
+        "brand": "华为",
+        "model": "HUAWEI Y6 2017 Dual SIM"
+    },
+    "ATU-LX3": {
+        "brand": "华为",
+        "model": "HUAWEI Y6 2018 Single SIM"
+    },
+    "ATU-L21": {
+        "brand": "华为",
+        "model": "HUAWEI Y6 2018 Dual SIM"
+    },
+    "ATU-L22": {
+        "brand": "华为",
+        "model": "HUAWEI Y6 2018 Dual SIM"
+    },
+    "ATU-L23": {
+        "brand": "华为",
+        "model": "HUAWEI Y6 2018 Dual SIM"
+    },
+    "ATU-L31": {
+        "brand": "华为",
+        "model": "HUAWEI Y6 Prime 2018 Dual SIM"
+    },
+    "ATU-L42": {
+        "brand": "华为",
+        "model": "HUAWEI Y6 Prime 2018 Dual SIM"
+    },
+    "MRD-LX1": {
+        "brand": "华为",
+        "model": "HUAWEI Y6 2019 Dual SIM"
+    },
+    "MRD-LX3": {
+        "brand": "华为",
+        "model": "HUAWEI Y6 2019 Dual SIM"
+    },
+    "MRD-LX1F": {
+        "brand": "华为",
+        "model": "HUAWEI Y6 2019 Dual SIM"
+    },
+    "MRD-LX1N": {
+        "brand": "华为",
+        "model": "HUAWEI Y6 2019 Dual SIM"
+    },
+    "MED-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI Y6p Dual SIM"
+    },
+    "MED-LX9N": {
+        "brand": "华为",
+        "model": "HUAWEI Y6p Dual SIM"
+    },
+    "JAT-LX3": {
+        "brand": "华为",
+        "model": "HUAWEI Y6s Dual SIM"
+    },
+    "JAT-LX1": {
+        "brand": "华为",
+        "model": "HUAWEI Y6s Dual SIM"
+    },
+    "JAT-L29": {
+        "brand": "华为",
+        "model": "HUAWEI Y6s Dual SIM"
+    },
+    "TRT-LX1": {
+        "brand": "华为",
+        "model": "HUAWEI Y7 2017 Dual SIM"
+    },
+    "TRT-LX2": {
+        "brand": "华为",
+        "model": "HUAWEI Y7 2017 Dual SIM"
+    },
+    "TRT-LX3": {
+        "brand": "华为",
+        "model": "HUAWEI Y7 2017 Dual SIM"
+    },
+    "LDN-LX3": {
+        "brand": "华为",
+        "model": "HUAWEI Y7 2018 Dual SIM"
+    },
+    "LDN-L21": {
+        "brand": "华为",
+        "model": "HUAWEI Y7 Prime 2018 Dual SIM"
+    },
+    "DUB-LX1": {
+        "brand": "华为",
+        "model": "HUAWEI Y7 2019 Dual SIM"
+    },
+    "DUB-LX3": {
+        "brand": "华为",
+        "model": "HUAWEI Y7 2019 Dual SIM"
+    },
+    "PPA-LX3": {
+        "brand": "华为",
+        "model": "HUAWEI Y7a Dual SIM"
+    },
+    "ART-L28": {
+        "brand": "华为",
+        "model": "HUAWEI Y7p Dual SIM"
+    },
+    "ART-L29N": {
+        "brand": "华为",
+        "model": "HUAWEI Y7p Dual SIM"
+    },
+    "JKM-LX1": {
+        "brand": "华为",
+        "model": "HUAWEI Y9 2019 Dual SIM"
+    },
+    "JKM-LX2": {
+        "brand": "华为",
+        "model": "HUAWEI Y9 2019 Dual SIM"
+    },
+    "JKM-LX3": {
+        "brand": "华为",
+        "model": "HUAWEI Y9 2019 Dual SIM"
+    },
+    "FLA-LX1": {
+        "brand": "华为",
+        "model": "HUAWEI Y9 2018 Dual SIM"
+    },
+    "FLA-LX3": {
+        "brand": "华为",
+        "model": "HUAWEI Y9 2018 Dual SIM"
+    },
+    "STK-LX3": {
+        "brand": "华为",
+        "model": "HUAWEI Y9s Dual SIM"
+    },
+    "STK-L22": {
+        "brand": "华为",
+        "model": "HUAWEI Y9s Dual SIM"
+    },
+    "FRL-L21": {
+        "brand": "华为",
+        "model": "HUAWEI Y9a Dual SIM"
+    },
+    "FRL-L22": {
+        "brand": "华为",
+        "model": "HUAWEI Y9a Dual SIM"
+    },
+    "FRL-L23": {
+        "brand": "华为",
+        "model": "HUAWEI Y9a Dual SIM"
+    },
+    "S7-701u": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad 7 Youth"
+    },
+    "S10-231L": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad 10 Link+"
+    },
+    "BTV-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad M3 Wi-Fi"
+    },
+    "BTV-DL09": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad M3 LTE"
+    },
+    "CPN-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad M3 lite 8 Wi-Fi"
+    },
+    "CPN-L09": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad M3 lite 8 LTE"
+    },
+    "BAH-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad M3 lite 10 Wi-Fi"
+    },
+    "BAH-L09": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad M3 lite 10 LTE"
+    },
+    "SHT-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad M5 8.4 Wi-Fi"
+    },
+    "SHT-AL09": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad M5 8.4 LTE"
+    },
+    "CMR-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad M5 10.8 Wi-Fi"
+    },
+    "CMR-AL09": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad M5 10.8 LTE"
+    },
+    "CMR-W19": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad M5 Pro Wi-Fi"
+    },
+    "CMR-AL19": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad M5 Pro LTE"
+    },
+    "BAH2-W19": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad M5 lite Wi-Fi"
+    },
+    "BAH2-L09": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad M5 lite LTE"
+    },
+    "SCM-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad M6 10.8 Wi-Fi"
+    },
+    "SCM-AL09": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad M6 10.8 LTE"
+    },
+    "BAH3-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 10.4 Wi-Fi"
+    },
+    "BAH3-L09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 10.4 LTE"
+    },
+    "BAH4-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 10.4 2022 Wi-Fi"
+    },
+    "BAH4-L09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 10.4 2022 LTE"
+    },
+    "BTK-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 11.5 Wi-Fi"
+    },
+    "BTK-AL09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 11.5 LTE"
+    },
+    "DBY-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad C7 Wi-Fi"
+    },
+    "DBR-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 11 2023 Wi-Fi"
+    },
+    "DBR-W19": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 11 2023 PaperMatte Edition Wi-Fi"
+    },
+    "TGR-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 11.5\" S Wi-Fi"
+    },
+    "DBY2-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Air Wi-Fi"
+    },
+    "DBY2-L09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Air LTE"
+    },
+    "BKY-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 12 X Wi-Fi"
+    },
+    "MRX-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 10.8 Wi-Fi"
+    },
+    "MRX-W29": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 10.8 Wi-Fi"
+    },
+    "MRX-AL09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 10.8 LTE"
+    },
+    "MRX-AN19": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 10.8 5G"
+    },
+    "GOT-W29": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 11 Wi-Fi"
+    },
+    "GOT-AL09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 11 LTE"
+    },
+    "WGR-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 12.6 2021 Wi-Fi"
+    },
+    "WGR-W19": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 12.6 2021 Wi-Fi"
+    },
+    "WGRR-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 12.6 2022 Wi-Fi"
+    },
+    "PCE-W29": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 13.2 Wi-Fi"
+    },
+    "MRO-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 12.2"
+    },
+    "HMW-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Paper Wi-Fi"
+    },
+    "BGO-L03": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad T2 7.0 LTE"
+    },
+    "BGO-DL09": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad T2 7.0 LTE"
+    },
+    "FDR-A01L": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad T2 10.0 Pro LTE"
+    },
+    "BG2-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad T3 7 Wi-Fi"
+    },
+    "BG2-U01": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad T3 7 3G"
+    },
+    "BG2-U03": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad T3 7 3G"
+    },
+    "KOB-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad T3 8 Wi-Fi"
+    },
+    "KOB-L09": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad T3 8 LTE"
+    },
+    "AGS-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad T3 10 Wi-Fi"
+    },
+    "AGS-L03": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad T3 10 LTE"
+    },
+    "AGS-L09": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad T3 10 LTE"
+    },
+    "AGS2-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad T5 Wi-Fi"
+    },
+    "AGS2-W19": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad T5 Wi-Fi"
+    },
+    "AGS2-L03": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad T5 LTE"
+    },
+    "AGS2-L09": {
+        "brand": "华为",
+        "model": "HUAWEI MediaPad T5 LTE"
+    },
+    "KOB2-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad T 8 Wi-Fi"
+    },
+    "KOB2K-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad C3 8 Wi-Fi"
+    },
+    "KOB2-L03": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad T 8 LTE"
+    },
+    "KOB2-L09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad T 8 LTE"
+    },
+    "KOB2K-L09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad C3 8 LTE"
+    },
+    "AGR-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad T 10 Wi-Fi"
+    },
+    "AGRK-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad C3 9.7 Wi-Fi"
+    },
+    "AGR-L09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad T 10 LTE"
+    },
+    "AGS3-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad T 10s Wi-Fi"
+    },
+    "AGS3K-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad T 10s Wi-Fi"
+    },
+    "AGS3-L09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad T 10s LTE"
+    },
+    "AGS3K-L09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad C5e LTE"
+    },
+    "AGS5-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad SE 10.4 Wi-Fi"
+    },
+    "AGS5-L09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad SE 10.4 LTE"
+    },
+    "AGS6-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad SE 11 Wi-Fi"
+    },
+    "AGS6-L09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad SE 11 LTE"
+    },
+    "AGRK-L09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad C3 9.7 LTE"
+    }
+}

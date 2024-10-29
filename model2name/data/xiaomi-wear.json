@@ -1,0 +1,226 @@
+{
+    "XMSH01HM": {
+        "brand": "小米穿戴设备",
+        "model": "小米手环"
+    },
+    "XMSH02HM": {
+        "brand": "小米穿戴设备",
+        "model": "小米手环 光感版"
+    },
+    "XMSH03HM": {
+        "brand": "小米穿戴设备",
+        "model": "小米手环 光感版"
+    },
+    "XMSH04HM": {
+        "brand": "小米穿戴设备",
+        "model": "小米手环 2"
+    },
+    "XMSH2iHM": {
+        "brand": "小米穿戴设备",
+        "model": "小米手环 HRX Edition 印度版"
+    },
+    "XMSH05HM": {
+        "brand": "小米穿戴设备",
+        "model": "小米手环 3"
+    },
+    "XMSH06HM": {
+        "brand": "小米穿戴设备",
+        "model": "小米手环 3 NFC 版"
+    },
+    "XMSH09HM": {
+        "brand": "小米穿戴设备",
+        "model": "小米手环 3i 印度版"
+    },
+    "XMSH07HM": {
+        "brand": "小米穿戴设备",
+        "model": "小米手环 4"
+    },
+    "XMSH08HM": {
+        "brand": "小米穿戴设备",
+        "model": "小米手环 4 NFC 版"
+    },
+    "HMSH01GE": {
+        "brand": "小米穿戴设备",
+        "model": "Redmi 手环"
+    },
+    "XMSH10HM": {
+        "brand": "小米穿戴设备",
+        "model": "小米手环 5"
+    },
+    "XMSH11HM": {
+        "brand": "小米穿戴设备",
+        "model": "小米手环 5 NFC 版"
+    },
+    "XMSH15HM": {
+        "brand": "小米穿戴设备",
+        "model": "小米手环 6"
+    },
+    "XMSH16HM": {
+        "brand": "小米穿戴设备",
+        "model": "小米手环 6 NFC 版"
+    },
+    "M2129B1": {
+        "brand": "小米穿戴设备",
+        "model": "小米手环 7"
+    },
+    "M2130B1": {
+        "brand": "小米穿戴设备",
+        "model": "小米手环 7 NFC 版"
+    },
+    "M2140B1": {
+        "brand": "小米穿戴设备",
+        "model": "小米手环 7 Pro 国行版"
+    },
+    "M2141B1": {
+        "brand": "小米穿戴设备",
+        "model": "小米手环 7 Pro 国际版"
+    },
+    "M2239B1": {
+        "brand": "小米穿戴设备",
+        "model": "小米手环 8"
+    },
+    "M2240B1": {
+        "brand": "小米穿戴设备",
+        "model": "小米手环 8 NFC 版"
+    },
+    "M2303B1": {
+        "brand": "小米穿戴设备",
+        "model": "小米手环 8 Pro 国行版"
+    },
+    "M2333B1": {
+        "brand": "小米穿戴设备",
+        "model": "小米手环 8 Pro 国际版"
+    },
+    "M2345B1": {
+        "brand": "小米穿戴设备",
+        "model": "小米手环 9"
+    },
+    "M2346B1": {
+        "brand": "小米穿戴设备",
+        "model": "小米手环 9 NFC 版 / 陶瓷特别版"
+    },
+    "M2401B1": {
+        "brand": "小米穿戴设备",
+        "model": "小米手环 9 Pro"
+    },
+    "XMWT01": {
+        "brand": "小米穿戴设备",
+        "model": "小米手表"
+    },
+    "M2320W1": {
+        "brand": "小米穿戴设备",
+        "model": "Xiaomi Watch 2"
+    },
+    "M2234W1": {
+        "brand": "小米穿戴设备",
+        "model": "Xiaomi Watch 2 Pro 蓝牙版"
+    },
+    "M2233W1": {
+        "brand": "小米穿戴设备",
+        "model": "Xiaomi Watch 2 Pro LTE"
+    },
+    "XMWT06": {
+        "brand": "小米穿戴设备",
+        "model": "小米手表 Color"
+    },
+    "XMWTCL01": {
+        "brand": "小米穿戴设备",
+        "model": "小米手表 Color 运动版 国行版"
+    },
+    "XMWTCL02": {
+        "brand": "小米穿戴设备",
+        "model": "小米手表 Color 运动版 国际版"
+    },
+    "M2106W1": {
+        "brand": "小米穿戴设备",
+        "model": "Xiaomi Watch Color 2"
+    },
+    "M2108W1": {
+        "brand": "小米穿戴设备",
+        "model": "Xiaomi Watch S1"
+    },
+    "M2134W1": {
+        "brand": "小米穿戴设备",
+        "model": "Xiaomi Watch S1 Pro"
+    },
+    "M2206W1": {
+        "brand": "小米穿戴设备",
+        "model": "Xiaomi Watch S2 42mm"
+    },
+    "M2207W1": {
+        "brand": "小米穿戴设备",
+        "model": "Xiaomi Watch S2 46mm"
+    },
+    "M2313W1": {
+        "brand": "小米穿戴设备",
+        "model": "Xiaomi Watch S3 蓝牙版"
+    },
+    "M2311W1": {
+        "brand": "小米穿戴设备",
+        "model": "Xiaomi Watch S3 eSIM 版"
+    },
+    "M2425W1": {
+        "brand": "小米穿戴设备",
+        "model": "Xiaomi Watch S4 蓝牙版"
+    },
+    "M2424W1": {
+        "brand": "小米穿戴设备",
+        "model": "Xiaomi Watch S4 eSIM 版"
+    },
+    "M2312W1": {
+        "brand": "小米穿戴设备",
+        "model": "Xiaomi Watch S4 Sport eSIM 版"
+    },
+    "M2230W1": {
+        "brand": "小米穿戴设备",
+        "model": "小米腕部心电血压记录仪 (Xiaomi Watch H1)"
+    },
+    "M2412W1": {
+        "brand": "小米穿戴设备",
+        "model": "小米腕部血压记录仪 (Xiaomi Watch H1 E)"
+    },
+    "M2101B1": {
+        "brand": "小米穿戴设备",
+        "model": "Redmi Smart Band Pro 国际版"
+    },
+    "M2225B1": {
+        "brand": "小米穿戴设备",
+        "model": "Redmi 手环 2"
+    },
+    "M2434B1": {
+        "brand": "小米穿戴设备",
+        "model": "Redmi 手环 3"
+    },
+    "REDMIWT01": {
+        "brand": "小米穿戴设备",
+        "model": "Redmi Watch"
+    },
+    "M2102W1": {
+        "brand": "小米穿戴设备",
+        "model": "Redmi Watch 2"
+    },
+    "M2109W1": {
+        "brand": "小米穿戴设备",
+        "model": "Redmi Watch 2 Lite 国际版"
+    },
+    "M2215W1": {
+        "brand": "小米穿戴设备",
+        "model": "Redmi Watch 3"
+    },
+    "M2309W1": {
+        "brand": "小米穿戴设备",
+        "model": "Redmi Watch 3 青春版"
+    },
+    "M2235W1": {
+        "brand": "小米穿戴设备",
+        "model": "Redmi Watch 3 Active 国际版"
+    },
+    "M2314W1": {
+        "brand": "小米穿戴设备",
+        "model": "Redmi Watch 4"
+    },
+    "M2131W1": {
+        "brand": "小米穿戴设备",
+        "model": "POCO Watch"
+    }
+}

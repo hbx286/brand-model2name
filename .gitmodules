@@ -1,0 +1,4 @@
+[submodule "MobileModels"]
+	url = https://github.com/KHwang9883/MobileModels.git
+	path = MobileModels
+	branch = refs/heads/master

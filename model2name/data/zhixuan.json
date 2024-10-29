@@ -1,0 +1,150 @@
+{
+    "VP001": {
+        "brand": "华为智选",
+        "model": "优畅享 20 Plus 5G"
+    },
+    "VP002": {
+        "brand": "华为智选",
+        "model": "优畅享 20 5G"
+    },
+    "VP003": {
+        "brand": "华为智选",
+        "model": "优畅享 50 5G"
+    },
+    "VP004": {
+        "brand": "华为智选",
+        "model": "优畅享 30e 5G 消息版"
+    },
+    "VP005": {
+        "brand": "华为智选",
+        "model": "优畅享 50 Plus 5G"
+    },
+    "TYH601M": {
+        "brand": "华为智选",
+        "model": "麦芒 9 5G"
+    },
+    "TYH611M": {
+        "brand": "华为智选",
+        "model": "麦芒 10 SE 5G"
+    },
+    "TYH612M": {
+        "brand": "华为智选",
+        "model": "麦芒 10 5G / 麦芒 · 十年臻爱版"
+    },
+    "TYH622M": {
+        "brand": "华为智选",
+        "model": "麦芒 11 5G"
+    },
+    "TYH631M": {
+        "brand": "华为智选",
+        "model": "麦芒 20 5G"
+    },
+    "TYH632M": {
+        "brand": "华为智选",
+        "model": "麦芒 A20 5G"
+    },
+    "TYH641M": {
+        "brand": "华为智选",
+        "model": "麦芒 30 5G"
+    },
+    "SP100": {
+        "brand": "华为智选",
+        "model": "NZONE S7 5G"
+    },
+    "SP200": {
+        "brand": "华为智选",
+        "model": "NZONE S7 Pro 5G"
+    },
+    "SP300": {
+        "brand": "华为智选",
+        "model": "NZONE S7 Pro+ 5G"
+    },
+    "SP210": {
+        "brand": "华为智选",
+        "model": "NZONE 50 Pro 5G"
+    },
+    "SP210T": {
+        "brand": "华为智选",
+        "model": "NZONE 50 Pro 5G"
+    },
+    "Hera-BD00": {
+        "brand": "华为智选",
+        "model": "Hi nova 9 5G"
+    },
+    "Hebe-BD00": {
+        "brand": "华为智选",
+        "model": "Hi nova 9 Pro 5G"
+    },
+    "FIO-BD00": {
+        "brand": "华为智选",
+        "model": "Hi nova 9 SE 5G"
+    },
+    "FIO-TL00": {
+        "brand": "华为智选",
+        "model": "Hi nova 9 SE 5G"
+    },
+    "MNT-BD00": {
+        "brand": "华为智选",
+        "model": "Hi nova 9z 5G"
+    },
+    "ALH-BD00": {
+        "brand": "华为智选",
+        "model": "Hi nova 10 5G"
+    },
+    "MGZ-BD00": {
+        "brand": "华为智选",
+        "model": "Hi nova 10 Pro 5G"
+    },
+    "MRK-BD00": {
+        "brand": "华为智选",
+        "model": "Hi nova 10 SE 5G"
+    },
+    "MIZ-BD00": {
+        "brand": "华为智选",
+        "model": "Hi nova 11 5G"
+    },
+    "SUP-BD00": {
+        "brand": "华为智选",
+        "model": "Hi nova 12 SE 5G"
+    },
+    "F810": {
+        "brand": "华为智选",
+        "model": "雷鸟 FF1 5G"
+    },
+    "NAT-TN70": {
+        "brand": "华为智选",
+        "model": "TD Tech N8 Pro"
+    },
+    "TDT-MA01": {
+        "brand": "华为智选",
+        "model": "TD Tech M40"
+    },
+    "AVA-PA00": {
+        "brand": "华为智选",
+        "model": "TD Tech P50"
+    },
+    "LFT-AN00": {
+        "brand": "华为智选",
+        "model": "WIKO 5G"
+    },
+    "GAR-AN00": {
+        "brand": "华为智选",
+        "model": "Hi 畅享 60 5G"
+    },
+    "GAR-AN60": {
+        "brand": "华为智选",
+        "model": "Hi 畅享 60s 5G"
+    },
+    "LGN-AN00": {
+        "brand": "华为智选",
+        "model": "Hi 畅享 60 Pro 5G"
+    },
+    "MKY-AN20": {
+        "brand": "华为智选",
+        "model": "Hi 畅享 70 5G / Hi 畅享 70m 5G"
+    },
+    "BAL-AN20": {
+        "brand": "华为智选",
+        "model": "Hi 畅享 70 Pro 5G"
+    }
+}

@@ -1,0 +1,782 @@
+{
+    "CPH1859": {
+        "brand": "真我",
+        "model": "realme 1"
+    },
+    "CPH1861": {
+        "brand": "真我",
+        "model": "realme 1"
+    },
+    "RMX1805": {
+        "brand": "真我",
+        "model": "realme C1"
+    },
+    "RMX1801": {
+        "brand": "真我",
+        "model": "realme 2 Pro"
+    },
+    "RMX1821": {
+        "brand": "真我",
+        "model": "realme 3"
+    },
+    "RMX1822": {
+        "brand": "真我",
+        "model": "realme 3"
+    },
+    "RMX1825": {
+        "brand": "真我",
+        "model": "realme 3"
+    },
+    "RMX1827": {
+        "brand": "真我",
+        "model": "realme 3i"
+    },
+    "RMX1851": {
+        "brand": "真我",
+        "model": "realme 3 Pro"
+    },
+    "RMX1853": {
+        "brand": "真我",
+        "model": "realme 3 Pro"
+    },
+    "RMX1911": {
+        "brand": "真我",
+        "model": "realme 5"
+    },
+    "RMX1915": {
+        "brand": "真我",
+        "model": "realme 5"
+    },
+    "RMX1919": {
+        "brand": "真我",
+        "model": "realme 5"
+    },
+    "RMX1925": {
+        "brand": "真我",
+        "model": "realme 5s"
+    },
+    "RMX1926": {
+        "brand": "真我",
+        "model": "realme 5"
+    },
+    "RMX1927": {
+        "brand": "真我",
+        "model": "realme 5"
+    },
+    "RMX2030": {
+        "brand": "真我",
+        "model": "realme 5i"
+    },
+    "RMX2031": {
+        "brand": "真我",
+        "model": "realme 5i"
+    },
+    "RMX2032": {
+        "brand": "真我",
+        "model": "realme 5i"
+    },
+    "RMX1971": {
+        "brand": "真我",
+        "model": "realme 5 Pro"
+    },
+    "RMX1973": {
+        "brand": "真我",
+        "model": "realme 5 Pro"
+    },
+    "RMX2001": {
+        "brand": "真我",
+        "model": "realme 6"
+    },
+    "RMX2003": {
+        "brand": "真我",
+        "model": "realme 6"
+    },
+    "RMX2061": {
+        "brand": "真我",
+        "model": "realme 6 Pro"
+    },
+    "RMX2063": {
+        "brand": "真我",
+        "model": "realme 6 Pro"
+    },
+    "RMX2002": {
+        "brand": "真我",
+        "model": "realme Narzo Indonesia"
+    },
+    "RMX2040": {
+        "brand": "真我",
+        "model": "realme Narzo 10 India"
+    },
+    "RMX2041": {
+        "brand": "真我",
+        "model": "realme 6i Global"
+    },
+    "RMX2042": {
+        "brand": "真我",
+        "model": "realme 6i Global"
+    },
+    "RMX2151": {
+        "brand": "真我",
+        "model": "realme 7 India"
+    },
+    "RMX2155": {
+        "brand": "真我",
+        "model": "realme 7 Global"
+    },
+    "RMX2111": {
+        "brand": "真我",
+        "model": "realme 7 5G"
+    },
+    "RMX2170": {
+        "brand": "真我",
+        "model": "realme 7 Pro"
+    },
+    "RMX2103": {
+        "brand": "真我",
+        "model": "realme 7i India"
+    },
+    "RMX2104": {
+        "brand": "真我",
+        "model": "realme 7i India"
+    },
+    "RMX2193": {
+        "brand": "真我",
+        "model": "realme Narzo 20 India"
+    },
+    "RMX3085": {
+        "brand": "真我",
+        "model": "realme 8"
+    },
+    "RMX3081": {
+        "brand": "真我",
+        "model": "realme 8 Pro"
+    },
+    "RMX3241": {
+        "brand": "真我",
+        "model": "realme 8 5G"
+    },
+    "RMX3151": {
+        "brand": "真我",
+        "model": "realme 8i"
+    },
+    "RMX3381": {
+        "brand": "真我",
+        "model": "realme 8s 5G"
+    },
+    "RMX3521": {
+        "brand": "真我",
+        "model": "realme 9"
+    },
+    "RMX3491": {
+        "brand": "真我",
+        "model": "realme 9i India / Global"
+    },
+    "RMX3492": {
+        "brand": "真我",
+        "model": "realme 9i"
+    },
+    "RMX3493": {
+        "brand": "真我",
+        "model": "realme 9i EU"
+    },
+    "RMX3612": {
+        "brand": "真我",
+        "model": "realme 10T 5G"
+    },
+    "RMX3388": {
+        "brand": "真我",
+        "model": "realme 9 5G India"
+    },
+    "RMX3474": {
+        "brand": "真我",
+        "model": "realme 9 5G EU"
+    },
+    "RMX3471": {
+        "brand": "真我",
+        "model": "realme 9 Pro 5G India"
+    },
+    "RMX3472": {
+        "brand": "真我",
+        "model": "realme 9 Pro 5G Global"
+    },
+    "RMX3392": {
+        "brand": "真我",
+        "model": "realme 9 Pro+ 5G India"
+    },
+    "RMX3393": {
+        "brand": "真我",
+        "model": "realme 9 Pro+ 5G Global"
+    },
+    "RMX3461": {
+        "brand": "真我",
+        "model": "realme 9 5G Speed Edition India"
+    },
+    "RMX3630": {
+        "brand": "真我",
+        "model": "realme 10"
+    },
+    "RMX3660": {
+        "brand": "真我",
+        "model": "realme 10 Pro 5G India"
+    },
+    "RMX3661": {
+        "brand": "真我",
+        "model": "realme 10 Pro 5G Global"
+    },
+    "RMX3686": {
+        "brand": "真我",
+        "model": "realme 10 Pro+ 5G"
+    },
+    "RMX3636": {
+        "brand": "真我",
+        "model": "realme 11"
+    },
+    "RMX3780": {
+        "brand": "真我",
+        "model": "realme 11 5G"
+    },
+    "RMX3785": {
+        "brand": "真我",
+        "model": "realme 11x 5G"
+    },
+    "RMX3771": {
+        "brand": "真我",
+        "model": "realme Narzo 60 Pro 5G"
+    },
+    "RMX3741": {
+        "brand": "真我",
+        "model": "realme 11 Pro+ 5G"
+    },
+    "RMX3999": {
+        "brand": "真我",
+        "model": "realme 12 5G"
+    },
+    "RMX3998": {
+        "brand": "真我",
+        "model": "realme NARZO 70x 5G"
+    },
+    "RMX3867": {
+        "brand": "真我",
+        "model": "realme 12+ 5G"
+    },
+    "RMX3842": {
+        "brand": "真我",
+        "model": "realme 12 Pro 5G"
+    },
+    "RMX3840": {
+        "brand": "真我",
+        "model": "realme 12 Pro+ 5G"
+    },
+    "RMX3951": {
+        "brand": "真我",
+        "model": "realme 13 5G"
+    },
+    "RMX5000": {
+        "brand": "真我",
+        "model": "realme 13+ 5G"
+    },
+    "RMX3990": {
+        "brand": "真我",
+        "model": "realme 13 Pro 5G"
+    },
+    "RMX3921": {
+        "brand": "真我",
+        "model": "realme 13 Pro+ 5G"
+    },
+    "RMX1901": {
+        "brand": "真我",
+        "model": "realme X"
+    },
+    "RMX1921": {
+        "brand": "真我",
+        "model": "realme XT Global"
+    },
+    "RMX1922": {
+        "brand": "真我",
+        "model": "realme XT India"
+    },
+    "RMX1992": {
+        "brand": "真我",
+        "model": "realme X2 India"
+    },
+    "RMX1993": {
+        "brand": "真我",
+        "model": "realme X2 Global"
+    },
+    "RMX1931": {
+        "brand": "真我",
+        "model": "realme X2 Pro"
+    },
+    "RMX2081": {
+        "brand": "真我",
+        "model": "realme X3 India"
+    },
+    "RMX2083": {
+        "brand": "真我",
+        "model": "realme X3 Global"
+    },
+    "RMX2085": {
+        "brand": "真我",
+        "model": "realme X3 SuperZoom India"
+    },
+    "RMX2086": {
+        "brand": "真我",
+        "model": "realme X3 SuperZoom Global"
+    },
+    "RMX2144": {
+        "brand": "真我",
+        "model": "realme X50 Global"
+    },
+    "RMX2075": {
+        "brand": "真我",
+        "model": "realme X50 Pro Global"
+    },
+    "RMX2076": {
+        "brand": "真我",
+        "model": "realme X50 Pro India"
+    },
+    "RMX3092": {
+        "brand": "真我",
+        "model": "realme X7 India"
+    },
+    "RMX2121": {
+        "brand": "真我",
+        "model": "realme X7 Pro"
+    },
+    "RMX3031": {
+        "brand": "真我",
+        "model": "realme X7 Max"
+    },
+    "RMX2202": {
+        "brand": "真我",
+        "model": "realme GT 5G"
+    },
+    "RMX3360": {
+        "brand": "真我",
+        "model": "realme GT Master Edition"
+    },
+    "RMX3363": {
+        "brand": "真我",
+        "model": "realme GT Master Edition"
+    },
+    "RMX3370": {
+        "brand": "真我",
+        "model": "realme GT NEO 2 5G"
+    },
+    "RMX3311": {
+        "brand": "真我",
+        "model": "realme GT 2 5G"
+    },
+    "RMX3312": {
+        "brand": "真我",
+        "model": "realme GT 2 5G"
+    },
+    "RMX3301": {
+        "brand": "真我",
+        "model": "realme GT 2 Pro 5G"
+    },
+    "RMX3561": {
+        "brand": "真我",
+        "model": "realme GT NEO 3"
+    },
+    "RMX3563": {
+        "brand": "真我",
+        "model": "realme GT NEO 3 150W"
+    },
+    "RMX3371": {
+        "brand": "真我",
+        "model": "realme GT NEO 3T"
+    },
+    "RMX3709": {
+        "brand": "真我",
+        "model": "realme GT 3 240W"
+    },
+    "RMX3851": {
+        "brand": "真我",
+        "model": "realme GT 6"
+    },
+    "RMX3853": {
+        "brand": "真我",
+        "model": "realme GT 6T"
+    },
+    "RMX1941": {
+        "brand": "真我",
+        "model": "realme C2"
+    },
+    "RMX1942": {
+        "brand": "真我",
+        "model": "realme C2"
+    },
+    "RMX1943": {
+        "brand": "真我",
+        "model": "realme C2"
+    },
+    "RMX1945": {
+        "brand": "真我",
+        "model": "realme C2"
+    },
+    "RMX1946": {
+        "brand": "真我",
+        "model": "realme C2"
+    },
+    "RMX2020": {
+        "brand": "真我",
+        "model": "realme Narzo 10A India"
+    },
+    "RMX2021": {
+        "brand": "真我",
+        "model": "realme C3 Global"
+    },
+    "RMX2022": {
+        "brand": "真我",
+        "model": "realme C3 Global"
+    },
+    "RMX2027": {
+        "brand": "真我",
+        "model": "realme C3i Vietnam"
+    },
+    "RMX2185": {
+        "brand": "真我",
+        "model": "realme C11"
+    },
+    "RMX2186": {
+        "brand": "真我",
+        "model": "realme C11"
+    },
+    "RMX3231": {
+        "brand": "真我",
+        "model": "realme Narzo 50i India"
+    },
+    "RMX2184": {
+        "brand": "真我",
+        "model": "realme C12"
+    },
+    "RMX2189": {
+        "brand": "真我",
+        "model": "realme C12"
+    },
+    "RMX2180": {
+        "brand": "真我",
+        "model": "realme C15"
+    },
+    "RMX2181": {
+        "brand": "真我",
+        "model": "realme C15"
+    },
+    "RMX2183": {
+        "brand": "真我",
+        "model": "realme C15"
+    },
+    "RMX2195": {
+        "brand": "真我",
+        "model": "realme C15 Qualcomm Edition"
+    },
+    "RMX2101": {
+        "brand": "真我",
+        "model": "realme C17"
+    },
+    "RMX3061": {
+        "brand": "真我",
+        "model": "realme C20"
+    },
+    "RMX3063": {
+        "brand": "真我",
+        "model": "realme C20"
+    },
+    "RMX3201": {
+        "brand": "真我",
+        "model": "realme C21"
+    },
+    "RMX3202": {
+        "brand": "真我",
+        "model": "realme C21"
+    },
+    "RMX3203": {
+        "brand": "真我",
+        "model": "realme C21"
+    },
+    "RMX3261": {
+        "brand": "真我",
+        "model": "realme C21Y"
+    },
+    "RMX3262": {
+        "brand": "真我",
+        "model": "realme C21Y"
+    },
+    "RMX3263": {
+        "brand": "真我",
+        "model": "realme C21Y"
+    },
+    "RMX3191": {
+        "brand": "真我",
+        "model": "realme C25"
+    },
+    "RMX3193": {
+        "brand": "真我",
+        "model": "realme C25"
+    },
+    "RMX3195": {
+        "brand": "真我",
+        "model": "realme C25s"
+    },
+    "RMX3197": {
+        "brand": "真我",
+        "model": "realme C25s"
+    },
+    "RMX3265": {
+        "brand": "真我",
+        "model": "realme C25Y"
+    },
+    "RMX3269": {
+        "brand": "真我",
+        "model": "realme C25Y"
+    },
+    "RMX3581": {
+        "brand": "真我",
+        "model": "realme C30"
+    },
+    "RMX3623": {
+        "brand": "真我",
+        "model": "realme C30"
+    },
+    "RMX3690": {
+        "brand": "真我",
+        "model": "realme C30s"
+    },
+    "RMX3501": {
+        "brand": "真我",
+        "model": "realme C31"
+    },
+    "RMX3502": {
+        "brand": "真我",
+        "model": "realme C31"
+    },
+    "RMX3503": {
+        "brand": "真我",
+        "model": "realme C31"
+    },
+    "RMX3624": {
+        "brand": "真我",
+        "model": "realme C33"
+    },
+    "RMX3627": {
+        "brand": "真我",
+        "model": "realme C33 2023"
+    },
+    "RMX3511": {
+        "brand": "真我",
+        "model": "realme C35"
+    },
+    "RMX3512": {
+        "brand": "真我",
+        "model": "realme C35"
+    },
+    "RMX3513": {
+        "brand": "真我",
+        "model": "realme C35"
+    },
+    "RMX3830": {
+        "brand": "真我",
+        "model": "realme C51"
+    },
+    "RMX3765": {
+        "brand": "真我",
+        "model": "realme C51s"
+    },
+    "RMX3760": {
+        "brand": "真我",
+        "model": "realme C53 Global"
+    },
+    "RMX3762": {
+        "brand": "真我",
+        "model": "realme C53 India"
+    },
+    "RMX3710": {
+        "brand": "真我",
+        "model": "realme Narzo N55"
+    },
+    "RMX3939": {
+        "brand": "真我",
+        "model": "realme NARZO N63"
+    },
+    "RMX3930": {
+        "brand": "真我",
+        "model": "realme C61 Global"
+    },
+    "RMX3933": {
+        "brand": "真我",
+        "model": "realme NARZO N61"
+    },
+    "RMX3950": {
+        "brand": "真我",
+        "model": "realme C63 5G"
+    },
+    "RMX3910": {
+        "brand": "真我",
+        "model": "realme C65"
+    },
+    "RMX3997": {
+        "brand": "真我",
+        "model": "realme NARZO N65 5G"
+    },
+    "RMX3890": {
+        "brand": "真我",
+        "model": "realme C67"
+    },
+    "RMX3782": {
+        "brand": "真我",
+        "model": "realme Narzo 60x 5G"
+    },
+    "RMX3834": {
+        "brand": "真我",
+        "model": "realme Note 50"
+    },
+    "RMX1831": {
+        "brand": "真我",
+        "model": "realme U1"
+    },
+    "RMX1833": {
+        "brand": "真我",
+        "model": "realme U1"
+    },
+    "RMX3870": {
+        "brand": "真我",
+        "model": "realme P1 5G"
+    },
+    "RMX3844": {
+        "brand": "真我",
+        "model": "realme P1 Pro 5G"
+    },
+    "RMX5004": {
+        "brand": "真我",
+        "model": "realme P1 Speed 5G"
+    },
+    "RMX3987": {
+        "brand": "真我",
+        "model": "realme P2 Pro 5G"
+    },
+    "RMX2191": {
+        "brand": "真我",
+        "model": "realme Narzo 20 Global"
+    },
+    "RMX2161": {
+        "brand": "真我",
+        "model": "realme Narzo 20 Pro India"
+    },
+    "RMX2163": {
+        "brand": "真我",
+        "model": "realme Narzo 20 Pro Global"
+    },
+    "RMX2050": {
+        "brand": "真我",
+        "model": "realme Narzo 20A"
+    },
+    "RMX2156": {
+        "brand": "真我",
+        "model": "realme Narzo 30"
+    },
+    "RMX3242": {
+        "brand": "真我",
+        "model": "realme Narzo 30 5G"
+    },
+    "RMX2117": {
+        "brand": "真我",
+        "model": "realme Narzo 30 Pro 5G"
+    },
+    "RMX3171": {
+        "brand": "真我",
+        "model": "realme Narzo 30A"
+    },
+    "RMX3286": {
+        "brand": "真我",
+        "model": "realme Narzo 50"
+    },
+    "RMX3571": {
+        "brand": "真我",
+        "model": "realme Narzo 50 5G India"
+    },
+    "RMX3572": {
+        "brand": "真我",
+        "model": "realme Narzo 50 5G Global"
+    },
+    "RMX3395": {
+        "brand": "真我",
+        "model": "realme Narzo 50 Pro 5G India"
+    },
+    "RMX3396": {
+        "brand": "真我",
+        "model": "realme Narzo 50 Pro 5G Global"
+    },
+    "RMX3430": {
+        "brand": "真我",
+        "model": "realme Narzo 50A"
+    },
+    "RMX3516": {
+        "brand": "真我",
+        "model": "realme Narzo 50A Prime"
+    },
+    "RMX3517": {
+        "brand": "真我",
+        "model": "realme Narzo 50A Prime"
+    },
+    "RMX3235": {
+        "brand": "真我",
+        "model": "realme Narzo 50i Global"
+    },
+    "RMX3506": {
+        "brand": "真我",
+        "model": "realme Narzo 50i Prime"
+    },
+    "RMX3761": {
+        "brand": "真我",
+        "model": "realme Narzo N53"
+    },
+    "RMX3750": {
+        "brand": "真我",
+        "model": "realme Narzo 60 5G"
+    },
+    "RMX3869": {
+        "brand": "真我",
+        "model": "realme NARZO 70 5G"
+    },
+    "RMX3868": {
+        "brand": "真我",
+        "model": "realme NARZO 70 Pro 5G"
+    },
+    "RMX5003": {
+        "brand": "真我",
+        "model": "realme NARZO 70 Turbo 5G"
+    },
+    "RMP2102": {
+        "brand": "真我",
+        "model": "realme Pad LTE"
+    },
+    "RMP2103": {
+        "brand": "真我",
+        "model": "realme Pad Wi-Fi"
+    },
+    "RMP2105": {
+        "brand": "真我",
+        "model": "realme Pad mini LTE"
+    },
+    "RMP2106": {
+        "brand": "真我",
+        "model": "realme Pad mini Wi-Fi"
+    },
+    "RMP2107": {
+        "brand": "真我",
+        "model": "realme Pad X 5G"
+    },
+    "RMP2108": {
+        "brand": "真我",
+        "model": "realme Pad X Wi-Fi"
+    },
+    "RMP2204": {
+        "brand": "真我",
+        "model": "realme Pad 2 LTE"
+    },
+    "RMP2205": {
+        "brand": "真我",
+        "model": "realme Pad 2 Wi-Fi"
+    }
+}
