@@ -1,4 +1,6 @@
 name: Sync Brand Models
+branch:
+  main:
 on:
   workflow_dispatch:
   schedule:
@@ -13,18 +15,18 @@ jobs:
       with:
         python-version: '3.11'
     - name: Install requirements
-      run: ls -al
-#        pip install -U pip
-#        pip install -r requirements.txt
-#    - name: Run Job
-#      run: python3 -m model2name.handle_data
-#    - name: Git Commit
-#      run: |
-#        git config --local user.email "action@github.com"
-#        git config --local user.name "GitHub Action"
-#        git add .
-#        git diff-index --quiet HEAD || git commit -m "sync with MobileModels hash $(cat model2name/.last_hash)"
-#    - name: Push changes
-#      uses: ad-m/github-push-action@master
-#      with:
-#        github_token: ${{ secrets.TOKEN }}
+      run: |
+        pip install -U pip
+        pip install -r requirements.txt
+    - name: Run Job
+      run: python3 -m model2name.handle_data
+    - name: Git Commit
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git diff-index --quiet HEAD || git commit -m "sync with MobileModels hash $(cat model2name/.last_hash)"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.TOKEN }}
