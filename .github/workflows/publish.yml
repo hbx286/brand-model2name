@@ -21,7 +21,7 @@ jobs:
     - name: Check commit message
       run: |
         COMMIT_MSG=$(git log -1 --pretty=%B)
-        if [[ "${COMMIT_MSG}" == publish:* ]]; then
+        if [[ "${COMMIT_MSG}" == publish to pypi:* ]]; then
           echo "Skipping publish due to commit message."
           echo "skip_publish=true" >> $GITHUB_ENV
         else
@@ -34,6 +34,7 @@ jobs:
         IFS='.' read -r major minor patch <<< "$VERSION"
         patch=$((patch + 1))
         NEW_VERSION="$major.$minor.$patch"
+        echo "NEW_VERSION=$NEW_VERSION" >> $GITHUB_ENV
         sed -i "s/VERSION = '$VERSION'/VERSION = '$NEW_VERSION'/" setup.py
         python setup.py sdist build
         twine upload dist/* -u ${{ secrets.PYPI_USER }} -p ${{ secrets.PYPI_M2N_TOKEN }}
@@ -43,7 +44,7 @@ jobs:
         git config --local user.email "action-publish@github.com"
         git config --local user.name "GitHub Action Publish"
         git add .
-        git commit -m "publish: version $NEW_VERSION"
+        git commit -m "publish to pypi: version ${{ env.NEW_VERSION }}"
     - name: Push changes
       if: env.skip_publish == 'false'
       uses: ad-m/github-push-action@master
