@@ -15,7 +15,7 @@ URL = 'https://github.com/hbx286/brand-model2name.git'
 EMAIL = 'hbxmail429@gmail.com'
 AUTHOR = 'hbx286'
 REQUIRES_PYTHON = '>=3.8.0'
-VERSION = '0.0.3'
+VERSION = '0.0.4'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
