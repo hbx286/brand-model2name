@@ -21,7 +21,7 @@ jobs:
     - name: Check commit message
       run: |
         COMMIT_MSG=$(git log -1 --pretty=%B)
-        if [[ "${COMMIT_MSG}" == publish to pypi:* ]]; then
+        if [[ "${COMMIT_MSG}" == publish\ to\ pypi:* ]]; then
           echo "Skipping publish due to commit message."
           echo "skip_publish=true" >> $GITHUB_ENV
         else
