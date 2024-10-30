@@ -38,7 +38,7 @@ class Model2Name:
                 self._models.update(json.load(f))
 
 
-    def get_mobile_model_name(self, model: str) -> Dict:
+    def get_model_name(self, model: str) -> Dict:
         if not self._models:
             self.load_data()
         return self._models.get(model, {})

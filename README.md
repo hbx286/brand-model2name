@@ -27,10 +27,10 @@ Model2Name init need 2 parameters:
 from model2name import Model2Name
 
 m2n = Model2Name()
-print(m2n.get_mobile_model_name("A1324"))
+print(m2n.get_model_name("A1324"))
 # Output:
 # {"brand": "苹果", "model": "iPhone 3G (China mainland)"}
-print(m2n.get_mobile_model_name("unknown-model"))
+print(m2n.get_model_name("unknown-model"))
 # Output:
 # {}
 
