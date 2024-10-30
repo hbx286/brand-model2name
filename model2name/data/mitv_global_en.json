@@ -457,7 +457,11 @@
     },
     "L86M7-ESTWN": {
         "brand": "小米电视",
-        "model": "Xiaomi 智慧顯示器 Max 86 型"
+        "model": "Xiaomi TV Max 86"
+    },
+    "L100MA-MAXEA": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV Max 100"
     },
     "L32M8-P2EU": {
         "brand": "小米电视",
@@ -514,6 +518,14 @@
     "L55M8-P2ID": {
         "brand": "小米电视",
         "model": "Xiaomi TV A 55"
+    },
+    "L55MA-ATWN": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV A 55 2025"
+    },
+    "L65MA-ATWN": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV A 65 2025"
     },
     "L32M8-A2EU": {
         "brand": "小米电视",
@@ -605,19 +617,19 @@
     },
     "L32M8-A2TWN": {
         "brand": "小米电视",
-        "model": "Xiaomi 智慧顯示器 A Pro 32 型"
+        "model": "Xiaomi TV A Pro 32"
     },
     "L43M8-A2TWN": {
         "brand": "小米电视",
-        "model": "Xiaomi 智慧顯示器 A Pro 43 型"
+        "model": "Xiaomi TV A Pro 43"
     },
     "L55M8-A2TWN": {
         "brand": "小米电视",
-        "model": "Xiaomi 智慧顯示器 A Pro 55 型"
+        "model": "Xiaomi TV A Pro 55"
     },
     "L65M8-A2TWN": {
         "brand": "小米电视",
-        "model": "Xiaomi 智慧顯示器 A Pro 65 型"
+        "model": "Xiaomi TV A Pro 65"
     },
     "L32M8-A2LA": {
         "brand": "小米电视",
@@ -658,6 +670,34 @@
     "L65M8-A2ME": {
         "brand": "小米电视",
         "model": "Xiaomi TV A Pro 65"
+    },
+    "L43MA-STWN": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV A Pro 43 2025"
+    },
+    "L55MA-STWN": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV A Pro 55 2025"
+    },
+    "L65MA-STWN": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV A Pro 65 2025"
+    },
+    "L75MA-STWN": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV A Pro 75 2025"
+    },
+    "L55MA-SPLEA": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV S Mini LED 55"
+    },
+    "L65MA-SPLEA": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV S Mini LED 65"
+    },
+    "L75MA-SPLEA": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV S Mini LED 75"
     },
     "L32M7-FVEU": {
         "brand": "小米电视",
