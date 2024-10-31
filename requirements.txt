@@ -30,3 +30,4 @@ smmap==5.0.1
 twine==5.1.1
 urllib3==2.2.3
 zipp==3.20.2
+wheel==0.44.0
