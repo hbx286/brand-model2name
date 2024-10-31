@@ -36,7 +36,7 @@ jobs:
         NEW_VERSION="$major.$minor.$patch"
         echo "NEW_VERSION=$NEW_VERSION" >> $GITHUB_ENV
         sed -i "s/VERSION = '$VERSION'/VERSION = '$NEW_VERSION'/" setup.py
-        python setup.py sdist build
+        python setup.py sdist bdist_wheel
         twine upload dist/* -u ${{ secrets.PYPI_USER }} -p ${{ secrets.PYPI_M2N_TOKEN }}
     - name: Git Commit
       if: env.skip_publish == 'false'
