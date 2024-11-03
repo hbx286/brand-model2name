@@ -1379,10 +1379,6 @@
         "brand": "小米",
         "model": "Redmi 12 5G India"
     },
-    "23076RA4BC": {
-        "brand": "小米",
-        "model": "Redmi Note 12R China"
-    },
     "22120RN86G": {
         "brand": "小米",
         "model": "Redmi 12C Global"
@@ -2027,6 +2023,10 @@
         "brand": "小米",
         "model": "Redmi Note 12 5G China / Redmi Note 12R Pro China"
     },
+    "23076RA4BC": {
+        "brand": "小米",
+        "model": "Redmi Note 12R China / Redmi 12R China"
+    },
     "2303CRA44A": {
         "brand": "小米",
         "model": "Redmi Note 12S Global"
@@ -2225,7 +2225,7 @@
     },
     "M1903F11A": {
         "brand": "小米",
-        "model": "Redmi K20 Pro Premium Edition China"
+        "model": "Redmi K20 Pro China / Redmi K20 Pro Premium Edition China"
     },
     "M1903F11C": {
         "brand": "小米",
@@ -2877,7 +2877,7 @@
     },
     "23073RPBFC": {
         "brand": "小米",
-        "model": "Redmi Pad M7 China"
+        "model": "Redmi Pad SE China / Redmi Pad M7 China"
     },
     "23073RPBFL": {
         "brand": "小米",
