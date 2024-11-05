@@ -659,6 +659,10 @@
         "brand": "荣耀",
         "model": "HONOR X9b 5G"
     },
+    "BRP-NX1": {
+        "brand": "荣耀",
+        "model": "HONOR X9c 5G"
+    },
     "HEY-W09": {
         "brand": "荣耀",
         "model": "HONOR Pad 8"
@@ -677,7 +681,15 @@
     },
     "NDL-W09": {
         "brand": "荣耀",
-        "model": "HONOR Pad X8a"
+        "model": "HONOR Pad X8a Wi-Fi"
+    },
+    "NDL-L03": {
+        "brand": "荣耀",
+        "model": "HONOR Pad X8a LTE"
+    },
+    "NDL-L09": {
+        "brand": "荣耀",
+        "model": "HONOR Pad X8a LTE"
     },
     "HEY2-W09": {
         "brand": "荣耀",
