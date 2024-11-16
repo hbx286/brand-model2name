@@ -515,9 +515,25 @@
         "brand": "小米电视",
         "model": "Xiaomi TV A FHD 43"
     },
+    "L43MA-AFID": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV A FHD 43 2025"
+    },
     "L55M8-P2ID": {
         "brand": "小米电视",
         "model": "Xiaomi TV A 55"
+    },
+    "L55MA-AID": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV A 55 2025"
+    },
+    "L43MA-SID": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV A Pro 43"
+    },
+    "L55MA-SID": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV A Pro 55"
     },
     "L55MA-ATWN": {
         "brand": "小米电视",
