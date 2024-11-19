@@ -495,6 +495,14 @@
         "brand": "荣耀",
         "model": "HONOR Magic6 Lite 5G"
     },
+    "BRP-NX1M": {
+        "brand": "荣耀",
+        "model": "HONOR Magic7 Lite"
+    },
+    "BRP-NX3": {
+        "brand": "荣耀",
+        "model": "HONOR Magic7 Lite"
+    },
     "FCP-N49": {
         "brand": "荣耀",
         "model": "HONOR Magic V3"
@@ -611,6 +619,18 @@
         "brand": "荣耀",
         "model": "HONOR X7b 5G"
     },
+    "ALT-LX1": {
+        "brand": "荣耀",
+        "model": "HONOR X7c"
+    },
+    "ALT-LX2": {
+        "brand": "荣耀",
+        "model": "HONOR X7c"
+    },
+    "ALT-LX3": {
+        "brand": "荣耀",
+        "model": "HONOR X7c"
+    },
     "TFY-LX1": {
         "brand": "荣耀",
         "model": "HONOR X8"
@@ -661,7 +681,7 @@
     },
     "BRP-NX1": {
         "brand": "荣耀",
-        "model": "HONOR X9c 5G"
+        "model": "HONOR X9c"
     },
     "HEY-W09": {
         "brand": "荣耀",
