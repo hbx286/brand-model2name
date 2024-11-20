@@ -371,6 +371,14 @@
         "brand": "vivo",
         "model": "vivo S19 Pro"
     },
+    "V2429A": {
+        "brand": "vivo",
+        "model": "vivo S20"
+    },
+    "V2430A": {
+        "brand": "vivo",
+        "model": "vivo S20 Pro"
+    },
     "V1901A": {
         "brand": "vivo",
         "model": "vivo Y3s 全网通版"
@@ -639,6 +647,10 @@
         "brand": "vivo",
         "model": "vivo Y200t 5G"
     },
+    "V2435A": {
+        "brand": "vivo",
+        "model": "vivo Y300"
+    },
     "V2410A": {
         "brand": "vivo",
         "model": "vivo Y300 Pro 5G"
@@ -894,6 +906,10 @@
     "V2403A": {
         "brand": "vivo",
         "model": "iQOO Neo9S Pro+"
+    },
+    "V2425A": {
+        "brand": "vivo",
+        "model": "iQOO Neo10"
     },
     "V1986A": {
         "brand": "vivo",
