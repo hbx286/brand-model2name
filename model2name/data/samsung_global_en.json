@@ -1805,7 +1805,7 @@
     },
     "SM-A166E": {
         "brand": "三星",
-        "model": "Galaxy A16 5G Global"
+        "model": "Galaxy A16 5G Global (Exynos)"
     },
     "SM-A166B": {
         "brand": "三星",
@@ -1830,6 +1830,10 @@
     "SM-A1660": {
         "brand": "三星",
         "model": "Galaxy A16 5G HK & TW"
+    },
+    "SM-A166P": {
+        "brand": "三星",
+        "model": "Galaxy A16 5G Global (Mediatek)"
     },
     "SM-A260F": {
         "brand": "三星",
