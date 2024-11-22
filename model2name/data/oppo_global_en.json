@@ -55,6 +55,14 @@
         "brand": "oppo",
         "model": "OPPO Reno7 5G"
     },
+    "CPH2651": {
+        "brand": "oppo",
+        "model": "OPPO Find X8"
+    },
+    "CPH2659": {
+        "brand": "oppo",
+        "model": "OPPO Find X8 Pro"
+    },
     "CPH2439": {
         "brand": "oppo",
         "model": "OPPO Find N2"
@@ -439,9 +447,17 @@
         "brand": "oppo",
         "model": "OPPO A3"
     },
+    "CPH2669": {
+        "brand": "oppo",
+        "model": "OPPO A40 / OPPO A40m"
+    },
     "CPH2639": {
         "brand": "oppo",
         "model": "OPPO A80 5G"
+    },
+    "CPH2683": {
+        "brand": "oppo",
+        "model": "OPPO A60 5G"
     },
     "A402OP": {
         "brand": "oppo",
@@ -461,7 +477,7 @@
     },
     "CPH2641": {
         "brand": "oppo",
-        "model": "OPPO A3x 5G"
+        "model": "OPPO A20"
     },
     "CPH2681": {
         "brand": "oppo",
@@ -707,9 +723,9 @@
         "brand": "oppo",
         "model": "OPPO A60"
     },
-    "CPH2683": {
+    "CPH3669": {
         "brand": "oppo",
-        "model": "OPPO A60 5G"
+        "model": "OPPO A60"
     },
     "CPH2067": {
         "brand": "oppo",
@@ -814,6 +830,10 @@
     "OPD2303": {
         "brand": "oppo",
         "model": "OPPO Pad Neo LTE"
+    },
+    "OPD2402": {
+        "brand": "oppo",
+        "model": "OPPO Pad 3 Pro"
     },
     "OB19B1": {
         "brand": "oppo",
