@@ -399,6 +399,10 @@
         "brand": "真我",
         "model": "realme GT 6T"
     },
+    "RMX5011": {
+        "brand": "真我",
+        "model": "realme GT 7 Pro"
+    },
     "RMX1941": {
         "brand": "真我",
         "model": "realme C2"
@@ -626,6 +630,10 @@
     "RMX3782": {
         "brand": "真我",
         "model": "realme Narzo 60x 5G"
+    },
+    "RMX3941": {
+        "brand": "真我",
+        "model": "realme C75"
     },
     "RMX3834": {
         "brand": "真我",
