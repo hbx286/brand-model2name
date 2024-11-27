@@ -193,7 +193,7 @@
     },
     "NX724J": {
         "brand": "努比亚",
-        "model": "nubia Flip"
+        "model": "nubia Flip 5G / nubia Flip 5G S"
     },
     "NX302J": {
         "brand": "努比亚",
@@ -247,17 +247,61 @@
         "brand": "努比亚",
         "model": "nubia Neo 2 5G"
     },
+    "Z2461": {
+        "brand": "努比亚",
+        "model": "nubia Neo 3"
+    },
+    "Z2465N": {
+        "brand": "努比亚",
+        "model": "nubia Neo 3 GT 5G"
+    },
     "Z2353": {
         "brand": "努比亚",
         "model": "nubia Music"
     },
+    "Z2460": {
+        "brand": "努比亚",
+        "model": "nubia Music 2"
+    },
+    "Z2455": {
+        "brand": "努比亚",
+        "model": "nubia Focus"
+    },
+    "Z2462N": {
+        "brand": "努比亚",
+        "model": "nubia Focus 2 5G"
+    },
+    "Z2463N": {
+        "brand": "努比亚",
+        "model": "nubia Focus 2 Ultra 5G"
+    },
     "Z6255CA": {
         "brand": "努比亚",
-        "model": "nubia Blade A72"
+        "model": "nubia A75"
     },
     "nubia 8550": {
         "brand": "努比亚",
         "model": "nubia V50 Vita"
+    },
+    "Z2356": {
+        "brand": "努比亚",
+        "model": "nubia V60"
+    },
+    "Z2350": {
+        "brand": "努比亚",
+        "model": "nubia V60 Design"
+    },
+    "Z2459": {
+        "brand": "努比亚",
+        "model": "nubia V70"
+    },
+    "Z2458": {
+        "brand": "努比亚",
+        "model": "nubia V70 Design"
+    },
+    "Z2467": {
+        "brand": "努比亚",
+        "model": "nubia V70 Max"
     },
     "LPD-20W": {
         "brand": "努比亚",
