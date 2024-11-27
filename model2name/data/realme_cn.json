@@ -147,6 +147,10 @@
         "brand": "真我",
         "model": "真我 GT Neo6 SE"
     },
+    "RMX5060": {
+        "brand": "真我",
+        "model": "真我 Neo7"
+    },
     "RMX1971": {
         "brand": "真我",
         "model": "真我 Q"
@@ -346,6 +350,10 @@
     "RMX3996": {
         "brand": "真我",
         "model": "真我 V60s"
+    },
+    "RMX3953": {
+        "brand": "真我",
+        "model": "真我 V60 Pro"
     },
     "RMP2108": {
         "brand": "真我",
