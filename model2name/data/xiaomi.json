@@ -1557,7 +1557,7 @@
     },
     "2409BRN2CL": {
         "brand": "小米",
-        "model": "Redmi 14C 拉美版 / 日本版"
+        "model": "Redmi 14C 拉美版 / 日韩版"
     },
     "2409BRN2CY": {
         "brand": "小米",
@@ -1885,7 +1885,7 @@
     },
     "M2003J6A1R": {
         "brand": "小米",
-        "model": "Redmi Note 9S 日本版 / Redmi Note 9S 韩国版"
+        "model": "Redmi Note 9S 日韩版"
     },
     "M2003J6A1I": {
         "brand": "小米",
@@ -2425,7 +2425,11 @@
     },
     "24117RK2CC": {
         "brand": "小米",
-        "model": "Redmi K80"
+        "model": "REDMI K80"
+    },
+    "24122RKC7C": {
+        "brand": "小米",
+        "model": "REDMI K80 Pro"
     },
     "2016020": {
         "brand": "小米",
@@ -2563,6 +2567,10 @@
         "brand": "小米",
         "model": "Redmi A3 Pro 国际版"
     },
+    "24116RNC1I": {
+        "brand": "小米",
+        "model": "Redmi A4 5G 印度版"
+    },
     "22081283C": {
         "brand": "小米",
         "model": "Redmi Pad 国行版"
@@ -2597,7 +2605,7 @@
     },
     "2405CRPFDL": {
         "brand": "小米",
-        "model": "Redmi Pad Pro Wi-Fi 拉美版"
+        "model": "Redmi Pad Pro Wi-Fi 拉美版 / 韩国版"
     },
     "24074RPD2C": {
         "brand": "小米",
@@ -2750,6 +2758,22 @@
     "2312FRAFDI": {
         "brand": "小米",
         "model": "POCO X6 Neo 印度版"
+    },
+    "24095PCADG": {
+        "brand": "小米",
+        "model": "POCO X7 国际版"
+    },
+    "24095PCADI": {
+        "brand": "小米",
+        "model": "POCO X7 印度版"
+    },
+    "2412DPC0AG": {
+        "brand": "小米",
+        "model": "POCO X7 Pro 国际版"
+    },
+    "2412DPC0AI": {
+        "brand": "小米",
+        "model": "POCO X7 Pro 印度版"
     },
     "M2004J19PI": {
         "brand": "小米",
@@ -2922,6 +2946,10 @@
     "2410FPCC5I": {
         "brand": "小米",
         "model": "POCO C75 印度版"
+    },
+    "24116PCC1I": {
+        "brand": "小米",
+        "model": "POCO C75 5G 印度版"
     },
     "2405CPCFBG": {
         "brand": "小米",

@@ -1461,7 +1461,7 @@
     },
     "2409BRN2CL": {
         "brand": "小米",
-        "model": "Redmi 14C Latin America / Japan"
+        "model": "Redmi 14C Latin America / Japan / Korea"
     },
     "2409BRN2CC": {
         "brand": "小米",
@@ -2337,7 +2337,11 @@
     },
     "24117RK2CC": {
         "brand": "小米",
-        "model": "Redmi K80 China"
+        "model": "REDMI K80 China"
+    },
+    "24122RKC7C": {
+        "brand": "小米",
+        "model": "REDMI K80 Pro China"
     },
     "2016020": {
         "brand": "小米",
@@ -2475,6 +2479,10 @@
         "brand": "小米",
         "model": "Redmi A3 Pro Global"
     },
+    "24116RNC1I": {
+        "brand": "小米",
+        "model": "Redmi A4 5G India"
+    },
     "M1805E10A": {
         "brand": "小米",
         "model": "POCO F1"
@@ -2602,6 +2610,22 @@
     "2312FRAFDI": {
         "brand": "小米",
         "model": "POCO X6 Neo India"
+    },
+    "24095PCADG": {
+        "brand": "小米",
+        "model": "POCO X7 Global"
+    },
+    "24095PCADI": {
+        "brand": "小米",
+        "model": "POCO X7 India"
+    },
+    "2412DPC0AG": {
+        "brand": "小米",
+        "model": "POCO X7 Pro Global"
+    },
+    "2412DPC0AI": {
+        "brand": "小米",
+        "model": "POCO X7 Pro India"
     },
     "M2004J19PI": {
         "brand": "小米",
@@ -2775,6 +2799,10 @@
         "brand": "小米",
         "model": "POCO C75 India"
     },
+    "24116PCC1I": {
+        "brand": "小米",
+        "model": "POCO C75 5G India"
+    },
     "A0101": {
         "brand": "小米",
         "model": "Mi Pad"
@@ -2897,7 +2925,7 @@
     },
     "2405CRPFDL": {
         "brand": "小米",
-        "model": "Redmi Pad Pro Wi-Fi Latin America"
+        "model": "Redmi Pad Pro Wi-Fi Latin America / Korea"
     },
     "24074RPD2G": {
         "brand": "小米",
