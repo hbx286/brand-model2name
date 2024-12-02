@@ -563,6 +563,10 @@
         "brand": "荣耀",
         "model": "荣耀 V Purse"
     },
+    "AMG-AN00": {
+        "brand": "荣耀",
+        "model": "荣耀 GT"
+    },
     "G750-T00": {
         "brand": "荣耀",
         "model": "荣耀 3X 双 3G 版"
@@ -1803,6 +1807,10 @@
         "brand": "荣耀",
         "model": "荣耀笔记本 X14 Plus 2024 R7 (32GB+1TB)"
     },
+    "FRB-X": {
+        "brand": "荣耀",
+        "model": "荣耀笔记本 X14 Plus 2025"
+    },
     "BBR-WAI9": {
         "brand": "荣耀",
         "model": "荣耀 MagicBook X 15 i3"
@@ -1843,6 +1851,14 @@
         "brand": "荣耀",
         "model": "荣耀笔记本 X16 2024 R5 (16GB+512GB)"
     },
+    "BRG-565": {
+        "brand": "荣耀",
+        "model": "荣耀笔记本 X16 2025 i5 (16GB+512GB)"
+    },
+    "BRG-561": {
+        "brand": "荣耀",
+        "model": "荣耀笔记本 X16 2025 i5 (16GB+1TB)"
+    },
     "BRI-76": {
         "brand": "荣耀",
         "model": "荣耀笔记本 X16 Plus 2024 R7 (16GB+512GB)"
@@ -1851,13 +1867,9 @@
         "brand": "荣耀",
         "model": "荣耀笔记本 X16 Plus 2024 R7 (32GB+1TB)"
     },
-    "BRG-565": {
+    "BRB-X": {
         "brand": "荣耀",
-        "model": "荣耀笔记本 X16 2025 i5 (16GB+512GB)"
-    },
-    "BRG-561": {
-        "brand": "荣耀",
-        "model": "荣耀笔记本 X16 2025 i5 (16GB+1TB)"
+        "model": "荣耀笔记本 X16 Plus 2025"
     },
     "FRI-F56Z": {
         "brand": "荣耀",
