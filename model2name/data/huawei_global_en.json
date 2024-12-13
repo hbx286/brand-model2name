@@ -171,6 +171,10 @@
         "brand": "华为",
         "model": "HUAWEI Mate X3"
     },
+    "ICL-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI Mate X6"
+    },
     "P6-U06": {
         "brand": "华为",
         "model": "HUAWEI Ascend P6 Single SIM"
@@ -759,6 +763,14 @@
         "brand": "华为",
         "model": "HUAWEI nova 12i"
     },
+    "BLK-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI nova 13"
+    },
+    "MIS-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI nova 13 Pro"
+    },
     "WKG-LX9": {
         "brand": "华为",
         "model": "HUAWEI nova Y60"
@@ -789,7 +801,7 @@
     },
     "GFY-LX1": {
         "brand": "华为",
-        "model": "HUAWEI nova Y73"
+        "model": "HUAWEI nova Y72S"
     },
     "CTR-LX1": {
         "brand": "华为",
