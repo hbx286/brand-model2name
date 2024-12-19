@@ -573,7 +573,7 @@
     },
     "OPD2203": {
         "brand": "一加",
-        "model": "OnePlus Pad"
+        "model": "OnePlus Pad (国际)"
     },
     "OPD2304": {
         "brand": "一加",
@@ -582,6 +582,10 @@
     "OPD2305": {
         "brand": "一加",
         "model": "OnePlus Pad Go Wi-Fi"
+    },
+    "OPD2407": {
+        "brand": "一加",
+        "model": "OnePlus Pad (国行)"
     },
     "OPD2404": {
         "brand": "一加",
