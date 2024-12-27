@@ -1563,9 +1563,21 @@
         "brand": "小米",
         "model": "Redmi 14C 国际版 (NFC)"
     },
+    "2411DRN47G": {
+        "brand": "小米",
+        "model": "Redmi 14C 5G 国际版"
+    },
+    "2411DRN47R": {
+        "brand": "小米",
+        "model": "Redmi 14C 5G 日本版"
+    },
     "2411DRN47C": {
         "brand": "小米",
-        "model": "Redmi 14R 5G"
+        "model": "Redmi 14R 5G 国行版"
+    },
+    "2411DRN47I": {
+        "brand": "小米",
+        "model": "Redmi 14C 5G 印度版"
     },
     "2014018": {
         "brand": "小米",
