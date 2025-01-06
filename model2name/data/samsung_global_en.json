@@ -1803,6 +1803,14 @@
         "brand": "三星",
         "model": "Galaxy A15 5G HK & TW"
     },
+    "SM-A165F": {
+        "brand": "三星",
+        "model": "Galaxy A16 Global"
+    },
+    "SM-A165N": {
+        "brand": "三星",
+        "model": "Galaxy A16 South Korea"
+    },
     "SM-A166E": {
         "brand": "三星",
         "model": "Galaxy A16 5G Global (Exynos)"
@@ -1822,6 +1830,10 @@
     "SM-S166V": {
         "brand": "三星",
         "model": "Galaxy A16 5G TracFone"
+    },
+    "SM-A166W": {
+        "brand": "三星",
+        "model": "Galaxy A16 5G Canada"
     },
     "SM-A166M": {
         "brand": "三星",
@@ -2771,10 +2783,6 @@
         "brand": "三星",
         "model": "Galaxy M15 5G Global"
     },
-    "SM-E156B": {
-        "brand": "三星",
-        "model": "Galaxy F15 5G"
-    },
     "SM-M205N": {
         "brand": "三星",
         "model": "Galaxy M20 South Korea"
@@ -2954,6 +2962,10 @@
     "SM-E146B": {
         "brand": "三星",
         "model": "Galaxy F14 5G"
+    },
+    "SM-E156B": {
+        "brand": "三星",
+        "model": "Galaxy F15 5G"
     },
     "SM-E225F": {
         "brand": "三星",
