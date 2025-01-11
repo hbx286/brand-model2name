@@ -2167,6 +2167,22 @@
         "brand": "小米",
         "model": "Redmi Note 13R Pro China"
     },
+    "24117RN76G": {
+        "brand": "小米",
+        "model": "Redmi Note 14 Global"
+    },
+    "24117RN76E": {
+        "brand": "小米",
+        "model": "Redmi Note 14 Global"
+    },
+    "24117RN76L": {
+        "brand": "小米",
+        "model": "Redmi Note 14 Latin America"
+    },
+    "24117RN76O": {
+        "brand": "小米",
+        "model": "Redmi Note 14 Global (NFC)"
+    },
     "24094RAD4G": {
         "brand": "小米",
         "model": "Redmi Note 14 5G Global"
