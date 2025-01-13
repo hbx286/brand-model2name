@@ -895,13 +895,17 @@
         "brand": "华为",
         "model": "HUAWEI Y6 2019 Dual SIM"
     },
-    "MRD-LX1F": {
-        "brand": "华为",
-        "model": "HUAWEI Y6 2019 Dual SIM"
-    },
     "MRD-LX1N": {
         "brand": "华为",
         "model": "HUAWEI Y6 2019 Dual SIM"
+    },
+    "MRD-LX1F": {
+        "brand": "华为",
+        "model": "HUAWEI Y6 Prime 2019 Dual SIM"
+    },
+    "MRD-LX2": {
+        "brand": "华为",
+        "model": "HUAWEI Y6 Pro 2019 Dual SIM"
     },
     "MED-LX9": {
         "brand": "华为",
