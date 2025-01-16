@@ -287,6 +287,14 @@
         "brand": "真我",
         "model": "realme 14x 5G"
     },
+    "RMX5056": {
+        "brand": "真我",
+        "model": "realme 14 Pro 5G"
+    },
+    "RMX5051": {
+        "brand": "真我",
+        "model": "realme 14 Pro+ 5G"
+    },
     "RMX1901": {
         "brand": "真我",
         "model": "realme X"
@@ -643,6 +651,10 @@
         "brand": "真我",
         "model": "realme Note 50"
     },
+    "RMX3938": {
+        "brand": "真我",
+        "model": "realme Note 60x"
+    },
     "RMX1831": {
         "brand": "真我",
         "model": "realme U1"
@@ -790,5 +802,9 @@
     "RMP2205": {
         "brand": "真我",
         "model": "realme Pad 2 Wi-Fi"
+    },
+    "RMP2402": {
+        "brand": "真我",
+        "model": "realme Pad 2 Lite"
     }
 }

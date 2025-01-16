@@ -415,9 +415,33 @@
         "brand": "一加",
         "model": "OnePlus 13 China"
     },
+    "CPH2649": {
+        "brand": "一加",
+        "model": "OnePlus 13 India"
+    },
+    "CPH2653": {
+        "brand": "一加",
+        "model": "OnePlus 13 Europe / Global"
+    },
+    "CPH2655": {
+        "brand": "一加",
+        "model": "OnePlus 13 North America"
+    },
     "PKG110": {
         "brand": "一加",
         "model": "OnePlus Ace 5 China"
+    },
+    "CPH2645": {
+        "brand": "一加",
+        "model": "OnePlus 13R Europe / Global"
+    },
+    "CPH2647": {
+        "brand": "一加",
+        "model": "OnePlus 13R North America"
+    },
+    "CPH2691": {
+        "brand": "一加",
+        "model": "OnePlus 13R India"
     },
     "PKR110": {
         "brand": "一加",

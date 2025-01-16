@@ -415,9 +415,33 @@
         "brand": "一加",
         "model": "OnePlus 13 国行版"
     },
+    "CPH2649": {
+        "brand": "一加",
+        "model": "OnePlus 13 印度版"
+    },
+    "CPH2653": {
+        "brand": "一加",
+        "model": "OnePlus 13 欧洲版 / 国际版"
+    },
+    "CPH2655": {
+        "brand": "一加",
+        "model": "OnePlus 13 北美版"
+    },
     "PKG110": {
         "brand": "一加",
         "model": "OnePlus Ace 5 国行版"
+    },
+    "CPH2645": {
+        "brand": "一加",
+        "model": "OnePlus 13R 欧洲版 / 国际版"
+    },
+    "CPH2647": {
+        "brand": "一加",
+        "model": "OnePlus 13R 北美版"
+    },
+    "CPH2691": {
+        "brand": "一加",
+        "model": "OnePlus 13R 印度版"
     },
     "PKR110": {
         "brand": "一加",
