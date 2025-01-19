@@ -2935,6 +2935,22 @@
         "brand": "华为",
         "model": "华为智慧屏 S5 85"
     },
+    "HDB525G6": {
+        "brand": "华为",
+        "model": "华为智慧屏 S5 New 55"
+    },
+    "HDB526G6": {
+        "brand": "华为",
+        "model": "华为智慧屏 S5 New 65"
+    },
+    "HDB527G6": {
+        "brand": "华为",
+        "model": "华为智慧屏 S5 New 75"
+    },
+    "HD85KUNM": {
+        "brand": "华为",
+        "model": "华为智慧屏 S5 New 85"
+    },
     "HD65AJMN": {
         "brand": "华为",
         "model": "华为智慧屏 S5 Pro 65"
@@ -2946,6 +2962,18 @@
     "HD86AJMN": {
         "brand": "华为",
         "model": "华为智慧屏 S5 Pro 86"
+    },
+    "HD65WATN": {
+        "brand": "华为",
+        "model": "华为智慧屏 S5 Pro New 65"
+    },
+    "HD75WATN": {
+        "brand": "华为",
+        "model": "华为智慧屏 S5 Pro New 75"
+    },
+    "HD86WATN": {
+        "brand": "华为",
+        "model": "华为智慧屏 S5 Pro New 86"
     },
     "HD55DESA": {
         "brand": "华为",
@@ -3060,6 +3088,18 @@
         "model": "华为 Vision 智慧屏 4 75"
     },
     "HD8XQINA": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 4 86"
+    },
+    "HD65ARIN": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 4 65"
+    },
+    "HD75ARIN": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 4 75"
+    },
+    "HD86ARIN": {
         "brand": "华为",
         "model": "华为 Vision 智慧屏 4 86"
     },
