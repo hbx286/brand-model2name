@@ -655,6 +655,14 @@
         "brand": "vivo",
         "model": "vivo Y300 Pro 5G"
     },
+    "V2444A": {
+        "brand": "vivo",
+        "model": "vivo Y300i"
+    },
+    "V2445EA": {
+        "brand": "vivo",
+        "model": "vivo Y300t"
+    },
     "V2115A": {
         "brand": "vivo",
         "model": "vivo T1"
@@ -982,6 +990,10 @@
     "V2353A": {
         "brand": "vivo",
         "model": "iQOO Z9x"
+    },
+    "V2445A": {
+        "brand": "vivo",
+        "model": "iQOO Z10x"
     },
     "V2023A": {
         "brand": "vivo",
