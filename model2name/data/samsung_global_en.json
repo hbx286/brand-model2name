@@ -759,6 +759,110 @@
         "brand": "三星",
         "model": "Galaxy S24 FE South Korea"
     },
+    "SM-S931B": {
+        "brand": "三星",
+        "model": "Galaxy S25 Global"
+    },
+    "SM-S931U": {
+        "brand": "三星",
+        "model": "Galaxy S25 US Carrier"
+    },
+    "SM-S931U1": {
+        "brand": "三星",
+        "model": "Galaxy S25 US Unlocked"
+    },
+    "SM-S931W": {
+        "brand": "三星",
+        "model": "Galaxy S25 Canada"
+    },
+    "SM-S9310": {
+        "brand": "三星",
+        "model": "Galaxy S25 China"
+    },
+    "SM-S931N": {
+        "brand": "三星",
+        "model": "Galaxy S25 South Korea"
+    },
+    "SM-S931Q": {
+        "brand": "三星",
+        "model": "Galaxy S25 Japan (SIM Free)"
+    },
+    "SM-S931Z": {
+        "brand": "三星",
+        "model": "Galaxy S25 Japan (SoftBank)"
+    },
+    "SCG31": {
+        "brand": "三星",
+        "model": "Galaxy S25 Japan (au)"
+    },
+    "SC-51F": {
+        "brand": "三星",
+        "model": "Galaxy S25 Japan (NTT Docomo)"
+    },
+    "SM-S936B": {
+        "brand": "三星",
+        "model": "Galaxy S25+ Global"
+    },
+    "SM-S936U": {
+        "brand": "三星",
+        "model": "Galaxy S25+ US Carrier"
+    },
+    "SM-S936U1": {
+        "brand": "三星",
+        "model": "Galaxy S25+ US Unlocked"
+    },
+    "SM-S936W": {
+        "brand": "三星",
+        "model": "Galaxy S25+ Canada"
+    },
+    "SM-S9360": {
+        "brand": "三星",
+        "model": "Galaxy S25+ China"
+    },
+    "SM-S936N": {
+        "brand": "三星",
+        "model": "Galaxy S25+ South Korea"
+    },
+    "SM-S938B": {
+        "brand": "三星",
+        "model": "Galaxy S25 Ultra Global"
+    },
+    "SM-S938U": {
+        "brand": "三星",
+        "model": "Galaxy S25 Ultra US Carrier"
+    },
+    "SM-S938U1": {
+        "brand": "三星",
+        "model": "Galaxy S25 Ultra US Unlocked"
+    },
+    "SM-S938W": {
+        "brand": "三星",
+        "model": "Galaxy S25 Ultra Canada"
+    },
+    "SM-S9380": {
+        "brand": "三星",
+        "model": "Galaxy S25 Ultra China"
+    },
+    "SM-S938N": {
+        "brand": "三星",
+        "model": "Galaxy S25 Ultra South Korea"
+    },
+    "SM-S938Q": {
+        "brand": "三星",
+        "model": "Galaxy S25 Ultra Japan (SIM Free)"
+    },
+    "SM-S938Z": {
+        "brand": "三星",
+        "model": "Galaxy S25 Ultra Japan (SoftBank)"
+    },
+    "SCG32": {
+        "brand": "三星",
+        "model": "Galaxy S25 Ultra Japan (au)"
+    },
+    "SC-52F": {
+        "brand": "三星",
+        "model": "Galaxy S25 Ultra Japan (NTT Docomo)"
+    },
     "SM-N960F": {
         "brand": "三星",
         "model": "Galaxy Note9 Global"
@@ -2781,7 +2885,7 @@
     },
     "SM-M156B": {
         "brand": "三星",
-        "model": "Galaxy M15 5G Global"
+        "model": "Galaxy M15 5G"
     },
     "SM-M205N": {
         "brand": "三星",

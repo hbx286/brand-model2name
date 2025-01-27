@@ -275,6 +275,22 @@
         "brand": "三星",
         "model": "Galaxy S24 Ultra"
     },
+    "SM-S9310": {
+        "brand": "三星",
+        "model": "Galaxy S25"
+    },
+    "SM-S9360": {
+        "brand": "三星",
+        "model": "Galaxy S25+"
+    },
+    "SM-S9370": {
+        "brand": "三星",
+        "model": "Galaxy S25 Edge"
+    },
+    "SM-S9380": {
+        "brand": "三星",
+        "model": "Galaxy S25 Ultra"
+    },
     "GT-I9220": {
         "brand": "三星",
         "model": "Galaxy Note 公开版"
