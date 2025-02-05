@@ -103,6 +103,10 @@
         "brand": "真我",
         "model": "真我 GT7 Pro"
     },
+    "RMX5090": {
+        "brand": "真我",
+        "model": "真我 GT7 Pro 竞速版"
+    },
     "RMX3031": {
         "brand": "真我",
         "model": "真我 GT Neo 5G"
@@ -150,6 +154,10 @@
     "RMX5060": {
         "brand": "真我",
         "model": "真我 Neo7"
+    },
+    "RMX5080": {
+        "brand": "真我",
+        "model": "真我 Neo7 SE"
     },
     "RMX1971": {
         "brand": "真我",
