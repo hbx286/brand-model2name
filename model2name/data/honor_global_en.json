@@ -495,6 +495,14 @@
         "brand": "荣耀",
         "model": "HONOR Magic6 Lite 5G"
     },
+    "PTP-N49": {
+        "brand": "荣耀",
+        "model": "HONOR Magic7 Pro"
+    },
+    "PTP-N59": {
+        "brand": "荣耀",
+        "model": "PORSCHE DESIGN HONOR Magic7 RSR"
+    },
     "BRP-NX1M": {
         "brand": "荣耀",
         "model": "HONOR Magic7 Lite"
@@ -533,7 +541,7 @@
     },
     "GFY-LX3": {
         "brand": "荣耀",
-        "model": "HONOR X5b"
+        "model": "HONOR Play9A"
     },
     "GFY-LX2P": {
         "brand": "荣耀",
@@ -674,6 +682,18 @@
     "LLY-LX3": {
         "brand": "荣耀",
         "model": "HONOR X8b"
+    },
+    "ABR-LX1": {
+        "brand": "荣耀",
+        "model": "HONOR X8c"
+    },
+    "ABR-LX2": {
+        "brand": "荣耀",
+        "model": "HONOR X8c"
+    },
+    "ABR-LX3": {
+        "brand": "荣耀",
+        "model": "HONOR X8c"
     },
     "ALI-NX3P": {
         "brand": "荣耀",
