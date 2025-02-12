@@ -307,6 +307,10 @@
         "brand": "小米穿戴设备",
         "model": "Xiaomi Buds 5"
     },
+    "TWSEJ01ZM": {
+        "brand": "小米穿戴设备",
+        "model": "POCO Buds Pro Genshin Impact Edition 国际版"
+    },
     "M2104E1": {
         "brand": "小米穿戴设备",
         "model": "Redmi Buds 3"
@@ -327,10 +331,6 @@
         "brand": "小米穿戴设备",
         "model": "Redmi Buds 4 Pro"
     },
-    "M2231E1": {
-        "brand": "小米穿戴设备",
-        "model": "Redmi Buds 4 青春版"
-    },
     "M2310E1": {
         "brand": "小米穿戴设备",
         "model": "Redmi Buds 4 活力版"
@@ -338,6 +338,14 @@
     "M2232E1": {
         "brand": "小米穿戴设备",
         "model": "Redmi Buds 4 Active 国际版"
+    },
+    "M2231E1": {
+        "brand": "小米穿戴设备",
+        "model": "Redmi Buds 4 青春版"
+    },
+    "M2236E1": {
+        "brand": "小米穿戴设备",
+        "model": "Redmi Buds 4 Lite 国际版"
     },
     "M2222E1": {
         "brand": "小米穿戴设备",
@@ -379,8 +387,20 @@
         "brand": "小米穿戴设备",
         "model": "Redmi Buds 6 青春版"
     },
+    "M2420E1": {
+        "brand": "小米穿戴设备",
+        "model": "Redmi Buds 6 Play 国际版"
+    },
     "M2411E1": {
         "brand": "小米穿戴设备",
         "model": "REDMI Buds SE"
+    },
+    "M2237E1": {
+        "brand": "小米穿戴设备",
+        "model": "POCO Pods 印度版"
+    },
+    "M2350E1": {
+        "brand": "小米穿戴设备",
+        "model": "POCO Buds X1 印度版"
     }
 }

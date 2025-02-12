@@ -585,7 +585,7 @@
     },
     "PKA110": {
         "brand": "oppo",
-        "model": "OPPO A3 5G (2024)"
+        "model": "OPPO A3 5G (2024) / OPPO A3i Plus"
     },
     "PKD110": {
         "brand": "oppo",
@@ -606,6 +606,10 @@
     "PJY110": {
         "brand": "oppo",
         "model": "OPPO A3 Pro"
+    },
+    "PKQ110": {
+        "brand": "oppo",
+        "model": "OPPO A5 5G (2025)"
     },
     "PKP110": {
         "brand": "oppo",
