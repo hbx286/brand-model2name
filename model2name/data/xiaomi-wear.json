@@ -107,6 +107,10 @@
         "brand": "小米穿戴设备",
         "model": "小米手环 9 Pro"
     },
+    "M2435B1": {
+        "brand": "小米穿戴设备",
+        "model": "小米手环 9 Active 国际版"
+    },
     "XMWT01": {
         "brand": "小米穿戴设备",
         "model": "小米手表"
@@ -266,6 +270,10 @@
     "M2351W1": {
         "brand": "小米穿戴设备",
         "model": "Redmi Watch 5 Active 印度版"
+    },
+    "M2352W1": {
+        "brand": "小米穿戴设备",
+        "model": "Redmi Watch 5 Lite 印度版"
     },
     "M2131W1": {
         "brand": "小米穿戴设备",

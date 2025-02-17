@@ -99,6 +99,14 @@
         "brand": "oppo",
         "model": "OPPO Find N3 Flip"
     },
+    "PKH110": {
+        "brand": "oppo",
+        "model": "OPPO Find N5"
+    },
+    "PKH120": {
+        "brand": "oppo",
+        "model": "OPPO Find N5 卫星通信版"
+    },
     "PCAM00": {
         "brand": "oppo",
         "model": "OPPO Reno 全网通版"
@@ -799,11 +807,11 @@
         "brand": "oppo",
         "model": "OPPO Watch X"
     },
-    "OWW242": {
-        "brand": "oppo",
-        "model": "OPPO Watch"
-    },
     "OWW251": {
+        "brand": "oppo",
+        "model": "OPPO Watch X2"
+    },
+    "OWW242": {
         "brand": "oppo",
         "model": "OPPO Watch"
     }

@@ -1647,6 +1647,18 @@
         "brand": "三星",
         "model": "Galaxy A06 Latin America"
     },
+    "SM-A066E": {
+        "brand": "三星",
+        "model": "Galaxy A06 5G Global"
+    },
+    "SM-A066B": {
+        "brand": "三星",
+        "model": "Galaxy A06 5G Global"
+    },
+    "SM-A066M": {
+        "brand": "三星",
+        "model": "Galaxy A06 5G Latin America"
+    },
     "SM-A105F": {
         "brand": "三星",
         "model": "Galaxy A10 Global"
@@ -1910,6 +1922,10 @@
     "SM-A165F": {
         "brand": "三星",
         "model": "Galaxy A16 Global"
+    },
+    "SM-A165M": {
+        "brand": "三星",
+        "model": "Galaxy A16 Latin America"
     },
     "SM-A165N": {
         "brand": "三星",
@@ -2347,6 +2363,38 @@
         "brand": "三星",
         "model": "Galaxy A35 5G South Korea"
     },
+    "SM-A366E": {
+        "brand": "三星",
+        "model": "Galaxy A36 5G Global"
+    },
+    "SM-A366B": {
+        "brand": "三星",
+        "model": "Galaxy A36 5G EU"
+    },
+    "SM-A366U": {
+        "brand": "三星",
+        "model": "Galaxy A36 5G US Carrier"
+    },
+    "SM-A366U1": {
+        "brand": "三星",
+        "model": "Galaxy A36 5G US Unlocked"
+    },
+    "SM-S366V": {
+        "brand": "三星",
+        "model": "Galaxy A36 5G TracFone"
+    },
+    "SM-A366W": {
+        "brand": "三星",
+        "model": "Galaxy A36 5G Canada"
+    },
+    "SM-A3660": {
+        "brand": "三星",
+        "model": "Galaxy A36 5G HK & TW"
+    },
+    "SM-A366N": {
+        "brand": "三星",
+        "model": "Galaxy A36 5G South Korea"
+    },
     "SM-A405FN": {
         "brand": "三星",
         "model": "Galaxy A40 Global"
@@ -2659,6 +2707,18 @@
         "brand": "三星",
         "model": "Galaxy A55 5G Japan (NTT Docomo)"
     },
+    "SM-A566E": {
+        "brand": "三星",
+        "model": "Galaxy A56 5G Global"
+    },
+    "SM-A566B": {
+        "brand": "三星",
+        "model": "Galaxy A56 5G EU"
+    },
+    "SM-A5660": {
+        "brand": "三星",
+        "model": "Galaxy A56 5G China"
+    },
     "SM-A606F": {
         "brand": "三星",
         "model": "Galaxy A60 Global"
@@ -2818,6 +2878,10 @@
     "SM-M055F": {
         "brand": "三星",
         "model": "Galaxy M05"
+    },
+    "SM-M066B": {
+        "brand": "三星",
+        "model": "Galaxy M06 5G"
     },
     "SM-M105G": {
         "brand": "三星",
@@ -3051,6 +3115,10 @@
         "brand": "三星",
         "model": "Galaxy F05"
     },
+    "SM-E066B": {
+        "brand": "三星",
+        "model": "Galaxy F06 5G"
+    },
     "SM-F127G": {
         "brand": "三星",
         "model": "Galaxy F12"
@@ -3070,6 +3138,10 @@
     "SM-E156B": {
         "brand": "三星",
         "model": "Galaxy F15 5G"
+    },
+    "SM-E166P": {
+        "brand": "三星",
+        "model": "Galaxy F16 5G"
     },
     "SM-E225F": {
         "brand": "三星",
