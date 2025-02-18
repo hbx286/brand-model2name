@@ -175,6 +175,10 @@
         "brand": "华为",
         "model": "HUAWEI Mate X6"
     },
+    "GRL-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI Mate XT ULTIMATE DESIGN"
+    },
     "P6-U06": {
         "brand": "华为",
         "model": "HUAWEI Ascend P6 Single SIM"
@@ -1170,6 +1174,10 @@
     "PCE-W29": {
         "brand": "华为",
         "model": "HUAWEI MatePad Pro 13.2 Wi-Fi"
+    },
+    "WEB-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 13.2 2025 Wi-Fi"
     },
     "MRO-W09": {
         "brand": "华为",
