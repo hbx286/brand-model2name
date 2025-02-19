@@ -1,0 +1,350 @@
+{
+    "ASUS_T00I": {
+        "brand": "",
+        "model": "ZenFone 4 (A400CG)"
+    },
+    "ASUS_T00Q": {
+        "brand": "",
+        "model": "ZenFone 4 (A450CG)"
+    },
+    "ASUS_T00F": {
+        "brand": "",
+        "model": "ZenFone 5 (A500CG)"
+    },
+    "ASUS_T00J": {
+        "brand": "",
+        "model": "ZenFone 5 (A501CG)"
+    },
+    "ASUS_T00K": {
+        "brand": "",
+        "model": "ZenFone 5 (A502CG)"
+    },
+    "ASUS_T00P": {
+        "brand": "",
+        "model": "ZenFone 5 (A500KL)"
+    },
+    "ASUS_T00G": {
+        "brand": "",
+        "model": "ZenFone 6 (A600CG)"
+    },
+    "ASUS_T002": {
+        "brand": "",
+        "model": "ZenFone 6 (A601CG)"
+    },
+    "ASUS_Z007": {
+        "brand": "",
+        "model": "ZenFone C (ZC451CG)"
+    },
+    "ASUS_Z00D": {
+        "brand": "",
+        "model": "ZenFone 2 (ZE500CL)"
+    },
+    "ASUS_Z008(D)": {
+        "brand": "",
+        "model": "ZenFone 2 (ZE550ML)"
+    },
+    "ASUS_Z00A": {
+        "brand": "",
+        "model": "ZenFone 2 (ZE551ML)"
+    },
+    "ASUS_Z00AD": {
+        "brand": "",
+        "model": "ZenFone 2 Deluxe (ZE551ML)"
+    },
+    "ASUS_Z00VD": {
+        "brand": "",
+        "model": "ZenFone Go (ZC500TG)"
+    },
+    "ASUS_Z00E(D)": {
+        "brand": "",
+        "model": "ZenFone 2 Laser (ZE500KL)"
+    },
+    "ASUS_Z00L(D)": {
+        "brand": "",
+        "model": "ZenFone 2 Laser (ZE550KL)"
+    },
+    "ASUS_Z011(D)": {
+        "brand": "",
+        "model": "ZenFone 2 Laser (ZE601KL)"
+    },
+    "ASUS_Z00M(D)": {
+        "brand": "",
+        "model": "ZenFone 2 Laser (ZE600KL)"
+    },
+    "ASUS_Z00U(D)": {
+        "brand": "",
+        "model": "ZenFone Selfie (ZD551KL)"
+    },
+    "ASUS_Z00XS": {
+        "brand": "",
+        "model": "ZenFone Zoom (ZX551ML)"
+    },
+    "ASUS_Z017(D)": {
+        "brand": "",
+        "model": "ZenFone 3 (ZE520KL)"
+    },
+    "ASUS_Z012(D)": {
+        "brand": "",
+        "model": "ZenFone 3 (ZE552KL)"
+    },
+    "ASUS_Z016(D)": {
+        "brand": "",
+        "model": "ZenFone 3 Deluxe (ZS570KL)"
+    },
+    "ASUS_Z01FD": {
+        "brand": "",
+        "model": "ZenFone 3 Deluxe 5.5 (ZS550KL)"
+    },
+    "ASUS_Z01B(D)": {
+        "brand": "",
+        "model": "ZenFone 3 Laser (ZC551KL)"
+    },
+    "ASUS_X008(D)": {
+        "brand": "",
+        "model": "ZenFone 3 Max (ZC520TL)"
+    },
+    "ASUS_X00DD": {
+        "brand": "",
+        "model": "ZenFone 3 Max (ZC553KL)"
+    },
+    "ASUS_A001": {
+        "brand": "",
+        "model": "ZenFone 3 Ultra (ZU680KL)"
+    },
+    "ASUS_Z01HDA": {
+        "brand": "",
+        "model": "ZenFone 3 Zoom (ZE553KL)"
+    },
+    "ASUS_X00GD": {
+        "brand": "",
+        "model": "ZenFone 3s Max (ZC521TL)"
+    },
+    "ASUS_X009D": {
+        "brand": "",
+        "model": "ZenFone Go (ZB450KL)"
+    },
+    "ASUS_X00AD": {
+        "brand": "",
+        "model": "ZenFone Go (ZB500KL)"
+    },
+    "ASUS_X007D": {
+        "brand": "",
+        "model": "ZenFone Go (ZB552KL)"
+    },
+    "ASUS_X00BD": {
+        "brand": "",
+        "model": "ZenFone Go (ZB500KG)"
+    },
+    "ASUS_L001": {
+        "brand": "",
+        "model": "ZenFone Go 6.9 (ZB690KG)"
+    },
+    "ASUS_A007": {
+        "brand": "",
+        "model": "ZenFone Live (ZB501KL)"
+    },
+    "ASUS_A002": {
+        "brand": "",
+        "model": "ZenFone AR (ZS571KL)"
+    },
+    "ASUS_Z01KD": {
+        "brand": "",
+        "model": "ZenFone 4 (ZE554KL)"
+    },
+    "ASUS_Z01GD": {
+        "brand": "",
+        "model": "ZenFone 4 Pro (ZS551KL)"
+    },
+    "ASUS_X00LD": {
+        "brand": "",
+        "model": "ZenFone 4 Selfie (ZD553KL)"
+    },
+    "ASUS_Z01MD": {
+        "brand": "",
+        "model": "ZenFone 4 Selfie Pro (ZD552KL)"
+    },
+    "ASUS_X00ID": {
+        "brand": "",
+        "model": "ZenFone 4 Max (ZC554KL)"
+    },
+    "ASUS_X00HD": {
+        "brand": "",
+        "model": "ZenFone 4 Max (ZC520KL)"
+    },
+    "ASUS_X018D": {
+        "brand": "",
+        "model": "ZenFone Max Plus (ZB570TL)"
+    },
+    "ASUS_X00TD": {
+        "brand": "",
+        "model": "ZenFone Max Pro (M1) (ZB602KL)"
+    },
+    "ASUS_X00PD": {
+        "brand": "",
+        "model": "ZenFone Max (M1) (ZB556KL)"
+    },
+    "ASUS_X00RD": {
+        "brand": "",
+        "model": "ZenFone Live L1 (ZA550KL)"
+    },
+    "ASUS_X017DA": {
+        "brand": "",
+        "model": "ZenFone 5Q (ZC600KL)"
+    },
+    "ASUS_X00QD": {
+        "brand": "",
+        "model": "ZenFone 5 (ZE620KL)"
+    },
+    "ASUS_Z01RD": {
+        "brand": "",
+        "model": "ZenFone 5Z (ZS620KL)"
+    },
+    "ASUS_X01AD": {
+        "brand": "",
+        "model": "ZenFone Max (M2) (ZB633KL)"
+    },
+    "ASUS_X01BDA": {
+        "brand": "",
+        "model": "ZenFone Max Pro (M2) (ZB631KL)"
+    },
+    "ASUS_Z01QD": {
+        "brand": "",
+        "model": "ROG Phone"
+    },
+    "ASUS_I01WD": {
+        "brand": "",
+        "model": "ZenFone 6"
+    },
+    "ASUS_I001DA": {
+        "brand": "",
+        "model": "ROG Phone 2"
+    },
+    "ASUS_I001DB": {
+        "brand": "",
+        "model": "ROG Phone 2"
+    },
+    "ASUS_I002D": {
+        "brand": "",
+        "model": "ZenFone 7 Pro"
+    },
+    "ASUS_I003DD": {
+        "brand": "",
+        "model": "ROG Phone 3"
+    },
+    "ASUS_I006D": {
+        "brand": "",
+        "model": "ZenFone 8"
+    },
+    "ASUS_I004D": {
+        "brand": "",
+        "model": "ZenFone 8 Flip"
+    },
+    "ASUS_I005DA": {
+        "brand": "",
+        "model": "ROG Phone 5s"
+    },
+    "ASUS_I005DB": {
+        "brand": "",
+        "model": "ROG Phone 5s Pro"
+    },
+    "ASUS_I007D": {
+        "brand": "",
+        "model": "Smartphone for Snapdragon Insiders"
+    },
+    "ASUS_AI2202": {
+        "brand": "",
+        "model": "ZenFone 9"
+    },
+    "ASUS_AI2201_C": {
+        "brand": "",
+        "model": "ROG Phone 6"
+    },
+    "ASUS_AI2201_D": {
+        "brand": "",
+        "model": "ROG Phone 6 Pro"
+    },
+    "ASUS_AI2201_E": {
+        "brand": "",
+        "model": "ROG Phone 6"
+    },
+    "ASUS_AI2201_F": {
+        "brand": "",
+        "model": "ROG Phone 6"
+    },
+    "ASUS_AI2203_C": {
+        "brand": "",
+        "model": "ROG Phone 6D"
+    },
+    "ASUS_AI2203_D": {
+        "brand": "",
+        "model": "ROG Phone 6D Ultimate"
+    },
+    "ASUS_AI2302": {
+        "brand": "",
+        "model": "ZenFone 10"
+    },
+    "JP_AI2302": {
+        "brand": "",
+        "model": "ZenFone 10 (Japan)"
+    },
+    "EU_AI2302": {
+        "brand": "",
+        "model": "ZenFone 10 (Europe)"
+    },
+    "WW_AI2302": {
+        "brand": "",
+        "model": "ZenFone 10 (Worldwide)"
+    },
+    "ASUS_AI2205_C": {
+        "brand": "",
+        "model": "ROG Phone 7"
+    },
+    "ASUS_AI2205_D": {
+        "brand": "",
+        "model": "ROG Phone 7 Ultimate"
+    },
+    "ASUS_AI2401_H": {
+        "brand": "",
+        "model": "ZenFone 11 Ultra"
+    },
+    "ASUS_AI2401_A": {
+        "brand": "",
+        "model": "ROG Phone 8 / ROG Phone 8 Pro (CN)"
+    },
+    "ASUS_AI2401_C": {
+        "brand": "",
+        "model": "ROG Phone 8 / ROG Phone 8 Pro (WW / TW / JP / HK)"
+    },
+    "ASUS_AI2401_D": {
+        "brand": "",
+        "model": "ROG Phone 8 / ROG Phone 8 Pro (ID / VN / BR / IN / JP / TW / HK / WW)"
+    },
+    "ASUS_AI2401_E": {
+        "brand": "",
+        "model": "ROG Phone 8 / ROG Phone 8 Pro (US)"
+    },
+    "ASUSAI2501H": {
+        "brand": "",
+        "model": "ZenFone 12 Ultra"
+    },
+    "ASUSAI2501A": {
+        "brand": "",
+        "model": "ROG Phone 9 / ROG Phone 9 Pro (CN)"
+    },
+    "ASUSAI2501B": {
+        "brand": "",
+        "model": "ROG Phone 9 / ROG Phone 9 Pro (WW / JP / TW / HK / EU)"
+    },
+    "ASUSAI2501C": {
+        "brand": "",
+        "model": "ROG Phone 9 / ROG Phone 9 Pro (WW / JP / TW / HK / ID)"
+    },
+    "ASUSAI2501D": {
+        "brand": "",
+        "model": "ROG Phone 9 / ROG Phone 9 Pro (US)"
+    },
+    "ASUS_AI2401_N": {
+        "brand": "",
+        "model": "ROG Phone 9 FE"
+    }
+}
