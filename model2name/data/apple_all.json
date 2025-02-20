@@ -739,6 +739,22 @@
         "brand": "苹果",
         "model": "iPhone 16 Pro Max (其他国家和地区)"
     },
+    "A3212": {
+        "brand": "苹果",
+        "model": "iPhone 16e (美国)"
+    },
+    "A3408": {
+        "brand": "苹果",
+        "model": "iPhone 16e (加拿大, 墨西哥, 部分中东国家)"
+    },
+    "A3410": {
+        "brand": "苹果",
+        "model": "iPhone 16e (中国大陆)"
+    },
+    "A3409": {
+        "brand": "苹果",
+        "model": "iPhone 16e (其他国家和地区)"
+    },
     "A1219": {
         "brand": "苹果",
         "model": "iPad (无线局域网)"

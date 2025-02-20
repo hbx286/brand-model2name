@@ -739,6 +739,22 @@
         "brand": "苹果",
         "model": "iPhone 16 Pro Max (Rest of the world)"
     },
+    "A3212": {
+        "brand": "苹果",
+        "model": "iPhone 16e (United States)"
+    },
+    "A3408": {
+        "brand": "苹果",
+        "model": "iPhone 16e (Bahrain, Canada, Iraq, Guam, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)"
+    },
+    "A3410": {
+        "brand": "苹果",
+        "model": "iPhone 16e (China mainland)"
+    },
+    "A3409": {
+        "brand": "苹果",
+        "model": "iPhone 16e (Rest of the world)"
+    },
     "A1219": {
         "brand": "苹果",
         "model": "iPad Wi-Fi"
