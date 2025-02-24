@@ -207,29 +207,13 @@
         "brand": "",
         "model": "ZenFone Max Pro (M2) (ZB631KL)"
     },
-    "ASUS_Z01QD": {
-        "brand": "",
-        "model": "ROG Phone"
-    },
     "ASUS_I01WD": {
         "brand": "",
         "model": "ZenFone 6"
     },
-    "ASUS_I001DA": {
-        "brand": "",
-        "model": "ROG Phone 2"
-    },
-    "ASUS_I001DB": {
-        "brand": "",
-        "model": "ROG Phone 2"
-    },
     "ASUS_I002D": {
         "brand": "",
         "model": "ZenFone 7 Pro"
-    },
-    "ASUS_I003DD": {
-        "brand": "",
-        "model": "ROG Phone 3"
     },
     "ASUS_I006D": {
         "brand": "",
@@ -239,6 +223,50 @@
         "brand": "",
         "model": "ZenFone 8 Flip"
     },
+    "ASUS_AI2202": {
+        "brand": "",
+        "model": "ZenFone 9"
+    },
+    "ASUS_AI2302": {
+        "brand": "",
+        "model": "ZenFone 10"
+    },
+    "JP_AI2302": {
+        "brand": "",
+        "model": "ZenFone 10 (Japan)"
+    },
+    "EU_AI2302": {
+        "brand": "",
+        "model": "ZenFone 10 (Europe)"
+    },
+    "WW_AI2302": {
+        "brand": "",
+        "model": "ZenFone 10 (Worldwide)"
+    },
+    "ASUS_AI2401_H": {
+        "brand": "",
+        "model": "ZenFone 11 Ultra"
+    },
+    "ASUSAI2501H": {
+        "brand": "",
+        "model": "ZenFone 12 Ultra"
+    },
+    "ASUS_Z01QD": {
+        "brand": "",
+        "model": "ROG Phone"
+    },
+    "ASUS_I001DA": {
+        "brand": "",
+        "model": "ROG Phone 2"
+    },
+    "ASUS_I001DB": {
+        "brand": "",
+        "model": "ROG Phone 2"
+    },
+    "ASUS_I003DD": {
+        "brand": "",
+        "model": "ROG Phone 3"
+    },
     "ASUS_I005DA": {
         "brand": "",
         "model": "ROG Phone 5s"
@@ -246,14 +274,6 @@
     "ASUS_I005DB": {
         "brand": "",
         "model": "ROG Phone 5s Pro"
-    },
-    "ASUS_I007D": {
-        "brand": "",
-        "model": "Smartphone for Snapdragon Insiders"
-    },
-    "ASUS_AI2202": {
-        "brand": "",
-        "model": "ZenFone 9"
     },
     "ASUS_AI2201_C": {
         "brand": "",
@@ -279,22 +299,6 @@
         "brand": "",
         "model": "ROG Phone 6D Ultimate"
     },
-    "ASUS_AI2302": {
-        "brand": "",
-        "model": "ZenFone 10"
-    },
-    "JP_AI2302": {
-        "brand": "",
-        "model": "ZenFone 10 (Japan)"
-    },
-    "EU_AI2302": {
-        "brand": "",
-        "model": "ZenFone 10 (Europe)"
-    },
-    "WW_AI2302": {
-        "brand": "",
-        "model": "ZenFone 10 (Worldwide)"
-    },
     "ASUS_AI2205_C": {
         "brand": "",
         "model": "ROG Phone 7"
@@ -302,10 +306,6 @@
     "ASUS_AI2205_D": {
         "brand": "",
         "model": "ROG Phone 7 Ultimate"
-    },
-    "ASUS_AI2401_H": {
-        "brand": "",
-        "model": "ZenFone 11 Ultra"
     },
     "ASUS_AI2401_A": {
         "brand": "",
@@ -322,10 +322,6 @@
     "ASUS_AI2401_E": {
         "brand": "",
         "model": "ROG Phone 8 / ROG Phone 8 Pro (US)"
-    },
-    "ASUSAI2501H": {
-        "brand": "",
-        "model": "ZenFone 12 Ultra"
     },
     "ASUSAI2501A": {
         "brand": "",
@@ -346,5 +342,9 @@
     "ASUS_AI2401_N": {
         "brand": "",
         "model": "ROG Phone 9 FE"
+    },
+    "ASUS_I007D": {
+        "brand": "",
+        "model": "Smartphone for Snapdragon Insiders"
     }
 }
