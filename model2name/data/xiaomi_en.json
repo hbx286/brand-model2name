@@ -583,6 +583,22 @@
         "brand": "小米",
         "model": "Xiaomi 15 Pro China"
     },
+    "25010PN30G": {
+        "brand": "小米",
+        "model": "Xiaomi 15 Ultra Global"
+    },
+    "25010PN30I": {
+        "brand": "小米",
+        "model": "Xiaomi 15 Ultra India"
+    },
+    "25019PNF3C": {
+        "brand": "小米",
+        "model": "Xiaomi 15 Ultra China (Tiantong satellite)"
+    },
+    "25010PN30C": {
+        "brand": "小米",
+        "model": "Xiaomi 15 Ultra China (Tiantong & Beidou satellites)"
+    },
     "2015011": {
         "brand": "小米",
         "model": "Mi Note Global"
