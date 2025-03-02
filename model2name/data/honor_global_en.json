@@ -431,6 +431,14 @@
         "brand": "荣耀",
         "model": "HONOR X6b 5G"
     },
+    "ABR-NX1": {
+        "brand": "荣耀",
+        "model": "HONOR 400 Lite"
+    },
+    "ABR-NX3": {
+        "brand": "荣耀",
+        "model": "HONOR 400 Lite"
+    },
     "LGE-NX9": {
         "brand": "荣耀",
         "model": "HONOR Magic4 Pro"
@@ -742,6 +750,10 @@
     "HEY2-N09": {
         "brand": "荣耀",
         "model": "HONOR Pad 9 5G"
+    },
+    "ROL-W009": {
+        "brand": "荣耀",
+        "model": "HONOR Pad V9"
     },
     "ELN-W09": {
         "brand": "荣耀",

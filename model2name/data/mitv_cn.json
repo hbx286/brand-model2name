@@ -879,10 +879,6 @@
         "brand": "小米电视",
         "model": "Redmi 智能电视 X Pro 75"
     },
-    "L85RB-MAX": {
-        "brand": "小米电视",
-        "model": "Redmi 智能电视 MAX 85 2025"
-    },
     "L86R6-MAX": {
         "brand": "小米电视",
         "model": "Redmi 智能电视 MAX 86 英寸"
@@ -899,17 +895,21 @@
         "brand": "小米电视",
         "model": "Redmi 智能电视 MAX 100 英寸"
     },
+    "L85RB-MAX": {
+        "brand": "小米电视",
+        "model": "Redmi 智能电视 MAX 85 2025"
+    },
     "L85RB-MAXE": {
         "brand": "小米电视",
         "model": "REDMI 电视 MAX 85 2025 节能版 (一级能效)"
     },
-    "L100RA-MAXE": {
-        "brand": "小米电视",
-        "model": "REDMI 电视 MAX 100 2025 节能版 (一级能效)"
-    },
     "L100RA-MAX": {
         "brand": "小米电视",
         "model": "Redmi 智能电视 MAX 100 2025"
+    },
+    "L100RA-MAXE": {
+        "brand": "小米电视",
+        "model": "REDMI 电视 MAX 100 2025 节能版 (一级能效)"
     },
     "MDZ-18-DA": {
         "brand": "小米电视",
