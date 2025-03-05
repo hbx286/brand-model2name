@@ -263,14 +263,6 @@
         "brand": "苹果",
         "model": "iPhone XS (China Mobile)"
     },
-    "A2104": {
-        "brand": "苹果",
-        "model": "iPhone XS Max (China mainland, Hong Kong, Macao)"
-    },
-    "A2103": {
-        "brand": "苹果",
-        "model": "iPhone XS Max (China Mobile)"
-    },
     "A1921": {
         "brand": "苹果",
         "model": "iPhone XS Max (North America)"
@@ -282,6 +274,14 @@
     "A2102": {
         "brand": "苹果",
         "model": "iPhone XS Max (Japan)"
+    },
+    "A2104": {
+        "brand": "苹果",
+        "model": "iPhone XS Max (China mainland, Hong Kong, Macao)"
+    },
+    "A2103": {
+        "brand": "苹果",
+        "model": "iPhone XS Max (China Mobile)"
     },
     "A1984": {
         "brand": "苹果",
@@ -879,6 +879,18 @@
         "brand": "苹果",
         "model": "iPad (10th generation) Wi-Fi + Cellular (eSIM, China mainland)"
     },
+    "A3354": {
+        "brand": "苹果",
+        "model": "iPad (A16) Wi-Fi"
+    },
+    "A3355": {
+        "brand": "苹果",
+        "model": "iPad (A16) Wi-Fi + Cellular"
+    },
+    "A3356": {
+        "brand": "苹果",
+        "model": "iPad (A16) Wi-Fi + Cellular (China mainland)"
+    },
     "A1474": {
         "brand": "苹果",
         "model": "iPad Air Wi-Fi"
@@ -966,6 +978,30 @@
     "A2900": {
         "brand": "苹果",
         "model": "iPad Air (13-inch, M2) Wi-Fi + Cellular (China mainland)"
+    },
+    "A3266": {
+        "brand": "苹果",
+        "model": "iPad Air (11-inch, M3) Wi-Fi"
+    },
+    "A3267": {
+        "brand": "苹果",
+        "model": "iPad Air (11-inch, M3) Wi-Fi + Cellular"
+    },
+    "A3270": {
+        "brand": "苹果",
+        "model": "iPad Air (11-inch, M3) Wi-Fi + Cellular (China mainland)"
+    },
+    "A3268": {
+        "brand": "苹果",
+        "model": "iPad Air (13-inch, M3) Wi-Fi"
+    },
+    "A3269": {
+        "brand": "苹果",
+        "model": "iPad Air (13-inch, M3) Wi-Fi + Cellular"
+    },
+    "A3271": {
+        "brand": "苹果",
+        "model": "iPad Air (13-inch, M3) Wi-Fi + Cellular (China mainland)"
     },
     "A1584": {
         "brand": "苹果",

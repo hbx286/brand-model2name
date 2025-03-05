@@ -263,14 +263,6 @@
         "brand": "苹果",
         "model": "iPhone XS (中国移动)"
     },
-    "A2104": {
-        "brand": "苹果",
-        "model": "iPhone XS Max (中国大陆 & 港澳)"
-    },
-    "A2103": {
-        "brand": "苹果",
-        "model": "iPhone XS Max (中国移动)"
-    },
     "A1921": {
         "brand": "苹果",
         "model": "iPhone XS Max (北美)"
@@ -282,6 +274,14 @@
     "A2102": {
         "brand": "苹果",
         "model": "iPhone XS Max (日本)"
+    },
+    "A2104": {
+        "brand": "苹果",
+        "model": "iPhone XS Max (中国大陆 & 港澳)"
+    },
+    "A2103": {
+        "brand": "苹果",
+        "model": "iPhone XS Max (中国移动)"
     },
     "A1984": {
         "brand": "苹果",
@@ -879,6 +879,18 @@
         "brand": "苹果",
         "model": "iPad (第 10 代) (无线局域网 + 蜂窝网络) (eSIM, 中国大陆)"
     },
+    "A3354": {
+        "brand": "苹果",
+        "model": "iPad (A16) (无线局域网)"
+    },
+    "A3355": {
+        "brand": "苹果",
+        "model": "iPad (A16) (无线局域网 + 蜂窝网络)"
+    },
+    "A3356": {
+        "brand": "苹果",
+        "model": "iPad (A16) (无线局域网 + 蜂窝网络) (中国大陆)"
+    },
     "A1474": {
         "brand": "苹果",
         "model": "iPad Air (无线局域网)"
@@ -966,6 +978,30 @@
     "A2900": {
         "brand": "苹果",
         "model": "iPad Air (13 英寸, M2) (无线局域网 + 蜂窝网络) (中国大陆)"
+    },
+    "A3266": {
+        "brand": "苹果",
+        "model": "iPad Air (11 英寸, M3) (无线局域网)"
+    },
+    "A3267": {
+        "brand": "苹果",
+        "model": "iPad Air (11 英寸, M3) (无线局域网 + 蜂窝网络)"
+    },
+    "A3270": {
+        "brand": "苹果",
+        "model": "iPad Air (11 英寸, M3) (无线局域网 + 蜂窝网络) (中国大陆)"
+    },
+    "A3268": {
+        "brand": "苹果",
+        "model": "iPad Air (13 英寸, M3) (无线局域网)"
+    },
+    "A3269": {
+        "brand": "苹果",
+        "model": "iPad Air (13 英寸, M3) (无线局域网 + 蜂窝网络)"
+    },
+    "A3271": {
+        "brand": "苹果",
+        "model": "iPad Air (13 英寸, M3) (无线局域网 + 蜂窝网络) (中国大陆)"
     },
     "A1584": {
         "brand": "苹果",
