@@ -1513,7 +1513,7 @@
     },
     "2404ARN45A": {
         "brand": "小米",
-        "model": "Redmi 13 国际版"
+        "model": "Redmi 13 国际版 / Redmi 13X 国际版"
     },
     "2404ARN45I": {
         "brand": "小米",
@@ -2298,6 +2298,10 @@
     "24094RAD4G": {
         "brand": "小米",
         "model": "Redmi Note 14 5G 国际版"
+    },
+    "2502FRA65G": {
+        "brand": "小米",
+        "model": "Redmi Note 14S 国际版"
     },
     "24116RACCG": {
         "brand": "小米",
