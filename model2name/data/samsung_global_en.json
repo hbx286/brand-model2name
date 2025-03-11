@@ -1797,7 +1797,7 @@
     },
     "SM-A137F": {
         "brand": "三星",
-        "model": "Galaxy A13 Global (Mediatek)"
+        "model": "Galaxy A13 Global (MediaTek)"
     },
     "SM-A136B": {
         "brand": "三星",
@@ -1841,11 +1841,11 @@
     },
     "SM-A145P": {
         "brand": "三星",
-        "model": "Galaxy A14 MEA (Mediatek)"
+        "model": "Galaxy A14 MEA (MediaTek)"
     },
     "SM-A145R": {
         "brand": "三星",
-        "model": "Galaxy A14 EU (Mediatek)"
+        "model": "Galaxy A14 EU (MediaTek)"
     },
     "SM-A146B": {
         "brand": "三星",
@@ -1857,7 +1857,7 @@
     },
     "SM-A146P": {
         "brand": "三星",
-        "model": "Galaxy A14 5G Global (Mediatek)"
+        "model": "Galaxy A14 5G Global (MediaTek)"
     },
     "SM-A146U": {
         "brand": "三星",
@@ -1965,7 +1965,7 @@
     },
     "SM-A166P": {
         "brand": "三星",
-        "model": "Galaxy A16 5G Global (Mediatek)"
+        "model": "Galaxy A16 5G Global (MediaTek)"
     },
     "SM-A260F": {
         "brand": "三星",
@@ -2190,6 +2190,30 @@
     "SM-A256N": {
         "brand": "三星",
         "model": "Galaxy A25 5G South Korea"
+    },
+    "SM-A253Q": {
+        "brand": "三星",
+        "model": "Galaxy A25 5G Japan (SIM Free)"
+    },
+    "SM-A253Z": {
+        "brand": "三星",
+        "model": "Galaxy A25 5G Japan (SoftBank)"
+    },
+    "SM-A266B": {
+        "brand": "三星",
+        "model": "Galaxy A26 5G Global"
+    },
+    "SM-A266U": {
+        "brand": "三星",
+        "model": "Galaxy A26 5G US Carrier"
+    },
+    "SM-A266U1": {
+        "brand": "三星",
+        "model": "Galaxy A26 5G US Unlocked"
+    },
+    "SM-S266V": {
+        "brand": "三星",
+        "model": "Galaxy A26 5G TracFone"
     },
     "SM-A305F": {
         "brand": "三星",

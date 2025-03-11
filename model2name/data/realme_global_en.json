@@ -283,6 +283,10 @@
         "brand": "真我",
         "model": "realme 13 Pro+ 5G"
     },
+    "RMX5070": {
+        "brand": "真我",
+        "model": "realme P3 5G"
+    },
     "RMX3940": {
         "brand": "真我",
         "model": "realme 14x 5G"
@@ -681,11 +685,15 @@
     },
     "RMX3944": {
         "brand": "真我",
-        "model": "realme P3x 5G"
+        "model": "realme NARZO 80x 5G"
     },
     "RMX5032": {
         "brand": "真我",
         "model": "realme P3 Pro 5G"
+    },
+    "RMX5030": {
+        "brand": "真我",
+        "model": "realme P3 Ultra 5G"
     },
     "RMX2191": {
         "brand": "真我",
