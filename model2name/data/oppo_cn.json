@@ -619,6 +619,10 @@
         "brand": "oppo",
         "model": "OPPO A5 5G (2025)"
     },
+    "PKV110": {
+        "brand": "oppo",
+        "model": "OPPO A5 活力版"
+    },
     "PKP110": {
         "brand": "oppo",
         "model": "OPPO A5 Pro"
@@ -813,6 +817,6 @@
     },
     "OWW242": {
         "brand": "oppo",
-        "model": "OPPO Watch"
+        "model": "OPPO Watch X2 Mini"
     }
 }
