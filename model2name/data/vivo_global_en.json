@@ -941,19 +941,15 @@
     },
     "I2009": {
         "brand": "vivo",
-        "model": "iQOO 7"
+        "model": "iQOO 7 Global"
     },
     "I2012": {
         "brand": "vivo",
-        "model": "iQOO 7"
+        "model": "iQOO 7 India"
     },
     "I2017": {
         "brand": "vivo",
         "model": "iQOO 9"
-    },
-    "I2201": {
-        "brand": "vivo",
-        "model": "iQOO 9T"
     },
     "I2022": {
         "brand": "vivo",
@@ -962,6 +958,10 @@
     "I2019": {
         "brand": "vivo",
         "model": "iQOO 9 SE"
+    },
+    "I2201": {
+        "brand": "vivo",
+        "model": "iQOO 9T"
     },
     "I2212": {
         "brand": "vivo",
@@ -987,10 +987,6 @@
         "brand": "vivo",
         "model": "iQOO Neo7 Pro"
     },
-    "I2303": {
-        "brand": "vivo",
-        "model": "iQOO Neo9"
-    },
     "I2304": {
         "brand": "vivo",
         "model": "iQOO Neo9 Pro"
@@ -1009,15 +1005,15 @@
     },
     "I2127": {
         "brand": "vivo",
-        "model": "iQOO Z6"
+        "model": "iQOO Z6 5G"
     },
     "I2203": {
         "brand": "vivo",
-        "model": "iQOO Z6"
+        "model": "iQOO Z6 44W"
     },
     "I2206": {
         "brand": "vivo",
-        "model": "iQOO Z6"
+        "model": "iQOO Z6 44W"
     },
     "I2126": {
         "brand": "vivo",
@@ -1027,17 +1023,13 @@
         "brand": "vivo",
         "model": "iQOO Z6 Lite 5G"
     },
-    "I2205": {
+    "I2213": {
         "brand": "vivo",
-        "model": "iQOO Z6 Pro SE"
+        "model": "iQOO Z7 5G Global"
     },
     "I2207": {
         "brand": "vivo",
-        "model": "iQOO Z7 5G"
-    },
-    "I2213": {
-        "brand": "vivo",
-        "model": "iQOO Z7 5G"
+        "model": "iQOO Z7 5G India"
     },
     "I2223": {
         "brand": "vivo",
