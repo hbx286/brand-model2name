@@ -279,6 +279,10 @@
         "brand": "真我",
         "model": "真我 13 Pro+"
     },
+    "RMX5075": {
+        "brand": "真我",
+        "model": "真我 14"
+    },
     "RMX5055": {
         "brand": "真我",
         "model": "真我 14 Pro"
@@ -374,6 +378,14 @@
     "RMX3953": {
         "brand": "真我",
         "model": "真我 V60 Pro"
+    },
+    "RMX3946": {
+        "brand": "真我",
+        "model": "真我 V70"
+    },
+    "RMX3948": {
+        "brand": "真我",
+        "model": "真我 V70s"
     },
     "RMP2108": {
         "brand": "真我",
