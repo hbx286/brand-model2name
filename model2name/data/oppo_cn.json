@@ -79,6 +79,22 @@
         "brand": "oppo",
         "model": "OPPO Find X8 Pro 卫星通信版"
     },
+    "PKT110": {
+        "brand": "oppo",
+        "model": "OPPO Find X8s"
+    },
+    "PLB110": {
+        "brand": "oppo",
+        "model": "OPPO Find X8s+"
+    },
+    "PKJ110": {
+        "brand": "oppo",
+        "model": "OPPO Find X8 Ultra"
+    },
+    "PKU110": {
+        "brand": "oppo",
+        "model": "OPPO Find X8 Ultra 卫星通信版"
+    },
     "PEUM00": {
         "brand": "oppo",
         "model": "OPPO Find N"
@@ -722,6 +738,10 @@
     "OPD2401": {
         "brand": "oppo",
         "model": "OPPO Pad 3 Pro"
+    },
+    "OPD2409": {
+        "brand": "oppo",
+        "model": "OPPO Pad 4 Pro"
     },
     "OB19B1": {
         "brand": "oppo",
