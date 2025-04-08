@@ -1371,6 +1371,14 @@
         "brand": "华为",
         "model": "华为畅享 70X"
     },
+    "BRE-AL00a": {
+        "brand": "华为",
+        "model": "华为畅享 70X 活力版 (128GB)"
+    },
+    "BRE-AL00b": {
+        "brand": "华为",
+        "model": "华为畅享 70X 活力版 (256GB/512GB)"
+    },
     "S8-301W": {
         "brand": "华为",
         "model": "华为 MediaPad M1 Wi-Fi 版"
@@ -3170,6 +3178,22 @@
     "HD85ARQD": {
         "brand": "华为",
         "model": "华为 Vision 智慧屏 4 Pro 85"
+    },
+    "HD6XAJMN": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 5 65"
+    },
+    "HD7XAJMN": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 5 75"
+    },
+    "HD8XAJMN": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 5 85"
+    },
+    "HD9XAJMN": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 5 98"
     },
     "HD55DESB": {
         "brand": "华为",
