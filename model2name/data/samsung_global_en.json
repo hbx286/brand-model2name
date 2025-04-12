@@ -2199,6 +2199,14 @@
         "brand": "三星",
         "model": "Galaxy A25 5G Japan (SoftBank)"
     },
+    "SCG33": {
+        "brand": "三星",
+        "model": "Galaxy A25 5G Japan (au)"
+    },
+    "SC-53F": {
+        "brand": "三星",
+        "model": "Galaxy A25 5G Japan (NTT Docomo)"
+    },
     "SM-A266B": {
         "brand": "三星",
         "model": "Galaxy A26 5G Global"
@@ -2214,6 +2222,10 @@
     "SM-S266V": {
         "brand": "三星",
         "model": "Galaxy A26 5G TracFone"
+    },
+    "SM-A266M": {
+        "brand": "三星",
+        "model": "Galaxy A26 5G Latin America"
     },
     "SM-A305F": {
         "brand": "三星",
@@ -3127,6 +3139,10 @@
         "brand": "三星",
         "model": "Galaxy C55 5G"
     },
+    "SM-M566B": {
+        "brand": "三星",
+        "model": "Galaxy M56 5G"
+    },
     "SM-M625F": {
         "brand": "三星",
         "model": "Galaxy M62"
@@ -3202,6 +3218,10 @@
     "SM-E556B": {
         "brand": "三星",
         "model": "Galaxy F55 5G"
+    },
+    "SM-E566B": {
+        "brand": "三星",
+        "model": "Galaxy F56 5G"
     },
     "SM-E625F": {
         "brand": "三星",
