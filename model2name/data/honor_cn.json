@@ -907,6 +907,14 @@
         "brand": "荣耀",
         "model": "荣耀畅玩 50 5G / 荣耀畅玩 50m 5G"
     },
+    "DVD-AN00": {
+        "brand": "荣耀",
+        "model": "荣耀 Power"
+    },
+    "DVD-AN80": {
+        "brand": "荣耀",
+        "model": "荣耀 Power 卫星版"
+    },
     "EDI-AL10": {
         "brand": "荣耀",
         "model": "荣耀 Note8 全网通版"
@@ -1822,6 +1830,10 @@
     "FRG-X": {
         "brand": "荣耀",
         "model": "荣耀笔记本 X14 2025"
+    },
+    "GDG-X": {
+        "brand": "荣耀",
+        "model": "荣耀笔记本 X14 2025 战斗版"
     },
     "FMI-76": {
         "brand": "荣耀",
