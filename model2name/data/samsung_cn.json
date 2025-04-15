@@ -1015,6 +1015,22 @@
         "brand": "三星",
         "model": "Galaxy Tab S10 Ultra 5G"
     },
+    "SM-X520": {
+        "brand": "三星",
+        "model": "Galaxy Tab S10 FE WLAN"
+    },
+    "SM-X526C": {
+        "brand": "三星",
+        "model": "Galaxy Tab S10 FE 5G"
+    },
+    "SM-X620": {
+        "brand": "三星",
+        "model": "Galaxy Tab S10 FE+ WLAN"
+    },
+    "SM-X626C": {
+        "brand": "三星",
+        "model": "Galaxy Tab S10 FE+ 5G"
+    },
     "SM-T350": {
         "brand": "三星",
         "model": "Galaxy Tab A 8.0 WLAN"
