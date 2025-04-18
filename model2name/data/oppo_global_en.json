@@ -893,11 +893,11 @@
     },
     "OW19W6": {
         "brand": "oppo",
-        "model": "OPPO Watch 41mm Wi-Fi"
+        "model": "OPPO Watch 41mm"
     },
     "OW19W8": {
         "brand": "oppo",
-        "model": "OPPO Watch 46mm Wi-Fi"
+        "model": "OPPO Watch 46mm"
     },
     "OW19W12": {
         "brand": "oppo",
@@ -906,5 +906,9 @@
     "OWWE231": {
         "brand": "oppo",
         "model": "OPPO Watch X"
+    },
+    "OWWE251": {
+        "brand": "oppo",
+        "model": "OPPO Watch X2"
     }
 }

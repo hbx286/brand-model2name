@@ -815,6 +815,10 @@
         "brand": "oppo",
         "model": "OPPO Watch 2 46mm ECG"
     },
+    "OWW213": {
+        "brand": "oppo",
+        "model": "OPPO Watch SE"
+    },
     "OWW212": {
         "brand": "oppo",
         "model": "OPPO Watch 3"
@@ -822,10 +826,6 @@
     "OWW211": {
         "brand": "oppo",
         "model": "OPPO Watch 3 Pro"
-    },
-    "OWW213": {
-        "brand": "oppo",
-        "model": "OPPO Watch SE"
     },
     "OWW221": {
         "brand": "oppo",

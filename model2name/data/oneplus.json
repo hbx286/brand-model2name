@@ -451,6 +451,10 @@
         "brand": "一加",
         "model": "OnePlus 13T 国行版"
     },
+    "CPH2723": {
+        "brand": "一加",
+        "model": "OnePlus 13T 国际版"
+    },
     "AC2001": {
         "brand": "一加",
         "model": "OnePlus Nord 印度版"
@@ -601,7 +605,7 @@
     },
     "OPD2203": {
         "brand": "一加",
-        "model": "OnePlus Pad (国际)"
+        "model": "OnePlus Pad (2023)"
     },
     "OPD2304": {
         "brand": "一加",
@@ -613,7 +617,7 @@
     },
     "OPD2407": {
         "brand": "一加",
-        "model": "OnePlus Pad (国行)"
+        "model": "OnePlus Pad (2024)"
     },
     "OPD2404": {
         "brand": "一加",
@@ -641,7 +645,7 @@
     },
     "W301GB": {
         "brand": "一加",
-        "model": "OnePlus Watch 国际版 / 钴合金限定版 (国际)"
+        "model": "OnePlus Watch 国际版 / 钴合金限定版 (国际) / 哈利波特限定版"
     },
     "OPWW234": {
         "brand": "一加",
@@ -653,6 +657,14 @@
     },
     "OPWWE231": {
         "brand": "一加",
-        "model": "OnePlus Watch 2 国际版"
+        "model": "OnePlus Watch 2 (国际)"
+    },
+    "OPWW251": {
+        "brand": "一加",
+        "model": "OnePlus Watch 3 (国行)~"
+    },
+    "OPWWE251": {
+        "brand": "一加",
+        "model": "OnePlus Watch 3 (国际)"
     }
 }
