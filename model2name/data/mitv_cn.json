@@ -739,6 +739,10 @@
         "brand": "小米电视",
         "model": "REDMI 电视 A43 2025 节能版 (一级能效)"
     },
+    "L50RB-RAE": {
+        "brand": "小米电视",
+        "model": "REDMI 电视 A50 2025 节能版 (二级能效)"
+    },
     "L55RB-RAE": {
         "brand": "小米电视",
         "model": "REDMI 电视 A55 2025 节能版 (一级能效)"
@@ -777,7 +781,7 @@
     },
     "L75RB-AP": {
         "brand": "小米电视",
-        "model": "Redmi 智能电视 A Pro 75 节能版 (二级能效)"
+        "model": "Redmi 智能电视 A Pro 75 节能版 (一级能效)"
     },
     "L43RB-APE": {
         "brand": "小米电视",
@@ -886,6 +890,22 @@
     "L85RB-RX": {
         "brand": "小米电视",
         "model": "Redmi 智能电视 X85 2025"
+    },
+    "L55RB-RXE": {
+        "brand": "小米电视",
+        "model": "REDMI 电视 X55 2025 节能版 (二级能效)"
+    },
+    "L65RB-RXE": {
+        "brand": "小米电视",
+        "model": "REDMI 电视 X65 2025 节能版 (二级能效)"
+    },
+    "L75RB-RXE": {
+        "brand": "小米电视",
+        "model": "REDMI 电视 X75 2025 节能版 (一级能效)"
+    },
+    "L85RB-RXE": {
+        "brand": "小米电视",
+        "model": "REDMI 电视 X85 2025 节能版 (一级能效)"
     },
     "L65R9-XP": {
         "brand": "小米电视",

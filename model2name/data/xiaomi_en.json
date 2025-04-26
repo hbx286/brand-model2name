@@ -1433,7 +1433,7 @@
     },
     "24049RN28L": {
         "brand": "小米",
-        "model": "Redmi 13 Latin America"
+        "model": "Redmi 13 Latin America / REDMI 13x Latin America"
     },
     "24040RN64Y": {
         "brand": "小米",
@@ -2266,6 +2266,10 @@
     "24129RT7CC": {
         "brand": "小米",
         "model": "REDMI Turbo 4 China"
+    },
+    "25053RT47C": {
+        "brand": "小米",
+        "model": "REDMI Turbo 4 Pro China"
     },
     "M1903F10A": {
         "brand": "小米",
