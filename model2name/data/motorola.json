@@ -198,5 +198,25 @@
     "XT2437-4": {
         "brand": "摩托罗拉",
         "model": "moto g75"
+    },
+    "XT2505-4": {
+        "brand": "摩托罗拉",
+        "model": "moto edge 60"
+    },
+    "XT2503-3": {
+        "brand": "摩托罗拉",
+        "model": "moto edge 60s"
+    },
+    "XT2507-5": {
+        "brand": "摩托罗拉",
+        "model": "moto edge 60 Pro"
+    },
+    "XT2553-2": {
+        "brand": "摩托罗拉",
+        "model": "moto razr 60"
+    },
+    "XT2551-3": {
+        "brand": "摩托罗拉",
+        "model": "moto razr 60 Ultra"
     }
 }
