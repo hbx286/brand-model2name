@@ -291,6 +291,10 @@
         "brand": "真我",
         "model": "realme 14x 5G"
     },
+    "RMX5078": {
+        "brand": "真我",
+        "model": "realme 14T 5G"
+    },
     "RMX5079": {
         "brand": "真我",
         "model": "realme 14T 5G"
@@ -418,6 +422,14 @@
     "RMX3853": {
         "brand": "真我",
         "model": "realme GT 6T"
+    },
+    "RMX5061": {
+        "brand": "真我",
+        "model": "realme GT 7"
+    },
+    "RMX5085": {
+        "brand": "真我",
+        "model": "realme GT 7T"
     },
     "RMX5011": {
         "brand": "真我",
