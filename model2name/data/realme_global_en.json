@@ -291,6 +291,14 @@
         "brand": "真我",
         "model": "realme 14x 5G"
     },
+    "RMX3943": {
+        "brand": "真我",
+        "model": "realme C75 5G"
+    },
+    "RMX5074": {
+        "brand": "真我",
+        "model": "realme 14T 5G"
+    },
     "RMX5078": {
         "brand": "真我",
         "model": "realme 14T 5G"
@@ -666,6 +674,10 @@
     "RMX3941": {
         "brand": "真我",
         "model": "realme C75"
+    },
+    "RMX5020": {
+        "brand": "真我",
+        "model": "realme C75x"
     },
     "RMX3834": {
         "brand": "真我",
