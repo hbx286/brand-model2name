@@ -323,6 +323,14 @@
         "brand": "oppo",
         "model": "OPPO Reno13 Pro"
     },
+    "PLA110": {
+        "brand": "oppo",
+        "model": "OPPO Reno14"
+    },
+    "PKZ110": {
+        "brand": "oppo",
+        "model": "OPPO Reno14 Pro"
+    },
     "PCLM10": {
         "brand": "oppo",
         "model": "OPPO Reno Ace"
@@ -746,6 +754,10 @@
     "OPD2409": {
         "brand": "oppo",
         "model": "OPPO Pad 4 Pro"
+    },
+    "OPD2417": {
+        "brand": "oppo",
+        "model": "OPPO Pad SE"
     },
     "OB19B1": {
         "brand": "oppo",
