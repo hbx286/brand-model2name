@@ -319,6 +319,10 @@
         "brand": "魅族",
         "model": "MEIZU 21 PRO"
     },
+    "M481S": {
+        "brand": "魅族",
+        "model": "Polestar Phone"
+    },
     "M468Q": {
         "brand": "魅族",
         "model": "Lync & Co Phone Note"
@@ -782,10 +786,6 @@
     "M819H": {
         "brand": "魅族",
         "model": "MEIZU C9 Pro Global"
-    },
-    "M481S": {
-        "brand": "魅族",
-        "model": "Polestar Phone"
     },
     "M481R": {
         "brand": "魅族",

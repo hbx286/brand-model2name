@@ -319,6 +319,10 @@
         "brand": "魅族",
         "model": "魅族 21 PRO"
     },
+    "M481S": {
+        "brand": "魅族",
+        "model": "Polestar Phone"
+    },
     "M468Q": {
         "brand": "魅族",
         "model": "Lync & Co Phone Note"
@@ -782,10 +786,6 @@
     "M710H": {
         "brand": "魅族",
         "model": "魅族 M5c 国际版"
-    },
-    "M481S": {
-        "brand": "魅族",
-        "model": "Polestar Phone"
     },
     "M481R": {
         "brand": "魅族",
