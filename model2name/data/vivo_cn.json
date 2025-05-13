@@ -1110,5 +1110,13 @@
     "iPA2475": {
         "brand": "vivo",
         "model": "iQOO Pad2 Pro"
+    },
+    "iPA2556": {
+        "brand": "vivo",
+        "model": "iQOO Pad5"
+    },
+    "iPA2575": {
+        "brand": "vivo",
+        "model": "iQOO Pad5 Pro"
     }
 }
