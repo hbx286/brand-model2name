@@ -487,6 +487,10 @@
         "brand": "一加",
         "model": "OnePlus Nord 4 Europe / Global"
     },
+    "CPH2709": {
+        "brand": "一加",
+        "model": "OnePlus Nord 5 Global"
+    },
     "EB2101": {
         "brand": "一加",
         "model": "OnePlus Nord CE India"
@@ -662,10 +666,6 @@
     "OPWWE231": {
         "brand": "一加",
         "model": "OnePlus Watch 2 (Global)"
-    },
-    "OPWW251": {
-        "brand": "一加",
-        "model": "OnePlus Watch 3 (China)~"
     },
     "OPWWE251": {
         "brand": "一加",

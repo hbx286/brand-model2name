@@ -751,6 +751,10 @@
         "brand": "三星",
         "model": "Galaxy S24 FE HK & TW"
     },
+    "SM-S721Q": {
+        "brand": "三星",
+        "model": "Galaxy S24 FE Japan (SIM Free)"
+    },
     "SCG30": {
         "brand": "三星",
         "model": "Galaxy S24 FE Japan (au)"
@@ -862,6 +866,30 @@
     "SC-52F": {
         "brand": "三星",
         "model": "Galaxy S25 Ultra Japan (NTT Docomo)"
+    },
+    "SM-S937B": {
+        "brand": "三星",
+        "model": "Galaxy S25 Edge Global"
+    },
+    "SM-S937U": {
+        "brand": "三星",
+        "model": "Galaxy S25 Edge US Carrier"
+    },
+    "SM-S937U1": {
+        "brand": "三星",
+        "model": "Galaxy S25 Edge US Unlocked"
+    },
+    "SM-S937W": {
+        "brand": "三星",
+        "model": "Galaxy S25 Edge Canada"
+    },
+    "SM-S9370": {
+        "brand": "三星",
+        "model": "Galaxy S25 Edge China"
+    },
+    "SM-S937N": {
+        "brand": "三星",
+        "model": "Galaxy S25 Edge South Korea"
     },
     "SM-N960F": {
         "brand": "三星",

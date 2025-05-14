@@ -681,7 +681,7 @@
     },
     "V2445EA": {
         "brand": "vivo",
-        "model": "vivo Y300t 5G"
+        "model": "vivo Y300t 5G / vivo Y300+ 5G"
     },
     "V2452GA": {
         "brand": "vivo",
@@ -1086,6 +1086,10 @@
     "PA2473": {
         "brand": "vivo",
         "model": "vivo Pad3 Pro"
+    },
+    "PA2553": {
+        "brand": "vivo",
+        "model": "vivo Pad5"
     },
     "PA2573": {
         "brand": "vivo",

@@ -301,7 +301,7 @@
     },
     "V2504": {
         "brand": "vivo",
-        "model": "vivo V50 Pro"
+        "model": "vivo T4 Ultra"
     },
     "V2428": {
         "brand": "vivo",
@@ -310,6 +310,10 @@
     "V2441": {
         "brand": "vivo",
         "model": "vivo V50 Lite"
+    },
+    "V2450": {
+        "brand": "vivo",
+        "model": "vivo V50 Lite 5G"
     },
     "V2453": {
         "brand": "vivo",
@@ -398,6 +402,10 @@
     "V2437": {
         "brand": "vivo",
         "model": "vivo T4x 5G"
+    },
+    "V2509": {
+        "brand": "vivo",
+        "model": "vivo T4 Lite 5G"
     },
     "vivo 1929": {
         "brand": "vivo",
@@ -1106,5 +1114,9 @@
     "I2404": {
         "brand": "vivo",
         "model": "iQOO Z10x 5G"
+    },
+    "I2409": {
+        "brand": "vivo",
+        "model": "iQOO Z10 Lite 5G"
     }
 }
