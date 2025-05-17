@@ -1095,6 +1095,10 @@
         "brand": "vivo",
         "model": "vivo Pad5 Pro"
     },
+    "PA2537": {
+        "brand": "vivo",
+        "model": "vivo Pad5e"
+    },
     "PA2511": {
         "brand": "vivo",
         "model": "vivo Pad SE"
@@ -1122,5 +1126,9 @@
     "iPA2575": {
         "brand": "vivo",
         "model": "iQOO Pad5 Pro"
+    },
+    "iPA2535": {
+        "brand": "vivo",
+        "model": "iQOO Pad5e"
     }
 }

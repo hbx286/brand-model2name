@@ -555,6 +555,22 @@
         "brand": "小米电视",
         "model": "小米电视 S85 Mini LED"
     },
+    "L55MB-S": {
+        "brand": "小米电视",
+        "model": "小米电视 S55 Mini LED 2025"
+    },
+    "L65MB-S": {
+        "brand": "小米电视",
+        "model": "小米电视 S65 Mini LED 2025"
+    },
+    "L75MB-S": {
+        "brand": "小米电视",
+        "model": "小米电视 S75 Mini LED 2025"
+    },
+    "L85MB-S": {
+        "brand": "小米电视",
+        "model": "小米电视 S85 Mini LED 2025"
+    },
     "L65MA-SM": {
         "brand": "小米电视",
         "model": "小米电视 S Pro 65 Mini LED"
