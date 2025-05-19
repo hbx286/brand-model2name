@@ -1138,5 +1138,65 @@
     "iPA2535": {
         "brand": "vivo",
         "model": "iQOO Pad5e"
+    },
+    "WA2052": {
+        "brand": "vivo",
+        "model": "vivo WATCH 42mm"
+    },
+    "WA2056": {
+        "brand": "vivo",
+        "model": "vivo WATCH 46mm"
+    },
+    "WA2156A": {
+        "brand": "vivo",
+        "model": "vivo WATCH 2 eSIM 版"
+    },
+    "WA2356A": {
+        "brand": "vivo",
+        "model": "vivo WATCH 3 eSIM 版 / ECG 版"
+    },
+    "WA2356C": {
+        "brand": "vivo",
+        "model": "vivo WATCH 3 蓝牙版"
+    },
+    "WA2456A": {
+        "brand": "vivo",
+        "model": "vivo WATCH GT eSIM 版"
+    },
+    "WA2456C": {
+        "brand": "vivo",
+        "model": "vivo WATCH GT 蓝牙版"
+    },
+    "WA2556A": {
+        "brand": "vivo",
+        "model": "vivo WATCH 5 蓝牙版"
+    },
+    "WA2556B": {
+        "brand": "vivo",
+        "model": "vivo WATCH 5 eSIM 版"
+    },
+    "iWA2356A": {
+        "brand": "vivo",
+        "model": "iQOO WATCH eSIM 版"
+    },
+    "iWA2356C": {
+        "brand": "vivo",
+        "model": "iQOO WATCH 蓝牙版"
+    },
+    "iWA2456A": {
+        "brand": "vivo",
+        "model": "iQOO WATCH GT eSIM 版"
+    },
+    "iWA2456C": {
+        "brand": "vivo",
+        "model": "iQOO WATCH GT 蓝牙版"
+    },
+    "iWA2556A": {
+        "brand": "vivo",
+        "model": "iQOO WATCH 5 蓝牙版"
+    },
+    "iWA2556B": {
+        "brand": "vivo",
+        "model": "iQOO WATCH 5 eSIM 版"
     }
 }
