@@ -931,6 +931,18 @@
         "brand": "华为",
         "model": "HUAWEI nova 13 Pro"
     },
+    "TLR-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 14"
+    },
+    "MIA-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 14 Pro"
+    },
+    "MRT-AL10": {
+        "brand": "华为",
+        "model": "HUAWEI nova 14 Ultra"
+    },
     "HUAWEI G6-T00": {
         "brand": "华为",
         "model": "华为 Ascend G6 移动版"
@@ -1957,7 +1969,7 @@
     },
     "BZF5-W00": {
         "brand": "华为",
-        "model": "华为擎云 C5e (第 2 代) 11 英寸 Wi-Fi 版"
+        "model": "华为擎云 C5s 11 英寸 Wi-Fi 版"
     },
     "BLF5-W00": {
         "brand": "华为",
@@ -2090,6 +2102,18 @@
     "VGHH-32": {
         "brand": "华为",
         "model": "HUAWEI MateBook X Pro 酷睿 Ultra (32GB 内存)"
+    },
+    "HAD-W24": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook Pro (24GB 内存)"
+    },
+    "HAD-W32": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook Pro (32GB 内存)"
+    },
+    "HPR-W72": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook Fold ULTIMATE DESIGN 非凡大师 (32GB 内存)"
     },
     "WRT-W19": {
         "brand": "华为",
@@ -2797,7 +2821,59 @@
     },
     "KLVV-W5821": {
         "brand": "华为",
-        "model": "华为擎云 L420"
+        "model": "华为擎云 L420 (8GB+256GB)"
+    },
+    "KLVV-W5821B": {
+        "brand": "华为",
+        "model": "华为擎云 L420 (8GB+512GB)"
+    },
+    "KLVV-W5821C": {
+        "brand": "华为",
+        "model": "华为擎云 L420 (16GB+256GB)"
+    },
+    "KLVV-W5821D": {
+        "brand": "华为",
+        "model": "华为擎云 L420 (16GB+512GB)"
+    },
+    "HAD-W72-001": {
+        "brand": "华为",
+        "model": "华为擎云 HM940"
+    },
+    "HAD-W72-002": {
+        "brand": "华为",
+        "model": "华为擎云 HM940"
+    },
+    "HAD-W72-003": {
+        "brand": "华为",
+        "model": "华为擎云 HM940"
+    },
+    "HAD-W72-004": {
+        "brand": "华为",
+        "model": "华为擎云 HM940"
+    },
+    "HAD-W72-005": {
+        "brand": "华为",
+        "model": "华为擎云 HM940"
+    },
+    "HAD-W72-006": {
+        "brand": "华为",
+        "model": "华为擎云 HM940"
+    },
+    "HAD-W72-007": {
+        "brand": "华为",
+        "model": "华为擎云 HM940"
+    },
+    "HAD-W72-008": {
+        "brand": "华为",
+        "model": "华为擎云 HM940"
+    },
+    "HAD-W72-009": {
+        "brand": "华为",
+        "model": "华为擎云 HM940"
+    },
+    "HAD-W72-010": {
+        "brand": "华为",
+        "model": "华为擎云 HM940"
     },
     "HEGE-550": {
         "brand": "华为",
@@ -3323,6 +3399,10 @@
         "brand": "华为",
         "model": "HUAWEI WATCH 4 Pro"
     },
+    "SOC-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH 5"
+    },
     "CLB-B19": {
         "brand": "华为",
         "model": "HUAWEI WATCH ULTIMATE DESIGN 非凡大师 黄金款"
@@ -3425,27 +3505,39 @@
     },
     "TIA-B19": {
         "brand": "华为",
-        "model": "HUAWEI WATCH FIT new"
+        "model": "HUAWEI WATCH FIT / HUAWEI WATCH FIT new"
     },
     "TIA-B29": {
         "brand": "华为",
-        "model": "HUAWEI WATCH FIT"
+        "model": "HUAWEI WATCH FIT 雅致款"
+    },
+    "TIA-B39": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH FIT mini"
     },
     "YDA-B09S": {
         "brand": "华为",
-        "model": "HUAWEI WATCH FIT 2"
+        "model": "HUAWEI WATCH FIT 2 活力款"
     },
     "YDA-B19S": {
         "brand": "华为",
-        "model": "HUAWEI WATCH FIT 2"
+        "model": "HUAWEI WATCH FIT 2 活力款"
     },
     "YDA-B19V": {
         "brand": "华为",
-        "model": "HUAWEI WATCH FIT 2"
+        "model": "HUAWEI WATCH FIT 2 雅致款 / 时尚款"
     },
     "SLO-B19": {
         "brand": "华为",
         "model": "HUAWEI WATCH FIT 3"
+    },
+    "SYA-B19": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH FIT 4"
+    },
+    "SYA-B29": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH FIT 4 Pro"
     },
     "MLY-B10": {
         "brand": "华为",

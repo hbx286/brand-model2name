@@ -807,6 +807,10 @@
         "brand": "小米",
         "model": "Xiaomi Civi 4 Pro China"
     },
+    "25067PYE3C": {
+        "brand": "小米",
+        "model": "Xiaomi Civi 5 Pro China"
+    },
     "M1901F9E": {
         "brand": "小米",
         "model": "Mi Play China / Global"
@@ -1425,7 +1429,7 @@
     },
     "2404ARN45A": {
         "brand": "小米",
-        "model": "Redmi 13 Global / REDMI 13x Global"
+        "model": "Redmi 13 Global / Redmi 13x Global"
     },
     "2404ARN45I": {
         "brand": "小米",
@@ -1433,7 +1437,7 @@
     },
     "24049RN28L": {
         "brand": "小米",
-        "model": "Redmi 13 Latin America / REDMI 13x Latin America"
+        "model": "Redmi 13 Latin America / Redmi 13x Latin America"
     },
     "24040RN64Y": {
         "brand": "小米",
@@ -2549,23 +2553,23 @@
     },
     "25028RN03G": {
         "brand": "小米",
-        "model": "REDMI A5 Global"
+        "model": "Redmi A5 Global"
     },
     "25028RN03A": {
         "brand": "小米",
-        "model": "REDMI A5 Global"
+        "model": "Redmi A5 Global"
     },
     "25028RN03Y": {
         "brand": "小米",
-        "model": "REDMI A5 Global"
+        "model": "Redmi A5 Global"
     },
     "25028RN03I": {
         "brand": "小米",
-        "model": "REDMI A5 India"
+        "model": "Redmi A5 India"
     },
     "25028RN03L": {
         "brand": "小米",
-        "model": "REDMI A5 Latin America"
+        "model": "Redmi A5 Latin America"
     },
     "M1805E10A": {
         "brand": "小米",
@@ -3006,6 +3010,10 @@
     "24091RPADC": {
         "brand": "小米",
         "model": "Xiaomi Pad 7 Pro China"
+    },
+    "25032RP42C": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 7 Ultra"
     },
     "22081283G": {
         "brand": "小米",

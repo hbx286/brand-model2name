@@ -162,5 +162,21 @@
     "BRO-W00": {
         "brand": "华为智选",
         "model": "Hi MatePad"
+    },
+    "MASH-16": {
+        "brand": "华为智选",
+        "model": "Hi MateBook 14 (16GB 内存)"
+    },
+    "MASH-32": {
+        "brand": "华为智选",
+        "model": "Hi MateBook 14 (32GB 内存)"
+    },
+    "LYOI-16": {
+        "brand": "华为智选",
+        "model": "Hi MateBook D 14"
+    },
+    "NICEI-16": {
+        "brand": "华为智选",
+        "model": "Hi MateBook D 16"
     }
 }
