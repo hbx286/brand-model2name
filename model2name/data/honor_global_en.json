@@ -431,6 +431,14 @@
         "brand": "荣耀",
         "model": "HONOR X6b 5G"
     },
+    "DNY-NX9": {
+        "brand": "荣耀",
+        "model": "HONOR 400"
+    },
+    "DNP-NX9": {
+        "brand": "荣耀",
+        "model": "HONOR 400 Pro"
+    },
     "ABR-NX1": {
         "brand": "荣耀",
         "model": "HONOR 400 Lite"
@@ -751,7 +759,7 @@
         "brand": "荣耀",
         "model": "HONOR Pad 9 5G"
     },
-    "ROL-W09": {
+    "ROL-W00": {
         "brand": "荣耀",
         "model": "HONOR Pad V9"
     },
@@ -771,8 +779,20 @@
         "brand": "荣耀",
         "model": "HONOR Pad X9a Wi-Fi"
     },
+    "ELN2-L23": {
+        "brand": "荣耀",
+        "model": "HONOR Pad X9a LTE"
+    },
+    "ELN2-L29": {
+        "brand": "荣耀",
+        "model": "HONOR Pad X9a LTE"
+    },
     "ROD2-W09": {
         "brand": "荣耀",
         "model": "HONOR MagicPad2"
+    },
+    "HEY3-W00": {
+        "brand": "荣耀",
+        "model": "HONOR Pad 10 Wi-Fi"
     }
 }

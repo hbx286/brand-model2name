@@ -3405,7 +3405,11 @@
     },
     "SOC-AL00": {
         "brand": "华为",
-        "model": "HUAWEI WATCH 5"
+        "model": "HUAWEI WATCH 5 42mm"
+    },
+    "RTS-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH 5 46mm"
     },
     "CLB-B19": {
         "brand": "华为",
