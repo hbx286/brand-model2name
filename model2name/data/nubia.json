@@ -263,6 +263,10 @@
         "brand": "努比亚",
         "model": "nubia Neo 3"
     },
+    "Z2464N": {
+        "brand": "努比亚",
+        "model": "nubia Neo 3 5G"
+    },
     "Z2465N": {
         "brand": "努比亚",
         "model": "nubia Neo 3 GT 5G"
@@ -397,7 +401,7 @@
     },
     "NX789J": {
         "brand": "努比亚",
-        "model": "红魔 10 Pro / 红魔 10 Pro+"
+        "model": "红魔 10S Pro / 红魔 10S Pro+"
     },
     "NX779J": {
         "brand": "努比亚",
@@ -410,5 +414,9 @@
     "NP03J": {
         "brand": "努比亚",
         "model": "红魔电竞平板 Pro"
+    },
+    "NP05J": {
+        "brand": "努比亚",
+        "model": "红魔电竞平板 3 Pro"
     }
 }
