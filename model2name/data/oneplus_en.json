@@ -551,6 +551,10 @@
         "brand": "一加",
         "model": "OnePlus Nord CE 4 Lite Europe / Global"
     },
+    "CPH2717": {
+        "brand": "一加",
+        "model": "OnePlus Nord CE 5"
+    },
     "BE2025": {
         "brand": "一加",
         "model": "OnePlus Nord N10 Metro"
@@ -643,6 +647,10 @@
         "brand": "一加",
         "model": "OnePlus Pad 2 Pro"
     },
+    "OPD2415": {
+        "brand": "一加",
+        "model": "OnePlus Pad 3"
+    },
     "W101IN": {
         "brand": "一加",
         "model": "OnePlus Band India"
@@ -674,6 +682,10 @@
     "OPWWE231": {
         "brand": "一加",
         "model": "OnePlus Watch 2 (Global)"
+    },
+    "OPWW251": {
+        "brand": "一加",
+        "model": "OnePlus Watch 3 (China)~"
     },
     "OPWWE251": {
         "brand": "一加",

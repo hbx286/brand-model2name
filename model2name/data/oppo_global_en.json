@@ -351,6 +351,18 @@
         "brand": "oppo",
         "model": "OPPO Reno13 F 5G"
     },
+    "CPH2737": {
+        "brand": "oppo",
+        "model": "OPPO Reno14"
+    },
+    "CPH2739": {
+        "brand": "oppo",
+        "model": "OPPO Reno14 Pro"
+    },
+    "CPH2743": {
+        "brand": "oppo",
+        "model": "OPPO Reno14 F 5G"
+    },
     "CPH1819": {
         "brand": "oppo",
         "model": "OPPO F7"
@@ -912,6 +924,10 @@
         "model": "OPPO Pad SE LTE"
     },
     "OB19B1": {
+        "brand": "oppo",
+        "model": "OPPO Band / Style"
+    },
+    "OB19O3": {
         "brand": "oppo",
         "model": "OPPO Band / Style"
     },

@@ -731,6 +731,10 @@
         "brand": "oppo",
         "model": "OPPO K12s"
     },
+    "PLM110": {
+        "brand": "oppo",
+        "model": "OPPO K13"
+    },
     "OPD2101": {
         "brand": "oppo",
         "model": "OPPO Pad"
@@ -765,23 +769,35 @@
     },
     "OB19B1": {
         "brand": "oppo",
-        "model": "OPPO Band 标准版 / 名侦探柯南限定版"
-    },
-    "OB19B3": {
-        "brand": "oppo",
-        "model": "OPPO Band NFC 版"
-    },
-    "OB19O0": {
-        "brand": "oppo",
-        "model": "OPPO Band 时尚版"
+        "model": "OPPO Band 活力板"
     },
     "OB19O1": {
         "brand": "oppo",
         "model": "OPPO Band 运动版"
     },
+    "OB19O3": {
+        "brand": "oppo",
+        "model": "OPPO Band 运动版(国际版)"
+    },
+    "OB19O7": {
+        "brand": "oppo",
+        "model": "OPPO Band 活力板"
+    },
+    "OB19B3": {
+        "brand": "oppo",
+        "model": "OPPO Band 名侦探柯南限定版"
+    },
+    "OB19O0": {
+        "brand": "oppo",
+        "model": "OPPO Band 时尚版(NFC 版)"
+    },
     "OB19O2": {
         "brand": "oppo",
         "model": "OPPO Band EVA 限定版"
+    },
+    "OB19O8": {
+        "brand": "oppo",
+        "model": "OPPO Band 名侦探柯南限定版"
     },
     "OBB211": {
         "brand": "oppo",
@@ -851,12 +867,16 @@
         "brand": "oppo",
         "model": "OPPO Watch X"
     },
-    "OWW251": {
+    "OWW235": {
         "brand": "oppo",
-        "model": "OPPO Watch X2"
+        "model": "OPPO Watch Sport"
     },
     "OWW242": {
         "brand": "oppo",
         "model": "OPPO Watch X2 Mini"
+    },
+    "OWW251": {
+        "brand": "oppo",
+        "model": "OPPO Watch X2"
     }
 }
