@@ -141,7 +141,7 @@
     },
     "Lenovo TB-J606F": {
         "brand": "联想",
-        "model": "Lenovo Tab K11 11 英寸 Wi-Fi 版"
+        "model": "联想平板电脑 K11 11 英寸 Wi-Fi 版"
     },
     "TB128FU": {
         "brand": "联想",
@@ -507,9 +507,25 @@
         "brand": "联想",
         "model": "联想昭阳 G11 10.95 英寸 Wi-Fi 版"
     },
+    "TB-X903F": {
+        "brand": "联想",
+        "model": "联想昭阳 G12 11.5 英寸 Wi-Fi 版"
+    },
+    "TB352FC1": {
+        "brand": "联想",
+        "model": "联想昭阳 P07 11.5 英寸 Wi-Fi 版"
+    },
+    "TB352XC1": {
+        "brand": "联想",
+        "model": "联想昭阳 P07 11.5 英寸 LTE 版"
+    },
     "Lenovo TB-J606N": {
         "brand": "联想",
-        "model": "Lenovo Tab K11 11 英寸 LTE 版"
+        "model": "联想平板电脑 K11 11 英寸 LTE 版"
+    },
+    "QBH11": {
+        "brand": "联想",
+        "model": "联想平板电脑 S11 Pro 11.5 英寸 Wi-Fi 版"
     },
     "TB610FU": {
         "brand": "联想",
