@@ -939,6 +939,10 @@
         "brand": "小米",
         "model": "Xiaomi Pad 7 Ultra"
     },
+    "25053RP5CC": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 7S Pro 12.5"
+    },
     "2013022": {
         "brand": "小米",
         "model": "红米手机 移动版"
@@ -2722,6 +2726,38 @@
     "24076RP19I": {
         "brand": "小米",
         "model": "Redmi Pad SE 4G 印度版"
+    },
+    "25040RP0AC": {
+        "brand": "小米",
+        "model": "REDMI Pad 2 国行版"
+    },
+    "25040RP0AG": {
+        "brand": "小米",
+        "model": "Redmi Pad 2 国际版"
+    },
+    "25040RP0AI": {
+        "brand": "小米",
+        "model": "Redmi Pad 2 印度版"
+    },
+    "25040RP0AE": {
+        "brand": "小米",
+        "model": "Redmi Pad 2 欧洲版"
+    },
+    "25040RP0AL": {
+        "brand": "小米",
+        "model": "Redmi Pad 2 拉美版"
+    },
+    "2505DRP06C": {
+        "brand": "小米",
+        "model": "REDMI Pad 2 4G 国行版"
+    },
+    "2505DRP06G": {
+        "brand": "小米",
+        "model": "Redmi Pad 2 4G 国际版"
+    },
+    "2505DRP06I": {
+        "brand": "小米",
+        "model": "Redmi Pad 2 4G 印度版"
     },
     "M1805E10A": {
         "brand": "小米",

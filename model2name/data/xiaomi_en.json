@@ -3015,6 +3015,10 @@
         "brand": "小米",
         "model": "Xiaomi Pad 7 Ultra"
     },
+    "25053RP5CC": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 7S Pro 12.5 China"
+    },
     "22081283G": {
         "brand": "小米",
         "model": "Redmi Pad Global"
@@ -3074,6 +3078,38 @@
     "24076RP19I": {
         "brand": "小米",
         "model": "Redmi Pad SE 4G India"
+    },
+    "25040RP0AG": {
+        "brand": "小米",
+        "model": "Redmi Pad 2 Global"
+    },
+    "25040RP0AI": {
+        "brand": "小米",
+        "model": "Redmi Pad 2 India"
+    },
+    "25040RP0AE": {
+        "brand": "小米",
+        "model": "Redmi Pad 2 Europe"
+    },
+    "25040RP0AL": {
+        "brand": "小米",
+        "model": "Redmi Pad 2 Latin America"
+    },
+    "25040RP0AC": {
+        "brand": "小米",
+        "model": "REDMI Pad 2 China"
+    },
+    "2505DRP06G": {
+        "brand": "小米",
+        "model": "Redmi Pad 2 4G Global"
+    },
+    "2505DRP06I": {
+        "brand": "小米",
+        "model": "Redmi Pad 2 4G India"
+    },
+    "2505DRP06C": {
+        "brand": "小米",
+        "model": "REDMI Pad 2 4G China"
     },
     "2405CPCFBG": {
         "brand": "小米",
