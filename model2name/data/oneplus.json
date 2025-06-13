@@ -495,6 +495,10 @@
         "brand": "一加",
         "model": "一加 Nord 4 欧洲版 / 国际版"
     },
+    "CPH2707": {
+        "brand": "一加",
+        "model": "一加 Nord 5 印度版"
+    },
     "CPH2709": {
         "brand": "一加",
         "model": "一加 Nord 5 国际版"
@@ -553,7 +557,11 @@
     },
     "CPH2717": {
         "brand": "一加",
-        "model": "一加 Nord CE 5"
+        "model": "一加 Nord CE 5 印度版"
+    },
+    "CPH2719": {
+        "brand": "一加",
+        "model": "一加 Nord CE 5 国际版"
     },
     "BE2025": {
         "brand": "一加",

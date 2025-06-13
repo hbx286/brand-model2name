@@ -2783,6 +2783,10 @@
         "brand": "三星",
         "model": "Galaxy A56 5G China"
     },
+    "SM-A566S": {
+        "brand": "三星",
+        "model": "Galaxy A56 5G South Korea"
+    },
     "SM-A606F": {
         "brand": "三星",
         "model": "Galaxy A60 Global"
@@ -3123,6 +3127,10 @@
         "brand": "三星",
         "model": "Galaxy M35 5G"
     },
+    "SM-M366B": {
+        "brand": "三星",
+        "model": "Galaxy M36 5G"
+    },
     "SM-M405F": {
         "brand": "三星",
         "model": "Galaxy M40"
@@ -3226,6 +3234,10 @@
     "SM-E346B": {
         "brand": "三星",
         "model": "Galaxy F34 5G"
+    },
+    "SM-E366B": {
+        "brand": "三星",
+        "model": "Galaxy F36 5G"
     },
     "SM-F415F": {
         "brand": "三星",
