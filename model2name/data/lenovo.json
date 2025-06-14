@@ -249,7 +249,7 @@
     },
     "TB520FU": {
         "brand": "联想",
-        "model": "YOGA Pad Pro AI 元启版"
+        "model": "YOGA Pad Pro 12.7 / YOGA Pad Pro AI 元启版"
     },
     "TB571FU": {
         "brand": "联想",
@@ -495,6 +495,18 @@
         "brand": "联想",
         "model": "联想昭阳 K11 11.5 英寸 LTE 版"
     },
+    "TB336FU": {
+        "brand": "联想",
+        "model": "联想昭阳 K11 11 英寸 Wi-Fi 版"
+    },
+    "TB336ZC": {
+        "brand": "联想",
+        "model": "联想昭阳 K11 11 英寸 5G 版"
+    },
+    "TB337FU": {
+        "brand": "联想",
+        "model": "联想昭阳 K11c 10.95 英寸 Wi-Fi 版"
+    },
     "TB373FU": {
         "brand": "联想",
         "model": "联想昭阳 K12 (二代) 12.7 英寸 Wi-Fi 版"
@@ -511,17 +523,17 @@
         "brand": "联想",
         "model": "联想昭阳 G12 11.5 英寸 Wi-Fi 版"
     },
-    "TB352FC1": {
+    "TBY11": {
         "brand": "联想",
-        "model": "联想昭阳 P07 11.5 英寸 Wi-Fi 版"
-    },
-    "TB352XC1": {
-        "brand": "联想",
-        "model": "联想昭阳 P07 11.5 英寸 LTE 版"
+        "model": "联想昭阳 Y11 10.95 英寸 Wi-Fi 版"
     },
     "Lenovo TB-J606N": {
         "brand": "联想",
         "model": "联想平板电脑 K11 11 英寸 LTE 版"
+    },
+    "QBH10": {
+        "brand": "联想",
+        "model": "联想平板电脑 S11 10.95 英寸 Wi-Fi 版"
     },
     "QBH11": {
         "brand": "联想",
