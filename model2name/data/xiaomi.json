@@ -2507,6 +2507,10 @@
         "brand": "小米",
         "model": "REDMI K80 Pro 冠军版"
     },
+    "25060RK16C": {
+        "brand": "小米",
+        "model": "REDMI K80 至尊版"
+    },
     "2016020": {
         "brand": "小米",
         "model": "红米 Pro 标准版"
@@ -2733,19 +2737,19 @@
     },
     "25040RP0AG": {
         "brand": "小米",
-        "model": "Redmi Pad 2 国际版"
+        "model": "REDMI Pad 2 国际版"
     },
     "25040RP0AI": {
         "brand": "小米",
-        "model": "Redmi Pad 2 印度版"
+        "model": "REDMI Pad 2 印度版"
     },
     "25040RP0AE": {
         "brand": "小米",
-        "model": "Redmi Pad 2 欧洲版"
+        "model": "REDMI Pad 2 欧洲版"
     },
     "25040RP0AL": {
         "brand": "小米",
-        "model": "Redmi Pad 2 拉美版"
+        "model": "REDMI Pad 2 拉美版"
     },
     "2505DRP06C": {
         "brand": "小米",
@@ -2753,11 +2757,15 @@
     },
     "2505DRP06G": {
         "brand": "小米",
-        "model": "Redmi Pad 2 4G 国际版"
+        "model": "REDMI Pad 2 4G 国际版"
     },
     "2505DRP06I": {
         "brand": "小米",
-        "model": "Redmi Pad 2 4G 印度版"
+        "model": "REDMI Pad 2 4G 印度版"
+    },
+    "25079RPDCC": {
+        "brand": "小米",
+        "model": "REDMI K Pad 国行版"
     },
     "M1805E10A": {
         "brand": "小米",
