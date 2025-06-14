@@ -603,6 +603,18 @@
         "brand": "小米",
         "model": "Xiaomi 15S Pro"
     },
+    "25069PTEBG": {
+        "brand": "小米",
+        "model": "Xiaomi 15T 国际版"
+    },
+    "2506BPN68G": {
+        "brand": "小米",
+        "model": "Xiaomi 15T Pro 国际版"
+    },
+    "2506BPN68R": {
+        "brand": "小米",
+        "model": "Xiaomi 15T Pro 日本版 (无锁)"
+    },
     "2014616": {
         "brand": "小米",
         "model": "小米 Note 双网通版"
@@ -738,6 +750,14 @@
     "2405CPX3DG": {
         "brand": "小米",
         "model": "Xiaomi MIX Flip 国际版"
+    },
+    "2505APX7BC": {
+        "brand": "小米",
+        "model": "Xiaomi MIX Flip 2 国行版"
+    },
+    "2505APX7BG": {
+        "brand": "小米",
+        "model": "Xiaomi MIX Flip 2 国际版"
     },
     "2016001": {
         "brand": "小米",
@@ -2763,9 +2783,13 @@
         "brand": "小米",
         "model": "REDMI Pad 2 4G 印度版"
     },
+    "2505DRP06E": {
+        "brand": "小米",
+        "model": "REDMI Pad 2 4G 欧洲版"
+    },
     "25079RPDCC": {
         "brand": "小米",
-        "model": "REDMI K Pad 国行版"
+        "model": "REDMI K Pad"
     },
     "M1805E10A": {
         "brand": "小米",

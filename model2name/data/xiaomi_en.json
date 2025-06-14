@@ -603,6 +603,18 @@
         "brand": "小米",
         "model": "Xiaomi 15S Pro China"
     },
+    "25069PTEBG": {
+        "brand": "小米",
+        "model": "Xiaomi 15T Global"
+    },
+    "2506BPN68G": {
+        "brand": "小米",
+        "model": "Xiaomi 15T Pro Global"
+    },
+    "2506BPN68R": {
+        "brand": "小米",
+        "model": "Xiaomi 15T Pro Japan (SIM Free)"
+    },
     "2015011": {
         "brand": "小米",
         "model": "Mi Note Global"
@@ -738,6 +750,14 @@
     "2405CPX3DC": {
         "brand": "小米",
         "model": "Xiaomi MIX Flip China"
+    },
+    "2505APX7BG": {
+        "brand": "小米",
+        "model": "Xiaomi MIX Flip 2 Global"
+    },
+    "2505APX7BC": {
+        "brand": "小米",
+        "model": "Xiaomi MIX Flip 2 China"
     },
     "2016002": {
         "brand": "小米",
@@ -3110,6 +3130,10 @@
     "2505DRP06I": {
         "brand": "小米",
         "model": "Redmi Pad 2 4G India"
+    },
+    "2505DRP06E": {
+        "brand": "小米",
+        "model": "Redmi Pad 2 4G Europe"
     },
     "2505DRP06C": {
         "brand": "小米",
