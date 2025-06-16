@@ -247,6 +247,10 @@
         "brand": "真我",
         "model": "realme 11 Pro+ 5G"
     },
+    "RMX3871": {
+        "brand": "真我",
+        "model": "realme 13 4G"
+    },
     "RMX3999": {
         "brand": "真我",
         "model": "realme 12 5G"
@@ -289,39 +293,35 @@
     },
     "RMX3940": {
         "brand": "真我",
-        "model": "realme 14x 5G"
+        "model": "realme 14x 5G India"
     },
     "RMX3943": {
         "brand": "真我",
-        "model": "realme C75 5G"
+        "model": "realme C75 5G India"
     },
     "RMX5074": {
         "brand": "真我",
-        "model": "realme 14T 5G"
+        "model": "realme 14T 5G Global"
     },
     "RMX5078": {
         "brand": "真我",
-        "model": "realme 14T 5G"
-    },
-    "RMX5079": {
-        "brand": "真我",
-        "model": "realme 14T 5G"
+        "model": "realme 14T 5G India"
     },
     "RMX5056": {
         "brand": "真我",
-        "model": "realme 14 Pro 5G"
+        "model": "realme 14 Pro 5G India"
     },
     "RMX5057": {
         "brand": "真我",
-        "model": "realme 14 Pro 5G"
+        "model": "realme 14 Pro 5G Global"
     },
     "RMX5051": {
         "brand": "真我",
-        "model": "realme 14 Pro+ 5G"
+        "model": "realme 14 Pro+ 5G India"
     },
     "RMX5054": {
         "brand": "真我",
-        "model": "realme 14 Pro+ 5G"
+        "model": "realme 14 Pro+ 5G Global"
     },
     "RMX1901": {
         "brand": "真我",
@@ -647,6 +647,10 @@
         "brand": "真我",
         "model": "realme Narzo N55"
     },
+    "RMX3834": {
+        "brand": "真我",
+        "model": "realme Note 50"
+    },
     "RMX3939": {
         "brand": "真我",
         "model": "realme NARZO N63"
@@ -691,13 +695,13 @@
         "brand": "真我",
         "model": "realme C75"
     },
+    "RMX3963": {
+        "brand": "真我",
+        "model": "realme C75 5G Global"
+    },
     "RMX5020": {
         "brand": "真我",
         "model": "realme C75x"
-    },
-    "RMX3834": {
-        "brand": "真我",
-        "model": "realme Note 50"
     },
     "RMX3938": {
         "brand": "真我",
@@ -726,6 +730,10 @@
     "RMX3987": {
         "brand": "真我",
         "model": "realme P2 Pro 5G"
+    },
+    "RMX5079": {
+        "brand": "真我",
+        "model": "realme P3 5G"
     },
     "RMX3944": {
         "brand": "真我",
