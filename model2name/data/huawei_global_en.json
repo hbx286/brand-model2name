@@ -1189,7 +1189,11 @@
     },
     "MRO-W09": {
         "brand": "华为",
-        "model": "HUAWEI MatePad Pro 12.2"
+        "model": "HUAWEI MatePad Pro 12.2 Wi-Fi"
+    },
+    "MRDI-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 12.2 2025 Wi-Fi"
     },
     "HMW-W09": {
         "brand": "华为",
