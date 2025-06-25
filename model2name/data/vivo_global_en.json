@@ -91,6 +91,14 @@
         "brand": "vivo",
         "model": "vivo X200 Pro"
     },
+    "V2503": {
+        "brand": "vivo",
+        "model": "vivo X200 FE"
+    },
+    "V2505": {
+        "brand": "vivo",
+        "model": "vivo X200 FE"
+    },
     "vivo 1819": {
         "brand": "vivo",
         "model": "vivo V15"
@@ -502,6 +510,10 @@
     "V2438": {
         "brand": "vivo",
         "model": "vivo Y04"
+    },
+    "V2532": {
+        "brand": "vivo",
+        "model": "vivo Y04e"
     },
     "V2028": {
         "brand": "vivo",
