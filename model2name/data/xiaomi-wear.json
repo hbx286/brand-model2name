@@ -115,6 +115,14 @@
         "brand": "小米穿戴设备",
         "model": "小米手环 9 Active 国际版"
     },
+    "M2457B1": {
+        "brand": "小米穿戴设备",
+        "model": "小米手环 10"
+    },
+    "M2456B1": {
+        "brand": "小米穿戴设备",
+        "model": "小米手环 10 NFC 版 / 陶瓷版"
+    },
     "XMWT01": {
         "brand": "小米穿戴设备",
         "model": "小米手表"
@@ -207,6 +215,10 @@
         "brand": "小米穿戴设备",
         "model": "Xiaomi Watch S4 Sport eSIM 版"
     },
+    "M2502W1": {
+        "brand": "小米穿戴设备",
+        "model": "Xiaomi Watch S4 41mm"
+    },
     "M2230W1": {
         "brand": "小米穿戴设备",
         "model": "小米腕部心电血压记录仪 (Xiaomi Watch H1)"
@@ -214,6 +226,10 @@
     "M2412W1": {
         "brand": "小米穿戴设备",
         "model": "小米腕部血压记录仪 (Xiaomi Watch H1 E)"
+    },
+    "M2442G1": {
+        "brand": "小米穿戴设备",
+        "model": "Xiaomi AI Glasses"
     },
     "M2101B1": {
         "brand": "小米穿戴设备",
@@ -334,6 +350,10 @@
     "M2438E1": {
         "brand": "小米穿戴设备",
         "model": "Xiaomi Buds 5 Pro Wi-Fi 版"
+    },
+    "M2503E1": {
+        "brand": "小米穿戴设备",
+        "model": "Xiaomi 开放式耳机 Pro"
     },
     "TWSEJ01ZM": {
         "brand": "小米穿戴设备",
