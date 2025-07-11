@@ -185,10 +185,18 @@
     },
     "LYOI-16": {
         "brand": "华为智选",
-        "model": "Hi MateBook D 14"
+        "model": "Hi MateBook D 14 (16GB 内存)"
+    },
+    "LYOI-32": {
+        "brand": "华为智选",
+        "model": "Hi MateBook D 14 (32GB 内存)"
     },
     "NICEI-16": {
         "brand": "华为智选",
-        "model": "Hi MateBook D 16"
+        "model": "Hi MateBook D 16 (16GB 内存)"
+    },
+    "NICEI-32": {
+        "brand": "华为智选",
+        "model": "Hi MateBook D 16 (32GB 内存)"
     }
 }

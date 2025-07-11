@@ -491,6 +491,18 @@
         "brand": "华为",
         "model": "HUAWEI Pura 70 Ultra"
     },
+    "HED-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI Pura 80"
+    },
+    "LMR-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI Pura 80 Pro"
+    },
+    "LMU-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI Pura 80 Ultra"
+    },
     "FIG-LA1": {
         "brand": "华为",
         "model": "HUAWEI P smart"
@@ -1126,6 +1138,10 @@
     "DBR-W19": {
         "brand": "华为",
         "model": "HUAWEI MatePad 11 2023 PaperMatte Edition Wi-Fi"
+    },
+    "BTKR-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 11.5 2024 Wi-Fi"
     },
     "TGR-W09": {
         "brand": "华为",
