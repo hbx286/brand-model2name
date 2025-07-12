@@ -451,6 +451,10 @@
         "brand": "三星",
         "model": "Galaxy Z Fold6"
     },
+    "SM-F9660": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold7"
+    },
     "SM-F7000": {
         "brand": "三星",
         "model": "Galaxy Z Flip"
@@ -474,6 +478,14 @@
     "SM-F7410": {
         "brand": "三星",
         "model": "Galaxy Z Flip6"
+    },
+    "SM-F7660": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip7"
+    },
+    "SM-F7610": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip7 FE"
     },
     "SM-A3000": {
         "brand": "三星",
@@ -1242,5 +1254,25 @@
     "SM-L7050": {
         "brand": "三星",
         "model": "Galaxy Watch Ultra LTE 47mm"
+    },
+    "SM-L320": {
+        "brand": "三星",
+        "model": "Galaxy Watch8 蓝牙版 40mm"
+    },
+    "SM-L330": {
+        "brand": "三星",
+        "model": "Galaxy Watch8 蓝牙版 44mm"
+    },
+    "SM-L3350": {
+        "brand": "三星",
+        "model": "Galaxy Watch8 LTE 44mm"
+    },
+    "SM-L500": {
+        "brand": "三星",
+        "model": "Galaxy Watch8 Classic 蓝牙版 46mm"
+    },
+    "SM-L5050": {
+        "brand": "三星",
+        "model": "Galaxy Watch8 Classic LTE 46mm"
     }
 }

@@ -1279,6 +1279,38 @@
         "brand": "三星",
         "model": "Galaxy Z Fold Special Edition South Korea"
     },
+    "SM-F966B": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold7 Global"
+    },
+    "SM-F966U": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold7 US Carrier"
+    },
+    "SM-F966U1": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold7 US Unlocked"
+    },
+    "SM-F966W": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold7 Canada"
+    },
+    "SM-F9660": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold7 China"
+    },
+    "SM-F966N": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold7 South Korea"
+    },
+    "SM-F966Q": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold7 Japan (SIM Free)"
+    },
+    "SM-F966Z": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold7 Japan (SoftBank)"
+    },
     "SM-F700F": {
         "brand": "三星",
         "model": "Galaxy Z Flip Global"
@@ -1474,6 +1506,58 @@
     "SC-54E": {
         "brand": "三星",
         "model": "Galaxy Z Flip6 Japan (NTT Docomo)"
+    },
+    "SM-F766B": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip7 Global"
+    },
+    "SM-F766U": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip7 US Carrier"
+    },
+    "SM-F766U1": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip7 US Unlocked"
+    },
+    "SM-F766W": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip7 Canada"
+    },
+    "SM-F7660": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip7 China"
+    },
+    "SM-F766N": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip7 South Korea"
+    },
+    "SM-F766Q": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip7 Japan (SIM Free)"
+    },
+    "SM-F766Z": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip7 Japan (SoftBank)"
+    },
+    "SM-F761B": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip7 FE Global"
+    },
+    "SM-F761U": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip7 FE US Carrier"
+    },
+    "SM-F761U1": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip7 FE US Unlocked"
+    },
+    "SM-F7610": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip7 FE China"
+    },
+    "SM-F761N": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip7 FE South Korea"
     },
     "SM-A015F": {
         "brand": "三星",
