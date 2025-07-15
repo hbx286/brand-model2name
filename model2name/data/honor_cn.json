@@ -819,6 +819,14 @@
         "brand": "荣耀",
         "model": "荣耀 X60 GT"
     },
+    "MTN-AN00": {
+        "brand": "荣耀",
+        "model": "荣耀 X70"
+    },
+    "MTN-AN80": {
+        "brand": "荣耀",
+        "model": "荣耀 X70 (12GB+512GB)"
+    },
     "ABR-AN00": {
         "brand": "荣耀",
         "model": "荣耀 X70i"
@@ -1354,6 +1362,10 @@
     "ROD2-W69": {
         "brand": "荣耀",
         "model": "荣耀平板 GT Pro 12.3 英寸 Wi-Fi 版"
+    },
+    "CHG-W60": {
+        "brand": "荣耀",
+        "model": "荣耀平板 GT2 Pro 12.5 英寸 Wi-Fi 版"
     },
     "AGR-W09HN": {
         "brand": "荣耀",
