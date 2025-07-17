@@ -267,10 +267,6 @@
         "brand": "小米穿戴设备",
         "model": "Redmi Watch 3 青春版"
     },
-    "M2247W1": {
-        "brand": "小米穿戴设备",
-        "model": "Redmi Watch 3 Lite 国际版"
-    },
     "M2235W1": {
         "brand": "小米穿戴设备",
         "model": "Redmi Watch 3 Active 国际版"
@@ -385,7 +381,7 @@
     },
     "M2232E1": {
         "brand": "小米穿戴设备",
-        "model": "Redmi Buds 4 Active 国际版"
+        "model": "Redmi Buds 4 Active 国际版 / Redmi Buds 5A 印度版"
     },
     "M2231E1": {
         "brand": "小米穿戴设备",
@@ -429,11 +425,11 @@
     },
     "M2344E1": {
         "brand": "小米穿戴设备",
-        "model": "Redmi Buds 6 活力版"
+        "model": "Redmi Buds 6 活力版 / Redmi Buds 6 Active 国际版"
     },
     "M2349E1": {
         "brand": "小米穿戴设备",
-        "model": "Redmi Buds 6 青春版"
+        "model": "Redmi Buds 6 青春版 / Redmi Buds 6 Lite 国际版 / Redmi Buds 5C 印度版"
     },
     "M2420E1": {
         "brand": "小米穿戴设备",

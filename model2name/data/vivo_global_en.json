@@ -415,6 +415,10 @@
         "brand": "vivo",
         "model": "vivo T4 Lite 5G"
     },
+    "V2518": {
+        "brand": "vivo",
+        "model": "vivo T4R 5G"
+    },
     "vivo 1929": {
         "brand": "vivo",
         "model": "vivo Y1s"
@@ -1142,5 +1146,9 @@
     "I2409": {
         "brand": "vivo",
         "model": "iQOO Z10 Lite 5G"
+    },
+    "I2410": {
+        "brand": "vivo",
+        "model": "iQOO Z10R 5G"
     }
 }
