@@ -277,7 +277,7 @@
     },
     "RMX5000": {
         "brand": "真我",
-        "model": "realme 13+ 5G"
+        "model": "realme 15 Lite 5G"
     },
     "RMX3990": {
         "brand": "真我",
@@ -322,6 +322,18 @@
     "RMX5054": {
         "brand": "真我",
         "model": "realme 14 Pro+ 5G Global"
+    },
+    "RMX5106": {
+        "brand": "真我",
+        "model": "realme 15 5G"
+    },
+    "RMX5101": {
+        "brand": "真我",
+        "model": "realme 15 Pro 5G"
+    },
+    "RMX5111": {
+        "brand": "真我",
+        "model": "realme 15T 5G"
     },
     "RMX1901": {
         "brand": "真我",
@@ -706,6 +718,10 @@
     "RMX3938": {
         "brand": "真我",
         "model": "realme Note 60x"
+    },
+    "RMX5313": {
+        "brand": "真我",
+        "model": "realme Note 70 / realme Note 70T"
     },
     "RMX1831": {
         "brand": "真我",

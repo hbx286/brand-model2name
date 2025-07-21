@@ -155,6 +155,10 @@
         "brand": "联想",
         "model": "小新平板 11"
     },
+    "TB365FC": {
+        "brand": "联想",
+        "model": "小新平板 12.1"
+    },
     "Lenovo TB-J607F": {
         "brand": "联想",
         "model": "联想启天 K11 Pro 11 英寸 Wi-Fi 版"
@@ -206,6 +210,10 @@
     "TB375FC": {
         "brand": "联想",
         "model": "小新 Pad Pro 12.7 2025"
+    },
+    "TB710FU": {
+        "brand": "联想",
+        "model": "小新平板 Pro GT"
     },
     "TB351FU": {
         "brand": "联想",

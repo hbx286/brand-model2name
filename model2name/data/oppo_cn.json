@@ -733,7 +733,11 @@
     },
     "PLM110": {
         "brand": "oppo",
-        "model": "OPPO K13"
+        "model": "OPPO K13 Turbo"
+    },
+    "PLE110": {
+        "brand": "oppo",
+        "model": "OPPO K13 Turbo Pro"
     },
     "OPD2101": {
         "brand": "oppo",
