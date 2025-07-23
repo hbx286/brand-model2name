@@ -99,6 +99,10 @@
         "brand": "vivo",
         "model": "vivo X200 FE"
     },
+    "V2429": {
+        "brand": "vivo",
+        "model": "vivo X Fold5"
+    },
     "vivo 1819": {
         "brand": "vivo",
         "model": "vivo V15"
@@ -994,6 +998,14 @@
     "V2402": {
         "brand": "vivo",
         "model": "vivo Y300 Pro 5G"
+    },
+    "V2506": {
+        "brand": "vivo",
+        "model": "vivo Y400 5G"
+    },
+    "V2439": {
+        "brand": "vivo",
+        "model": "vivo Y400 Pro 5G"
     },
     "I1927": {
         "brand": "vivo",
