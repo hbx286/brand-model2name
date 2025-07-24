@@ -1667,6 +1667,18 @@
         "brand": "华为",
         "model": "HUAWEI MatePad Pro 13.2 英寸 2025 SIM 卡版"
     },
+    "MRDI-W00": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 12.2 英寸 2025 Wi-Fi 版"
+    },
+    "MRDI-W10": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 12.2 英寸 2025 柔光版 Wi-Fi 版"
+    },
+    "MRDI-W20": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 12.2 英寸 2025 柔光版 Wi-Fi 版 (16GB+1TB)"
+    },
     "DBY2-W00": {
         "brand": "华为",
         "model": "HUAWEI MatePad Air 11.5 英寸 Wi-Fi 版"
