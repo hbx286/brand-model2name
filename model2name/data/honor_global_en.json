@@ -743,6 +743,34 @@
         "brand": "荣耀",
         "model": "HONOR Pad 8"
     },
+    "HEY2-W09": {
+        "brand": "荣耀",
+        "model": "HONOR Pad 9 Wi-Fi"
+    },
+    "HEY2-N09": {
+        "brand": "荣耀",
+        "model": "HONOR Pad 9 5G"
+    },
+    "HEY3-W00": {
+        "brand": "荣耀",
+        "model": "HONOR Pad 10 Wi-Fi"
+    },
+    "ROL-W00": {
+        "brand": "荣耀",
+        "model": "HONOR Pad V9"
+    },
+    "ROD2-W09": {
+        "brand": "荣耀",
+        "model": "HONOR MagicPad2"
+    },
+    "JMS-W09": {
+        "brand": "荣耀",
+        "model": "HONOR Pad X7 Wi-Fi"
+    },
+    "JMS-L09": {
+        "brand": "荣耀",
+        "model": "HONOR Pad X7 LTE"
+    },
     "AGM3-W09HN": {
         "brand": "荣耀",
         "model": "HONOR Pad X8 Wi-Fi"
@@ -767,18 +795,6 @@
         "brand": "荣耀",
         "model": "HONOR Pad X8a LTE"
     },
-    "HEY2-W09": {
-        "brand": "荣耀",
-        "model": "HONOR Pad 9 Wi-Fi"
-    },
-    "HEY2-N09": {
-        "brand": "荣耀",
-        "model": "HONOR Pad 9 5G"
-    },
-    "ROL-W00": {
-        "brand": "荣耀",
-        "model": "HONOR Pad V9"
-    },
     "ELN-W09": {
         "brand": "荣耀",
         "model": "HONOR Pad X9 Wi-Fi"
@@ -802,13 +818,5 @@
     "ELN2-L29": {
         "brand": "荣耀",
         "model": "HONOR Pad X9a LTE"
-    },
-    "ROD2-W09": {
-        "brand": "荣耀",
-        "model": "HONOR MagicPad2"
-    },
-    "HEY3-W00": {
-        "brand": "荣耀",
-        "model": "HONOR Pad 10 Wi-Fi"
     }
 }
