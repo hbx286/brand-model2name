@@ -999,6 +999,10 @@
         "brand": "vivo",
         "model": "vivo Y300 Pro 5G"
     },
+    "V2455": {
+        "brand": "vivo",
+        "model": "vivo Y400"
+    },
     "V2506": {
         "brand": "vivo",
         "model": "vivo Y400 5G"
@@ -1068,6 +1072,10 @@
         "model": "iQOO Neo9 Pro"
     },
     "I2405": {
+        "brand": "vivo",
+        "model": "iQOO Neo 10"
+    },
+    "I2408": {
         "brand": "vivo",
         "model": "iQOO Neo 10"
     },
@@ -1158,6 +1166,10 @@
     "I2409": {
         "brand": "vivo",
         "model": "iQOO Z10 Lite 5G"
+    },
+    "I2502": {
+        "brand": "vivo",
+        "model": "iQOO Z10 Lite"
     },
     "I2410": {
         "brand": "vivo",
