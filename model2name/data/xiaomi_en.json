@@ -1531,6 +1531,18 @@
         "brand": "小米",
         "model": "Redmi 14C 5G India"
     },
+    "25057RN09G": {
+        "brand": "小米",
+        "model": "Redmi 15 5G Global"
+    },
+    "25057RN09E": {
+        "brand": "小米",
+        "model": "Redmi 15 5G Europe"
+    },
+    "25057RN09I": {
+        "brand": "小米",
+        "model": "Redmi 15 5G India"
+    },
     "2014018": {
         "brand": "小米",
         "model": "Redmi Note WCDMA (1GB RAM)"
@@ -2233,7 +2245,7 @@
     },
     "24094RAD4I": {
         "brand": "小米",
-        "model": "Redmi Note 14 5G India"
+        "model": "Redmi Note 14 5G India / Redmi Note 14 SE 5G India"
     },
     "24094RAD4C": {
         "brand": "小米",
@@ -2850,6 +2862,10 @@
     "24108PCE2I": {
         "brand": "小米",
         "model": "POCO M7 5G India"
+    },
+    "25057PC09I": {
+        "brand": "小米",
+        "model": "POCO M7 Plus 5G India"
     },
     "2409FPCC4G": {
         "brand": "小米",
