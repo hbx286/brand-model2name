@@ -1311,6 +1311,14 @@
         "brand": "三星",
         "model": "Galaxy Z Fold7 Japan (SoftBank)"
     },
+    "SCG34": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold7 Japan (au)"
+    },
+    "SC-56F": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold7 Japan (NTT Docomo)"
+    },
     "SM-F700F": {
         "brand": "三星",
         "model": "Galaxy Z Flip Global"
@@ -1538,6 +1546,14 @@
     "SM-F766Z": {
         "brand": "三星",
         "model": "Galaxy Z Flip7 Japan (SoftBank)"
+    },
+    "SCG35": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip7 Japan (au)"
+    },
+    "SC-55F": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip7 Japan (NTT Docomo)"
     },
     "SM-F761B": {
         "brand": "三星",
@@ -1770,6 +1786,14 @@
     "SM-A066M": {
         "brand": "三星",
         "model": "Galaxy A06 5G Latin America"
+    },
+    "SM-A075F": {
+        "brand": "三星",
+        "model": "Galaxy A07 Global"
+    },
+    "SM-A075M": {
+        "brand": "三星",
+        "model": "Galaxy A07 Latin America"
     },
     "SM-A105F": {
         "brand": "三星",
@@ -2078,6 +2102,14 @@
     "SM-A166P": {
         "brand": "三星",
         "model": "Galaxy A16 5G Global (MediaTek)"
+    },
+    "SM-A176B": {
+        "brand": "三星",
+        "model": "Galaxy A17 5G Global"
+    },
+    "SM-A1760": {
+        "brand": "三星",
+        "model": "Galaxy A17 5G HK & TW"
     },
     "SM-A260F": {
         "brand": "三星",
@@ -3035,6 +3067,10 @@
         "brand": "三星",
         "model": "Galaxy M06 5G"
     },
+    "SM-M075F": {
+        "brand": "三星",
+        "model": "Galaxy M07"
+    },
     "SM-M105G": {
         "brand": "三星",
         "model": "Galaxy M10 Global"
@@ -3106,6 +3142,10 @@
     "SM-M166P": {
         "brand": "三星",
         "model": "Galaxy M16 5G"
+    },
+    "SM-M176B": {
+        "brand": "三星",
+        "model": "Galaxy M17 5G"
     },
     "SM-M205N": {
         "brand": "三星",
@@ -3283,6 +3323,10 @@
         "brand": "三星",
         "model": "Galaxy F06 5G"
     },
+    "SM-E075F": {
+        "brand": "三星",
+        "model": "Galaxy F07"
+    },
     "SM-F127G": {
         "brand": "三星",
         "model": "Galaxy F12"
@@ -3306,6 +3350,10 @@
     "SM-E166P": {
         "brand": "三星",
         "model": "Galaxy F16 5G"
+    },
+    "SM-E176B": {
+        "brand": "三星",
+        "model": "Galaxy F17 5G"
     },
     "SM-E225F": {
         "brand": "三星",
