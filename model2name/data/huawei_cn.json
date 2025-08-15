@@ -1699,6 +1699,14 @@
         "brand": "华为",
         "model": "HUAWEI MatePad Air 12 英寸 柔光版 Wi-Fi 版"
     },
+    "LRT-W20": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Air 12 英寸 2025 Wi-Fi 版"
+    },
+    "LRT-W30": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Air 12 英寸 2025 柔光版 Wi-Fi 版"
+    },
     "BAH3-W09": {
         "brand": "华为",
         "model": "HUAWEI MatePad 10.4 英寸 Wi-Fi 版 (麒麟 810)"
@@ -1769,15 +1777,23 @@
     },
     "TGR-W00": {
         "brand": "华为",
-        "model": "HUAWEI MatePad 11.5\" S Wi-Fi 版"
+        "model": "HUAWEI MatePad 11.5 S Wi-Fi 版"
     },
     "TGR-W10": {
         "brand": "华为",
-        "model": "HUAWEI MatePad 11.5\" S 柔光版 Wi-Fi 版"
+        "model": "HUAWEI MatePad 11.5 S 柔光版 Wi-Fi 版"
     },
     "DMG-W00": {
         "brand": "华为",
-        "model": "HUAWEI MatePad 11.5\" S 灵动款 Wi-Fi 版"
+        "model": "HUAWEI MatePad 11.5 S 灵动款 Wi-Fi 版"
+    },
+    "SLG-W10": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 11.5 S 2025 Wi-Fi 版"
+    },
+    "SLG-W50": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 11.5 S 2025 灵动款 Wi-Fi 版"
     },
     "AGS2-W09": {
         "brand": "华为",
