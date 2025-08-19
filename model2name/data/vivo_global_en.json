@@ -335,6 +335,14 @@
         "brand": "vivo",
         "model": "Jovi V50 Lite"
     },
+    "V2511": {
+        "brand": "vivo",
+        "model": "vivo V60"
+    },
+    "V2512": {
+        "brand": "vivo",
+        "model": "vivo V60"
+    },
     "vivo 1920_20": {
         "brand": "vivo",
         "model": "vivo S1 Pro"
@@ -422,6 +430,10 @@
     "V2518": {
         "brand": "vivo",
         "model": "vivo T4R 5G"
+    },
+    "V2510": {
+        "brand": "vivo",
+        "model": "vivo T4 Pro"
     },
     "vivo 1929": {
         "brand": "vivo",
