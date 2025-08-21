@@ -2379,6 +2379,54 @@
         "brand": "小米",
         "model": "Redmi Note 14 Pro+ 5G 印度版"
     },
+    "25098RA98C": {
+        "brand": "小米",
+        "model": "REDMI Note 15 国行版"
+    },
+    "25098RA98G": {
+        "brand": "小米",
+        "model": "Redmi Note 15 5G 国际版"
+    },
+    "25098RA98E": {
+        "brand": "小米",
+        "model": "Redmi Note 15 5G 欧洲版"
+    },
+    "25098RA98I": {
+        "brand": "小米",
+        "model": "Redmi Note 15 5G 印度版"
+    },
+    "25080RABDC": {
+        "brand": "小米",
+        "model": "REDMI Note 15 Pro 国行版"
+    },
+    "25080RABDG": {
+        "brand": "小米",
+        "model": "Redmi Note 15 Pro 5G 国际版"
+    },
+    "25080RABDI": {
+        "brand": "小米",
+        "model": "Redmi Note 15 Pro 5G 印度版"
+    },
+    "25080RABDR": {
+        "brand": "小米",
+        "model": "Redmi Note 15 Pro 5G 日本版"
+    },
+    "2510ERA8BC": {
+        "brand": "小米",
+        "model": "REDMI Note 15 Pro+ 国行版"
+    },
+    "2510ERA8BG": {
+        "brand": "小米",
+        "model": "Redmi Note 15 Pro+ 5G 国际版"
+    },
+    "2510ERA8BI": {
+        "brand": "小米",
+        "model": "Redmi Note 15 Pro+ 5G 印度版"
+    },
+    "25104RADAC": {
+        "brand": "小米",
+        "model": "REDMI Note 15 Pro+ 卫星消息版"
+    },
     "M2004J7AC": {
         "brand": "小米",
         "model": "Redmi 10X 5G"
@@ -3035,10 +3083,6 @@
         "brand": "小米",
         "model": "POCO M6 国际版"
     },
-    "2404APC5FI": {
-        "brand": "小米",
-        "model": "POCO M6 印度版"
-    },
     "23128PC33I": {
         "brand": "小米",
         "model": "POCO M6 5G 印度版"
@@ -3054,6 +3098,14 @@
     "23076PC4BI": {
         "brand": "小米",
         "model": "POCO M6 Pro 5G 印度版"
+    },
+    "25062PC34G": {
+        "brand": "小米",
+        "model": "POCO M7 国际版"
+    },
+    "25062PC34E": {
+        "brand": "小米",
+        "model": "POCO M7 欧洲版"
     },
     "24108PCE2I": {
         "brand": "小米",
