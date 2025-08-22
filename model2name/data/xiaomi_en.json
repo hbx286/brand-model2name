@@ -1531,6 +1531,22 @@
         "brand": "小米",
         "model": "Redmi 14C 5G India"
     },
+    "25062RN2DA": {
+        "brand": "小米",
+        "model": "Redmi 15 Global"
+    },
+    "25062RN2DY": {
+        "brand": "小米",
+        "model": "Redmi 15 Global (NFC)"
+    },
+    "25062RN2DE": {
+        "brand": "小米",
+        "model": "Redmi 15 Europe"
+    },
+    "25062RN2DL": {
+        "brand": "小米",
+        "model": "Redmi 15 Latin America"
+    },
     "25057RN09G": {
         "brand": "小米",
         "model": "Redmi 15 5G Global"
@@ -2330,6 +2346,10 @@
     "25104RADAC": {
         "brand": "小米",
         "model": "REDMI Note 15 Pro+ 5G Satellite China"
+    },
+    "25057RA09C": {
+        "brand": "小米",
+        "model": "REDMI Note 15R China"
     },
     "M2004J7AC": {
         "brand": "小米",
