@@ -1659,6 +1659,22 @@
         "brand": "小米",
         "model": "Redmi 15 5G 印度版"
     },
+    "25078RA3EA": {
+        "brand": "小米",
+        "model": "Redmi 15C 国际版"
+    },
+    "25078RA3EY": {
+        "brand": "小米",
+        "model": "Redmi 15C 国际版 (NFC)"
+    },
+    "25078RA3EE": {
+        "brand": "小米",
+        "model": "Redmi 15C 欧洲版"
+    },
+    "25078RA3EL": {
+        "brand": "小米",
+        "model": "Redmi 15C 拉美版"
+    },
     "2014018": {
         "brand": "小米",
         "model": "红米 Note 联通 3G 标准版"
@@ -3230,6 +3246,14 @@
     "24116PCC1I": {
         "brand": "小米",
         "model": "POCO C75 5G 印度版"
+    },
+    "25078PC3EG": {
+        "brand": "小米",
+        "model": "POCO C85 国际版"
+    },
+    "25078PC3EE": {
+        "brand": "小米",
+        "model": "POCO C85 欧洲版"
     },
     "2405CPCFBG": {
         "brand": "小米",

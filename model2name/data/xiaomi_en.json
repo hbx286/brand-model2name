@@ -1559,6 +1559,22 @@
         "brand": "小米",
         "model": "Redmi 15 5G India"
     },
+    "25078RA3EA": {
+        "brand": "小米",
+        "model": "Redmi 15C Global"
+    },
+    "25078RA3EY": {
+        "brand": "小米",
+        "model": "Redmi 15C Global (NFC)"
+    },
+    "25078RA3EE": {
+        "brand": "小米",
+        "model": "Redmi 15C Europe"
+    },
+    "25078RA3EL": {
+        "brand": "小米",
+        "model": "Redmi 15C Latin America"
+    },
     "2014018": {
         "brand": "小米",
         "model": "Redmi Note WCDMA (1GB RAM)"
@@ -3034,6 +3050,14 @@
     "24116PCC1I": {
         "brand": "小米",
         "model": "POCO C75 5G India"
+    },
+    "25078PC3EG": {
+        "brand": "小米",
+        "model": "POCO C85 Global"
+    },
+    "25078PC3EE": {
+        "brand": "小米",
+        "model": "POCO C85 Europe"
     },
     "A0101": {
         "brand": "小米",
