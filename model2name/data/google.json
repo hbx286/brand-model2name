@@ -331,6 +331,50 @@
         "brand": "谷歌",
         "model": "Pixel 9a (Japan)"
     },
+    "GLBW0": {
+        "brand": "谷歌",
+        "model": "Pixel 10 (US, mmWave)"
+    },
+    "GK2MP": {
+        "brand": "谷歌",
+        "model": "Pixel 10 (Global)"
+    },
+    "GL066": {
+        "brand": "谷歌",
+        "model": "Pixel 10 (Japan)"
+    },
+    "G4QUR": {
+        "brand": "谷歌",
+        "model": "Pixel 10 Pro (US, mmWave)"
+    },
+    "GEHN3": {
+        "brand": "谷歌",
+        "model": "Pixel 10 Pro (Global)"
+    },
+    "GN4F5": {
+        "brand": "谷歌",
+        "model": "Pixel 10 Pro (Japan)"
+    },
+    "GUL82": {
+        "brand": "谷歌",
+        "model": "Pixel 10 Pro XL (US, mmWave)"
+    },
+    "G45RY": {
+        "brand": "谷歌",
+        "model": "Pixel 10 Pro XL (Global)"
+    },
+    "GYPW4": {
+        "brand": "谷歌",
+        "model": "Pixel 10 Pro XL (Japan)"
+    },
+    "GU0NP": {
+        "brand": "谷歌",
+        "model": "Pixel 10 Pro Fold (Global)"
+    },
+    "GM66V": {
+        "brand": "谷歌",
+        "model": "Pixel 10 Pro Fold (Japan)"
+    },
     "C1502W": {
         "brand": "谷歌",
         "model": "Pixel C"
