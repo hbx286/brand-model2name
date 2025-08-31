@@ -449,7 +449,7 @@
     },
     "LGN-NX1": {
         "brand": "荣耀",
-        "model": "HONOR 400 Smart"
+        "model": "HONOR X7d 5G"
     },
     "LGN-NX3": {
         "brand": "荣耀",
@@ -674,6 +674,18 @@
     "ALT-LX3": {
         "brand": "荣耀",
         "model": "HONOR X7c"
+    },
+    "LGN-LX1": {
+        "brand": "荣耀",
+        "model": "HONOR X7d"
+    },
+    "LGN-LX2": {
+        "brand": "荣耀",
+        "model": "HONOR X7d"
+    },
+    "LGN-LX3": {
+        "brand": "荣耀",
+        "model": "HONOR X7d"
     },
     "TFY-LX1": {
         "brand": "荣耀",
