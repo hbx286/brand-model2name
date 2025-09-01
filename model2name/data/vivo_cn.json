@@ -685,27 +685,31 @@
     },
     "V2435A": {
         "brand": "vivo",
-        "model": "vivo Y300 5G / vivo Y300c 5G"
-    },
-    "V2410A": {
-        "brand": "vivo",
-        "model": "vivo Y300 Pro 5G"
-    },
-    "V2456A": {
-        "brand": "vivo",
-        "model": "vivo Y300 Pro+ 5G"
+        "model": "vivo Y300 5G / vivo Y300c"
     },
     "V2444A": {
         "brand": "vivo",
         "model": "vivo Y300i 5G"
     },
+    "V2410A": {
+        "brand": "vivo",
+        "model": "vivo Y300 Pro"
+    },
+    "V2456A": {
+        "brand": "vivo",
+        "model": "vivo Y300 Pro+"
+    },
     "V2445EA": {
         "brand": "vivo",
-        "model": "vivo Y300t 5G / vivo Y300+ 5G"
+        "model": "vivo Y300t / vivo Y300+"
     },
     "V2452GA": {
         "brand": "vivo",
-        "model": "vivo Y300 GT 5G"
+        "model": "vivo Y300 GT"
+    },
+    "V2506A": {
+        "brand": "vivo",
+        "model": "vivo Y500"
     },
     "V2115A": {
         "brand": "vivo",

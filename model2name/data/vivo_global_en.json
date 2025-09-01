@@ -343,6 +343,10 @@
         "brand": "vivo",
         "model": "vivo V60"
     },
+    "V2529": {
+        "brand": "vivo",
+        "model": "vivo V60 Lite 5G"
+    },
     "vivo 1920_20": {
         "brand": "vivo",
         "model": "vivo S1 Pro"
@@ -530,6 +534,10 @@
     "V2438": {
         "brand": "vivo",
         "model": "vivo Y04"
+    },
+    "V2531": {
+        "brand": "vivo",
+        "model": "vivo Y04s"
     },
     "V2532": {
         "brand": "vivo",
@@ -751,6 +759,18 @@
         "brand": "vivo",
         "model": "vivo Y21T"
     },
+    "V2520": {
+        "brand": "vivo",
+        "model": "vivo Y21d"
+    },
+    "V2524": {
+        "brand": "vivo",
+        "model": "vivo Y21d"
+    },
+    "V2535": {
+        "brand": "vivo",
+        "model": "vivo Y21d"
+    },
     "V2207": {
         "brand": "vivo",
         "model": "vivo Y22"
@@ -846,6 +866,14 @@
     "V2036_21": {
         "brand": "vivo",
         "model": "vivo Y31"
+    },
+    "V2521": {
+        "brand": "vivo",
+        "model": "vivo Y31 5G"
+    },
+    "V2534": {
+        "brand": "vivo",
+        "model": "vivo Y31 Pro 5G"
     },
     "V2057": {
         "brand": "vivo",
