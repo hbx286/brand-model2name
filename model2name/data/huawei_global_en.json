@@ -821,7 +821,7 @@
     },
     "MGA-LX3": {
         "brand": "华为",
-        "model": "HUAWEI nova Y72"
+        "model": "HUAWEI nova Y72 / HUAWEI nova Y73"
     },
     "GFY-LX1": {
         "brand": "华为",
@@ -1145,11 +1145,15 @@
     },
     "TGR-W09": {
         "brand": "华为",
-        "model": "HUAWEI MatePad 11.5\" S Wi-Fi"
+        "model": "HUAWEI MatePad 11.5 S Wi-Fi"
+    },
+    "TXZ-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 11.5 2025 Wi-Fi"
     },
     "SLG-W09": {
         "brand": "华为",
-        "model": "HUAWEI MatePad 11.5 2025 Wi-Fi"
+        "model": "HUAWEI MatePad 11.5 S 2025 Wi-Fi"
     },
     "DBY2-W09": {
         "brand": "华为",
