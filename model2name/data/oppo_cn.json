@@ -657,7 +657,11 @@
     },
     "PLL110": {
         "brand": "oppo",
-        "model": "OPPO A6 GT / OPPO A6 Max"
+        "model": "OPPO K13s"
+    },
+    "PLN110": {
+        "brand": "oppo",
+        "model": "OPPO A6 Pro"
     },
     "PBCM30": {
         "brand": "oppo",

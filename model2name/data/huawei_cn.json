@@ -249,7 +249,7 @@
     },
     "ALN-AL10": {
         "brand": "华为",
-        "model": "HUAWEI Mate 60 RS ULTIMATE DESIGN 非凡大师"
+        "model": "HUAWEI Mate 60 RS 非凡大师"
     },
     "CLS-AL00": {
         "brand": "华为",
@@ -277,7 +277,7 @@
     },
     "PLU-AL10": {
         "brand": "华为",
-        "model": "HUAWEI Mate 70 RS ULTIMATE DESIGN 非凡大师"
+        "model": "HUAWEI Mate 70 RS 非凡大师"
     },
     "TAH-AN00": {
         "brand": "华为",
@@ -321,7 +321,7 @@
     },
     "GRL-AL10": {
         "brand": "华为",
-        "model": "HUAWEI Mate XT ULTIMATE DESIGN 非凡大师"
+        "model": "HUAWEI Mate XT 非凡大师"
     },
     "ICL-AL10": {
         "brand": "华为",
@@ -330,6 +330,10 @@
     "ICL-AL20": {
         "brand": "华为",
         "model": "HUAWEI Mate X6 典藏版"
+    },
+    "GRL-AL20": {
+        "brand": "华为",
+        "model": "HUAWEI Mate XTs 非凡大师"
     },
     "HUAWEI U9200": {
         "brand": "华为",
@@ -1673,11 +1677,11 @@
     },
     "MRDI-W10": {
         "brand": "华为",
-        "model": "HUAWEI MatePad Pro 12.2 英寸 2025 柔光版 Wi-Fi 版"
+        "model": "HUAWEI MatePad Pro 12.2 英寸 2025 Wi-Fi 柔光版"
     },
     "MRDI-W20": {
         "brand": "华为",
-        "model": "HUAWEI MatePad Pro 12.2 英寸 2025 柔光版 Wi-Fi 版 (16GB+1TB)"
+        "model": "HUAWEI MatePad Pro 12.2 英寸 2025 Wi-Fi 柔光版 (16GB+1TB)"
     },
     "DBY2-W00": {
         "brand": "华为",
@@ -1697,7 +1701,7 @@
     },
     "BKY-W20": {
         "brand": "华为",
-        "model": "HUAWEI MatePad Air 12 英寸 柔光版 Wi-Fi 版"
+        "model": "HUAWEI MatePad Air 12 英寸 Wi-Fi 柔光版"
     },
     "LRT-W20": {
         "brand": "华为",
@@ -1705,7 +1709,7 @@
     },
     "LRT-W30": {
         "brand": "华为",
-        "model": "HUAWEI MatePad Air 12 英寸 2025 柔光版 Wi-Fi 版"
+        "model": "HUAWEI MatePad Air 12 英寸 2025 Wi-Fi 柔光版"
     },
     "BAH3-W09": {
         "brand": "华为",
@@ -1761,7 +1765,7 @@
     },
     "DBR-W10": {
         "brand": "华为",
-        "model": "HUAWEI MatePad 11 英寸 2023 柔光版 Wi-Fi 版"
+        "model": "HUAWEI MatePad 11 英寸 2023 Wi-Fi 柔光版"
     },
     "BTK-W00": {
         "brand": "华为",
@@ -1781,7 +1785,7 @@
     },
     "TGR-W10": {
         "brand": "华为",
-        "model": "HUAWEI MatePad 11.5 S 柔光版 Wi-Fi 版"
+        "model": "HUAWEI MatePad 11.5 S Wi-Fi 柔光版"
     },
     "DMG-W00": {
         "brand": "华为",
@@ -1794,6 +1798,14 @@
     "SLG-W50": {
         "brand": "华为",
         "model": "HUAWEI MatePad 11.5 S 2025 灵动款 Wi-Fi 版"
+    },
+    "MLR-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Mini 悦读版 8.8 英寸"
+    },
+    "MLR-AL10": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Mini 8.8 英寸"
     },
     "AGS2-W09": {
         "brand": "华为",
@@ -2161,7 +2173,7 @@
     },
     "HPR-W72": {
         "brand": "华为",
-        "model": "HUAWEI MateBook Fold ULTIMATE DESIGN 非凡大师 (32GB 内存)"
+        "model": "HUAWEI MateBook Fold 非凡大师 (32GB 内存)"
     },
     "WRT-W19": {
         "brand": "华为",
@@ -3018,6 +3030,34 @@
     "PLAT-760": {
         "brand": "华为",
         "model": "华为智慧屏 X65"
+    },
+    "HD65EDIH": {
+        "brand": "华为",
+        "model": "华为智慧屏 MateTV 65 英寸"
+    },
+    "HD75EDIH": {
+        "brand": "华为",
+        "model": "华为智慧屏 MateTV 75 英寸"
+    },
+    "HD8XEDIH": {
+        "brand": "华为",
+        "model": "华为智慧屏 MateTV 85 英寸"
+    },
+    "HD98EDIH": {
+        "brand": "华为",
+        "model": "华为智慧屏 MateTV 98 英寸"
+    },
+    "HD75EDIJ": {
+        "brand": "华为",
+        "model": "华为智慧屏 MateTV Pro 75 英寸"
+    },
+    "HD8XEDIJ": {
+        "brand": "华为",
+        "model": "华为智慧屏 MateTV Pro 85 英寸"
+    },
+    "HD98EDIJ": {
+        "brand": "华为",
+        "model": "华为智慧屏 MateTV Pro 98 英寸"
     },
     "HD55KANB": {
         "brand": "华为",
