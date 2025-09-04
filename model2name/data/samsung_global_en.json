@@ -891,6 +891,26 @@
         "brand": "三星",
         "model": "Galaxy S25 Edge South Korea"
     },
+    "SM-S731B": {
+        "brand": "三星",
+        "model": "Galaxy S25 FE Global"
+    },
+    "SM-S731U": {
+        "brand": "三星",
+        "model": "Galaxy S25 FE US Carrier"
+    },
+    "SM-S731U1": {
+        "brand": "三星",
+        "model": "Galaxy S25 FE US Unlocked"
+    },
+    "SM-S731W": {
+        "brand": "三星",
+        "model": "Galaxy S25 FE Canada"
+    },
+    "SM-S731N": {
+        "brand": "三星",
+        "model": "Galaxy S25 FE South Korea"
+    },
     "SM-N960F": {
         "brand": "三星",
         "model": "Galaxy Note9 Global"

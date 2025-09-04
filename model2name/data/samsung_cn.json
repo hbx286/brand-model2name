@@ -1043,6 +1043,22 @@
         "brand": "三星",
         "model": "Galaxy Tab S10 FE+ 5G"
     },
+    "SM-X730": {
+        "brand": "三星",
+        "model": "Galaxy Tab S11 WLAN"
+    },
+    "SM-X736C": {
+        "brand": "三星",
+        "model": "Galaxy Tab S11 5G"
+    },
+    "SM-X930": {
+        "brand": "三星",
+        "model": "Galaxy Tab S11 Ultra WLAN"
+    },
+    "SM-X936C": {
+        "brand": "三星",
+        "model": "Galaxy Tab S11 Ultra 5G"
+    },
     "SM-T350": {
         "brand": "三星",
         "model": "Galaxy Tab A 8.0 WLAN"
