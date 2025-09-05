@@ -207,6 +207,10 @@
         "brand": "努比亚",
         "model": "nubia Flip 2 SoftBank"
     },
+    "Z8900CA": {
+        "brand": "努比亚",
+        "model": "nubia Flip 2 eSIM"
+    },
     "NX302J": {
         "brand": "努比亚",
         "model": "nubia 小牛"
@@ -277,7 +281,7 @@
     },
     "Z2460": {
         "brand": "努比亚",
-        "model": "nubia Music 2"
+        "model": "nubia Music 2 / nubia Music Pro"
     },
     "Z2455": {
         "brand": "努比亚",
@@ -291,9 +295,25 @@
         "brand": "努比亚",
         "model": "nubia Focus 2 Ultra 5G"
     },
+    "Z2468N": {
+        "brand": "努比亚",
+        "model": "nubia Air"
+    },
+    "Z2473": {
+        "brand": "努比亚",
+        "model": "nubia A56"
+    },
     "Z6255CA": {
         "brand": "努比亚",
         "model": "nubia A75"
+    },
+    "Z2474": {
+        "brand": "努比亚",
+        "model": "nubia A76"
+    },
+    "Z6657CA": {
+        "brand": "努比亚",
+        "model": "nubia A76"
     },
     "nubia 8550": {
         "brand": "努比亚",
