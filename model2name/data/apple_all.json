@@ -755,6 +755,70 @@
         "brand": "苹果",
         "model": "iPhone 16e (其他国家和地区)"
     },
+    "A3258": {
+        "brand": "苹果",
+        "model": "iPhone 17 (美国)"
+    },
+    "A3519": {
+        "brand": "苹果",
+        "model": "iPhone 17 (加拿大, 日本, 墨西哥, 部分中东国家)"
+    },
+    "A3521": {
+        "brand": "苹果",
+        "model": "iPhone 17 (中国大陆)"
+    },
+    "A3520": {
+        "brand": "苹果",
+        "model": "iPhone 17 (其他国家和地区)"
+    },
+    "A3260": {
+        "brand": "苹果",
+        "model": "iPhone Air (北美, 部分中东国家)"
+    },
+    "A3518": {
+        "brand": "苹果",
+        "model": "iPhone Air (中国大陆)"
+    },
+    "A3516": {
+        "brand": "苹果",
+        "model": "iPhone Air (日本)"
+    },
+    "A3517": {
+        "brand": "苹果",
+        "model": "iPhone Air (其他国家和地区)"
+    },
+    "A3256": {
+        "brand": "苹果",
+        "model": "iPhone 17 Pro (美国)"
+    },
+    "A3522": {
+        "brand": "苹果",
+        "model": "iPhone 17 Pro (加拿大, 日本, 墨西哥, 部分中东国家)"
+    },
+    "A3524": {
+        "brand": "苹果",
+        "model": "iPhone 17 Pro (中国大陆)"
+    },
+    "A3523": {
+        "brand": "苹果",
+        "model": "iPhone 17 Pro (其他国家和地区)"
+    },
+    "A3257": {
+        "brand": "苹果",
+        "model": "iPhone 17 Pro Max (美国)"
+    },
+    "A3525": {
+        "brand": "苹果",
+        "model": "iPhone 17 Pro Max (加拿大, 日本, 墨西哥, 部分中东国家)"
+    },
+    "A3527": {
+        "brand": "苹果",
+        "model": "iPhone 17 Pro Max (中国大陆)"
+    },
+    "A3526": {
+        "brand": "苹果",
+        "model": "iPhone 17 Pro Max (其他国家和地区)"
+    },
     "A1219": {
         "brand": "苹果",
         "model": "iPad (无线局域网)"
@@ -1395,30 +1459,6 @@
         "brand": "苹果",
         "model": "Apple Watch Series 5 (GPS + 蜂窝网络) (44 毫米表壳) (欧亚, 中国大陆)"
     },
-    "A2351": {
-        "brand": "苹果",
-        "model": "Apple Watch SE (GPS) (40 毫米表壳)"
-    },
-    "A2352": {
-        "brand": "苹果",
-        "model": "Apple Watch SE (GPS) (44 毫米表壳)"
-    },
-    "A2353": {
-        "brand": "苹果",
-        "model": "Apple Watch SE (GPS + 蜂窝网络) (40 毫米表壳) (北美)"
-    },
-    "A2355": {
-        "brand": "苹果",
-        "model": "Apple Watch SE (GPS + 蜂窝网络) (40 毫米表壳) (欧亚, 中国大陆)"
-    },
-    "A2354": {
-        "brand": "苹果",
-        "model": "Apple Watch SE (GPS + 蜂窝网络) (44 毫米表壳) (北美)"
-    },
-    "A2356": {
-        "brand": "苹果",
-        "model": "Apple Watch SE (GPS + 蜂窝网络) (44 毫米表壳) (欧亚, 中国大陆)"
-    },
     "A2291": {
         "brand": "苹果",
         "model": "Apple Watch Series 6 (GPS) (40 毫米表壳)"
@@ -1467,38 +1507,6 @@
         "brand": "苹果",
         "model": "Apple Watch Series 7 (GPS + 蜂窝网络) (45 毫米表壳) (欧亚, 中国大陆)"
     },
-    "A2722": {
-        "brand": "苹果",
-        "model": "Apple Watch SE (第二代) (GPS) (40 毫米表壳)"
-    },
-    "A2723": {
-        "brand": "苹果",
-        "model": "Apple Watch SE (第二代) (GPS) (44 毫米表壳)"
-    },
-    "A2726": {
-        "brand": "苹果",
-        "model": "Apple Watch SE (第二代) (GPS + 蜂窝网络) (40 毫米表壳) (北美)"
-    },
-    "A2855": {
-        "brand": "苹果",
-        "model": "Apple Watch SE (第二代) (GPS + 蜂窝网络) (40 毫米表壳) (中国大陆 & 港澳)"
-    },
-    "A2725": {
-        "brand": "苹果",
-        "model": "Apple Watch SE (第二代) (GPS + 蜂窝网络) (40 毫米表壳) (其他国家和地区)"
-    },
-    "A2727": {
-        "brand": "苹果",
-        "model": "Apple Watch SE (第二代) (GPS + 蜂窝网络) (44 毫米表壳) (北美)"
-    },
-    "A2856": {
-        "brand": "苹果",
-        "model": "Apple Watch SE (第二代) (GPS + 蜂窝网络) (44 毫米表壳) (中国大陆 & 港澳)"
-    },
-    "A2724": {
-        "brand": "苹果",
-        "model": "Apple Watch SE (第二代) (GPS + 蜂窝网络) (44 毫米表壳) (其他国家和地区)"
-    },
     "A2770": {
         "brand": "苹果",
         "model": "Apple Watch Series 8 (GPS) (41 毫米表壳)"
@@ -1531,18 +1539,6 @@
         "brand": "苹果",
         "model": "Apple Watch Series 8 (GPS + 蜂窝网络) (45 毫米表壳) (其他国家和地区)"
     },
-    "A2622": {
-        "brand": "苹果",
-        "model": "Apple Watch Ultra (北美)"
-    },
-    "A2859": {
-        "brand": "苹果",
-        "model": "Apple Watch Ultra (中国大陆 & 港澳)"
-    },
-    "A2684": {
-        "brand": "苹果",
-        "model": "Apple Watch Ultra (其他国家和地区)"
-    },
     "A2978": {
         "brand": "苹果",
         "model": "Apple Watch Series 9 (GPS) (41 毫米表壳)"
@@ -1567,14 +1563,6 @@
         "brand": "苹果",
         "model": "Apple Watch Series 9 (GPS + 蜂窝网络) (45 毫米表壳) (中国大陆 & 港澳)"
     },
-    "A2986": {
-        "brand": "苹果",
-        "model": "Apple Watch Ultra 2 (全球)"
-    },
-    "A2987": {
-        "brand": "苹果",
-        "model": "Apple Watch Ultra 2 (中国大陆 & 港澳)"
-    },
     "A2997": {
         "brand": "苹果",
         "model": "Apple Watch Series 10 (GPS) (42 毫米表壳) (全球)"
@@ -1597,7 +1585,7 @@
     },
     "A3002": {
         "brand": "苹果",
-        "model": "Apple Watch Series 10 (GPS + 蜂窝网络) (42 毫米表壳) (中国大陆, 印度尼西亚)"
+        "model": "Apple Watch Series 10 (GPS + 蜂窝网络) (42 毫米表壳) (中国大陆)"
     },
     "A3003": {
         "brand": "苹果",
@@ -1605,7 +1593,155 @@
     },
     "A3206": {
         "brand": "苹果",
-        "model": "Apple Watch Series 10 (GPS + 蜂窝网络) (46 毫米表壳) (中国大陆, 印度尼西亚)"
+        "model": "Apple Watch Series 10 (GPS + 蜂窝网络) (46 毫米表壳) (中国大陆)"
+    },
+    "A3331": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 11 (GPS) (42 毫米表壳) (全球)"
+    },
+    "A3450": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 11 (GPS) (42 毫米表壳) (中国大陆)"
+    },
+    "A3333": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 11 (GPS) (46 毫米表壳) (全球)"
+    },
+    "A3451": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 11 (GPS) (46 毫米表壳) (中国大陆)"
+    },
+    "A3335": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 11 (GPS + 蜂窝网络) (42 毫米表壳) (全球)"
+    },
+    "A3452": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 11 (GPS + 蜂窝网络) (42 毫米表壳) (中国大陆)"
+    },
+    "A3337": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 11 (GPS + 蜂窝网络) (46 毫米表壳) (全球)"
+    },
+    "A3453": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 11 (GPS + 蜂窝网络) (46 毫米表壳) (中国大陆)"
+    },
+    "A2351": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (GPS) (40 毫米表壳)"
+    },
+    "A2352": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (GPS) (44 毫米表壳)"
+    },
+    "A2353": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (GPS + 蜂窝网络) (40 毫米表壳) (北美)"
+    },
+    "A2355": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (GPS + 蜂窝网络) (40 毫米表壳) (欧亚, 中国大陆)"
+    },
+    "A2354": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (GPS + 蜂窝网络) (44 毫米表壳) (北美)"
+    },
+    "A2356": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (GPS + 蜂窝网络) (44 毫米表壳) (欧亚, 中国大陆)"
+    },
+    "A2722": {
+        "brand": "苹果",
+        "model": "Apple Watch SE 2 (GPS) (40 毫米表壳)"
+    },
+    "A2723": {
+        "brand": "苹果",
+        "model": "Apple Watch SE 2 (GPS) (44 毫米表壳)"
+    },
+    "A2726": {
+        "brand": "苹果",
+        "model": "Apple Watch SE 2 (GPS + 蜂窝网络) (40 毫米表壳) (北美)"
+    },
+    "A2855": {
+        "brand": "苹果",
+        "model": "Apple Watch SE 2 (GPS + 蜂窝网络) (40 毫米表壳) (中国大陆 & 港澳)"
+    },
+    "A2725": {
+        "brand": "苹果",
+        "model": "Apple Watch SE 2 (GPS + 蜂窝网络) (40 毫米表壳) (其他国家和地区)"
+    },
+    "A2727": {
+        "brand": "苹果",
+        "model": "Apple Watch SE 2 (GPS + 蜂窝网络) (44 毫米表壳) (北美)"
+    },
+    "A2856": {
+        "brand": "苹果",
+        "model": "Apple Watch SE 2 (GPS + 蜂窝网络) (44 毫米表壳) (中国大陆 & 港澳)"
+    },
+    "A2724": {
+        "brand": "苹果",
+        "model": "Apple Watch SE 2 (GPS + 蜂窝网络) (44 毫米表壳) (其他国家和地区)"
+    },
+    "A3324": {
+        "brand": "苹果",
+        "model": "Apple Watch SE 3 (GPS) (40 毫米表壳) (全球)"
+    },
+    "A3391": {
+        "brand": "苹果",
+        "model": "Apple Watch SE 3 (GPS) (40 毫米表壳) (中国大陆)"
+    },
+    "A3325": {
+        "brand": "苹果",
+        "model": "Apple Watch SE 3 (GPS) (44 毫米表壳) (全球)"
+    },
+    "A3392": {
+        "brand": "苹果",
+        "model": "Apple Watch SE 3 (GPS) (44 毫米表壳) (中国大陆)"
+    },
+    "A3326": {
+        "brand": "苹果",
+        "model": "Apple Watch SE 3 (GPS + 蜂窝网络) (40 毫米表壳) (全球)"
+    },
+    "A3327": {
+        "brand": "苹果",
+        "model": "Apple Watch SE 3 (GPS + 蜂窝网络) (44 毫米表壳) (中国大陆)"
+    },
+    "A3328": {
+        "brand": "苹果",
+        "model": "Apple Watch SE 3 (GPS + 蜂窝网络) (44 毫米表壳) (全球)"
+    },
+    "A3329": {
+        "brand": "苹果",
+        "model": "Apple Watch SE 3 (GPS + 蜂窝网络) (44 毫米表壳) (中国大陆)"
+    },
+    "A2622": {
+        "brand": "苹果",
+        "model": "Apple Watch Ultra (北美)"
+    },
+    "A2859": {
+        "brand": "苹果",
+        "model": "Apple Watch Ultra (中国大陆 & 港澳)"
+    },
+    "A2684": {
+        "brand": "苹果",
+        "model": "Apple Watch Ultra (其他国家和地区)"
+    },
+    "A2986": {
+        "brand": "苹果",
+        "model": "Apple Watch Ultra 2 (全球)"
+    },
+    "A2987": {
+        "brand": "苹果",
+        "model": "Apple Watch Ultra 2 (中国大陆 & 港澳)"
+    },
+    "A3281": {
+        "brand": "苹果",
+        "model": "Apple Watch Ultra 3 (全球)"
+    },
+    "A3282": {
+        "brand": "苹果",
+        "model": "Apple Watch Ultra 3 (中国大陆)"
     },
     "A1218": {
         "brand": "苹果",

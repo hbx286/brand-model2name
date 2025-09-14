@@ -755,6 +755,70 @@
         "brand": "苹果",
         "model": "iPhone 16e (Rest of the world)"
     },
+    "A3258": {
+        "brand": "苹果",
+        "model": "iPhone 17 (United States)"
+    },
+    "A3519": {
+        "brand": "苹果",
+        "model": "iPhone 17 (Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)"
+    },
+    "A3521": {
+        "brand": "苹果",
+        "model": "iPhone 17 (China mainland)"
+    },
+    "A3520": {
+        "brand": "苹果",
+        "model": "iPhone 17 (Rest of the world)"
+    },
+    "A3260": {
+        "brand": "苹果",
+        "model": "iPhone Air (United States, Bahrain, Canada, Guam, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)"
+    },
+    "A3518": {
+        "brand": "苹果",
+        "model": "iPhone Air (China mainland)"
+    },
+    "A3516": {
+        "brand": "苹果",
+        "model": "iPhone Air (Japan)"
+    },
+    "A3517": {
+        "brand": "苹果",
+        "model": "iPhone Air (Rest of the world)"
+    },
+    "A3256": {
+        "brand": "苹果",
+        "model": "iPhone 17 Pro (United States)"
+    },
+    "A3522": {
+        "brand": "苹果",
+        "model": "iPhone 17 Pro (Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)"
+    },
+    "A3524": {
+        "brand": "苹果",
+        "model": "iPhone 17 Pro (China mainland)"
+    },
+    "A3523": {
+        "brand": "苹果",
+        "model": "iPhone 17 Pro (Rest of the world)"
+    },
+    "A3257": {
+        "brand": "苹果",
+        "model": "iPhone 17 Pro Max (United States)"
+    },
+    "A3525": {
+        "brand": "苹果",
+        "model": "iPhone 17 Pro Max (Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)"
+    },
+    "A3527": {
+        "brand": "苹果",
+        "model": "iPhone 17 Pro Max (China mainland)"
+    },
+    "A3526": {
+        "brand": "苹果",
+        "model": "iPhone 17 Pro Max (Rest of the world)"
+    },
     "A1219": {
         "brand": "苹果",
         "model": "iPad Wi-Fi"
@@ -1395,30 +1459,6 @@
         "brand": "苹果",
         "model": "Apple Watch Series 5 (GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)"
     },
-    "A2351": {
-        "brand": "苹果",
-        "model": "Apple Watch SE (GPS) (40mm case)"
-    },
-    "A2352": {
-        "brand": "苹果",
-        "model": "Apple Watch SE (GPS) (44mm case)"
-    },
-    "A2353": {
-        "brand": "苹果",
-        "model": "Apple Watch SE (GPS + Cellular) (40mm case) (North America)"
-    },
-    "A2355": {
-        "brand": "苹果",
-        "model": "Apple Watch SE (GPS + Cellular) (40mm case) (Europe, Asia Pacific, and China)"
-    },
-    "A2354": {
-        "brand": "苹果",
-        "model": "Apple Watch SE (GPS + Cellular) (44mm case) (North America)"
-    },
-    "A2356": {
-        "brand": "苹果",
-        "model": "Apple Watch SE (GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)"
-    },
     "A2291": {
         "brand": "苹果",
         "model": "Apple Watch Series 6 (GPS) (40mm case)"
@@ -1467,38 +1507,6 @@
         "brand": "苹果",
         "model": "Apple Watch Series 7 (GPS + Cellular) (45mm case) (Europe, Asia Pacific, and China)"
     },
-    "A2722": {
-        "brand": "苹果",
-        "model": "Apple Watch SE (2nd generation) (GPS) (40mm case)"
-    },
-    "A2723": {
-        "brand": "苹果",
-        "model": "Apple Watch SE (2nd generation) (GPS) (44mm case)"
-    },
-    "A2726": {
-        "brand": "苹果",
-        "model": "Apple Watch SE (2nd generation) (GPS + Cellular) (40mm case) (North America)"
-    },
-    "A2855": {
-        "brand": "苹果",
-        "model": "Apple Watch SE (2nd generation) (GPS + Cellular) (40mm case) (China mainland, Hong Kong, Macao)"
-    },
-    "A2725": {
-        "brand": "苹果",
-        "model": "Apple Watch SE (2nd generation) (GPS + Cellular) (40mm case) (Rest of the world)"
-    },
-    "A2727": {
-        "brand": "苹果",
-        "model": "Apple Watch SE (2nd generation) (GPS + Cellular) (44mm case) (North America)"
-    },
-    "A2856": {
-        "brand": "苹果",
-        "model": "Apple Watch SE (2nd generation) (GPS + Cellular) (44mm case) (China mainland, Hong Kong, Macao)"
-    },
-    "A2724": {
-        "brand": "苹果",
-        "model": "Apple Watch SE (2nd generation) (GPS + Cellular) (44mm case) (Rest of the world)"
-    },
     "A2770": {
         "brand": "苹果",
         "model": "Apple Watch Series 8 (GPS) (41mm case)"
@@ -1531,18 +1539,6 @@
         "brand": "苹果",
         "model": "Apple Watch Series 8 (GPS + Cellular) (45mm case) (Rest of the world)"
     },
-    "A2622": {
-        "brand": "苹果",
-        "model": "Apple Watch Ultra (North America)"
-    },
-    "A2859": {
-        "brand": "苹果",
-        "model": "Apple Watch Ultra (China mainland, Hong Kong, Macao)"
-    },
-    "A2684": {
-        "brand": "苹果",
-        "model": "Apple Watch Ultra (Rest of the world)"
-    },
     "A2978": {
         "brand": "苹果",
         "model": "Apple Watch Series 9 (GPS) (41mm case)"
@@ -1567,14 +1563,6 @@
         "brand": "苹果",
         "model": "Apple Watch Series 9 (GPS + Cellular) (45mm case) (China mainland, Hong Kong, Macao)"
     },
-    "A2986": {
-        "brand": "苹果",
-        "model": "Apple Watch Ultra 2 (Global)"
-    },
-    "A2987": {
-        "brand": "苹果",
-        "model": "Apple Watch Ultra 2 (China mainland, Hong Kong, Macao)"
-    },
     "A2997": {
         "brand": "苹果",
         "model": "Apple Watch Series 10 (GPS) (42mm case) (Global)"
@@ -1597,7 +1585,7 @@
     },
     "A3002": {
         "brand": "苹果",
-        "model": "Apple Watch Series 10 (GPS + Cellular) (42mm case) (China mainland, Indonesia)"
+        "model": "Apple Watch Series 10 (GPS + Cellular) (42mm case) (China mainland)"
     },
     "A3003": {
         "brand": "苹果",
@@ -1605,7 +1593,155 @@
     },
     "A3206": {
         "brand": "苹果",
-        "model": "Apple Watch Series 10 (GPS + Cellular) (46mm case) (China mainland, Indonesia)"
+        "model": "Apple Watch Series 10 (GPS + Cellular) (46mm case) (China mainland)"
+    },
+    "A3331": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 11 (GPS) (42mm case) (Global)"
+    },
+    "A3450": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 11 (GPS) (42mm case) (China mainland)"
+    },
+    "A3333": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 11 (GPS) (46mm case) (Global)"
+    },
+    "A3451": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 11 (GPS) (46mm case) (China mainland)"
+    },
+    "A3335": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 11 (GPS + Cellular) (42mm case) (Global)"
+    },
+    "A3452": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 11 (GPS + Cellular) (42mm case) (China mainland)"
+    },
+    "A3337": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 11 (GPS + Cellular) (46mm case) (Global)"
+    },
+    "A3453": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 11 (GPS + Cellular) (46mm case) (China mainland)"
+    },
+    "A2351": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (GPS) (40mm case)"
+    },
+    "A2352": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (GPS) (44mm case)"
+    },
+    "A2353": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (GPS + Cellular) (40mm case) (North America)"
+    },
+    "A2355": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (GPS + Cellular) (40mm case) (Europe, Asia Pacific, and China)"
+    },
+    "A2354": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (GPS + Cellular) (44mm case) (North America)"
+    },
+    "A2356": {
+        "brand": "苹果",
+        "model": "Apple Watch SE (GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)"
+    },
+    "A2722": {
+        "brand": "苹果",
+        "model": "Apple Watch SE 2 (GPS) (40mm case)"
+    },
+    "A2723": {
+        "brand": "苹果",
+        "model": "Apple Watch SE 2 (GPS) (44mm case)"
+    },
+    "A2726": {
+        "brand": "苹果",
+        "model": "Apple Watch SE 2 (GPS + Cellular) (40mm case) (North America)"
+    },
+    "A2855": {
+        "brand": "苹果",
+        "model": "Apple Watch SE 2 (GPS + Cellular) (40mm case) (China mainland, Hong Kong, Macao)"
+    },
+    "A2725": {
+        "brand": "苹果",
+        "model": "Apple Watch SE 2 (GPS + Cellular) (40mm case) (Rest of the world)"
+    },
+    "A2727": {
+        "brand": "苹果",
+        "model": "Apple Watch SE 2 (GPS + Cellular) (44mm case) (North America)"
+    },
+    "A2856": {
+        "brand": "苹果",
+        "model": "Apple Watch SE 2 (GPS + Cellular) (44mm case) (China mainland, Hong Kong, Macao)"
+    },
+    "A2724": {
+        "brand": "苹果",
+        "model": "Apple Watch SE 2 (GPS + Cellular) (44mm case) (Rest of the world)"
+    },
+    "A3324": {
+        "brand": "苹果",
+        "model": "Apple Watch SE 3 (GPS) (40mm case) (Global)"
+    },
+    "A3391": {
+        "brand": "苹果",
+        "model": "Apple Watch SE 3 (GPS) (40mm case) (China mainland)"
+    },
+    "A3325": {
+        "brand": "苹果",
+        "model": "Apple Watch SE 3 (GPS) (44mm case) (Global)"
+    },
+    "A3392": {
+        "brand": "苹果",
+        "model": "Apple Watch SE 3 (GPS) (44mm case) (China mainland)"
+    },
+    "A3326": {
+        "brand": "苹果",
+        "model": "Apple Watch SE 3 (GPS + Cellular) (40mm case) (Global)"
+    },
+    "A3327": {
+        "brand": "苹果",
+        "model": "Apple Watch SE 3 (GPS + Cellular) (44mm case) (China mainland)"
+    },
+    "A3328": {
+        "brand": "苹果",
+        "model": "Apple Watch SE 3 (GPS + Cellular) (44mm case) (Global)"
+    },
+    "A3329": {
+        "brand": "苹果",
+        "model": "Apple Watch SE 3 (GPS + Cellular) (44mm case) (China mainland)"
+    },
+    "A2622": {
+        "brand": "苹果",
+        "model": "Apple Watch Ultra (North America)"
+    },
+    "A2859": {
+        "brand": "苹果",
+        "model": "Apple Watch Ultra (China mainland, Hong Kong, Macao)"
+    },
+    "A2684": {
+        "brand": "苹果",
+        "model": "Apple Watch Ultra (Rest of the world)"
+    },
+    "A2986": {
+        "brand": "苹果",
+        "model": "Apple Watch Ultra 2 (Global)"
+    },
+    "A2987": {
+        "brand": "苹果",
+        "model": "Apple Watch Ultra 2 (China mainland, Hong Kong, Macao)"
+    },
+    "A3281": {
+        "brand": "苹果",
+        "model": "Apple Watch Ultra 3 (Global)"
+    },
+    "A3282": {
+        "brand": "苹果",
+        "model": "Apple Watch Ultra 3 (China mainland)"
     },
     "A1218": {
         "brand": "苹果",
