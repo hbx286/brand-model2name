@@ -331,6 +331,14 @@
         "brand": "魅族",
         "model": "魅族 21 Note 国际版"
     },
+    "M582Q": {
+        "brand": "魅族",
+        "model": "魅族 22"
+    },
+    "M582V": {
+        "brand": "魅族",
+        "model": "魅族 22 (16GB+1TB)"
+    },
     "M431Q": {
         "brand": "魅族",
         "model": "魅族 Lucky 08 公开版"
@@ -394,6 +402,10 @@
     "M412H": {
         "brand": "魅族",
         "model": "魅族 Note 21 Pro 国际版"
+    },
+    "M513H": {
+        "brand": "魅族",
+        "model": "魅族 Note 22 国际版"
     },
     "M810H": {
         "brand": "魅族",
@@ -709,15 +721,23 @@
     },
     "M421Q": {
         "brand": "魅族",
-        "model": "魅蓝 200 / 魅蓝 20C / 魅族 M20"
+        "model": "魅蓝 20 / 魅蓝 20C / 魅族 M20"
     },
     "M416H": {
         "brand": "魅族",
-        "model": "魅族 MBLU 21"
+        "model": "魅族 Mblu 21 国际版"
     },
     "M416L": {
         "brand": "魅族",
-        "model": "魅族 MBLU 21"
+        "model": "魅族 Mblu 21 国际版"
+    },
+    "M511H": {
+        "brand": "魅族",
+        "model": "MEIZU Mblu 22 国际版"
+    },
+    "M512H": {
+        "brand": "魅族",
+        "model": "MEIZU Mblu 22 Pro 国际版"
     },
     "S685Q": {
         "brand": "魅族",

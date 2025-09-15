@@ -331,6 +331,14 @@
         "brand": "魅族",
         "model": "MEIZU 21 Note Global"
     },
+    "M582Q": {
+        "brand": "魅族",
+        "model": "MEIZU 22"
+    },
+    "M582V": {
+        "brand": "魅族",
+        "model": "MEIZU 22 (16GB+1TB)"
+    },
     "M431Q": {
         "brand": "魅族",
         "model": "MEIZU Lucky 08"
@@ -474,6 +482,10 @@
     "M412H": {
         "brand": "魅族",
         "model": "MEIZU Note 21 Pro Global"
+    },
+    "M513H": {
+        "brand": "魅族",
+        "model": "MEIZU Note 22 Global"
     },
     "A680H": {
         "brand": "魅族",
@@ -713,11 +725,19 @@
     },
     "M416H": {
         "brand": "魅族",
-        "model": "MEIZU MBLU 21 Global"
+        "model": "MEIZU Mblu 21 Global"
     },
     "M416L": {
         "brand": "魅族",
-        "model": "MEIZU MBLU 21 Global"
+        "model": "MEIZU Mblu 21 Global"
+    },
+    "M511H": {
+        "brand": "魅族",
+        "model": "MEIZU Mblu 22 Global"
+    },
+    "M512H": {
+        "brand": "魅族",
+        "model": "MEIZU Mblu 22 Pro Global"
     },
     "S685H": {
         "brand": "魅族",
