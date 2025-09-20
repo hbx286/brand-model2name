@@ -3607,6 +3607,22 @@
         "brand": "华为",
         "model": "HUAWEI WATCH GT 5 Pro 46mm"
     },
+    "KSU-B19": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH GT 6 41mm"
+    },
+    "ATM-B19": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH GT 6 46mm"
+    },
+    "KSU-B29": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH GT 6 Pro 42mm"
+    },
+    "ATM-B29": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH GT 6 Pro 46mm"
+    },
     "RUN-B19": {
         "brand": "华为",
         "model": "HUAWEI WATCH GT Runner"

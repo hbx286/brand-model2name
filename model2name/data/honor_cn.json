@@ -1299,10 +1299,6 @@
         "brand": "荣耀",
         "model": "荣耀平板 9 柔光版 12.1 英寸 Wi-Fi 版"
     },
-    "HEY2-AN00": {
-        "brand": "荣耀",
-        "model": "荣耀平板 Z7 12.1 英寸 5G 版"
-    },
     "ROD-W09": {
         "brand": "荣耀",
         "model": "荣耀平板 V8 Pro 12.1 英寸 Wi-Fi 版"
@@ -1418,6 +1414,10 @@
     "AGM-AL09HN": {
         "brand": "荣耀",
         "model": "荣耀平板 Z3 9.7 英寸 LTE 版"
+    },
+    "HEY2-AN00": {
+        "brand": "荣耀",
+        "model": "荣耀平板 Z7 12.1 英寸 5G 版"
     },
     "HDN-W09": {
         "brand": "荣耀",
