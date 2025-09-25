@@ -955,6 +955,26 @@
         "brand": "小米电视",
         "model": "REDMI 电视 X85 2025 节能版 (一级能效)"
     },
+    "L55RC-RX": {
+        "brand": "小米电视",
+        "model": "REDMI 电视 X55 2026"
+    },
+    "L65RC-RX": {
+        "brand": "小米电视",
+        "model": "REDMI 电视 X65 2026"
+    },
+    "L75RC-RX": {
+        "brand": "小米电视",
+        "model": "REDMI 电视 X75 2026"
+    },
+    "L85RC-RX": {
+        "brand": "小米电视",
+        "model": "REDMI 电视 X85 2026"
+    },
+    "L98RC-RX": {
+        "brand": "小米电视",
+        "model": "REDMI 电视 X98 2026"
+    },
     "L65R9-XP": {
         "brand": "小米电视",
         "model": "Redmi 智能电视 X Pro 65"
