@@ -615,6 +615,26 @@
         "brand": "小米",
         "model": "Xiaomi 15T Pro Japan (SIM Free)"
     },
+    "25113PN0EG": {
+        "brand": "小米",
+        "model": "Xiaomi 17 Global"
+    },
+    "25113PN0EC": {
+        "brand": "小米",
+        "model": "Xiaomi 17 China"
+    },
+    "25113PN0EI": {
+        "brand": "小米",
+        "model": "Xiaomi 17 India"
+    },
+    "25098PN5AC": {
+        "brand": "小米",
+        "model": "Xiaomi 17 Pro China"
+    },
+    "2509FPN0BC": {
+        "brand": "小米",
+        "model": "Xiaomi 17 Pro Max China"
+    },
     "2015011": {
         "brand": "小米",
         "model": "Mi Note Global"
@@ -750,10 +770,6 @@
     "2405CPX3DC": {
         "brand": "小米",
         "model": "Xiaomi MIX Flip China"
-    },
-    "2505APX7BG": {
-        "brand": "小米",
-        "model": "Xiaomi MIX Flip 2 Global"
     },
     "2505APX7BC": {
         "brand": "小米",
@@ -1449,7 +1465,7 @@
     },
     "2404ARN45A": {
         "brand": "小米",
-        "model": "Redmi 13 Global / Redmi 13x Global"
+        "model": "Redmi 13 Global / REDMI 13x Global"
     },
     "2404ARN45I": {
         "brand": "小米",
@@ -1457,11 +1473,11 @@
     },
     "24049RN28L": {
         "brand": "小米",
-        "model": "Redmi 13 Latin America / Redmi 13x Latin America"
+        "model": "Redmi 13 Latin America / REDMI 13x Latin America"
     },
     "24040RN64Y": {
         "brand": "小米",
-        "model": "Redmi 13 Global (NFC)"
+        "model": "Redmi 13 Global (NFC) / REDMI 13x Global (NFC)"
     },
     "2406ERN9CI": {
         "brand": "小米",
@@ -1533,47 +1549,71 @@
     },
     "25062RN2DA": {
         "brand": "小米",
-        "model": "Redmi 15 Global"
+        "model": "REDMI 15 Global"
     },
     "25062RN2DY": {
         "brand": "小米",
-        "model": "Redmi 15 Global (NFC)"
+        "model": "REDMI 15 Global (NFC)"
     },
     "25062RN2DE": {
         "brand": "小米",
-        "model": "Redmi 15 Europe"
+        "model": "REDMI 15 Europe"
     },
     "25062RN2DL": {
         "brand": "小米",
-        "model": "Redmi 15 Latin America"
+        "model": "REDMI 15 Latin America"
     },
     "25057RN09G": {
         "brand": "小米",
-        "model": "Redmi 15 5G Global"
+        "model": "REDMI 15 5G Global"
     },
     "25057RN09E": {
         "brand": "小米",
-        "model": "Redmi 15 5G Europe"
+        "model": "REDMI 15 5G Europe"
     },
     "25057RN09I": {
         "brand": "小米",
-        "model": "Redmi 15 5G India"
+        "model": "REDMI 15 5G India"
     },
     "25078RA3EA": {
         "brand": "小米",
-        "model": "Redmi 15C Global"
+        "model": "REDMI 15C Global"
     },
     "25078RA3EY": {
         "brand": "小米",
-        "model": "Redmi 15C Global (NFC)"
+        "model": "REDMI 15C Global (NFC)"
     },
     "25078RA3EE": {
         "brand": "小米",
-        "model": "Redmi 15C Europe"
+        "model": "REDMI 15C Europe"
     },
     "25078RA3EL": {
         "brand": "小米",
-        "model": "Redmi 15C Latin America"
+        "model": "REDMI 15C Latin America"
+    },
+    "2508CRN2BG": {
+        "brand": "小米",
+        "model": "REDMI 15C 5G Global"
+    },
+    "2508CRN2BE": {
+        "brand": "小米",
+        "model": "REDMI 15C 5G Europe"
+    },
+    "2508CRN2BI": {
+        "brand": "小米",
+        "model": "REDMI 15C 5G India"
+    },
+    "2508CRN2BC": {
+        "brand": "小米",
+        "model": "REDMI 15C 5G China"
+    },
+    "2508CRN2BR": {
+        "brand": "小米",
+        "model": "REDMI 15C 5G Japan"
+    },
+    "25082RNC1C": {
+        "brand": "小米",
+        "model": "REDMI 15R 5G China"
     },
     "2014018": {
         "brand": "小米",
@@ -2317,15 +2357,15 @@
     },
     "25098RA98G": {
         "brand": "小米",
-        "model": "Redmi Note 15 5G Global"
+        "model": "REDMI Note 15 5G Global"
     },
     "25098RA98E": {
         "brand": "小米",
-        "model": "Redmi Note 15 5G Europe"
+        "model": "REDMI Note 15 5G Europe"
     },
     "25098RA98I": {
         "brand": "小米",
-        "model": "Redmi Note 15 5G India"
+        "model": "REDMI Note 15 5G India"
     },
     "25098RA98C": {
         "brand": "小米",
@@ -2333,15 +2373,15 @@
     },
     "25080RABDG": {
         "brand": "小米",
-        "model": "Redmi Note 15 Pro 5G Global"
+        "model": "REDMI Note 15 Pro 5G Global"
     },
     "25080RABDI": {
         "brand": "小米",
-        "model": "Redmi Note 15 Pro 5G India"
+        "model": "REDMI Note 15 Pro 5G India"
     },
     "25080RABDR": {
         "brand": "小米",
-        "model": "Redmi Note 15 Pro 5G Japan"
+        "model": "REDMI Note 15 Pro 5G Japan"
     },
     "25080RABDC": {
         "brand": "小米",
@@ -2349,11 +2389,11 @@
     },
     "2510ERA8BG": {
         "brand": "小米",
-        "model": "Redmi Note 15 Pro+ 5G Global"
+        "model": "REDMI Note 15 Pro+ 5G Global"
     },
     "2510ERA8BI": {
         "brand": "小米",
-        "model": "Redmi Note 15 Pro+ 5G India"
+        "model": "REDMI Note 15 Pro+ 5G India"
     },
     "2510ERA8BC": {
         "brand": "小米",
@@ -2673,23 +2713,23 @@
     },
     "25028RN03G": {
         "brand": "小米",
-        "model": "Redmi A5 Global"
+        "model": "REDMI A5 Global"
     },
     "25028RN03A": {
         "brand": "小米",
-        "model": "Redmi A5 Global"
+        "model": "REDMI A5 Global"
     },
     "25028RN03Y": {
         "brand": "小米",
-        "model": "Redmi A5 Global"
+        "model": "REDMI A5 Global"
     },
     "25028RN03I": {
         "brand": "小米",
-        "model": "Redmi A5 India"
+        "model": "REDMI A5 India"
     },
     "25028RN03L": {
         "brand": "小米",
-        "model": "Redmi A5 Latin America"
+        "model": "REDMI A5 Latin America"
     },
     "M1805E10A": {
         "brand": "小米",
@@ -2959,6 +2999,10 @@
         "brand": "小米",
         "model": "POCO M7 Pro 5G Global"
     },
+    "2508CPC2BI": {
+        "brand": "小米",
+        "model": "POCO M8 5G India"
+    },
     "M2006C3MI": {
         "brand": "小米",
         "model": "POCO C3 India"
@@ -3155,6 +3199,30 @@
         "brand": "小米",
         "model": "Xiaomi Pad 7S Pro 12.5 China"
     },
+    "25079RPDCG": {
+        "brand": "小米",
+        "model": "Xiaomi Pad Mini Global"
+    },
+    "25097RP43G": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 8 Global"
+    },
+    "25097RP43C": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 8 China"
+    },
+    "25097RP43I": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 8 India"
+    },
+    "25091RP04G": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 8 Pro Global"
+    },
+    "25091RP04C": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 8 Pro China"
+    },
     "22081283G": {
         "brand": "小米",
         "model": "Redmi Pad Global"
@@ -3217,19 +3285,19 @@
     },
     "25040RP0AG": {
         "brand": "小米",
-        "model": "Redmi Pad 2 Global"
+        "model": "REDMI Pad 2 Global"
     },
     "25040RP0AI": {
         "brand": "小米",
-        "model": "Redmi Pad 2 India"
+        "model": "REDMI Pad 2 India"
     },
     "25040RP0AE": {
         "brand": "小米",
-        "model": "Redmi Pad 2 Europe"
+        "model": "REDMI Pad 2 Europe"
     },
     "25040RP0AL": {
         "brand": "小米",
-        "model": "Redmi Pad 2 Latin America"
+        "model": "REDMI Pad 2 Latin America"
     },
     "25040RP0AC": {
         "brand": "小米",
@@ -3237,23 +3305,43 @@
     },
     "2505DRP06G": {
         "brand": "小米",
-        "model": "Redmi Pad 2 4G Global"
+        "model": "REDMI Pad 2 4G Global"
     },
     "2505DRP06I": {
         "brand": "小米",
-        "model": "Redmi Pad 2 4G India"
+        "model": "REDMI Pad 2 4G India"
     },
     "2505DRP06E": {
         "brand": "小米",
-        "model": "Redmi Pad 2 4G Europe"
-    },
-    "2505DRP06C": {
-        "brand": "小米",
-        "model": "REDMI Pad 2 4G China"
+        "model": "REDMI Pad 2 4G Europe"
     },
     "25079RPDCC": {
         "brand": "小米",
         "model": "REDMI K Pad China"
+    },
+    "25099RP13G": {
+        "brand": "小米",
+        "model": "REDMI Pad 2 Pro Global"
+    },
+    "25099RP13I": {
+        "brand": "小米",
+        "model": "REDMI Pad 2 Pro India"
+    },
+    "25099RP13C": {
+        "brand": "小米",
+        "model": "REDMI Pad 2 Pro China"
+    },
+    "2509BRP2DG": {
+        "brand": "小米",
+        "model": "REDMI Pad 2 Pro 5G Global"
+    },
+    "2509BRP2DI": {
+        "brand": "小米",
+        "model": "REDMI Pad 2 Pro 5G India"
+    },
+    "2509BRP2DC": {
+        "brand": "小米",
+        "model": "REDMI Pad 2 Pro 5G China"
     },
     "2405CPCFBG": {
         "brand": "小米",
@@ -3262,6 +3350,14 @@
     "24074PCD2I": {
         "brand": "小米",
         "model": "POCO Pad 5G India"
+    },
+    "25099RP08G": {
+        "brand": "小米",
+        "model": "POCO Pad X1 Global"
+    },
+    "2509ARPBDG": {
+        "brand": "小米",
+        "model": "POCO Pad M1 Global"
     },
     "FYJ01QP": {
         "brand": "小米",

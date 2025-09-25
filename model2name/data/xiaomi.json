@@ -615,6 +615,26 @@
         "brand": "小米",
         "model": "Xiaomi 15T Pro 日本版 (无锁)"
     },
+    "25113PN0EC": {
+        "brand": "小米",
+        "model": "Xiaomi 17 国行版"
+    },
+    "25113PN0EG": {
+        "brand": "小米",
+        "model": "Xiaomi 17 国际版"
+    },
+    "25113PN0EI": {
+        "brand": "小米",
+        "model": "Xiaomi 17 印度版"
+    },
+    "25098PN5AC": {
+        "brand": "小米",
+        "model": "Xiaomi 17 Pro"
+    },
+    "2509FPN0BC": {
+        "brand": "小米",
+        "model": "Xiaomi 17 Pro Max"
+    },
     "2014616": {
         "brand": "小米",
         "model": "小米 Note 双网通版"
@@ -754,10 +774,6 @@
     "2505APX7BC": {
         "brand": "小米",
         "model": "Xiaomi MIX Flip 2 国行版"
-    },
-    "2505APX7BG": {
-        "brand": "小米",
-        "model": "Xiaomi MIX Flip 2 国际版"
     },
     "2016001": {
         "brand": "小米",
@@ -962,6 +978,30 @@
     "25053RP5CC": {
         "brand": "小米",
         "model": "Xiaomi Pad 7S Pro 12.5"
+    },
+    "25079RPDCG": {
+        "brand": "小米",
+        "model": "Xiaomi Pad Mini 国际版"
+    },
+    "25097RP43C": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 8 国行版"
+    },
+    "25097RP43G": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 8 国际版"
+    },
+    "25097RP43I": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 8 印度版"
+    },
+    "25091RP04C": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 8 Pro 国行版"
+    },
+    "25091RP04G": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 8 Pro 国际版"
     },
     "2013022": {
         "brand": "小米",
@@ -1561,7 +1601,7 @@
     },
     "24040RN64Y": {
         "brand": "小米",
-        "model": "Redmi 13 国际版 (NFC)"
+        "model": "Redmi 13 国际版 (NFC) / REDMI 13x 国际版 (NFC)"
     },
     "2406ERN9CI": {
         "brand": "小米",
@@ -1633,47 +1673,71 @@
     },
     "25062RN2DA": {
         "brand": "小米",
-        "model": "Redmi 15 国际版"
+        "model": "REDMI 15 国际版"
     },
     "25062RN2DY": {
         "brand": "小米",
-        "model": "Redmi 15 国际版 (NFC)"
+        "model": "REDMI 15 国际版 (NFC)"
     },
     "25062RN2DE": {
         "brand": "小米",
-        "model": "Redmi 15 欧洲版"
+        "model": "REDMI 15 欧洲版"
     },
     "25062RN2DL": {
         "brand": "小米",
-        "model": "Redmi 15 拉美版"
+        "model": "REDMI 15 拉美版"
     },
     "25057RN09G": {
         "brand": "小米",
-        "model": "Redmi 15 5G 国际版"
+        "model": "REDMI 15 5G 国际版"
     },
     "25057RN09E": {
         "brand": "小米",
-        "model": "Redmi 15 5G 欧洲版"
+        "model": "REDMI 15 5G 欧洲版"
     },
     "25057RN09I": {
         "brand": "小米",
-        "model": "Redmi 15 5G 印度版"
+        "model": "REDMI 15 5G 印度版"
     },
     "25078RA3EA": {
         "brand": "小米",
-        "model": "Redmi 15C 国际版"
+        "model": "REDMI 15C 国际版"
     },
     "25078RA3EY": {
         "brand": "小米",
-        "model": "Redmi 15C 国际版 (NFC)"
+        "model": "REDMI 15C 国际版 (NFC)"
     },
     "25078RA3EE": {
         "brand": "小米",
-        "model": "Redmi 15C 欧洲版"
+        "model": "REDMI 15C 欧洲版"
     },
     "25078RA3EL": {
         "brand": "小米",
-        "model": "Redmi 15C 拉美版"
+        "model": "REDMI 15C 拉美版"
+    },
+    "2508CRN2BC": {
+        "brand": "小米",
+        "model": "REDMI 15C 5G 国行版"
+    },
+    "2508CRN2BG": {
+        "brand": "小米",
+        "model": "REDMI 15C 5G 国际版"
+    },
+    "2508CRN2BE": {
+        "brand": "小米",
+        "model": "REDMI 15C 5G 欧洲版"
+    },
+    "2508CRN2BI": {
+        "brand": "小米",
+        "model": "REDMI 15C 5G 印度版"
+    },
+    "2508CRN2BR": {
+        "brand": "小米",
+        "model": "REDMI 15C 5G 日本版"
+    },
+    "25082RNC1C": {
+        "brand": "小米",
+        "model": "REDMI 15R 5G"
     },
     "2014018": {
         "brand": "小米",
@@ -2417,15 +2481,15 @@
     },
     "25098RA98G": {
         "brand": "小米",
-        "model": "Redmi Note 15 5G 国际版"
+        "model": "REDMI Note 15 5G 国际版"
     },
     "25098RA98E": {
         "brand": "小米",
-        "model": "Redmi Note 15 5G 欧洲版"
+        "model": "REDMI Note 15 5G 欧洲版"
     },
     "25098RA98I": {
         "brand": "小米",
-        "model": "Redmi Note 15 5G 印度版"
+        "model": "REDMI Note 15 5G 印度版"
     },
     "25080RABDC": {
         "brand": "小米",
@@ -2433,15 +2497,15 @@
     },
     "25080RABDG": {
         "brand": "小米",
-        "model": "Redmi Note 15 Pro 5G 国际版"
+        "model": "REDMI Note 15 Pro 5G 国际版"
     },
     "25080RABDI": {
         "brand": "小米",
-        "model": "Redmi Note 15 Pro 5G 印度版"
+        "model": "REDMI Note 15 Pro 5G 印度版"
     },
     "25080RABDR": {
         "brand": "小米",
-        "model": "Redmi Note 15 Pro 5G 日本版"
+        "model": "REDMI Note 15 Pro 5G 日本版"
     },
     "2510ERA8BC": {
         "brand": "小米",
@@ -2449,11 +2513,11 @@
     },
     "2510ERA8BG": {
         "brand": "小米",
-        "model": "Redmi Note 15 Pro+ 5G 国际版"
+        "model": "REDMI Note 15 Pro+ 5G 国际版"
     },
     "2510ERA8BI": {
         "brand": "小米",
-        "model": "Redmi Note 15 Pro+ 5G 印度版"
+        "model": "REDMI Note 15 Pro+ 5G 印度版"
     },
     "25104RADAC": {
         "brand": "小米",
@@ -2867,10 +2931,6 @@
         "brand": "小米",
         "model": "REDMI Pad 2 拉美版"
     },
-    "2505DRP06C": {
-        "brand": "小米",
-        "model": "REDMI Pad 2 4G 国行版"
-    },
     "2505DRP06G": {
         "brand": "小米",
         "model": "REDMI Pad 2 4G 国际版"
@@ -2882,6 +2942,30 @@
     "2505DRP06E": {
         "brand": "小米",
         "model": "REDMI Pad 2 4G 欧洲版"
+    },
+    "25099RP13C": {
+        "brand": "小米",
+        "model": "REDMI Pad 2 Pro 国行版"
+    },
+    "25099RP13G": {
+        "brand": "小米",
+        "model": "REDMI Pad 2 Pro 国际版"
+    },
+    "25099RP13I": {
+        "brand": "小米",
+        "model": "REDMI Pad 2 Pro 印度版"
+    },
+    "2509BRP2DC": {
+        "brand": "小米",
+        "model": "REDMI Pad 2 Pro 5G 国行版"
+    },
+    "2509BRP2DG": {
+        "brand": "小米",
+        "model": "REDMI Pad 2 Pro 5G 国际版"
+    },
+    "2509BRP2DI": {
+        "brand": "小米",
+        "model": "REDMI Pad 2 Pro 5G 印度版"
     },
     "25079RPDCC": {
         "brand": "小米",
@@ -3155,6 +3239,10 @@
         "brand": "小米",
         "model": "POCO M7 Pro 5G 国际版"
     },
+    "2508CPC2BI": {
+        "brand": "小米",
+        "model": "POCO M8 5G 印度版"
+    },
     "M2006C3MI": {
         "brand": "小米",
         "model": "POCO C3 印度版"
@@ -3262,6 +3350,14 @@
     "24074PCD2I": {
         "brand": "小米",
         "model": "POCO Pad 5G 印度版"
+    },
+    "25099RP08G": {
+        "brand": "小米",
+        "model": "POCO Pad X1 国际版"
+    },
+    "2509ARPBDG": {
+        "brand": "小米",
+        "model": "POCO Pad M1 国际版"
     },
     "FYJ01QP": {
         "brand": "小米",
