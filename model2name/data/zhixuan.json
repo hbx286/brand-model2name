@@ -183,6 +183,18 @@
         "brand": "华为智选",
         "model": "Hi MateBook 14 (32GB 内存)"
     },
+    "MASI-16": {
+        "brand": "华为智选",
+        "model": "Hi MateBook 14 酷睿 Ultra 2 (16GB 内存)"
+    },
+    "MASC-24": {
+        "brand": "华为智选",
+        "model": "Hi MateBook 14 酷睿 Ultra 2 (24GB 内存)"
+    },
+    "MASC-32": {
+        "brand": "华为智选",
+        "model": "Hi MateBook 14 酷睿 Ultra 2 (32GB 内存)"
+    },
     "LYOI-16": {
         "brand": "华为智选",
         "model": "Hi MateBook D 14 (16GB 内存)"
@@ -191,11 +203,15 @@
         "brand": "华为智选",
         "model": "Hi MateBook D 14 (32GB 内存)"
     },
-    "NICEI-16": {
+    "NICG-16": {
+        "brand": "华为智选",
+        "model": "Hi MateBook D 16 (13 代酷睿) (16GB 内存)"
+    },
+    "NICI-16": {
         "brand": "华为智选",
         "model": "Hi MateBook D 16 (16GB 内存)"
     },
-    "NICEI-32": {
+    "NICI-32": {
         "brand": "华为智选",
         "model": "Hi MateBook D 16 (32GB 内存)"
     }
