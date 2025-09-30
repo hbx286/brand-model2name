@@ -255,6 +255,18 @@
         "brand": "vivo",
         "model": "vivo X Fold5"
     },
+    "V2509A": {
+        "brand": "vivo",
+        "model": "vivo X300"
+    },
+    "V2502A": {
+        "brand": "vivo",
+        "model": "vivo X300 Pro"
+    },
+    "V2502DA": {
+        "brand": "vivo",
+        "model": "vivo X300 Pro 卫星通信版"
+    },
     "V1831A": {
         "brand": "vivo",
         "model": "vivo S1 全网通版"
@@ -878,6 +890,10 @@
     "V2408A": {
         "brand": "vivo",
         "model": "iQOO 13"
+    },
+    "V2505A": {
+        "brand": "vivo",
+        "model": "iQOO 15"
     },
     "V1914A": {
         "brand": "vivo",
