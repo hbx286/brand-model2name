@@ -2123,6 +2123,14 @@
         "brand": "三星",
         "model": "Galaxy A16 5G Global (MediaTek)"
     },
+    "SM-A175F": {
+        "brand": "三星",
+        "model": "Galaxy A17 Global"
+    },
+    "SM-A175N": {
+        "brand": "三星",
+        "model": "Galaxy A17 South Korea"
+    },
     "SM-A176B": {
         "brand": "三星",
         "model": "Galaxy A17 5G Global"
