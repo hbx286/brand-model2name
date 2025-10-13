@@ -95,6 +95,18 @@
         "brand": "oppo",
         "model": "OPPO Find X8 Ultra 卫星通信版"
     },
+    "PLJ110": {
+        "brand": "oppo",
+        "model": "OPPO Find X9"
+    },
+    "PLG110": {
+        "brand": "oppo",
+        "model": "OPPO Find X9 Pro"
+    },
+    "PLG120": {
+        "brand": "oppo",
+        "model": "OPPO Find X9 Pro 卫星通信版"
+    },
     "PEUM00": {
         "brand": "oppo",
         "model": "OPPO Find N"
@@ -898,5 +910,9 @@
     "OWW251": {
         "brand": "oppo",
         "model": "OPPO Watch X2"
+    },
+    "OWW262": {
+        "brand": "oppo",
+        "model": "OPPO Watch S"
     }
 }
