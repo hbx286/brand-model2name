@@ -127,6 +127,22 @@
         "brand": "荣耀",
         "model": "荣耀 Magic V Flip2"
     },
+    "BKQ-AN00": {
+        "brand": "荣耀",
+        "model": "荣耀 Magic8"
+    },
+    "BKQ-AN80": {
+        "brand": "荣耀",
+        "model": "荣耀 Magic8 (16GB+1TB)"
+    },
+    "BKQ-AN10": {
+        "brand": "荣耀",
+        "model": "荣耀 Magic8 Pro"
+    },
+    "BKQ-AN90": {
+        "brand": "荣耀",
+        "model": "荣耀 Magic8 Pro (16GB+1TB)"
+    },
     "H60-L01": {
         "brand": "荣耀",
         "model": "荣耀 6 移动版"
@@ -1363,6 +1379,14 @@
         "brand": "荣耀",
         "model": "荣耀平板 MagicPad 3 13.3 英寸 Wi-Fi 版"
     },
+    "CGL-W00": {
+        "brand": "荣耀",
+        "model": "荣耀 MagicPad 3 12.5 英寸 Wi-Fi 版"
+    },
+    "YLP-W00": {
+        "brand": "荣耀",
+        "model": "荣耀 MagicPad 3 Pro 13.3 英寸 Wi-Fi 版"
+    },
     "ROL-W60": {
         "brand": "荣耀",
         "model": "荣耀平板 GT 11.5 英寸 Wi-Fi 版"
@@ -2171,6 +2195,10 @@
         "brand": "荣耀",
         "model": "荣耀手表 5"
     },
+    "HAL-L19": {
+        "brand": "荣耀",
+        "model": "荣耀手表 5 Pro"
+    },
     "TUR-L19": {
         "brand": "荣耀",
         "model": "荣耀手表 5 Ultra"
@@ -2178,6 +2206,10 @@
     "IVY-B39": {
         "brand": "荣耀",
         "model": "荣耀手表 Fit"
+    },
+    "LWS-WB10": {
+        "brand": "荣耀",
+        "model": "荣耀手表 X5"
     },
     "NYX-B10HN": {
         "brand": "荣耀",

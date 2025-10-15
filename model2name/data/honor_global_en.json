@@ -539,6 +539,18 @@
         "brand": "荣耀",
         "model": "HONOR Magic V3"
     },
+    "BKQ-N49": {
+        "brand": "荣耀",
+        "model": "HONOR Magic8 Pro"
+    },
+    "MTN-NX1M": {
+        "brand": "荣耀",
+        "model": "HONOR Magic8 Lite"
+    },
+    "MTN-NX3": {
+        "brand": "荣耀",
+        "model": "HONOR Magic8 Lite"
+    },
     "VNA-LX2": {
         "brand": "荣耀",
         "model": "HONOR X5"
@@ -794,6 +806,10 @@
     "HEY3-W00": {
         "brand": "荣耀",
         "model": "HONOR Pad 10 Wi-Fi"
+    },
+    "HEY3-N09": {
+        "brand": "荣耀",
+        "model": "HONOR Pad 10 5G"
     },
     "ROL-W00": {
         "brand": "荣耀",
