@@ -1263,6 +1263,30 @@
         "brand": "苹果",
         "model": "iPad Pro (13 英寸, M4) (无线局域网 + 蜂窝网络) (中国大陆)"
     },
+    "A3357": {
+        "brand": "苹果",
+        "model": "iPad Pro (11 英寸, M5) (无线局域网)"
+    },
+    "A3358": {
+        "brand": "苹果",
+        "model": "iPad Pro (11 英寸, M5) (无线局域网 + 蜂窝网络)"
+    },
+    "A3359": {
+        "brand": "苹果",
+        "model": "iPad Pro (11 英寸, M5) (无线局域网 + 蜂窝网络) (中国大陆)"
+    },
+    "A3360": {
+        "brand": "苹果",
+        "model": "iPad Pro (13 英寸, M5) (无线局域网)"
+    },
+    "A3361": {
+        "brand": "苹果",
+        "model": "iPad Pro (13 英寸, M5) (无线局域网 + 蜂窝网络)"
+    },
+    "A3362": {
+        "brand": "苹果",
+        "model": "iPad Pro (13 英寸, M5) (无线局域网 + 蜂窝网络) (中国大陆)"
+    },
     "A1432": {
         "brand": "苹果",
         "model": "iPad mini (无线局域网)"
@@ -1782,6 +1806,10 @@
     "A2117": {
         "brand": "苹果",
         "model": "Apple Vision Pro"
+    },
+    "A3416": {
+        "brand": "苹果",
+        "model": "Apple Vision Pro (M5)"
     },
     "A1213": {
         "brand": "苹果",

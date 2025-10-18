@@ -1263,6 +1263,30 @@
         "brand": "苹果",
         "model": "iPad Pro (13-inch, M4) Wi-Fi + Cellular (China mainland)"
     },
+    "A3357": {
+        "brand": "苹果",
+        "model": "iPad Pro (11-inch, M5) Wi-Fi"
+    },
+    "A3358": {
+        "brand": "苹果",
+        "model": "iPad Pro (11-inch, M5) Wi-Fi + Cellular"
+    },
+    "A3359": {
+        "brand": "苹果",
+        "model": "iPad Pro (11-inch, M5) Wi-Fi + Cellular (China mainland)"
+    },
+    "A3360": {
+        "brand": "苹果",
+        "model": "iPad Pro (13-inch, M5) Wi-Fi"
+    },
+    "A3361": {
+        "brand": "苹果",
+        "model": "iPad Pro (13-inch, M5) Wi-Fi + Cellular"
+    },
+    "A3362": {
+        "brand": "苹果",
+        "model": "iPad Pro (13-inch, M5) Wi-Fi + Cellular (China mainland)"
+    },
     "A1432": {
         "brand": "苹果",
         "model": "iPad mini Wi-Fi"
@@ -1782,6 +1806,10 @@
     "A2117": {
         "brand": "苹果",
         "model": "Apple Vision Pro"
+    },
+    "A3416": {
+        "brand": "苹果",
+        "model": "Apple Vision Pro (M5)"
     },
     "A1213": {
         "brand": "苹果",
