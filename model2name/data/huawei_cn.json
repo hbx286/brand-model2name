@@ -279,6 +279,10 @@
         "brand": "华为",
         "model": "HUAWEI Mate 70 RS 非凡大师"
     },
+    "SUP-AL90": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 70 Air"
+    },
     "TAH-AN00": {
         "brand": "华为",
         "model": "HUAWEI Mate X"
@@ -3391,13 +3395,25 @@
         "brand": "华为",
         "model": "华为 Vision 智慧屏 5 SE 55"
     },
+    "HDB525A9": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 5 SE 优享版 55"
+    },
     "HD65KULU": {
         "brand": "华为",
         "model": "华为 Vision 智慧屏 5 SE 65"
     },
+    "HDB526A9": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 5 SE 优享版 65"
+    },
     "HD75KULU": {
         "brand": "华为",
         "model": "华为 Vision 智慧屏 5 SE 75"
+    },
+    "HDB527A9": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 5 SE 优享版 75"
     },
     "HD85KULU": {
         "brand": "华为",
