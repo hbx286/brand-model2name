@@ -2373,11 +2373,7 @@
     },
     "2312DRA50C": {
         "brand": "小米",
-        "model": "Redmi Note 13 Pro 国行版"
-    },
-    "2312CRAD3C": {
-        "brand": "小米",
-        "model": "Redmi Note 13 Pro 国行版"
+        "model": "Redmi Note 13 Pro 国行版 (LPDDR4x + UFS 2.2)"
     },
     "2312DRA50G": {
         "brand": "小米",
@@ -2390,6 +2386,10 @@
     "XIG05": {
         "brand": "小米",
         "model": "Redmi Note 13 Pro 5G 日本版 (KDDI)"
+    },
+    "2312CRAD3C": {
+        "brand": "小米",
+        "model": "Redmi Note 13 Pro 国行版 (LPDDR5 + UFS 3.1)"
     },
     "23090RA98C": {
         "brand": "小米",

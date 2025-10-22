@@ -1,110 +1,1154 @@
 {
+    "E2104": {
+        "brand": "",
+        "model": "Xperia E4"
+    },
+    "E2105": {
+        "brand": "",
+        "model": "Xperia E4"
+    },
+    "E2115": {
+        "brand": "",
+        "model": "Xperia E4 dual"
+    },
+    "E2114": {
+        "brand": "",
+        "model": "Xperia E4 dual Brazil"
+    },
+    "E2303": {
+        "brand": "",
+        "model": "Xperia M4 Aqua"
+    },
+    "E2306": {
+        "brand": "",
+        "model": "Xperia M4 Aqua"
+    },
+    "E2353": {
+        "brand": "",
+        "model": "Xperia M4 Aqua"
+    },
+    "E2312": {
+        "brand": "",
+        "model": "Xperia M4 Aqua dual"
+    },
+    "E2333": {
+        "brand": "",
+        "model": "Xperia M4 Aqua dual"
+    },
+    "E2363": {
+        "brand": "",
+        "model": "Xperia M4 Aqua dual"
+    },
+    "E5603": {
+        "brand": "",
+        "model": "Xperia M5"
+    },
+    "E5606": {
+        "brand": "",
+        "model": "Xperia C5 Ultra"
+    },
+    "E5653": {
+        "brand": "",
+        "model": "Xperia M5"
+    },
+    "E5633": {
+        "brand": "",
+        "model": "Xperia M5 dual"
+    },
+    "E5663": {
+        "brand": "",
+        "model": "Xperia M5 dual"
+    },
+    "E5643": {
+        "brand": "",
+        "model": "Xperia M5 dual Brazil"
+    },
+    "E5303": {
+        "brand": "",
+        "model": "Xperia C4"
+    },
+    "E5306": {
+        "brand": "",
+        "model": "Xperia C4"
+    },
+    "E5353": {
+        "brand": "",
+        "model": "Xperia C4"
+    },
+    "E5333": {
+        "brand": "",
+        "model": "Xperia C4 dual"
+    },
+    "E5363": {
+        "brand": "",
+        "model": "Xperia C4 dual"
+    },
+    "E5343": {
+        "brand": "",
+        "model": "Xperia C4 dual Brazil"
+    },
+    "E5553": {
+        "brand": "",
+        "model": "Xperia C5 Ultra"
+    },
+    "E5533": {
+        "brand": "",
+        "model": "Xperia C5 Ultra dual"
+    },
+    "E5563": {
+        "brand": "",
+        "model": "Xperia C5 Ultra dual"
+    },
+    "E6553": {
+        "brand": "",
+        "model": "Xperia Z3+"
+    },
+    "E6533": {
+        "brand": "",
+        "model": "Xperia Z3+ dual"
+    },
+    "402SO": {
+        "brand": "",
+        "model": "Xperia Z4 Japan (SoftBank)"
+    },
+    "SO-03G": {
+        "brand": "",
+        "model": "Xperia Z4 Japan (NTT Docomo)"
+    },
+    "SOV31": {
+        "brand": "",
+        "model": "Xperia Z4 Japan (KDDI)"
+    },
+    "E6603": {
+        "brand": "",
+        "model": "Xperia Z5"
+    },
+    "E6653": {
+        "brand": "",
+        "model": "Xperia Z5"
+    },
+    "E6633": {
+        "brand": "",
+        "model": "Xperia Z5 dual"
+    },
     "E6683": {
         "brand": "",
         "model": "Xperia Z5 dual"
     },
-    "E6883": {
+    "501SO": {
+        "brand": "",
+        "model": "Xperia Z5 Japan (SoftBank)"
+    },
+    "SO-01H": {
+        "brand": "",
+        "model": "Xperia Z5 Japan (NTT Docomo)"
+    },
+    "SOV32": {
+        "brand": "",
+        "model": "Xperia Z5 Japan (KDDI)"
+    },
+    "E5803": {
+        "brand": "",
+        "model": "Xperia Z5 Compact"
+    },
+    "E5823": {
+        "brand": "",
+        "model": "Xperia Z5 Compact"
+    },
+    "SO-02H": {
+        "brand": "",
+        "model": "Xperia Z5 Compact Japan (NTT Docomo)"
+    },
+    "E6853": {
         "brand": "",
         "model": "Xperia Z5 Premium"
     },
+    "E6833": {
+        "brand": "",
+        "model": "Xperia Z5 Premium dual"
+    },
+    "E6883": {
+        "brand": "",
+        "model": "Xperia Z5 Premium dual"
+    },
+    "SO-03H": {
+        "brand": "",
+        "model": "Xperia Z5 Premium Japan (NTT Docomo)"
+    },
+    "F3311": {
+        "brand": "",
+        "model": "Xperia E5"
+    },
+    "F3313": {
+        "brand": "",
+        "model": "Xperia E5"
+    },
+    "F3111": {
+        "brand": "",
+        "model": "Xperia XA (Single SIM)"
+    },
+    "F3113": {
+        "brand": "",
+        "model": "Xperia XA (Single SIM)"
+    },
+    "F3115": {
+        "brand": "",
+        "model": "Xperia XA (Single SIM)"
+    },
+    "F3112": {
+        "brand": "",
+        "model": "Xperia XA (Dual SIM)"
+    },
+    "F3116": {
+        "brand": "",
+        "model": "Xperia XA (Dual SIM)"
+    },
+    "F3211": {
+        "brand": "",
+        "model": "Xperia XA Ultra (Single SIM)"
+    },
+    "F3213": {
+        "brand": "",
+        "model": "Xperia XA Ultra (Single SIM)"
+    },
+    "F3215": {
+        "brand": "",
+        "model": "Xperia XA Ultra (Single SIM)"
+    },
+    "F3212": {
+        "brand": "",
+        "model": "Xperia XA Ultra (Dual SIM)"
+    },
+    "F3216": {
+        "brand": "",
+        "model": "Xperia XA Ultra (Dual SIM)"
+    },
+    "F5121": {
+        "brand": "",
+        "model": "Xperia X (Single SIM)"
+    },
+    "F5122": {
+        "brand": "",
+        "model": "Xperia X (Dual SIM)"
+    },
+    "F5321": {
+        "brand": "",
+        "model": "Xperia X Compact (Single SIM)"
+    },
+    "SO-02J": {
+        "brand": "",
+        "model": "Xperia X Compact Japan (NTT Docomo)"
+    },
+    "F8131": {
+        "brand": "",
+        "model": "Xperia X Performance (Single SIM)"
+    },
+    "F8132": {
+        "brand": "",
+        "model": "Xperia X Performance (Dual SIM)"
+    },
+    "502SO": {
+        "brand": "",
+        "model": "Xperia X Performance Japan (SoftBank)"
+    },
+    "SO-04H": {
+        "brand": "",
+        "model": "Xperia X Performance Japan (NTT Docomo)"
+    },
+    "SOV33": {
+        "brand": "",
+        "model": "Xperia X Performance Japan (KDDI)"
+    },
+    "F8331": {
+        "brand": "",
+        "model": "Xperia XZ (Single SIM)"
+    },
     "F8332": {
         "brand": "",
-        "model": "Xperia XZ"
+        "model": "Xperia XZ (Dual SIM)"
     },
-    "G8142": {
+    "601SO": {
         "brand": "",
-        "model": "Xperia XZ Premium"
+        "model": "Xperia XZ Japan (SoftBank)"
+    },
+    "SO-01J": {
+        "brand": "",
+        "model": "Xperia XZ Japan (NTT Docomo)"
+    },
+    "SOV34": {
+        "brand": "",
+        "model": "Xperia XZ Japan (KDDI)"
+    },
+    "G3311": {
+        "brand": "",
+        "model": "Xperia L1 (Single SIM)"
+    },
+    "G3313": {
+        "brand": "",
+        "model": "Xperia L1 (Single SIM)"
+    },
+    "G3312": {
+        "brand": "",
+        "model": "Xperia L1 (Dual SIM)"
+    },
+    "G3121": {
+        "brand": "",
+        "model": "Xperia XA1 (Single SIM)"
+    },
+    "G3123": {
+        "brand": "",
+        "model": "Xperia XA1 (Single SIM)"
+    },
+    "G3125": {
+        "brand": "",
+        "model": "Xperia XA1 (Single SIM)"
+    },
+    "G3112": {
+        "brand": "",
+        "model": "Xperia XA1 (Dual SIM)"
+    },
+    "G3116": {
+        "brand": "",
+        "model": "Xperia XA1 (Dual SIM)"
+    },
+    "G3221": {
+        "brand": "",
+        "model": "Xperia XA1 Ultra (Single SIM)"
+    },
+    "G3223": {
+        "brand": "",
+        "model": "Xperia XA1 Ultra (Single SIM)"
+    },
+    "G3212": {
+        "brand": "",
+        "model": "Xperia XA1 Ultra (Dual SIM)"
+    },
+    "G3226": {
+        "brand": "",
+        "model": "Xperia XA1 Ultra (Dual SIM)"
+    },
+    "G3421": {
+        "brand": "",
+        "model": "Xperia XA1 Plus (Single SIM)"
+    },
+    "G3423": {
+        "brand": "",
+        "model": "Xperia XA1 Plus (Single SIM)"
+    },
+    "G3412": {
+        "brand": "",
+        "model": "Xperia XA1 Plus (Dual SIM)"
+    },
+    "G3416": {
+        "brand": "",
+        "model": "Xperia XA1 Plus (Dual SIM)"
+    },
+    "G3426": {
+        "brand": "",
+        "model": "Xperia XA1 Plus (Dual SIM)"
+    },
+    "G8231": {
+        "brand": "",
+        "model": "Xperia XZs (Single SIM)"
     },
     "G8232": {
         "brand": "",
-        "model": "Xperia XZs"
+        "model": "Xperia XZs (Dual SIM)"
+    },
+    "602SO": {
+        "brand": "",
+        "model": "Xperia XZs Japan (SoftBank)"
+    },
+    "SO-03J": {
+        "brand": "",
+        "model": "Xperia XZs Japan (NTT Docomo)"
+    },
+    "SOV35": {
+        "brand": "",
+        "model": "Xperia XZs Japan (KDDI)"
+    },
+    "G8141": {
+        "brand": "",
+        "model": "Xperia XZ Premium (Single SIM)"
+    },
+    "G8142": {
+        "brand": "",
+        "model": "Xperia XZ Premium (Dual SIM)"
+    },
+    "G8188": {
+        "brand": "",
+        "model": "Xperia XZ Premium Japan (SIM Free)"
+    },
+    "SO-04J": {
+        "brand": "",
+        "model": "Xperia XZ Premium Japan (NTT Docomo)"
+    },
+    "G8341": {
+        "brand": "",
+        "model": "Xperia XZ1 (Single SIM)"
     },
     "G8342": {
         "brand": "",
-        "model": "Xperia XZ1"
+        "model": "Xperia XZ1 (Dual SIM)"
+    },
+    "G8343": {
+        "brand": "",
+        "model": "Xperia XZ1 Canada"
+    },
+    "701SO": {
+        "brand": "",
+        "model": "Xperia XZ1 Japan (SoftBank)"
+    },
+    "SO-01K": {
+        "brand": "",
+        "model": "Xperia XZ1 Japan (NTT Docomo)"
+    },
+    "SOV36": {
+        "brand": "",
+        "model": "Xperia XZ1 Japan (KDDI)"
     },
     "G8441": {
         "brand": "",
-        "model": "Xperia XZ1c"
+        "model": "Xperia XZ1 Compact (Single SIM)"
+    },
+    "SO-02K": {
+        "brand": "",
+        "model": "Xperia XZ1 Compact Japan (NTT Docomo)"
+    },
+    "H3311": {
+        "brand": "",
+        "model": "Xperia L2 (Single SIM)"
+    },
+    "H3321": {
+        "brand": "",
+        "model": "Xperia L2 (Single SIM)"
+    },
+    "H4311": {
+        "brand": "",
+        "model": "Xperia L2 (Dual SIM)"
+    },
+    "H4331": {
+        "brand": "",
+        "model": "Xperia L2 (Dual SIM)"
+    },
+    "H3113": {
+        "brand": "",
+        "model": "Xperia XA2 (Single SIM)"
+    },
+    "H3123": {
+        "brand": "",
+        "model": "Xperia XA2 (Single SIM)"
+    },
+    "H3133": {
+        "brand": "",
+        "model": "Xperia XA2 (Single SIM)"
+    },
+    "H4113": {
+        "brand": "",
+        "model": "Xperia XA2 (Dual SIM)"
+    },
+    "H4133": {
+        "brand": "",
+        "model": "Xperia XA2 (Dual SIM)"
+    },
+    "H3213": {
+        "brand": "",
+        "model": "Xperia XA2 Ultra (Single SIM)"
+    },
+    "H3223": {
+        "brand": "",
+        "model": "Xperia XA2 Ultra (Single SIM)"
+    },
+    "H4213": {
+        "brand": "",
+        "model": "Xperia XA2 Ultra (Dual SIM)"
     },
     "H4233": {
         "brand": "",
-        "model": "Xperia XA2 Ultra"
+        "model": "Xperia XA2 Ultra (Dual SIM)"
+    },
+    "H3413": {
+        "brand": "",
+        "model": "Xperia XA2 Plus (Single SIM)"
+    },
+    "H4413": {
+        "brand": "",
+        "model": "Xperia XA2 Plus (Dual SIM)"
+    },
+    "H4493": {
+        "brand": "",
+        "model": "Xperia XA2 Plus (Dual SIM)"
+    },
+    "H8216": {
+        "brand": "",
+        "model": "Xperia XZ2 (Single SIM)"
+    },
+    "H8266": {
+        "brand": "",
+        "model": "Xperia XZ2 (Dual SIM)"
     },
     "H8296": {
         "brand": "",
-        "model": "Xperia XZ2"
+        "model": "Xperia XZ2 (Dual SIM)"
+    },
+    "H8276": {
+        "brand": "",
+        "model": "Xperia XZ2 Canada"
+    },
+    "702SO": {
+        "brand": "",
+        "model": "Xperia XZ2 Japan (SoftBank)"
+    },
+    "SO-03K": {
+        "brand": "",
+        "model": "Xperia XZ2 Japan (NTT Docomo)"
+    },
+    "SOV37": {
+        "brand": "",
+        "model": "Xperia XZ2 Japan (KDDI)"
+    },
+    "H8314": {
+        "brand": "",
+        "model": "Xperia XZ2 Compact (Single SIM)"
+    },
+    "H8324": {
+        "brand": "",
+        "model": "Xperia XZ2 Compact (Dual SIM)"
+    },
+    "SO-05K": {
+        "brand": "",
+        "model": "Xperia XZ2 Compact Japan (NTT Docomo)"
+    },
+    "H8116": {
+        "brand": "",
+        "model": "Xperia XZ2 Premium (Single SIM)"
     },
     "H8166": {
         "brand": "",
-        "model": "Xperia XZ2 Premium"
+        "model": "Xperia XZ2 Premium (Dual SIM)"
+    },
+    "SO-04K": {
+        "brand": "",
+        "model": "Xperia XZ2 Premium Japan (NTT Docomo)"
+    },
+    "SOV38": {
+        "brand": "",
+        "model": "Xperia XZ2 Premium Japan (KDDI)"
+    },
+    "H8416": {
+        "brand": "",
+        "model": "Xperia XZ3 (Single SIM)"
+    },
+    "H9436": {
+        "brand": "",
+        "model": "Xperia XZ3 (Dual SIM)"
     },
     "H9493": {
         "brand": "",
-        "model": "Xperia XZ3"
+        "model": "Xperia XZ3 (Dual SIM)"
+    },
+    "801SO": {
+        "brand": "",
+        "model": "Xperia XZ3 Japan (SoftBank)"
+    },
+    "SO-01L": {
+        "brand": "",
+        "model": "Xperia XZ3 Japan (NTT Docomo)"
+    },
+    "SOV39": {
+        "brand": "",
+        "model": "Xperia XZ3 Japan (KDDI)"
+    },
+    "I3312": {
+        "brand": "",
+        "model": "Xperia L3 (Single SIM)"
+    },
+    "I4312": {
+        "brand": "",
+        "model": "Xperia L3 (Dual SIM)"
+    },
+    "I4332": {
+        "brand": "",
+        "model": "Xperia L3 (Dual SIM)"
+    },
+    "J8110": {
+        "brand": "",
+        "model": "Xperia 1 (Single SIM)"
+    },
+    "J8170": {
+        "brand": "",
+        "model": "Xperia 1 US"
     },
     "J9110": {
         "brand": "",
-        "model": "Xperia 1"
+        "model": "Xperia 1 (Dual SIM)"
     },
     "J9180": {
         "brand": "",
-        "model": "Xperia 1 Professional Editon"
+        "model": "Xperia 1 Professional Editon China"
+    },
+    "J9150": {
+        "brand": "",
+        "model": "Xperia 1 Japan (SIM Free)"
+    },
+    "802SO": {
+        "brand": "",
+        "model": "Xperia 1 Japan (SoftBank)"
+    },
+    "SO-03L": {
+        "brand": "",
+        "model": "Xperia 1 Japan (NTT Docomo)"
+    },
+    "SOV40": {
+        "brand": "",
+        "model": "Xperia 1 Japan (KDDI)"
+    },
+    "J8210": {
+        "brand": "",
+        "model": "Xperia 5 (Single SIM)"
+    },
+    "J8270": {
+        "brand": "",
+        "model": "Xperia 5 US"
     },
     "J9210": {
         "brand": "",
-        "model": "Xperia 5"
+        "model": "Xperia 5 (Dual SIM)"
+    },
+    "J9260": {
+        "brand": "",
+        "model": "Xperia 5 Japan (SIM Free)"
+    },
+    "901SO": {
+        "brand": "",
+        "model": "Xperia 5 Japan (SoftBank)"
+    },
+    "SO-01M": {
+        "brand": "",
+        "model": "Xperia 5 Japan (NTT Docomo)"
+    },
+    "SOV41": {
+        "brand": "",
+        "model": "Xperia 5 Japan (KDDI)"
+    },
+    "J3273": {
+        "brand": "",
+        "model": "Xperia 8 Lite Japan (SIM Free)"
+    },
+    "902SO": {
+        "brand": "",
+        "model": "Xperia 8 Japan (SoftBank)"
+    },
+    "SOV42": {
+        "brand": "",
+        "model": "Xperia 8 Japan (KDDI)"
+    },
+    "SOV42-u": {
+        "brand": "",
+        "model": "Xperia 8 Japan (KDDI)"
+    },
+    "I3113": {
+        "brand": "",
+        "model": "Xperia 10 (Single SIM)"
+    },
+    "I3123": {
+        "brand": "",
+        "model": "Xperia 10 (Single SIM)"
+    },
+    "I4113": {
+        "brand": "",
+        "model": "Xperia 10 (Dual SIM)"
+    },
+    "I4193": {
+        "brand": "",
+        "model": "Xperia 10 (Dual SIM)"
+    },
+    "I3213": {
+        "brand": "",
+        "model": "Xperia 10 Plus (Single SIM)"
+    },
+    "I3223": {
+        "brand": "",
+        "model": "Xperia 10 Plus (Single SIM)"
+    },
+    "I4213": {
+        "brand": "",
+        "model": "Xperia 10 Plus (Dual SIM)"
     },
     "I4293": {
         "brand": "",
-        "model": "Xperia 10 Plus"
+        "model": "Xperia 10 Plus (Dual SIM)"
+    },
+    "J3173": {
+        "brand": "",
+        "model": "Xperia Ace Japan (SIM Free)"
+    },
+    "SO-02L": {
+        "brand": "",
+        "model": "Xperia Ace Japan (NTT Docomo)"
+    },
+    "XQ-AQ52": {
+        "brand": "",
+        "model": "Xperia PRO Global"
+    },
+    "XQ-AQ62": {
+        "brand": "",
+        "model": "Xperia PRO US"
+    },
+    "XQ-AT42": {
+        "brand": "",
+        "model": "Xperia 1 II Japan (SIM Free)"
+    },
+    "XQ-AT51": {
+        "brand": "",
+        "model": "Xperia 1 II Global (Single SIM)"
+    },
+    "XQ-AT52": {
+        "brand": "",
+        "model": "Xperia 1 II Global (Dual SIM)"
     },
     "XQ-AT72": {
         "brand": "",
-        "model": "Xperia 1 II"
+        "model": "Xperia 1 II China"
+    },
+    "SO-51A": {
+        "brand": "",
+        "model": "Xperia 1 II Japan (NTT Docomo)"
+    },
+    "SOG01": {
+        "brand": "",
+        "model": "Xperia 1 II Japan (KDDI)"
+    },
+    "XQ-AS42": {
+        "brand": "",
+        "model": "Xperia 5 II Japan (SIM Free)"
+    },
+    "XQ-AS52": {
+        "brand": "",
+        "model": "Xperia 5 II Global"
+    },
+    "XQ-AS62": {
+        "brand": "",
+        "model": "Xperia 5 II US"
     },
     "XQ-AS72": {
         "brand": "",
-        "model": "Xperia 5 II"
+        "model": "Xperia 5 II China"
+    },
+    "A002SO": {
+        "brand": "",
+        "model": "Xperia 5 II Japan (SoftBank)"
+    },
+    "SO-52A": {
+        "brand": "",
+        "model": "Xperia 5 II Japan (NTT Docomo)"
+    },
+    "SOG02": {
+        "brand": "",
+        "model": "Xperia 5 II Japan (KDDI)"
+    },
+    "XQ-AU42": {
+        "brand": "",
+        "model": "Xperia 10 II Japan (SIM Free)"
+    },
+    "XQ-AU51": {
+        "brand": "",
+        "model": "Xperia 10 II Global (Single SIM)"
+    },
+    "XQ-AU52": {
+        "brand": "",
+        "model": "Xperia 10 II Global (Dual SIM)"
+    },
+    "A001SO": {
+        "brand": "",
+        "model": "Xperia 10 II Japan (SoftBank)"
+    },
+    "SO-41A": {
+        "brand": "",
+        "model": "Xperia 10 II Japan (NTT Docomo)"
+    },
+    "SOV43": {
+        "brand": "",
+        "model": "Xperia 10 II Japan (KDDI)"
+    },
+    "XQ-AD51": {
+        "brand": "",
+        "model": "Xperia L4 (Single SIM)"
+    },
+    "XQ-AD52": {
+        "brand": "",
+        "model": "Xperia L4 (Dual SIM)"
+    },
+    "XQ-BC42": {
+        "brand": "",
+        "model": "Xperia 1 III Japan (SIM Free)"
+    },
+    "XQ-BC52": {
+        "brand": "",
+        "model": "Xperia 1 III Global"
+    },
+    "XQ-BC62": {
+        "brand": "",
+        "model": "Xperia 1 III US"
     },
     "XQ-BC72": {
         "brand": "",
-        "model": "Xperia 1 III"
+        "model": "Xperia 1 III Asia Pacific"
+    },
+    "A101SO": {
+        "brand": "",
+        "model": "Xperia 1 III Japan (SoftBank)"
+    },
+    "SO-51B": {
+        "brand": "",
+        "model": "Xperia 1 III Japan (NTT Docomo)"
+    },
+    "SOG03": {
+        "brand": "",
+        "model": "Xperia 1 III Japan (KDDI)"
+    },
+    "XQ-BQ42": {
+        "brand": "",
+        "model": "Xperia 5 III Japan (SIM Free)"
+    },
+    "XQ-BQ52": {
+        "brand": "",
+        "model": "Xperia 5 III Global"
+    },
+    "XQ-BQ62": {
+        "brand": "",
+        "model": "Xperia 5 III US"
     },
     "XQ-BQ72": {
         "brand": "",
-        "model": "Xperia 5 III"
+        "model": "Xperia 5 III Asia Pacific"
+    },
+    "A103SO": {
+        "brand": "",
+        "model": "Xperia 5 III Japan (SoftBank)"
+    },
+    "SO-53B": {
+        "brand": "",
+        "model": "Xperia 5 III Japan (NTT Docomo)"
+    },
+    "SOG05": {
+        "brand": "",
+        "model": "Xperia 5 III Japan (KDDI)"
+    },
+    "XQ-BT44": {
+        "brand": "",
+        "model": "Xperia 10 III Japan (SIM Free)"
+    },
+    "XQ-BT52": {
+        "brand": "",
+        "model": "Xperia 10 III Global"
+    },
+    "A102SO": {
+        "brand": "",
+        "model": "Xperia 10 III Japan (SoftBank)"
+    },
+    "SO-52B": {
+        "brand": "",
+        "model": "Xperia 10 III Japan (NTT Docomo)"
+    },
+    "SOG04": {
+        "brand": "",
+        "model": "Xperia 10 III Japan (KDDI)"
+    },
+    "XQ-BE42": {
+        "brand": "",
+        "model": "Xperia PRO-I Japan"
+    },
+    "XQ-BE52": {
+        "brand": "",
+        "model": "Xperia PRO-I Global"
+    },
+    "XQ-BE62": {
+        "brand": "",
+        "model": "Xperia PRO-I US"
     },
     "XQ-BE72": {
         "brand": "",
-        "model": "Xperia PRO-I"
+        "model": "Xperia PRO-I Asia Pacific"
+    },
+    "SO-41B": {
+        "brand": "",
+        "model": "Xperia Ace II Japan (NTT Docomo)"
+    },
+    "XQ-CT44": {
+        "brand": "",
+        "model": "Xperia 1 IV Japan (SIM Free)"
+    },
+    "XQ-CT54": {
+        "brand": "",
+        "model": "Xperia 1 IV Global"
+    },
+    "XQ-CT62": {
+        "brand": "",
+        "model": "Xperia 1 IV US"
     },
     "XQ-CT72": {
         "brand": "",
-        "model": "Xperia 1 IV"
+        "model": "Xperia 1 IV Asia Pacific"
+    },
+    "A201SO": {
+        "brand": "",
+        "model": "Xperia 1 IV Japan (SoftBank)"
+    },
+    "SO-51C": {
+        "brand": "",
+        "model": "Xperia 1 IV Japan (NTT Docomo)"
+    },
+    "SOG06": {
+        "brand": "",
+        "model": "Xperia 1 IV Japan (KDDI)"
+    },
+    "XQ-CQ44": {
+        "brand": "",
+        "model": "Xperia 5 IV Japan (SIM Free)"
+    },
+    "XQ-CQ54": {
+        "brand": "",
+        "model": "Xperia 5 IV Global"
+    },
+    "XQ-CQ62": {
+        "brand": "",
+        "model": "Xperia 5 IV US"
     },
     "XQ-CQ72": {
         "brand": "",
-        "model": "Xperia 5 IV"
+        "model": "Xperia 5 IV Asia Pacific"
+    },
+    "A204SO": {
+        "brand": "",
+        "model": "Xperia 5 IV Japan (SoftBank)"
+    },
+    "SO-54C": {
+        "brand": "",
+        "model": "Xperia 5 IV Japan (NTT Docomo)"
+    },
+    "SOG09": {
+        "brand": "",
+        "model": "Xperia 5 IV Japan (KDDI)"
+    },
+    "XQ-CC44": {
+        "brand": "",
+        "model": "Xperia 10 IV Japan (SIM Free)"
+    },
+    "XQ-CC54": {
+        "brand": "",
+        "model": "Xperia 10 IV Global"
+    },
+    "XQ-CC72": {
+        "brand": "",
+        "model": "Xperia 10 IV Asia Pacific"
+    },
+    "A202SO": {
+        "brand": "",
+        "model": "Xperia 10 IV Japan (SoftBank)"
+    },
+    "SO-52C": {
+        "brand": "",
+        "model": "Xperia 10 IV Japan (NTT Docomo)"
+    },
+    "SOG07": {
+        "brand": "",
+        "model": "Xperia 10 IV Japan (KDDI)"
+    },
+    "A203SO": {
+        "brand": "",
+        "model": "Xperia Ace III Japan (SoftBank)"
+    },
+    "SO-53C": {
+        "brand": "",
+        "model": "Xperia Ace III Japan (NTT Docomo)"
+    },
+    "SOG08": {
+        "brand": "",
+        "model": "Xperia Ace III Japan (KDDI)"
+    },
+    "XQ-DQ44": {
+        "brand": "",
+        "model": "Xperia 1 V Japan (SIM Free)"
+    },
+    "XQ-DQ54": {
+        "brand": "",
+        "model": "Xperia 1 V Global"
+    },
+    "XQ-DQ62": {
+        "brand": "",
+        "model": "Xperia 1 V US"
     },
     "XQ-DQ72": {
         "brand": "",
-        "model": "Xperia 1 V"
+        "model": "Xperia 1 V Asia Pacific"
+    },
+    "A301SO": {
+        "brand": "",
+        "model": "Xperia 1 V Japan (SoftBank)"
+    },
+    "SO-51D": {
+        "brand": "",
+        "model": "Xperia 1 V Japan (NTT Docomo)"
+    },
+    "SOG10": {
+        "brand": "",
+        "model": "Xperia 1 V Japan (KDDI)"
+    },
+    "XQ-DE44": {
+        "brand": "",
+        "model": "Xperia 5 V Japan (SIM Free)"
+    },
+    "XQ-DE54": {
+        "brand": "",
+        "model": "Xperia 5 V Global"
     },
     "XQ-DE72": {
         "brand": "",
-        "model": "Xperia 5 V"
+        "model": "Xperia 5 V Asia Pacific"
+    },
+    "SO-53D": {
+        "brand": "",
+        "model": "Xperia 5 V Japan (NTT Docomo)"
+    },
+    "SOG12": {
+        "brand": "",
+        "model": "Xperia 5 V Japan (KDDI)"
+    },
+    "XQ-DC44": {
+        "brand": "",
+        "model": "Xperia 10 V Japan (SIM Free)"
+    },
+    "XQ-DC54": {
+        "brand": "",
+        "model": "Xperia 10 V Global"
     },
     "XQ-DC72": {
         "brand": "",
-        "model": "Xperia 10 V"
+        "model": "Xperia 10 V Asia Pacific"
+    },
+    "A302SO": {
+        "brand": "",
+        "model": "Xperia 10 V Japan (SoftBank)"
+    },
+    "SO-52D": {
+        "brand": "",
+        "model": "Xperia 10 V Japan (NTT Docomo)"
+    },
+    "SOG11": {
+        "brand": "",
+        "model": "Xperia 10 V Japan (KDDI)"
+    },
+    "XQ-EC44": {
+        "brand": "",
+        "model": "Xperia 1 VI Japan (SIM Free)"
+    },
+    "XQ-EC54": {
+        "brand": "",
+        "model": "Xperia 1 VI Global"
     },
     "XQ-EC72": {
         "brand": "",
-        "model": "Xperia 1 VI"
+        "model": "Xperia 1 VI Asia Pacific"
+    },
+    "A401SO": {
+        "brand": "",
+        "model": "Xperia 1 VI Japan (SoftBank)"
+    },
+    "SO-51E": {
+        "brand": "",
+        "model": "Xperia 1 VI Japan (NTT Docomo)"
+    },
+    "SOG13": {
+        "brand": "",
+        "model": "Xperia 1 VI Japan (KDDI)"
+    },
+    "XQ-ES44": {
+        "brand": "",
+        "model": "Xperia 10 VI Japan (SIM Free)"
+    },
+    "XQ-ES54": {
+        "brand": "",
+        "model": "Xperia 10 VI Global"
     },
     "XQ-ES72": {
         "brand": "",
-        "model": "Xperia 10 VI"
+        "model": "Xperia 10 VI Asia Pacific"
+    },
+    "A402SO": {
+        "brand": "",
+        "model": "Xperia 10 VI Japan (SoftBank)"
+    },
+    "SO-52E": {
+        "brand": "",
+        "model": "Xperia 10 VI Japan (NTT Docomo)"
+    },
+    "SOG14": {
+        "brand": "",
+        "model": "Xperia 10 VI Japan (KDDI)"
+    },
+    "XQ-FS44": {
+        "brand": "",
+        "model": "Xperia 1 VII Japan (SIM Free)"
+    },
+    "XQ-FS54": {
+        "brand": "",
+        "model": "Xperia 1 VII Global"
+    },
+    "XQ-FS72": {
+        "brand": "",
+        "model": "Xperia 1 VII Asia Pacific"
+    },
+    "A501SO": {
+        "brand": "",
+        "model": "Xperia 1 VII Japan (SoftBank)"
+    },
+    "SO-51F": {
+        "brand": "",
+        "model": "Xperia 1 VII Japan (NTT Docomo)"
+    },
+    "SOG15": {
+        "brand": "",
+        "model": "Xperia 1 VII Japan (KDDI)"
+    },
+    "XQ-FE44": {
+        "brand": "",
+        "model": "Xperia 10 VII Japan (SIM Free)"
+    },
+    "XQ-FE54": {
+        "brand": "",
+        "model": "Xperia 10 VII Global"
+    },
+    "XQ-FE72": {
+        "brand": "",
+        "model": "Xperia 10 VII Asia Pacific"
+    },
+    "A502SO": {
+        "brand": "",
+        "model": "Xperia 10 VII Japan (SoftBank)"
+    },
+    "SO-52F": {
+        "brand": "",
+        "model": "Xperia 10 VII Japan (NTT Docomo)"
+    },
+    "SOG16": {
+        "brand": "",
+        "model": "Xperia 10 VII Japan (KDDI)"
+    },
+    "SGP712": {
+        "brand": "",
+        "model": "Xperia Z4 Tablet Wi-Fi"
+    },
+    "SGP771": {
+        "brand": "",
+        "model": "Xperia Z4 Tablet LTE"
+    },
+    "SO-05G": {
+        "brand": "",
+        "model": "Xperia Z4 Tablet LTE Japan (NTT Docomo)"
+    },
+    "SOT31": {
+        "brand": "",
+        "model": "Xperia Z4 Tablet LTE Japan (KDDI)"
     }
 }
