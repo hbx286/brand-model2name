@@ -185,15 +185,27 @@
     },
     "MASI-16": {
         "brand": "华为智选",
-        "model": "Hi MateBook 14 酷睿 Ultra 2 (16GB 内存)"
+        "model": "Hi MateBook 14 酷睿 Ultra 2 (16GB 内存) (方形键盘)"
     },
     "MASC-24": {
         "brand": "华为智选",
-        "model": "Hi MateBook 14 酷睿 Ultra 2 (24GB 内存)"
+        "model": "Hi MateBook 14 酷睿 Ultra 2 (24GB 内存) (圆形键盘)"
     },
     "MASC-32": {
         "brand": "华为智选",
-        "model": "Hi MateBook 14 酷睿 Ultra 2 (32GB 内存)"
+        "model": "Hi MateBook 14 酷睿 Ultra 2 (32GB 内存) (圆形键盘)"
+    },
+    "MNCAA-16": {
+        "brand": "华为智选",
+        "model": "Hi MateBook 14 锐龙 200 (16GB 内存) (方形键盘)"
+    },
+    "MNCAA-32": {
+        "brand": "华为智选",
+        "model": "Hi MateBook 14 锐龙 200 (32GB 内存) (方形键盘)"
+    },
+    "MNCAC-32": {
+        "brand": "华为智选",
+        "model": "Hi MateBook 14 锐龙 200 (32GB 内存) (圆形键盘)"
     },
     "LYOI-16": {
         "brand": "华为智选",
