@@ -422,5 +422,21 @@
     "GRY0E": {
         "brand": "谷歌",
         "model": "Pixel Watch 3 LTE (45mm)"
+    },
+    "GHH4K": {
+        "brand": "谷歌",
+        "model": "Pixel Watch 4 Bluetooth & Wi-Fi (41mm)"
+    },
+    "GWSQ2": {
+        "brand": "谷歌",
+        "model": "Pixel Watch 4 LTE (41mm)"
+    },
+    "G8AK3": {
+        "brand": "谷歌",
+        "model": "Pixel Watch 4 Bluetooth & Wi-Fi (45mm)"
+    },
+    "G1KAW": {
+        "brand": "谷歌",
+        "model": "Pixel Watch 4 LTE (45mm)"
     }
 }

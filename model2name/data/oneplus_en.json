@@ -447,6 +447,14 @@
         "brand": "一加",
         "model": "OnePlus Ace 5 Pro China"
     },
+    "PLC110": {
+        "brand": "一加",
+        "model": "OnePlus Ace 5 Ultra China"
+    },
+    "PLF110": {
+        "brand": "一加",
+        "model": "OnePlus Ace 5 Race China"
+    },
     "PKX110": {
         "brand": "一加",
         "model": "OnePlus 13T China"
@@ -462,14 +470,6 @@
     "PLQ110": {
         "brand": "一加",
         "model": "OnePlus Ace 6 China"
-    },
-    "PLC110": {
-        "brand": "一加",
-        "model": "OnePlus Ace 5 Ultra China"
-    },
-    "PLF110": {
-        "brand": "一加",
-        "model": "OnePlus Ace 5 Race China"
     },
     "AC2001": {
         "brand": "一加",
@@ -657,7 +657,7 @@
     },
     "OPD2403": {
         "brand": "一加",
-        "model": "OnePlus Pad 2"
+        "model": "OnePlus Pad 2 (2024)"
     },
     "OPD2413": {
         "brand": "一加",
@@ -677,7 +677,7 @@
     },
     "OPD2508": {
         "brand": "一加",
-        "model": "OnePlus Pad 2 China"
+        "model": "OnePlus Pad 2 (2025)"
     },
     "W101IN": {
         "brand": "一加",
@@ -718,5 +718,9 @@
     "OPWWE251": {
         "brand": "一加",
         "model": "OnePlus Watch 3 (Global)"
+    },
+    "OPWE242": {
+        "brand": "一加",
+        "model": "OnePlus Watch 3 43mm (Global)"
     }
 }
