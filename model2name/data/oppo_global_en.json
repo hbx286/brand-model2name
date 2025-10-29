@@ -63,6 +63,14 @@
         "brand": "oppo",
         "model": "OPPO Find X8 Pro"
     },
+    "CPH2797": {
+        "brand": "oppo",
+        "model": "OPPO Find X9"
+    },
+    "CPH2791": {
+        "brand": "oppo",
+        "model": "OPPO Find X9 Pro"
+    },
     "CPH2439": {
         "brand": "oppo",
         "model": "OPPO Find N2"
@@ -449,7 +457,7 @@
     },
     "CPH2781": {
         "brand": "oppo",
-        "model": "OPPO F31 5G"
+        "model": "OPPO A6 Pro 5G"
     },
     "CPH2763": {
         "brand": "oppo",
@@ -618,6 +626,10 @@
     "CPH2733": {
         "brand": "oppo",
         "model": "OPPO A5x 5G"
+    },
+    "CPH2799": {
+        "brand": "oppo",
+        "model": "OPPO A6 Pro"
     },
     "CPH1901": {
         "brand": "oppo",
