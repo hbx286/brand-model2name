@@ -343,9 +343,17 @@
         "brand": "vivo",
         "model": "vivo V60"
     },
+    "V2530": {
+        "brand": "vivo",
+        "model": "vivo V60 Lite"
+    },
     "V2529": {
         "brand": "vivo",
         "model": "vivo V60 Lite 5G"
+    },
+    "V2513": {
+        "brand": "vivo",
+        "model": "vivo V60e"
     },
     "vivo 1920_20": {
         "brand": "vivo",
@@ -663,6 +671,10 @@
         "brand": "vivo",
         "model": "Jovi Y19s"
     },
+    "V2541": {
+        "brand": "vivo",
+        "model": "vivo Y19s 5G"
+    },
     "V2458": {
         "brand": "vivo",
         "model": "vivo Y19s Pro"
@@ -767,7 +779,15 @@
         "brand": "vivo",
         "model": "vivo Y21d"
     },
+    "V2525": {
+        "brand": "vivo",
+        "model": "vivo Y21d"
+    },
     "V2535": {
+        "brand": "vivo",
+        "model": "vivo Y21d"
+    },
+    "V2560": {
         "brand": "vivo",
         "model": "vivo Y21d"
     },
