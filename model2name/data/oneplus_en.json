@@ -467,9 +467,25 @@
         "brand": "一加",
         "model": "OnePlus 15 China"
     },
+    "CPH2745": {
+        "brand": "一加",
+        "model": "OnePlus 15 India"
+    },
+    "CPH2747": {
+        "brand": "一加",
+        "model": "OnePlus 15 Europe / Global"
+    },
+    "CPH2749": {
+        "brand": "一加",
+        "model": "OnePlus 15 North America"
+    },
     "PLQ110": {
         "brand": "一加",
         "model": "OnePlus Ace 6 China"
+    },
+    "PLR110": {
+        "brand": "一加",
+        "model": "OnePlus Ace 6T China"
     },
     "AC2001": {
         "brand": "一加",
