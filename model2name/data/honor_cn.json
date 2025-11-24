@@ -527,6 +527,14 @@
         "brand": "荣耀",
         "model": "荣耀 400 Pro"
     },
+    "MEY-AN00": {
+        "brand": "荣耀",
+        "model": "荣耀 500"
+    },
+    "MEP-AN00": {
+        "brand": "荣耀",
+        "model": "荣耀 500 Pro"
+    },
     "KNT-AL10": {
         "brand": "荣耀",
         "model": "荣耀 V8 全网通版"
@@ -1934,6 +1942,10 @@
     "GDG-X": {
         "brand": "荣耀",
         "model": "荣耀笔记本 X14 2025 战斗版"
+    },
+    "GDH-X": {
+        "brand": "荣耀",
+        "model": "荣耀笔记本 X14 锐龙版 2026"
     },
     "FMI-76": {
         "brand": "荣耀",
