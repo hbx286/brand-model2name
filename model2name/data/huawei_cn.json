@@ -283,6 +283,26 @@
         "brand": "华为",
         "model": "HUAWEI Mate 70 Air"
     },
+    "VYG-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 80"
+    },
+    "SGT-AL50": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 80 Pro (12GB 内存)"
+    },
+    "SGT-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 80 Pro (16GB 内存)"
+    },
+    "SGT-AL10": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 80 Pro Max"
+    },
+    "SGU-AL10": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 80 RS 非凡大师"
+    },
     "TAH-AN00": {
         "brand": "华为",
         "model": "HUAWEI Mate X"
@@ -338,6 +358,14 @@
     "GRL-AL20": {
         "brand": "华为",
         "model": "HUAWEI Mate XTs 非凡大师"
+    },
+    "DEL-AL10": {
+        "brand": "华为",
+        "model": "HUAWEI Mate X7"
+    },
+    "DEL-AL20": {
+        "brand": "华为",
+        "model": "HUAWEI Mate X7 典藏版"
     },
     "HUAWEI U9200": {
         "brand": "华为",
@@ -1415,6 +1443,10 @@
         "brand": "华为",
         "model": "华为畅享 70X"
     },
+    "BRE-AL80a": {
+        "brand": "华为",
+        "model": "华为畅享 70X 尊享版"
+    },
     "BRE-AL00a": {
         "brand": "华为",
         "model": "华为畅享 70X 活力版 (128GB)"
@@ -1669,7 +1701,7 @@
     },
     "WEB-W00": {
         "brand": "华为",
-        "model": "HUAWEI MatePad Pro 13.2 英寸 2025 Wi-Fi 版"
+        "model": "华为擎云 C9 13.2 英寸 Wi-Fi 版"
     },
     "WEB-W10": {
         "brand": "华为",
@@ -1695,6 +1727,18 @@
         "brand": "华为",
         "model": "HUAWEI MatePad Pro 12.2 英寸 2025 Wi-Fi 柔光版 (16GB+1TB)"
     },
+    "QXS-W00": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Edge"
+    },
+    "QXS-W10": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Edge (24GB+1TB)"
+    },
+    "QXS-W20": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Edge 液冷版"
+    },
     "DBY2-W00": {
         "brand": "华为",
         "model": "HUAWEI MatePad Air 11.5 英寸 Wi-Fi 版"
@@ -1714,6 +1758,10 @@
     "BKY-W20": {
         "brand": "华为",
         "model": "HUAWEI MatePad Air 12 英寸 Wi-Fi 柔光版"
+    },
+    "LRT-W00": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Air 12 英寸 2025 Wi-Fi 版 (8GB+256GB)"
     },
     "LRT-W20": {
         "brand": "华为",
@@ -3071,6 +3119,10 @@
         "brand": "华为",
         "model": "华为智慧屏 MateTV Pro 98 英寸"
     },
+    "HD1XEDIJ": {
+        "brand": "华为",
+        "model": "华为智慧屏 MateTV Max 110 英寸"
+    },
     "HD55KANB": {
         "brand": "华为",
         "model": "华为智慧屏 S 55 60Hz (3GB+16GB)"
@@ -3563,6 +3615,10 @@
         "brand": "华为",
         "model": "HUAWEI WATCH ULTIMATE DESIGN 非凡大师 蓝宝石黄金款"
     },
+    "LNG-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH ULTIMATE DESIGN 非凡大师 紫金款"
+    },
     "ELA-B19": {
         "brand": "华为",
         "model": "HUAWEI WATCH GT 雅致款"
@@ -3742,6 +3798,10 @@
     "GLL-AL09B": {
         "brand": "华为",
         "model": "HUAWEI WATCH B7-738"
+    },
+    "SYA-B19B": {
+        "brand": "华为",
+        "model": "华为擎云 H3540"
     },
     "PNX-B19B": {
         "brand": "华为",
