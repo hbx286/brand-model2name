@@ -455,6 +455,10 @@
         "brand": "三星",
         "model": "Galaxy Z Fold7"
     },
+    "SM-F9680": {
+        "brand": "三星",
+        "model": "Galaxy Z TriFold"
+    },
     "SM-F7000": {
         "brand": "三星",
         "model": "Galaxy Z Flip"
@@ -1046,6 +1050,10 @@
     "SM-X626C": {
         "brand": "三星",
         "model": "Galaxy Tab S10 FE+ 5G"
+    },
+    "SM-X400": {
+        "brand": "三星",
+        "model": "Galaxy Tab S10 Lite WLAN"
     },
     "SM-X730": {
         "brand": "三星",

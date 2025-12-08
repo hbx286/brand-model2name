@@ -1339,6 +1339,18 @@
         "brand": "三星",
         "model": "Galaxy Z Fold7 Japan (NTT Docomo)"
     },
+    "SM-F968B": {
+        "brand": "三星",
+        "model": "Galaxy Z TriFold Global"
+    },
+    "SM-F9680": {
+        "brand": "三星",
+        "model": "Galaxy Z TriFold China"
+    },
+    "SM-F968N": {
+        "brand": "三星",
+        "model": "Galaxy Z TriFold South Korea"
+    },
     "SM-F700F": {
         "brand": "三星",
         "model": "Galaxy Z Flip Global"
