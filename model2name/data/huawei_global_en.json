@@ -179,6 +179,10 @@
         "brand": "华为",
         "model": "HUAWEI Mate X6"
     },
+    "DEL-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI Mate X7"
+    },
     "GRL-LX9": {
         "brand": "华为",
         "model": "HUAWEI Mate XT ULTIMATE DESIGN"
@@ -795,6 +799,18 @@
         "brand": "华为",
         "model": "HUAWEI nova 13i"
     },
+    "TLR-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI nova 14"
+    },
+    "MIA-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI nova 14 Pro"
+    },
+    "STG-LX2": {
+        "brand": "华为",
+        "model": "HUAWEI nova Y91"
+    },
     "WKG-LX9": {
         "brand": "华为",
         "model": "HUAWEI nova Y60"
@@ -840,10 +856,6 @@
         "model": "HUAWEI nova Y90"
     },
     "STG-LX1": {
-        "brand": "华为",
-        "model": "HUAWEI nova Y91"
-    },
-    "STG-LX2": {
         "brand": "华为",
         "model": "HUAWEI nova Y91"
     },
@@ -1166,6 +1178,10 @@
     "BKY-W09": {
         "brand": "华为",
         "model": "HUAWEI MatePad 12 X Wi-Fi"
+    },
+    "LRT-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 12 X 2025 Wi-Fi"
     },
     "MRX-W09": {
         "brand": "华为",
