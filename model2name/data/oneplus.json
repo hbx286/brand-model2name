@@ -487,6 +487,18 @@
         "brand": "一加",
         "model": "一加 Ace 6T 国行版"
     },
+    "CPH2767": {
+        "brand": "一加",
+        "model": "一加 15R 印度版"
+    },
+    "CPH2769": {
+        "brand": "一加",
+        "model": "一加 15R 欧洲版 / 国际版"
+    },
+    "CPH2771": {
+        "brand": "一加",
+        "model": "一加 15R 北美版"
+    },
     "AC2001": {
         "brand": "一加",
         "model": "一加 Nord 印度版"
@@ -690,6 +702,10 @@
     "OPD2481": {
         "brand": "一加",
         "model": "一加平板 Lite LTE"
+    },
+    "OPD2504": {
+        "brand": "一加",
+        "model": "一加平板 Go 2 Wi-Fi"
     },
     "OPD2508": {
         "brand": "一加",

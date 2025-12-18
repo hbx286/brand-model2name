@@ -487,6 +487,18 @@
         "brand": "一加",
         "model": "OnePlus Ace 6T China"
     },
+    "CPH2767": {
+        "brand": "一加",
+        "model": "OnePlus 15R India"
+    },
+    "CPH2769": {
+        "brand": "一加",
+        "model": "OnePlus 15R Europe / Global"
+    },
+    "CPH2771": {
+        "brand": "一加",
+        "model": "OnePlus 15R North America"
+    },
     "AC2001": {
         "brand": "一加",
         "model": "OnePlus Nord India"
@@ -690,6 +702,10 @@
     "OPD2481": {
         "brand": "一加",
         "model": "OnePlus Pad Lite LTE"
+    },
+    "OPD2504": {
+        "brand": "一加",
+        "model": "OnePlus Pad Go 2 Wi-Fi"
     },
     "OPD2508": {
         "brand": "一加",
