@@ -1003,6 +1003,18 @@
         "brand": "华为",
         "model": "HUAWEI nova Flip S"
     },
+    "PSN-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 15"
+    },
+    "KLE-AL00U": {
+        "brand": "华为",
+        "model": "HUAWEI nova 15 Pro"
+    },
+    "SLY-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 15 Ultra"
+    },
     "HUAWEI G6-T00": {
         "brand": "华为",
         "model": "华为 Ascend G6 移动版"
@@ -1759,6 +1771,10 @@
         "brand": "华为",
         "model": "HUAWEI MatePad Air 12 英寸 Wi-Fi 柔光版"
     },
+    "BKY-W21": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Air 12 英寸 Wi-Fi 柔光版"
+    },
     "LRT-W00": {
         "brand": "华为",
         "model": "HUAWEI MatePad Air 12 英寸 2025 Wi-Fi 版 (8GB+256GB)"
@@ -1858,6 +1874,18 @@
     "SLG-W50": {
         "brand": "华为",
         "model": "HUAWEI MatePad 11.5 S 2025 灵动款 Wi-Fi 版"
+    },
+    "TXZ-W10": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 11.5 英寸 2026 Wi-Fi 版"
+    },
+    "TXZ-W20": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 11.5 英寸 2026 Wi-Fi 柔光版"
+    },
+    "TXZ-AL10": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad 11.5 英寸 2026 SIM 卡版"
     },
     "MLR-AL00": {
         "brand": "华为",
@@ -3774,6 +3802,10 @@
     "LCA-B11": {
         "brand": "华为",
         "model": "HUAWEI WATCH D2 晨曦金"
+    },
+    "LCA-B29": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH D2 星云蓝"
     },
     "SGA-B19": {
         "brand": "华为",

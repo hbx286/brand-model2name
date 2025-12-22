@@ -815,6 +815,10 @@
         "brand": "oppo",
         "model": "OPPO Pad 5"
     },
+    "OPD2501": {
+        "brand": "oppo",
+        "model": "OPPO Pad Air5"
+    },
     "OB19B1": {
         "brand": "oppo",
         "model": "OPPO Band 活力版"
@@ -930,5 +934,9 @@
     "OWW262": {
         "brand": "oppo",
         "model": "OPPO Watch S"
+    },
+    "OWW261": {
+        "brand": "oppo",
+        "model": "OPPO Watch X3"
     }
 }
