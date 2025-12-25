@@ -635,6 +635,26 @@
         "brand": "小米",
         "model": "Xiaomi 17 Pro Max China"
     },
+    "2512BPNDAG": {
+        "brand": "小米",
+        "model": "Xiaomi 17 Ultra Global"
+    },
+    "2512BPNDAC": {
+        "brand": "小米",
+        "model": "Xiaomi 17 Ultra China"
+    },
+    "2512BPNDAI": {
+        "brand": "小米",
+        "model": "Xiaomi 17 Ultra India"
+    },
+    "25128PNA1G": {
+        "brand": "小米",
+        "model": "Leitzphone powered by Xiaomi (Global)"
+    },
+    "25128PNA1C": {
+        "brand": "小米",
+        "model": "Xiaomi 17 Ultra by Leica (China)"
+    },
     "2015011": {
         "brand": "小米",
         "model": "Mi Note Global"
@@ -1575,6 +1595,14 @@
         "brand": "小米",
         "model": "REDMI 15 5G India"
     },
+    "25057RN09R": {
+        "brand": "小米",
+        "model": "REDMI 15 5G Japan (SIM Free)"
+    },
+    "A501XM": {
+        "brand": "小米",
+        "model": "REDMI 15 5G Japan (SoftBank)"
+    },
     "25078RA3EA": {
         "brand": "小米",
         "model": "REDMI 15C Global"
@@ -2355,6 +2383,18 @@
         "brand": "小米",
         "model": "Redmi Note 14 Pro+ 5G China"
     },
+    "2510DRA23G": {
+        "brand": "小米",
+        "model": "REDMI Note 15 Global"
+    },
+    "2510DRA23E": {
+        "brand": "小米",
+        "model": "REDMI Note 15 Europe"
+    },
+    "2510DRA23L": {
+        "brand": "小米",
+        "model": "REDMI Note 15 Latin America"
+    },
     "25098RA98G": {
         "brand": "小米",
         "model": "REDMI Note 15 5G Global"
@@ -2370,6 +2410,10 @@
     "25098RA98C": {
         "brand": "小米",
         "model": "REDMI Note 15 5G China"
+    },
+    "25100RA69G": {
+        "brand": "小米",
+        "model": "REDMI Note 15 Pro Global"
     },
     "25080RABDG": {
         "brand": "小米",
@@ -3019,9 +3063,17 @@
         "brand": "小米",
         "model": "POCO M7 Pro 5G Global"
     },
+    "25118PC98G": {
+        "brand": "小米",
+        "model": "POCO M8 5G Global"
+    },
     "2508CPC2BI": {
         "brand": "小米",
         "model": "POCO M8 5G India"
+    },
+    "2510EPC8BG": {
+        "brand": "小米",
+        "model": "POCO M8 Pro 5G Global"
     },
     "M2006C3MI": {
         "brand": "小米",

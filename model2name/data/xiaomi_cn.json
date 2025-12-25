@@ -331,6 +331,14 @@
         "brand": "",
         "model": "Xiaomi 17 Pro Max"
     },
+    "2512BPNDAC": {
+        "brand": "",
+        "model": "Xiaomi 17 Ultra"
+    },
+    "25128PNA1C": {
+        "brand": "",
+        "model": "Xiaomi 17 Ultra by Leica"
+    },
     "2014616": {
         "brand": "",
         "model": "小米 Note 双网通版"
@@ -453,7 +461,7 @@
     },
     "2016001": {
         "brand": "",
-        "model": "小米 Max 标准版 全网通版"
+        "model": "小米 Max 标准版"
     },
     "2016007": {
         "brand": "",

@@ -139,6 +139,14 @@
         "brand": "小米穿戴设备",
         "model": "Xiaomi Watch 2 Pro LTE"
     },
+    "M2501W1": {
+        "brand": "小米穿戴设备",
+        "model": "Xiaomi Watch 5 蓝牙版"
+    },
+    "M2505W1": {
+        "brand": "小米穿戴设备",
+        "model": "Xiaomi Watch 5 LTE"
+    },
     "REDMIWT02": {
         "brand": "小米穿戴设备",
         "model": "Mi Watch Lite 国际版"
@@ -351,6 +359,10 @@
         "brand": "小米穿戴设备",
         "model": "Xiaomi Buds 5 Pro Wi-Fi 版"
     },
+    "M2540E1": {
+        "brand": "小米穿戴设备",
+        "model": "Xiaomi Buds 6"
+    },
     "M2503E1": {
         "brand": "小米穿戴设备",
         "model": "Xiaomi 开放式耳机 Pro"
@@ -454,6 +466,10 @@
     "M2455E1": {
         "brand": "小米穿戴设备",
         "model": "REDMI Buds 7S"
+    },
+    "M2535E1": {
+        "brand": "小米穿戴设备",
+        "model": "REDMI Buds 8 Pro"
     },
     "M2237E1": {
         "brand": "小米穿戴设备",

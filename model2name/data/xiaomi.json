@@ -635,6 +635,26 @@
         "brand": "小米",
         "model": "Xiaomi 17 Pro Max"
     },
+    "2512BPNDAC": {
+        "brand": "小米",
+        "model": "Xiaomi 17 Ultra 国行版"
+    },
+    "2512BPNDAG": {
+        "brand": "小米",
+        "model": "Xiaomi 17 Ultra 国际版"
+    },
+    "2512BPNDAI": {
+        "brand": "小米",
+        "model": "Xiaomi 17 Ultra 印度版"
+    },
+    "25128PNA1C": {
+        "brand": "小米",
+        "model": "Xiaomi 17 Ultra by Leica 国行版"
+    },
+    "25128PNA1G": {
+        "brand": "小米",
+        "model": "Leitzphone powered by Xiaomi 国际版"
+    },
     "2014616": {
         "brand": "小米",
         "model": "小米 Note 双网通版"
@@ -777,7 +797,7 @@
     },
     "2016001": {
         "brand": "小米",
-        "model": "小米 Max 标准版 全网通版"
+        "model": "小米 Max 标准版 国行版"
     },
     "2016002": {
         "brand": "小米",
@@ -1699,6 +1719,14 @@
         "brand": "小米",
         "model": "REDMI 15 5G 印度版"
     },
+    "25057RN09R": {
+        "brand": "小米",
+        "model": "REDMI 15 5G 日本版 (无锁)"
+    },
+    "A501XM": {
+        "brand": "小米",
+        "model": "REDMI 15 5G 日本版 (SoftBank)"
+    },
     "25078RA3EA": {
         "brand": "小米",
         "model": "REDMI 15C 国际版"
@@ -2475,6 +2503,18 @@
         "brand": "小米",
         "model": "Redmi Note 14 Pro+ 5G 印度版"
     },
+    "2510DRA23G": {
+        "brand": "小米",
+        "model": "REDMI Note 15 国际版"
+    },
+    "2510DRA23E": {
+        "brand": "小米",
+        "model": "REDMI Note 15 欧洲版"
+    },
+    "2510DRA23L": {
+        "brand": "小米",
+        "model": "REDMI Note 15 拉美版"
+    },
     "25098RA98C": {
         "brand": "小米",
         "model": "REDMI Note 15 国行版"
@@ -2490,6 +2530,10 @@
     "25098RA98I": {
         "brand": "小米",
         "model": "REDMI Note 15 5G 印度版"
+    },
+    "25100RA69G": {
+        "brand": "小米",
+        "model": "REDMI Note 15 Pro 国际版"
     },
     "25080RABDC": {
         "brand": "小米",
@@ -3259,9 +3303,17 @@
         "brand": "小米",
         "model": "POCO M7 Pro 5G 国际版"
     },
+    "25118PC98G": {
+        "brand": "小米",
+        "model": "POCO M8 5G 国际版"
+    },
     "2508CPC2BI": {
         "brand": "小米",
         "model": "POCO M8 5G 印度版"
+    },
+    "2510EPC8BG": {
+        "brand": "小米",
+        "model": "POCO M8 Pro 5G 国际版"
     },
     "M2006C3MI": {
         "brand": "小米",
