@@ -611,6 +611,14 @@
         "brand": "荣耀",
         "model": "荣耀 GT Pro"
     },
+    "AAP-AN00": {
+        "brand": "荣耀",
+        "model": "荣耀 WIN"
+    },
+    "AAK-AN00": {
+        "brand": "荣耀",
+        "model": "荣耀 WIN RT"
+    },
     "G750-T00": {
         "brand": "荣耀",
         "model": "荣耀 3X 双 3G 版"
@@ -975,6 +983,10 @@
         "brand": "荣耀",
         "model": "荣耀畅玩 60 5G / 荣耀畅玩 60m 5G"
     },
+    "NLA-AN00": {
+        "brand": "荣耀",
+        "model": "荣耀畅玩 60A 5G"
+    },
     "DVD-AN00": {
         "brand": "荣耀",
         "model": "荣耀 Power"
@@ -1247,10 +1259,6 @@
         "brand": "荣耀",
         "model": "荣耀畅玩 40 Plus 5G"
     },
-    "NLA-AN00": {
-        "brand": "荣耀",
-        "model": "荣耀畅玩 60A 5G"
-    },
     "LOG-AN00": {
         "brand": "荣耀",
         "model": "荣耀畅玩 70 Plus 5G / 荣耀畅玩 70m Plus 5G"
@@ -1343,6 +1351,14 @@
         "brand": "荣耀",
         "model": "荣耀平板 10 柔光版 12.1 英寸 Wi-Fi 版"
     },
+    "ROL-W00": {
+        "brand": "荣耀",
+        "model": "荣耀平板 V9 11.5 英寸 Wi-Fi 版"
+    },
+    "ROL-W10": {
+        "brand": "荣耀",
+        "model": "荣耀平板 V9 柔光版 11.5 英寸 Wi-Fi 版"
+    },
     "KRJ-W09": {
         "brand": "荣耀",
         "model": "荣耀平板 V6 10.4 英寸 Wi-Fi 版 (华为终端)"
@@ -1370,14 +1386,6 @@
     "BRT-AN09": {
         "brand": "荣耀",
         "model": "荣耀平板 V7 Pro 11 英寸 5G 版"
-    },
-    "ROL-W00": {
-        "brand": "荣耀",
-        "model": "荣耀平板 V9 11.5 英寸 Wi-Fi 版"
-    },
-    "ROL-W10": {
-        "brand": "荣耀",
-        "model": "荣耀平板 V9 柔光版 11.5 英寸 Wi-Fi 版"
     },
     "GDI-W09": {
         "brand": "荣耀",
