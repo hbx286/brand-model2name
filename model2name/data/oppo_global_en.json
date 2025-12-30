@@ -361,15 +361,31 @@
     },
     "CPH2737": {
         "brand": "oppo",
-        "model": "OPPO Reno14"
+        "model": "OPPO Reno14 5G"
     },
     "CPH2739": {
         "brand": "oppo",
-        "model": "OPPO Reno14 Pro"
+        "model": "OPPO Reno14 Pro 5G"
     },
     "CPH2743": {
         "brand": "oppo",
         "model": "OPPO Reno14 F 5G / OPPO Reno14 FS 5G"
+    },
+    "CPH2825": {
+        "brand": "oppo",
+        "model": "OPPO Reno15 5G"
+    },
+    "CPH2813": {
+        "brand": "oppo",
+        "model": "OPPO Reno15 Pro 5G"
+    },
+    "CPH2811": {
+        "brand": "oppo",
+        "model": "OPPO Reno15 Pro Max 5G"
+    },
+    "CPH2801": {
+        "brand": "oppo",
+        "model": "OPPO Reno15 F 5G"
     },
     "CPH1819": {
         "brand": "oppo",
@@ -627,13 +643,41 @@
         "brand": "oppo",
         "model": "OPPO A5x 5G"
     },
+    "CPH2817": {
+        "brand": "oppo",
+        "model": "OPPO A6"
+    },
+    "CPH2831": {
+        "brand": "oppo",
+        "model": "OPPO A6 5G"
+    },
     "CPH2799": {
         "brand": "oppo",
         "model": "OPPO A6 Pro"
     },
+    "CPH2815": {
+        "brand": "oppo",
+        "model": "OPPO A6s"
+    },
+    "CPH2819": {
+        "brand": "oppo",
+        "model": "OPPO A6x"
+    },
+    "CPH2783": {
+        "brand": "oppo",
+        "model": "OPPO A6x 5G Global"
+    },
     "CPH2823": {
         "brand": "oppo",
-        "model": "OPPO A6x 5G"
+        "model": "OPPO A6x 5G India"
+    },
+    "CPH2847": {
+        "brand": "oppo",
+        "model": "OPPO A6t"
+    },
+    "CPH2849": {
+        "brand": "oppo",
+        "model": "OPPO A6t Pro"
     },
     "CPH1901": {
         "brand": "oppo",

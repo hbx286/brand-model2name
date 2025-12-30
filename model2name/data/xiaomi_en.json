@@ -3067,7 +3067,7 @@
         "brand": "小米",
         "model": "POCO M8 5G Global"
     },
-    "2508CPC2BI": {
+    "25118PC98I": {
         "brand": "小米",
         "model": "POCO M8 5G India"
     },
@@ -3174,6 +3174,10 @@
     "25078PC3EE": {
         "brand": "小米",
         "model": "POCO C85 Europe"
+    },
+    "2508CPC2BI": {
+        "brand": "小米",
+        "model": "POCO C85 5G India"
     },
     "A0101": {
         "brand": "小米",

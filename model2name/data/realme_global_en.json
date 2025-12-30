@@ -333,11 +333,19 @@
     },
     "RMX5111": {
         "brand": "真我",
-        "model": "realme 15T 5G"
+        "model": "realme NARZO 90 5G"
     },
     "RMX5250": {
         "brand": "真我",
         "model": "realme 15x 5G"
+    },
+    "RMX5120": {
+        "brand": "真我",
+        "model": "realme 16 Pro 5G"
+    },
+    "RMX5131": {
+        "brand": "真我",
+        "model": "realme 16 Pro+ 5G"
     },
     "RMX1901": {
         "brand": "真我",
@@ -886,6 +894,10 @@
     "RMX5033": {
         "brand": "真我",
         "model": "realme NARZO 80 Pro 5G"
+    },
+    "RMX5264": {
+        "brand": "真我",
+        "model": "realme NARZO 90x 5G"
     },
     "RMP2102": {
         "brand": "真我",
