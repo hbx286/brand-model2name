@@ -3115,6 +3115,18 @@
         "brand": "华为",
         "model": "华为智慧屏 V5 Max 110"
     },
+    "HD75ARIC": {
+        "brand": "华为",
+        "model": "华为智慧屏 V6 75"
+    },
+    "HD85ARIC": {
+        "brand": "华为",
+        "model": "华为智慧屏 V6 85"
+    },
+    "HD98ARIC": {
+        "brand": "华为",
+        "model": "华为智慧屏 V6 98"
+    },
     "PLAT-760": {
         "brand": "华为",
         "model": "华为智慧屏 X65"
