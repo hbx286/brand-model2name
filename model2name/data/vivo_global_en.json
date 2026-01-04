@@ -331,6 +331,10 @@
         "brand": "vivo",
         "model": "vivo V50 Lite"
     },
+    "V2440": {
+        "brand": "vivo",
+        "model": "Jovi V50 Lite"
+    },
     "V2450": {
         "brand": "vivo",
         "model": "vivo V50 Lite 5G"
@@ -338,10 +342,6 @@
     "V2453": {
         "brand": "vivo",
         "model": "vivo V50 Lite 5G"
-    },
-    "V2440": {
-        "brand": "vivo",
-        "model": "Jovi V50 Lite"
     },
     "V2511": {
         "brand": "vivo",
@@ -1126,6 +1126,10 @@
     "I2501": {
         "brand": "vivo",
         "model": "iQOO 15"
+    },
+    "I2508": {
+        "brand": "vivo",
+        "model": "iQOO 15R"
     },
     "I2202": {
         "brand": "vivo",
