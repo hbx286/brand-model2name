@@ -519,6 +519,14 @@
         "brand": "荣耀",
         "model": "HONOR Magic6 Lite 5G"
     },
+    "FCP-N49": {
+        "brand": "荣耀",
+        "model": "HONOR Magic V3"
+    },
+    "PTP-N29": {
+        "brand": "荣耀",
+        "model": "HONOR Magic7"
+    },
     "PTP-N49": {
         "brand": "荣耀",
         "model": "HONOR Magic7 Pro"
@@ -535,9 +543,9 @@
         "brand": "荣耀",
         "model": "HONOR Magic7 Lite"
     },
-    "FCP-N49": {
+    "MBH-N49": {
         "brand": "荣耀",
-        "model": "HONOR Magic V3"
+        "model": "HONOR Magic V5"
     },
     "BKQ-N49": {
         "brand": "荣耀",
@@ -585,7 +593,7 @@
     },
     "NLA-LX1": {
         "brand": "荣耀",
-        "model": "HONOR X5c"
+        "model": "HONOR X5c Plus"
     },
     "NLA-LX2": {
         "brand": "荣耀",
@@ -770,6 +778,14 @@
     "ABR-LX3": {
         "brand": "荣耀",
         "model": "HONOR X8c"
+    },
+    "LNA-LX2": {
+        "brand": "荣耀",
+        "model": "HONOR X8d"
+    },
+    "LNA-LX3": {
+        "brand": "荣耀",
+        "model": "HONOR X8d"
     },
     "ALI-NX3P": {
         "brand": "荣耀",
