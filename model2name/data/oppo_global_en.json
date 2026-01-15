@@ -385,7 +385,7 @@
     },
     "CPH2801": {
         "brand": "oppo",
-        "model": "OPPO Reno15 F 5G"
+        "model": "OPPO Reno15 F 5G / OPPO Reno15 FS 5G"
     },
     "CPH1819": {
         "brand": "oppo",
@@ -658,6 +658,10 @@
     "CPH2815": {
         "brand": "oppo",
         "model": "OPPO A6s"
+    },
+    "CPH2789": {
+        "brand": "oppo",
+        "model": "OPPO A6s 5G"
     },
     "CPH2819": {
         "brand": "oppo",
