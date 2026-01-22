@@ -1827,6 +1827,18 @@
         "brand": "三星",
         "model": "Galaxy A07 Latin America"
     },
+    "SM-A076E": {
+        "brand": "三星",
+        "model": "Galaxy A07 5G Global"
+    },
+    "SM-A076B": {
+        "brand": "三星",
+        "model": "Galaxy A07 5G Global"
+    },
+    "SM-A076M": {
+        "brand": "三星",
+        "model": "Galaxy A07 5G Latin America"
+    },
     "SM-A105F": {
         "brand": "三星",
         "model": "Galaxy A10 Global"
@@ -2146,6 +2158,22 @@
     "SM-A176B": {
         "brand": "三星",
         "model": "Galaxy A17 5G Global"
+    },
+    "SM-A176U": {
+        "brand": "三星",
+        "model": "Galaxy A17 5G US Carrier"
+    },
+    "SM-A176U1": {
+        "brand": "三星",
+        "model": "Galaxy A17 5G US Unlocked"
+    },
+    "SM-S176V": {
+        "brand": "三星",
+        "model": "Galaxy A17 5G TracFone"
+    },
+    "SM-A176W": {
+        "brand": "三星",
+        "model": "Galaxy A17 5G Canada"
     },
     "SM-A1760": {
         "brand": "三星",
@@ -3187,6 +3215,10 @@
         "brand": "三星",
         "model": "Galaxy M17 5G"
     },
+    "SM-M076B": {
+        "brand": "三星",
+        "model": "Galaxy M17e 5G"
+    },
     "SM-M205N": {
         "brand": "三星",
         "model": "Galaxy M20 South Korea"
@@ -3438,5 +3470,9 @@
     "SM-E625F": {
         "brand": "三星",
         "model": "Galaxy F62"
+    },
+    "SM-E076B": {
+        "brand": "三星",
+        "model": "Galaxy F70e 5G"
     }
 }

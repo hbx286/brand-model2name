@@ -99,6 +99,10 @@
         "brand": "vivo",
         "model": "vivo X200 FE"
     },
+    "V2561": {
+        "brand": "vivo",
+        "model": "vivo X200T"
+    },
     "V2429": {
         "brand": "vivo",
         "model": "vivo X Fold5"
@@ -1262,5 +1266,9 @@
     "I2505": {
         "brand": "vivo",
         "model": "iQOO Z10R 5G Global"
+    },
+    "I2507": {
+        "brand": "vivo",
+        "model": "iQOO Z11x 5G"
     }
 }
