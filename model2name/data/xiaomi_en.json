@@ -2411,6 +2411,10 @@
         "brand": "小米",
         "model": "REDMI Note 15 5G China"
     },
+    "25098RA98T": {
+        "brand": "小米",
+        "model": "REDMI Note 15 5G Saudi Arabia"
+    },
     "25100RA69G": {
         "brand": "小米",
         "model": "REDMI Note 15 Pro Global"
@@ -2431,6 +2435,10 @@
         "brand": "小米",
         "model": "REDMI Note 15 Pro 5G China"
     },
+    "25080RABDT": {
+        "brand": "小米",
+        "model": "REDMI Note 15 Pro 5G Saudi Arabia"
+    },
     "2510ERA8BG": {
         "brand": "小米",
         "model": "REDMI Note 15 Pro+ 5G Global"
@@ -2442,6 +2450,10 @@
     "2510ERA8BC": {
         "brand": "小米",
         "model": "REDMI Note 15 Pro+ 5G China"
+    },
+    "2510ERA8BT": {
+        "brand": "小米",
+        "model": "REDMI Note 15 Pro+ 5G Saudi Arabia"
     },
     "25104RADAC": {
         "brand": "小米",
@@ -2474,6 +2486,14 @@
     "25053RT47C": {
         "brand": "小米",
         "model": "REDMI Turbo 4 Pro China"
+    },
+    "2511FRT34C": {
+        "brand": "小米",
+        "model": "REDMI Turbo 5 China"
+    },
+    "2602BRT18C": {
+        "brand": "小米",
+        "model": "REDMI Turbo 5 Max China"
     },
     "M1903F10A": {
         "brand": "小米",

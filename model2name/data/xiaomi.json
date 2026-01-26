@@ -2531,6 +2531,10 @@
         "brand": "小米",
         "model": "REDMI Note 15 5G 印度版"
     },
+    "25098RA98T": {
+        "brand": "小米",
+        "model": "REDMI Note 15 5G 沙特版"
+    },
     "25100RA69G": {
         "brand": "小米",
         "model": "REDMI Note 15 Pro 国际版"
@@ -2551,6 +2555,10 @@
         "brand": "小米",
         "model": "REDMI Note 15 Pro 5G 日本版"
     },
+    "25080RABDT": {
+        "brand": "小米",
+        "model": "REDMI Note 15 Pro 5G 沙特版"
+    },
     "2510ERA8BC": {
         "brand": "小米",
         "model": "REDMI Note 15 Pro+ 国行版"
@@ -2562,6 +2570,10 @@
     "2510ERA8BI": {
         "brand": "小米",
         "model": "REDMI Note 15 Pro+ 5G 印度版"
+    },
+    "2510ERA8BT": {
+        "brand": "小米",
+        "model": "REDMI Note 15 Pro+ 5G 沙特版"
     },
     "25104RADAC": {
         "brand": "小米",
@@ -2594,6 +2606,14 @@
     "25053RT47C": {
         "brand": "小米",
         "model": "REDMI Turbo 4 Pro"
+    },
+    "2511FRT34C": {
+        "brand": "小米",
+        "model": "REDMI Turbo 5"
+    },
+    "2602BRT18C": {
+        "brand": "小米",
+        "model": "REDMI Turbo 5 Max"
     },
     "M1903F10A": {
         "brand": "小米",
