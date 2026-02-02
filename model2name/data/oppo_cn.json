@@ -697,7 +697,11 @@
     },
     "PLT120": {
         "brand": "oppo",
-        "model": "OPPO A6s"
+        "model": "OPPO A6s / OPPO A6i+"
+    },
+    "PLT130": {
+        "brand": "oppo",
+        "model": "OPPO A6v"
     },
     "PMC110": {
         "brand": "oppo",
