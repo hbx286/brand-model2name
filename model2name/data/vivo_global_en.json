@@ -321,7 +321,7 @@
     },
     "V2427": {
         "brand": "vivo",
-        "model": "vivo V50"
+        "model": "Jovi V50"
     },
     "V2448": {
         "brand": "vivo",
@@ -345,7 +345,7 @@
     },
     "V2440": {
         "brand": "vivo",
-        "model": "Jovi V50 Lite"
+        "model": "Jovi V50 Lite 5G"
     },
     "V2450": {
         "brand": "vivo",
@@ -715,14 +715,6 @@
         "brand": "vivo",
         "model": "vivo Y19s"
     },
-    "V2425": {
-        "brand": "vivo",
-        "model": "vivo Y200"
-    },
-    "V2454": {
-        "brand": "vivo",
-        "model": "Jovi Y19s"
-    },
     "V2541": {
         "brand": "vivo",
         "model": "vivo Y19s 5G"
@@ -911,10 +903,6 @@
         "brand": "vivo",
         "model": "vivo Y29"
     },
-    "V2445": {
-        "brand": "vivo",
-        "model": "Jovi Y29"
-    },
     "V2420": {
         "brand": "vivo",
         "model": "vivo Y29 5G"
@@ -1011,10 +999,6 @@
         "brand": "vivo",
         "model": "vivo Y39 5G"
     },
-    "V2444": {
-        "brand": "vivo",
-        "model": "Jovi Y39 5G"
-    },
     "V2024": {
         "brand": "vivo",
         "model": "vivo Y51"
@@ -1106,6 +1090,10 @@
     "V2222": {
         "brand": "vivo",
         "model": "vivo Y100A 5G"
+    },
+    "V2425": {
+        "brand": "vivo",
+        "model": "Jovi Y19s"
     },
     "V2307": {
         "brand": "vivo",
@@ -1322,5 +1310,21 @@
     "I2507": {
         "brand": "vivo",
         "model": "iQOO Z11x 5G"
+    },
+    "V2454": {
+        "brand": "vivo",
+        "model": "Jovi Y19s"
+    },
+    "V2445": {
+        "brand": "vivo",
+        "model": "Jovi Y29"
+    },
+    "V2459": {
+        "brand": "vivo",
+        "model": "Jovi Y29s 5G"
+    },
+    "V2444": {
+        "brand": "vivo",
+        "model": "Jovi Y39 5G"
     }
 }
