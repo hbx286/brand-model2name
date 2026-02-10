@@ -385,7 +385,7 @@
     },
     "CPH2801": {
         "brand": "oppo",
-        "model": "OPPO Reno15 F 5G / OPPO Reno15 FS 5G"
+        "model": "OPPO Reno15 F 5G / OPPO Reno15 FS 5G / OPPO Reno15c 5G"
     },
     "CPH1819": {
         "brand": "oppo",
@@ -682,6 +682,10 @@
     "CPH2849": {
         "brand": "oppo",
         "model": "OPPO A6t Pro"
+    },
+    "CPH2851": {
+        "brand": "oppo",
+        "model": "OPPO A6t Pro 5G"
     },
     "CPH1901": {
         "brand": "oppo",
@@ -990,6 +994,14 @@
     "CPH2731": {
         "brand": "oppo",
         "model": "OPPO K13 Turbo Pro 5G"
+    },
+    "CPH2869": {
+        "brand": "oppo",
+        "model": "OPPO K14 5G"
+    },
+    "CPH2871": {
+        "brand": "oppo",
+        "model": "OPPO K14x 5G"
     },
     "OPD2102A": {
         "brand": "oppo",
