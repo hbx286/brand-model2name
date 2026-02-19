@@ -321,7 +321,7 @@
     },
     "V2427": {
         "brand": "vivo",
-        "model": "Jovi V50"
+        "model": "JOVI V50"
     },
     "V2448": {
         "brand": "vivo",
@@ -345,7 +345,7 @@
     },
     "V2440": {
         "brand": "vivo",
-        "model": "Jovi V50 Lite 5G"
+        "model": "JOVI V50 Lite 5G"
     },
     "V2450": {
         "brand": "vivo",
@@ -374,6 +374,26 @@
     "V2513": {
         "brand": "vivo",
         "model": "vivo V60e"
+    },
+    "V2538": {
+        "brand": "vivo",
+        "model": "vivo V70"
+    },
+    "V2539": {
+        "brand": "vivo",
+        "model": "vivo V70"
+    },
+    "V2540": {
+        "brand": "vivo",
+        "model": "vivo V70"
+    },
+    "V2548": {
+        "brand": "vivo",
+        "model": "vivo V70 Elite"
+    },
+    "V2550": {
+        "brand": "vivo",
+        "model": "vivo V70 FE"
     },
     "vivo 1920_20": {
         "brand": "vivo",
@@ -835,6 +855,14 @@
         "brand": "vivo",
         "model": "vivo Y21d"
     },
+    "V2553": {
+        "brand": "vivo",
+        "model": "vivo Y21 5G"
+    },
+    "V2554": {
+        "brand": "vivo",
+        "model": "vivo Y21 5G"
+    },
     "V2207": {
         "brand": "vivo",
         "model": "vivo Y22"
@@ -1093,7 +1121,7 @@
     },
     "V2425": {
         "brand": "vivo",
-        "model": "Jovi Y19s"
+        "model": "JOVI Y19s"
     },
     "V2307": {
         "brand": "vivo",
@@ -1313,18 +1341,22 @@
     },
     "V2454": {
         "brand": "vivo",
-        "model": "Jovi Y19s"
+        "model": "JOVI Y19s"
+    },
+    "J2508": {
+        "brand": "vivo",
+        "model": "JOVI Y21 5G"
     },
     "V2445": {
         "brand": "vivo",
-        "model": "Jovi Y29"
+        "model": "JOVI Y29"
     },
     "V2459": {
         "brand": "vivo",
-        "model": "Jovi Y29s 5G"
+        "model": "JOVI Y29s 5G"
     },
     "V2444": {
         "brand": "vivo",
-        "model": "Jovi Y39 5G"
+        "model": "JOVI Y39 5G"
     }
 }
