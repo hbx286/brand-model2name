@@ -731,6 +731,10 @@
         "brand": "真我",
         "model": "realme C75x"
     },
+    "RMX5566": {
+        "brand": "真我",
+        "model": "realme C85"
+    },
     "RMX5253": {
         "brand": "真我",
         "model": "realme C85 5G"
@@ -745,7 +749,7 @@
     },
     "RMX5313": {
         "brand": "真我",
-        "model": "realme Note 70 / realme Note 70T"
+        "model": "realme P4 Lite"
     },
     "RMX1831": {
         "brand": "真我",
@@ -942,5 +946,13 @@
     "RMP2402": {
         "brand": "真我",
         "model": "realme Pad 2 Lite"
+    },
+    "RMP2501": {
+        "brand": "真我",
+        "model": "realme Pad 3 5G"
+    },
+    "RMP2502": {
+        "brand": "真我",
+        "model": "realme Pad 3 Wi-Fi"
     }
 }
