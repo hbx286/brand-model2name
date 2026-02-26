@@ -471,6 +471,10 @@
         "brand": "小米穿戴设备",
         "model": "REDMI Buds 8 Pro"
     },
+    "M2539E1": {
+        "brand": "小米穿戴设备",
+        "model": "REDMI Buds 8 青春版"
+    },
     "M2237E1": {
         "brand": "小米穿戴设备",
         "model": "POCO Pods 印度版"
@@ -478,5 +482,13 @@
     "M2350E1": {
         "brand": "小米穿戴设备",
         "model": "POCO Buds X1 印度版"
+    },
+    "M2543T1": {
+        "brand": "小米穿戴设备",
+        "model": "Xiaomi Tag 蓝牙版"
+    },
+    "M2542T1": {
+        "brand": "小米穿戴设备",
+        "model": "Xiaomi Tag UWB"
     }
 }
