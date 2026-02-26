@@ -291,6 +291,18 @@
         "brand": "三星",
         "model": "Galaxy S25 Ultra"
     },
+    "SM-S9420": {
+        "brand": "三星",
+        "model": "Galaxy S26"
+    },
+    "SM-S9470": {
+        "brand": "三星",
+        "model": "Galaxy S26+"
+    },
+    "SM-S9480": {
+        "brand": "三星",
+        "model": "Galaxy S26 Ultra"
+    },
     "GT-I9220": {
         "brand": "三星",
         "model": "Galaxy Note 公开版"
@@ -634,6 +646,10 @@
     "SM-A5660": {
         "brand": "三星",
         "model": "Galaxy A56 5G"
+    },
+    "SM-A5760": {
+        "brand": "三星",
+        "model": "Galaxy A57 5G"
     },
     "SM-E5260": {
         "brand": "三星",
