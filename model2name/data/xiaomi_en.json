@@ -649,7 +649,7 @@
     },
     "25128PNA1G": {
         "brand": "小米",
-        "model": "Leitzphone powered by Xiaomi (Global)"
+        "model": "Leica Leitzphone powered by Xiaomi (Global)"
     },
     "25128PNA1C": {
         "brand": "小米",
@@ -2806,6 +2806,18 @@
     "25028RN03L": {
         "brand": "小米",
         "model": "REDMI A5 Latin America"
+    },
+    "25128RN17A": {
+        "brand": "小米",
+        "model": "REDMI A7 Pro Global"
+    },
+    "25128RN17Y": {
+        "brand": "小米",
+        "model": "REDMI A7 Pro Global"
+    },
+    "25128RN17L": {
+        "brand": "小米",
+        "model": "REDMI A7 Pro Latin America"
     },
     "M1805E10A": {
         "brand": "小米",

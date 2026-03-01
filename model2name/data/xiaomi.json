@@ -653,7 +653,7 @@
     },
     "25128PNA1G": {
         "brand": "小米",
-        "model": "Leitzphone powered by Xiaomi 国际版"
+        "model": "Leica Leitzphone powered by Xiaomi 国际版"
     },
     "2014616": {
         "brand": "小米",
@@ -2926,6 +2926,18 @@
     "25028RN03L": {
         "brand": "小米",
         "model": "REDMI A5 拉美版"
+    },
+    "25128RN17A": {
+        "brand": "小米",
+        "model": "REDMI A7 Pro 国际版"
+    },
+    "25128RN17Y": {
+        "brand": "小米",
+        "model": "REDMI A7 Pro 国际版"
+    },
+    "25128RN17L": {
+        "brand": "小米",
+        "model": "REDMI A7 Pro 拉美版"
     },
     "22081283C": {
         "brand": "小米",
