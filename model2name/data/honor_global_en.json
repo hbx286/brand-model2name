@@ -455,6 +455,14 @@
         "brand": "荣耀",
         "model": "HONOR 400 Smart"
     },
+    "LNA-NX1": {
+        "brand": "荣耀",
+        "model": "HONOR 600 Lite"
+    },
+    "LNA-NX3": {
+        "brand": "荣耀",
+        "model": "HONOR 600e"
+    },
     "LGE-NX9": {
         "brand": "荣耀",
         "model": "HONOR Magic4 Pro"
@@ -659,6 +667,14 @@
         "brand": "荣耀",
         "model": "HONOR X6c"
     },
+    "NLA-NX1": {
+        "brand": "荣耀",
+        "model": "HONOR X6d 5G"
+    },
+    "NLA-NX3": {
+        "brand": "荣耀",
+        "model": "HONOR X6d 5G"
+    },
     "CMA-LX1": {
         "brand": "荣耀",
         "model": "HONOR X7"
@@ -846,6 +862,10 @@
     "CGA-W00": {
         "brand": "荣耀",
         "model": "HONOR MagicPad3"
+    },
+    "YLE-W09": {
+        "brand": "荣耀",
+        "model": "HONOR MagicPad4"
     },
     "JMS-W09": {
         "brand": "荣耀",

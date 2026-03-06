@@ -303,6 +303,10 @@
         "brand": "苹果",
         "model": "iPhone 17 Pro Max"
     },
+    "A3635": {
+        "brand": "苹果",
+        "model": "iPhone 17e"
+    },
     "A1219": {
         "brand": "苹果",
         "model": "iPad (无线局域网)"
@@ -474,6 +478,22 @@
     "A3271": {
         "brand": "苹果",
         "model": "iPad Air (13 英寸, M3) (无线局域网 + 蜂窝网络)"
+    },
+    "A3459": {
+        "brand": "苹果",
+        "model": "iPad Air (11 英寸, M4) (无线局域网)"
+    },
+    "A3463": {
+        "brand": "苹果",
+        "model": "iPad Air (11 英寸, M4) (无线局域网 + 蜂窝网络)"
+    },
+    "A3461": {
+        "brand": "苹果",
+        "model": "iPad Air (13 英寸, M4) (无线局域网)"
+    },
+    "A3464": {
+        "brand": "苹果",
+        "model": "iPad Air (13 英寸, M4) (无线局域网 + 蜂窝网络)"
     },
     "A1584": {
         "brand": "苹果",

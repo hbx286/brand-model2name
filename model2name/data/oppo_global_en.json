@@ -67,6 +67,10 @@
         "brand": "oppo",
         "model": "OPPO Find X9"
     },
+    "OPG07": {
+        "brand": "oppo",
+        "model": "OPPO Find X9 (KDDI)"
+    },
     "CPH2791": {
         "brand": "oppo",
         "model": "OPPO Find X9 Pro"
@@ -385,7 +389,7 @@
     },
     "CPH2801": {
         "brand": "oppo",
-        "model": "OPPO Reno15 F 5G / OPPO Reno15 FS 5G / OPPO Reno15c 5G"
+        "model": "OPPO Reno15 F 5G / OPPO Reno15 FS 5G / OPPO Reno15 C 5G / OPPO Reno15 A"
     },
     "CPH1819": {
         "brand": "oppo",
@@ -649,7 +653,11 @@
     },
     "CPH2831": {
         "brand": "oppo",
-        "model": "OPPO A6 5G"
+        "model": "OPPO A6 5G Global"
+    },
+    "CPH2785": {
+        "brand": "oppo",
+        "model": "OPPO A6 5G India"
     },
     "CPH2799": {
         "brand": "oppo",
@@ -678,6 +686,10 @@
     "CPH2847": {
         "brand": "oppo",
         "model": "OPPO A6t"
+    },
+    "CPH2853": {
+        "brand": "oppo",
+        "model": "OPPO A6t 5G"
     },
     "CPH2849": {
         "brand": "oppo",

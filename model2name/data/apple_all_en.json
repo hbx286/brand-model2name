@@ -819,6 +819,18 @@
         "brand": "苹果",
         "model": "iPhone 17 Pro Max (Rest of the world)"
     },
+    "A3575": {
+        "brand": "苹果",
+        "model": "iPhone 17e (United States, Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)"
+    },
+    "A3635": {
+        "brand": "苹果",
+        "model": "iPhone 17e (China mainland)"
+    },
+    "A3634": {
+        "brand": "苹果",
+        "model": "iPhone 17e (Rest of the world)"
+    },
     "A1219": {
         "brand": "苹果",
         "model": "iPad Wi-Fi"
@@ -1066,6 +1078,30 @@
     "A3271": {
         "brand": "苹果",
         "model": "iPad Air (13-inch, M3) Wi-Fi + Cellular (China mainland)"
+    },
+    "A3459": {
+        "brand": "苹果",
+        "model": "iPad Air (11-inch, M4) Wi-Fi"
+    },
+    "A3460": {
+        "brand": "苹果",
+        "model": "iPad Air (11-inch, M4) Wi-Fi + Cellular"
+    },
+    "A3463": {
+        "brand": "苹果",
+        "model": "iPad Air (11-inch, M4) Wi-Fi + Cellular (China mainland)"
+    },
+    "A3461": {
+        "brand": "苹果",
+        "model": "iPad Air (13-inch, M4) Wi-Fi"
+    },
+    "A3462": {
+        "brand": "苹果",
+        "model": "iPad Air (13-inch, M4) Wi-Fi + Cellular"
+    },
+    "A3464": {
+        "brand": "苹果",
+        "model": "iPad Air (13-inch, M4) Wi-Fi + Cellular (China mainland)"
     },
     "A1584": {
         "brand": "苹果",
