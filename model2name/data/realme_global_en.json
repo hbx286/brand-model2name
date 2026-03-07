@@ -731,6 +731,10 @@
         "brand": "真我",
         "model": "realme C75x"
     },
+    "RMX5256": {
+        "brand": "真我",
+        "model": "realme C83 5G"
+    },
     "RMX5566": {
         "brand": "真我",
         "model": "realme C85"
@@ -809,7 +813,7 @@
     },
     "RMX5107": {
         "brand": "真我",
-        "model": "realme P4 Power 5G"
+        "model": "realme NARZO Power 5G"
     },
     "RMX2191": {
         "brand": "真我",

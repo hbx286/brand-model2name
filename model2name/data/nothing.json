@@ -29,11 +29,19 @@
     },
     "A059P": {
         "brand": "未知",
-        "model": "Nothing Phone (3a) Plus"
+        "model": "Nothing Phone (3a) Pro"
     },
     "A001T": {
         "brand": "未知",
         "model": "Nothing Phone (3a) Lite"
+    },
+    "A069": {
+        "brand": "未知",
+        "model": "Nothing Phone (4a)"
+    },
+    "A069P": {
+        "brand": "未知",
+        "model": "Nothing Phone (4a) Pro"
     },
     "A015": {
         "brand": "未知",
