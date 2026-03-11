@@ -3523,6 +3523,38 @@
         "brand": "华为",
         "model": "华为 Vision 智慧屏 5 Pro 85"
     },
+    "HD6XWATN": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 6 65"
+    },
+    "HD7XWATN": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 6 75"
+    },
+    "HD8XWATN": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 6 85"
+    },
+    "HD9XWATN": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 6 98"
+    },
+    "HD55KLY26A": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 6 SE 55"
+    },
+    "HD65KLY26A": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 6 SE 65"
+    },
+    "HD75KLY26A": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 6 SE 75"
+    },
+    "HD85KLY26A": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 6 SE 85"
+    },
     "HD55DESB": {
         "brand": "华为",
         "model": "华为智慧屏 B3-500"
