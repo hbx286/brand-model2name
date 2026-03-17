@@ -95,6 +95,10 @@
         "brand": "oppo",
         "model": "OPPO Find N5"
     },
+    "CPH2765": {
+        "brand": "oppo",
+        "model": "OPPO Find N6"
+    },
     "CPH1917": {
         "brand": "oppo",
         "model": "OPPO Reno"
@@ -389,7 +393,7 @@
     },
     "CPH2801": {
         "brand": "oppo",
-        "model": "OPPO Reno15 F 5G / OPPO Reno15 FS 5G / OPPO Reno15 C 5G / OPPO Reno15 A"
+        "model": "OPPO Reno15 F 5G / OPPO Reno15 FS 5G / OPPO Reno15c 5G / OPPO Reno15 A"
     },
     "CPH1819": {
         "brand": "oppo",
