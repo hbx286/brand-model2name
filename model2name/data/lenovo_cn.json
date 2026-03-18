@@ -219,6 +219,14 @@
         "brand": "",
         "model": "小新平板 Pro GT"
     },
+    "TB376FC": {
+        "brand": "",
+        "model": "联想 AI 平板 小新 Pro 13"
+    },
+    "TB378FC": {
+        "brand": "",
+        "model": "联想 AI 平板 小新 Pro GT 13"
+    },
     "TB351FU": {
         "brand": "",
         "model": "小新 Pad Studio"
@@ -286,6 +294,10 @@
     "TB322FC": {
         "brand": "",
         "model": "拯救者平板 Y700 四代"
+    },
+    "TB323FU": {
+        "brand": "",
+        "model": "联想 AI 平板 拯救者 Y700 五代"
     },
     "TB570FU": {
         "brand": "",

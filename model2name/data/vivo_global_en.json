@@ -499,6 +499,14 @@
         "brand": "vivo",
         "model": "vivo T4 Pro"
     },
+    "V2568": {
+        "brand": "vivo",
+        "model": "vivo T5 Pro"
+    },
+    "V2545": {
+        "brand": "vivo",
+        "model": "vivo T5x 5G"
+    },
     "vivo 1929": {
         "brand": "vivo",
         "model": "vivo Y1s"
@@ -1354,6 +1362,10 @@
     "I2505": {
         "brand": "vivo",
         "model": "iQOO Z10R 5G Global"
+    },
+    "I2512": {
+        "brand": "vivo",
+        "model": "iQOO Z11 5G"
     },
     "I2507": {
         "brand": "vivo",
