@@ -267,6 +267,18 @@
         "brand": "vivo",
         "model": "vivo X300 Pro 卫星通信版"
     },
+    "V2548A": {
+        "brand": "vivo",
+        "model": "vivo X300s"
+    },
+    "V2547A": {
+        "brand": "vivo",
+        "model": "vivo X300 Ultra"
+    },
+    "V2547DA": {
+        "brand": "vivo",
+        "model": "vivo X300 Ultra 卫星通信版"
+    },
     "V1831A": {
         "brand": "vivo",
         "model": "vivo S1 全网通版"
@@ -1107,6 +1119,14 @@
         "brand": "vivo",
         "model": "iQOO Z11 Turbo"
     },
+    "V2551A": {
+        "brand": "vivo",
+        "model": "iQOO Z11"
+    },
+    "V2532A": {
+        "brand": "vivo",
+        "model": "iQOO Z11x"
+    },
     "V2023A": {
         "brand": "vivo",
         "model": "iQOO U1"
@@ -1175,6 +1195,10 @@
         "brand": "vivo",
         "model": "vivo Pad SE"
     },
+    "PA2671": {
+        "brand": "vivo",
+        "model": "vivo Pad6 Pro"
+    },
     "iPA2375": {
         "brand": "vivo",
         "model": "iQOO Pad"
@@ -1202,6 +1226,10 @@
     "iPA2537": {
         "brand": "vivo",
         "model": "iQOO Pad5e"
+    },
+    "iPA2673": {
+        "brand": "vivo",
+        "model": "iQOO Pad6 Pro"
     },
     "WA2052": {
         "brand": "vivo",
