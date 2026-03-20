@@ -217,11 +217,11 @@
     },
     "RMX3660": {
         "brand": "真我",
-        "model": "realme 10 Pro 5G India"
+        "model": "realme 10 Pro 5G India / realme 10 Pro 5G Coca-Cola® Edition"
     },
     "RMX3661": {
         "brand": "真我",
-        "model": "realme 10 Pro 5G Global"
+        "model": "realme 10 Pro 5G Global / realme 10 Pro 5G Coca-Cola® Edition"
     },
     "RMX3686": {
         "brand": "真我",
@@ -329,7 +329,7 @@
     },
     "RMX5101": {
         "brand": "真我",
-        "model": "realme 15 Pro 5G"
+        "model": "realme 15 Pro 5G / realme 15 Pro 5G Game of Thrones Limited Edition"
     },
     "RMX5111": {
         "brand": "真我",
@@ -455,6 +455,10 @@
         "brand": "真我",
         "model": "realme GT NEO 3T"
     },
+    "RMX3701": {
+        "brand": "真我",
+        "model": "realme GT Neo5 SE"
+    },
     "RMX3709": {
         "brand": "真我",
         "model": "realme GT 3 240W"
@@ -469,7 +473,7 @@
     },
     "RMX5061": {
         "brand": "真我",
-        "model": "realme GT 7"
+        "model": "realme GT 7 / realme GT 7 Dream Edition"
     },
     "RMX5085": {
         "brand": "真我",
@@ -478,6 +482,10 @@
     "RMX5011": {
         "brand": "真我",
         "model": "realme GT 7 Pro"
+    },
+    "RMX5210": {
+        "brand": "真我",
+        "model": "realme GT 8 Pro / realme GT 8 Pro Dream Edition"
     },
     "RMX1941": {
         "brand": "真我",
