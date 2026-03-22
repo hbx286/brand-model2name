@@ -779,6 +779,10 @@
         "brand": "小米电视",
         "model": "REDMI 电视 A50 2025 节能版 (二级能效)"
     },
+    "L50RA-RAD": {
+        "brand": "小米电视",
+        "model": "REDMI 电视 A50 一级能效版"
+    },
     "L55RB-RAE": {
         "brand": "小米电视",
         "model": "REDMI 电视 A55 2025 节能版 (一级能效)"
@@ -838,6 +842,30 @@
     "L75RB-APE": {
         "brand": "小米电视",
         "model": "REDMI 智能电视 A Pro 75 2025 节能版 (一级能效)"
+    },
+    "L43RC-AP": {
+        "brand": "小米电视",
+        "model": "REDMI 电视 A Pro 43 2026"
+    },
+    "L50RC-AP": {
+        "brand": "小米电视",
+        "model": "REDMI 电视 A Pro 50 2026"
+    },
+    "L55RC-AP": {
+        "brand": "小米电视",
+        "model": "REDMI 电视 A Pro 55 2026"
+    },
+    "L65RC-AP": {
+        "brand": "小米电视",
+        "model": "REDMI 电视 A Pro 65 2026"
+    },
+    "L70RB-APD": {
+        "brand": "小米电视",
+        "model": "REDMI 电视 A Pro 70 2026"
+    },
+    "L75RC-AP": {
+        "brand": "小米电视",
+        "model": "REDMI 电视 A Pro 75 2026"
     },
     "L50M5-RK": {
         "brand": "小米电视",
@@ -1014,6 +1042,22 @@
     "L100RA-MAXE": {
         "brand": "小米电视",
         "model": "REDMI 电视 MAX 100 2025 节能版 (一级能效)"
+    },
+    "L85RC-MAXE": {
+        "brand": "小米电视",
+        "model": "REDMI 电视 MAX 85 一级能效版"
+    },
+    "L85RC-AP": {
+        "brand": "小米电视",
+        "model": "REDMI 电视 MAX 85 2026"
+    },
+    "L100RC-MAXE": {
+        "brand": "小米电视",
+        "model": "REDMI 电视 MAX 100 一级能效版"
+    },
+    "L100RC-AP": {
+        "brand": "小米电视",
+        "model": "REDMI 电视 MAX 100 2026"
     },
     "MDZ-18-DA": {
         "brand": "小米电视",
