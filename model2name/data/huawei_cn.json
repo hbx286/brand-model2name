@@ -297,7 +297,7 @@
     },
     "SGT-AL10": {
         "brand": "华为",
-        "model": "HUAWEI Mate 80 Pro Max"
+        "model": "HUAWEI Mate 80 Pro Max / HUAWEI Mate 80 Pro Max 风驰版"
     },
     "SGU-AL10": {
         "brand": "华为",
@@ -1470,6 +1470,18 @@
     "JUY-AL00": {
         "brand": "华为",
         "model": "华为畅享 80"
+    },
+    "JUY-AL80": {
+        "brand": "华为",
+        "model": "华为畅享 90"
+    },
+    "JUY-AL50": {
+        "brand": "华为",
+        "model": "华为畅享 90 Plus"
+    },
+    "CHZ-AL00": {
+        "brand": "华为",
+        "model": "华为畅享 90 Pro Max"
     },
     "S8-301W": {
         "brand": "华为",
