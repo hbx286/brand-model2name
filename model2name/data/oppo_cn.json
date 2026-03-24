@@ -107,6 +107,18 @@
         "brand": "oppo",
         "model": "OPPO Find X9 Pro 卫星通信版"
     },
+    "PME110": {
+        "brand": "oppo",
+        "model": "OPPO Find X9s Pro"
+    },
+    "PMA110": {
+        "brand": "oppo",
+        "model": "OPPO Find X9 Ultra"
+    },
+    "PMA120": {
+        "brand": "oppo",
+        "model": "OPPO Find X9 Ultra 卫星通信版"
+    },
     "PEUM00": {
         "brand": "oppo",
         "model": "OPPO Find N"
@@ -705,11 +717,15 @@
     },
     "PLT120": {
         "brand": "oppo",
-        "model": "OPPO A6s / OPPO A6i+"
+        "model": "OPPO A6s / OPPO A6i+ / OPPO A6k"
     },
     "PLT130": {
         "brand": "oppo",
         "model": "OPPO A6v"
+    },
+    "PLT140": {
+        "brand": "oppo",
+        "model": "OPPO A6x"
     },
     "PMC110": {
         "brand": "oppo",
