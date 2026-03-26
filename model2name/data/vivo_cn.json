@@ -607,6 +607,14 @@
         "brand": "vivo",
         "model": "vivo Y72t 5G"
     },
+    "V2559A": {
+        "brand": "vivo",
+        "model": "vivo Y60 5G"
+    },
+    "V2559BA": {
+        "brand": "vivo",
+        "model": "vivo Y60m 5G"
+    },
     "V1731CA": {
         "brand": "vivo",
         "model": "vivo Y73"
@@ -749,7 +757,7 @@
     },
     "V2531A": {
         "brand": "vivo",
-        "model": "vivo Y500i"
+        "model": "vivo Y500i / vivo Y500s"
     },
     "V2115A": {
         "brand": "vivo",
