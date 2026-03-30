@@ -883,6 +883,10 @@
         "brand": "荣耀",
         "model": "荣耀 X70i"
     },
+    "LNA-AN00": {
+        "brand": "荣耀",
+        "model": "荣耀 X80i"
+    },
     "JMM-AL00": {
         "brand": "荣耀",
         "model": "荣耀 V9 Play 全网通标配版"
@@ -1735,6 +1739,10 @@
         "brand": "荣耀",
         "model": "荣耀 MagicBook 14 2023 i5 (32GB+1TB)"
     },
+    "BCC-N": {
+        "brand": "荣耀",
+        "model": "荣耀 MagicBook 14 2026"
+    },
     "Boh-WAH9HN": {
         "brand": "荣耀",
         "model": "荣耀 MagicBook 15 i5"
@@ -1807,6 +1815,30 @@
         "brand": "荣耀",
         "model": "荣耀 MagicBook 15 2021 R7"
     },
+    "HYM-W56": {
+        "brand": "荣耀",
+        "model": "荣耀 MagicBook 16 2021 R5"
+    },
+    "HYM-W76": {
+        "brand": "荣耀",
+        "model": "荣耀 MagicBook 16 Pro 2021 R7"
+    },
+    "JGC-N": {
+        "brand": "荣耀",
+        "model": "荣耀 MagicBook 16 2026"
+    },
+    "FMB-P": {
+        "brand": "荣耀",
+        "model": "荣耀 MagicBook Pro 14 2025"
+    },
+    "FMB-PM": {
+        "brand": "荣耀",
+        "model": "荣耀 MagicBook Pro 14 2025 极客版"
+    },
+    "ZQC-P": {
+        "brand": "荣耀",
+        "model": "荣耀 MagicBook Pro 14 2026"
+    },
     "HBL-W19": {
         "brand": "荣耀",
         "model": "荣耀 MagicBook Pro i5"
@@ -1871,14 +1903,6 @@
         "brand": "荣耀",
         "model": "荣耀 MagicBook Pro 2020 R7 (荣耀终端)"
     },
-    "HYM-W56": {
-        "brand": "荣耀",
-        "model": "荣耀 MagicBook 16 2021 R5"
-    },
-    "HYM-W76": {
-        "brand": "荣耀",
-        "model": "荣耀 MagicBook 16 Pro 2021 R7"
-    },
     "DRA-56": {
         "brand": "荣耀",
         "model": "荣耀 MagicBook Pro 16 Ultra 5 (16GB 内存)"
@@ -1895,13 +1919,9 @@
         "brand": "荣耀",
         "model": "荣耀 MagicBook Pro 16 2025"
     },
-    "FMB-P": {
+    "XWC-P": {
         "brand": "荣耀",
-        "model": "荣耀 MagicBook Pro 14"
-    },
-    "FMB-PM": {
-        "brand": "荣耀",
-        "model": "荣耀 MagicBook Pro 14 极客版"
+        "model": "荣耀 MagicBook 16 2026"
     },
     "HGE-W56": {
         "brand": "荣耀",

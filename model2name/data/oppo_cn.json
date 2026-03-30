@@ -815,6 +815,14 @@
         "brand": "oppo",
         "model": "OPPO K13 Turbo Pro"
     },
+    "PMH110": {
+        "brand": "oppo",
+        "model": "OPPO K15 Pro"
+    },
+    "PMG110": {
+        "brand": "oppo",
+        "model": "OPPO K15 Pro+"
+    },
     "OPD2101": {
         "brand": "oppo",
         "model": "OPPO Pad"
@@ -854,6 +862,14 @@
     "OPD2501": {
         "brand": "oppo",
         "model": "OPPO Pad Air5"
+    },
+    "OPD2511": {
+        "brand": "oppo",
+        "model": "OPPO Pad 5 Pro"
+    },
+    "OPD2515": {
+        "brand": "oppo",
+        "model": "OPPO Pad Mini"
     },
     "OB19B1": {
         "brand": "oppo",
