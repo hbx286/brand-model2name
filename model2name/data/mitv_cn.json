@@ -575,6 +575,26 @@
         "brand": "小米电视",
         "model": "小米电视 S98 Mini LED 2025"
     },
+    "L55MC-S": {
+        "brand": "小米电视",
+        "model": "小米电视 S55 Mini LED 2026"
+    },
+    "L65MC-S": {
+        "brand": "小米电视",
+        "model": "小米电视 S65 Mini LED 2026"
+    },
+    "L75MC-S": {
+        "brand": "小米电视",
+        "model": "小米电视 S75 Mini LED 2026"
+    },
+    "L85MC-S": {
+        "brand": "小米电视",
+        "model": "小米电视 S85 Mini LED 2026"
+    },
+    "L100MC-S": {
+        "brand": "小米电视",
+        "model": "小米电视 S100 Mini LED 2026"
+    },
     "L65MA-SM": {
         "brand": "小米电视",
         "model": "小米电视 S Pro 65 Mini LED"
