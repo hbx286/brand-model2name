@@ -507,6 +507,14 @@
         "brand": "vivo",
         "model": "vivo T5x 5G"
     },
+    "V2603": {
+        "brand": "vivo",
+        "model": "vivo T5 Lite 5G"
+    },
+    "V2557": {
+        "brand": "vivo",
+        "model": "vivo T5 Lite 44W 5G"
+    },
     "vivo 1929": {
         "brand": "vivo",
         "model": "vivo Y1s"
@@ -1374,6 +1382,14 @@
     "I2507": {
         "brand": "vivo",
         "model": "iQOO Z11x 5G"
+    },
+    "I2510": {
+        "brand": "vivo",
+        "model": "iQOO Z11 Lite 5G"
+    },
+    "I2515": {
+        "brand": "vivo",
+        "model": "iQOO Z11 Lite 44W 5G"
     },
     "J2507": {
         "brand": "vivo",
