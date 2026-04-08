@@ -507,9 +507,21 @@
         "brand": "一加",
         "model": "OnePlus Turbo 6 China"
     },
+    "CPH2793": {
+        "brand": "一加",
+        "model": "OnePlus Nord 6 India"
+    },
+    "CPH2795": {
+        "brand": "一加",
+        "model": "OnePlus Nord 6 Global"
+    },
     "PLY110": {
         "brand": "一加",
         "model": "OnePlus Turbo 6V China"
+    },
+    "CPH2805": {
+        "brand": "一加",
+        "model": "OnePlus Nord CE 6 India"
     },
     "AC2001": {
         "brand": "一加",

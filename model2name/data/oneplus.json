@@ -507,9 +507,21 @@
         "brand": "一加",
         "model": "一加 Turbo 6 国行版"
     },
+    "CPH2793": {
+        "brand": "一加",
+        "model": "一加 Nord 6 印度版"
+    },
+    "CPH2795": {
+        "brand": "一加",
+        "model": "一加 Nord 6 国际版"
+    },
     "PLY110": {
         "brand": "一加",
         "model": "一加 Turbo 6V 国行版"
+    },
+    "CPH2805": {
+        "brand": "一加",
+        "model": "一加 Nord CE 6 印度版"
     },
     "AC2001": {
         "brand": "一加",
