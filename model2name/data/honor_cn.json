@@ -1287,6 +1287,10 @@
         "brand": "荣耀",
         "model": "荣耀畅玩 70 Plus 5G / 荣耀畅玩 70m Plus 5G"
     },
+    "LAB-AN00": {
+        "brand": "荣耀",
+        "model": "荣耀畅玩 80 Plus 5G"
+    },
     "S8-701w": {
         "brand": "荣耀",
         "model": "荣耀平板 Wi-Fi 版"
@@ -1430,6 +1434,10 @@
     "YLP-W00": {
         "brand": "荣耀",
         "model": "荣耀 MagicPad 3 Pro 13.3 英寸 Wi-Fi 版"
+    },
+    "YLE-W09": {
+        "brand": "荣耀",
+        "model": "荣耀 MagicPad 3 Pro 12.3 英寸 Wi-Fi 版"
     },
     "ROL-W60": {
         "brand": "荣耀",
