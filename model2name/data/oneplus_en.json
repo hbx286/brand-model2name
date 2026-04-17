@@ -503,6 +503,10 @@
         "brand": "一加",
         "model": "OnePlus 15T China"
     },
+    "PMB110": {
+        "brand": "一加",
+        "model": "OnePlus Ace 6 Ultra China"
+    },
     "PLU110": {
         "brand": "一加",
         "model": "OnePlus Turbo 6 China"
@@ -782,5 +786,9 @@
     "OPWE242": {
         "brand": "一加",
         "model": "OnePlus Watch 3 43mm (Global)"
+    },
+    "OPWWE261": {
+        "brand": "一加",
+        "model": "OnePlus Watch 4 (Global)"
     }
 }
