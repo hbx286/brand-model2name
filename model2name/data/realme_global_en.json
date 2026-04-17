@@ -179,10 +179,6 @@
         "brand": "真我",
         "model": "realme 9i EU"
     },
-    "RMX3612": {
-        "brand": "真我",
-        "model": "realme 10T 5G"
-    },
     "RMX3388": {
         "brand": "真我",
         "model": "realme 9 5G India"
@@ -190,6 +186,10 @@
     "RMX3474": {
         "brand": "真我",
         "model": "realme 9 5G EU"
+    },
+    "RMX3612": {
+        "brand": "真我",
+        "model": "realme 10T 5G"
     },
     "RMX3471": {
         "brand": "真我",
@@ -837,7 +837,7 @@
     },
     "RMX5261": {
         "brand": "真我",
-        "model": "realme P4 Lite 5G"
+        "model": "realme NARZO 100 Lite 5G"
     },
     "RMX2191": {
         "brand": "真我",
