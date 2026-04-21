@@ -655,6 +655,18 @@
         "brand": "小米",
         "model": "Leica Leitzphone powered by Xiaomi 国际版"
     },
+    "2602DPT53G": {
+        "brand": "小米",
+        "model": "Xiaomi 17T 国际版"
+    },
+    "2602EPTC0G": {
+        "brand": "小米",
+        "model": "Xiaomi 17T Pro 国际版"
+    },
+    "2602EPTC0R": {
+        "brand": "小米",
+        "model": "Xiaomi 17T Pro 日本版 (无锁)"
+    },
     "2014616": {
         "brand": "小米",
         "model": "小米 Note 双网通版"
@@ -1767,6 +1779,10 @@
         "brand": "小米",
         "model": "REDMI 15R 5G"
     },
+    "2602BRNA4I": {
+        "brand": "小米",
+        "model": "REDMI 15A 5G 印度版"
+    },
     "2014018": {
         "brand": "小米",
         "model": "红米 Note 联通 3G 标准版"
@@ -2535,6 +2551,10 @@
         "brand": "小米",
         "model": "REDMI Note 15 5G 沙特版"
     },
+    "26022PCACI": {
+        "brand": "小米",
+        "model": "REDMI Note 15 SE 5G 印度版"
+    },
     "25100RA69G": {
         "brand": "小米",
         "model": "REDMI Note 15 Pro 国际版"
@@ -2767,6 +2787,10 @@
         "brand": "小米",
         "model": "REDMI K90 Pro Max 冠军版"
     },
+    "2604FRK1EC": {
+        "brand": "小米",
+        "model": "REDMI K90 Max"
+    },
     "2016020": {
         "brand": "小米",
         "model": "红米 Pro 标准版"
@@ -2939,6 +2963,14 @@
         "brand": "小米",
         "model": "REDMI A7 Pro 拉美版"
     },
+    "26020RN1AC": {
+        "brand": "小米",
+        "model": "REDMI R70 5G 国行版 / REDMI R70m 5G 国行版"
+    },
+    "26020RN1AI": {
+        "brand": "小米",
+        "model": "REDMI A7 Pro 5G 印度版"
+    },
     "22081283C": {
         "brand": "小米",
         "model": "Redmi Pad 国行版"
@@ -3055,9 +3087,33 @@
         "brand": "小米",
         "model": "REDMI Pad 2 Pro 5G 印度版"
     },
+    "2603ARP14C": {
+        "brand": "小米",
+        "model": "REDMI Pad 2 SE 国行版"
+    },
+    "2603ARP14G": {
+        "brand": "小米",
+        "model": "REDMI Pad 2 9.7 国际版"
+    },
+    "2604ERP4DC": {
+        "brand": "小米",
+        "model": "REDMI Pad 2 SE 4G 国行版"
+    },
+    "2604ERP4DG": {
+        "brand": "小米",
+        "model": "REDMI Pad 2 9.7 4G 国际版"
+    },
+    "2604ERP4DI": {
+        "brand": "小米",
+        "model": "REDMI Pad 2 9.7 4G 印度版"
+    },
     "25079RPDCC": {
         "brand": "小米",
         "model": "REDMI K Pad"
+    },
+    "26048RP6AC": {
+        "brand": "小米",
+        "model": "REDMI K Pad 2"
     },
     "M1805E10A": {
         "brand": "小米",
@@ -3346,6 +3402,14 @@
     "25057PC09I": {
         "brand": "小米",
         "model": "POCO M7 Plus 5G 印度版"
+    },
+    "26067PC09G": {
+        "brand": "小米",
+        "model": "POCO M8s 5G 国际版"
+    },
+    "26067PC09E": {
+        "brand": "小米",
+        "model": "POCO M8s 5G 欧洲版"
     },
     "2409FPCC4G": {
         "brand": "小米",

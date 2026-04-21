@@ -655,6 +655,18 @@
         "brand": "小米",
         "model": "Xiaomi 17 Ultra by Leica (China, Tiantong & Beidou satellites)"
     },
+    "2602DPT53G": {
+        "brand": "小米",
+        "model": "Xiaomi 17T Global"
+    },
+    "2602EPTC0G": {
+        "brand": "小米",
+        "model": "Xiaomi 17T Pro Global"
+    },
+    "2602EPTC0R": {
+        "brand": "小米",
+        "model": "Xiaomi 17T Pro Japan (SIM Free)"
+    },
     "2015011": {
         "brand": "小米",
         "model": "Mi Note Global"
@@ -1643,6 +1655,10 @@
         "brand": "小米",
         "model": "REDMI 15R 5G China"
     },
+    "2602BRNA4I": {
+        "brand": "小米",
+        "model": "REDMI 15A 5G India"
+    },
     "2014018": {
         "brand": "小米",
         "model": "Redmi Note WCDMA (1GB RAM)"
@@ -2415,6 +2431,10 @@
         "brand": "小米",
         "model": "REDMI Note 15 5G Saudi Arabia"
     },
+    "26022PCACI": {
+        "brand": "小米",
+        "model": "REDMI Note 15 SE 5G India"
+    },
     "25100RA69G": {
         "brand": "小米",
         "model": "REDMI Note 15 Pro Global"
@@ -2647,6 +2667,10 @@
         "brand": "小米",
         "model": "REDMI K90 Pro Max Automobili Lamborghini Squadra Corse China"
     },
+    "2604FRK1EC": {
+        "brand": "小米",
+        "model": "REDMI K90 Max"
+    },
     "2016020": {
         "brand": "小米",
         "model": "Redmi Pro (32GB)"
@@ -2818,6 +2842,14 @@
     "25128RN17L": {
         "brand": "小米",
         "model": "REDMI A7 Pro Latin America"
+    },
+    "26020RN1AI": {
+        "brand": "小米",
+        "model": "REDMI A7 Pro 5G India"
+    },
+    "26020RN1AC": {
+        "brand": "小米",
+        "model": "REDMI R70 5G China / REDMI R70m 5G China"
     },
     "M1805E10A": {
         "brand": "小米",
@@ -3106,6 +3138,14 @@
     "25057PC09I": {
         "brand": "小米",
         "model": "POCO M7 Plus 5G India"
+    },
+    "26067PC09G": {
+        "brand": "小米",
+        "model": "POCO M8s 5G Global"
+    },
+    "26067PC09E": {
+        "brand": "小米",
+        "model": "POCO M8s 5G Europe"
     },
     "2409FPCC4G": {
         "brand": "小米",
@@ -3443,10 +3483,6 @@
         "brand": "小米",
         "model": "REDMI Pad 2 4G Europe"
     },
-    "25079RPDCC": {
-        "brand": "小米",
-        "model": "REDMI K Pad China"
-    },
     "25099RP13G": {
         "brand": "小米",
         "model": "REDMI Pad 2 Pro Global"
@@ -3470,6 +3506,34 @@
     "2509BRP2DC": {
         "brand": "小米",
         "model": "REDMI Pad 2 Pro 5G China"
+    },
+    "2603ARP14G": {
+        "brand": "小米",
+        "model": "REDMI Pad 2 9.7 Global"
+    },
+    "2603ARP14C": {
+        "brand": "小米",
+        "model": "REDMI Pad 2 SE China"
+    },
+    "2604ERP4DG": {
+        "brand": "小米",
+        "model": "REDMI Pad 2 9.7 4G Global"
+    },
+    "2604ERP4DI": {
+        "brand": "小米",
+        "model": "REDMI Pad 2 9.7 4G India"
+    },
+    "2604ERP4DC": {
+        "brand": "小米",
+        "model": "REDMI Pad 2 SE 4G China"
+    },
+    "25079RPDCC": {
+        "brand": "小米",
+        "model": "REDMI K Pad China"
+    },
+    "26048RP6AC": {
+        "brand": "小米",
+        "model": "REDMI K Pad 2 China"
     },
     "2405CPCFBG": {
         "brand": "小米",
