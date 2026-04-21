@@ -1099,6 +1099,18 @@
         "brand": "小米电视",
         "model": "REDMI 电视 MAX 100 2026"
     },
+    "P27UDA-RGP": {
+        "brand": "小米电视",
+        "model": "REDMI 显示器 G Pro 27U"
+    },
+    "P27UEA-RGP": {
+        "brand": "小米电视",
+        "model": "REDMI 显示器 G Pro 27U 2026"
+    },
+    "P32UEA-RGP": {
+        "brand": "小米电视",
+        "model": "REDMI 显示器 G Pro 32U 2026"
+    },
     "MDZ-18-DA": {
         "brand": "小米电视",
         "model": "小米电视主机"
