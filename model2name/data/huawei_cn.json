@@ -2119,6 +2119,30 @@
         "brand": "华为",
         "model": "华为擎云 C5 (第 3 代) 11.5 英寸 Wi-Fi 版"
     },
+    "BYD5-W10": {
+        "brand": "华为",
+        "model": "华为擎云 C5 (第 4 代) 11.5 英寸 Wi-Fi 版"
+    },
+    "BYS5-W10": {
+        "brand": "华为",
+        "model": "华为擎云 C5 (第 4 代) 11.5 英寸 Wi-Fi 版"
+    },
+    "BJD5-W10": {
+        "brand": "华为",
+        "model": "华为擎云 C5 (第 4 代) 11.5 英寸 Wi-Fi 版"
+    },
+    "BYD5-AL10": {
+        "brand": "华为",
+        "model": "华为擎云 C5 (第 4 代) 11.5 英寸 SIM 卡版"
+    },
+    "BYS-AL10": {
+        "brand": "华为",
+        "model": "华为擎云 C5 (第 4 代) 11.5 英寸 SIM 卡版"
+    },
+    "BJD-AL10": {
+        "brand": "华为",
+        "model": "华为擎云 C5 (第 4 代) 11.5 英寸 SIM 卡版"
+    },
     "BZI-W00": {
         "brand": "华为",
         "model": "华为平板 C5e 10.1 英寸 2022 Wi-Fi 版"
@@ -2151,13 +2175,13 @@
         "brand": "华为",
         "model": "华为擎云 C5s 11 英寸 Wi-Fi 版"
     },
-    "BLF5-W00": {
-        "brand": "华为",
-        "model": "华为擎云 C5e (第 2 代) 11 英寸 Wi-Fi 版"
-    },
     "BZH5-W00": {
         "brand": "华为",
-        "model": "华为擎云 C5e (第 2 代) 11 英寸 Wi-Fi 版"
+        "model": "华为擎云 C5s 11 英寸 Wi-Fi 版"
+    },
+    "BLF5-W00": {
+        "brand": "华为",
+        "model": "华为擎云 C5x 11 英寸 Wi-Fi 版"
     },
     "BVE-W10": {
         "brand": "华为",
@@ -2170,6 +2194,10 @@
     "BBG7-W00": {
         "brand": "华为",
         "model": "华为擎云 C7 (第 2 代) 11.5 英寸 Wi-Fi 版"
+    },
+    "BBH7-W00": {
+        "brand": "华为",
+        "model": "华为擎云 C7 (第 3 代) 11.5 英寸 Wi-Fi 版"
     },
     "HZ-W09": {
         "brand": "华为",
@@ -3025,43 +3053,11 @@
     },
     "HAD-W72-001": {
         "brand": "华为",
-        "model": "华为擎云 HM940"
-    },
-    "HAD-W72-002": {
-        "brand": "华为",
-        "model": "华为擎云 HM940"
-    },
-    "HAD-W72-003": {
-        "brand": "华为",
-        "model": "华为擎云 HM940"
-    },
-    "HAD-W72-004": {
-        "brand": "华为",
-        "model": "华为擎云 HM940"
-    },
-    "HAD-W72-005": {
-        "brand": "华为",
-        "model": "华为擎云 HM940"
+        "model": "华为擎云 HM940 标准版 (32GB+1TB)"
     },
     "HAD-W72-006": {
         "brand": "华为",
-        "model": "华为擎云 HM940"
-    },
-    "HAD-W72-007": {
-        "brand": "华为",
-        "model": "华为擎云 HM940"
-    },
-    "HAD-W72-008": {
-        "brand": "华为",
-        "model": "华为擎云 HM940"
-    },
-    "HAD-W72-009": {
-        "brand": "华为",
-        "model": "华为擎云 HM940"
-    },
-    "HAD-W72-010": {
-        "brand": "华为",
-        "model": "华为擎云 HM940"
+        "model": "华为擎云 HM940 标准版 (24GB+512GB)"
     },
     "HEGE-550": {
         "brand": "华为",
@@ -3901,7 +3897,7 @@
     },
     "SLO-B19": {
         "brand": "华为",
-        "model": "HUAWEI WATCH FIT 3"
+        "model": "华为擎云 H3Y10"
     },
     "SYA-B19": {
         "brand": "华为",
@@ -3979,6 +3975,10 @@
         "brand": "华为",
         "model": "华为擎云 H5556"
     },
+    "ATM-B19B": {
+        "brand": "华为",
+        "model": "华为擎云 H5566"
+    },
     "VLI-B29B": {
         "brand": "华为",
         "model": "华为擎云 H5756"
@@ -3986,6 +3986,10 @@
     "ARC-AL2B": {
         "brand": "华为",
         "model": "华为擎云 H7546"
+    },
+    "RTS-AL2B": {
+        "brand": "华为",
+        "model": "华为擎云 H7556"
     },
     "LCA-B12": {
         "brand": "华为",

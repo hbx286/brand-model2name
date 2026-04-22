@@ -455,6 +455,18 @@
         "brand": "荣耀",
         "model": "HONOR 400 Smart"
     },
+    "NLA-NX1": {
+        "brand": "荣耀",
+        "model": "HONOR X6d 5G"
+    },
+    "VKJ-NX9": {
+        "brand": "荣耀",
+        "model": "HONOR 600"
+    },
+    "VKP-NX9": {
+        "brand": "荣耀",
+        "model": "HONOR 600 Pro"
+    },
     "LNA-NX1": {
         "brand": "荣耀",
         "model": "HONOR 600 Lite"
@@ -674,10 +686,6 @@
     "NIC-LX3": {
         "brand": "荣耀",
         "model": "HONOR X6c"
-    },
-    "NLA-NX1": {
-        "brand": "荣耀",
-        "model": "HONOR X6d 5G"
     },
     "NLA-NX3": {
         "brand": "荣耀",
@@ -906,6 +914,18 @@
     "NDL-L09": {
         "brand": "荣耀",
         "model": "HONOR Pad X8a LTE"
+    },
+    "NDL2-W09": {
+        "brand": "荣耀",
+        "model": "HONOR Pad X8b Wi-Fi"
+    },
+    "NDL2-L03": {
+        "brand": "荣耀",
+        "model": "HONOR Pad X8b LTE"
+    },
+    "NDL2-L09": {
+        "brand": "荣耀",
+        "model": "HONOR Pad X8b LTE"
     },
     "ELN-W09": {
         "brand": "荣耀",
