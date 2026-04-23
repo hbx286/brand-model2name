@@ -123,6 +123,10 @@
         "brand": "vivo",
         "model": "vivo X300 FE"
     },
+    "V2562": {
+        "brand": "vivo",
+        "model": "vivo X300 Ultra"
+    },
     "vivo 1819": {
         "brand": "vivo",
         "model": "vivo V15"
@@ -364,6 +368,10 @@
         "model": "vivo V60"
     },
     "V2530": {
+        "brand": "vivo",
+        "model": "vivo V60 Lite"
+    },
+    "V2549": {
         "brand": "vivo",
         "model": "vivo V60 Lite"
     },
@@ -1394,6 +1402,10 @@
     "J2505": {
         "brand": "vivo",
         "model": "JOVI X300 FE"
+    },
+    "J2510": {
+        "brand": "vivo",
+        "model": "JOVI X300 Ultra"
     },
     "J2507": {
         "brand": "vivo",
