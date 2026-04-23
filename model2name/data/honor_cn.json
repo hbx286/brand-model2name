@@ -2035,6 +2035,10 @@
         "brand": "荣耀",
         "model": "荣耀笔记本 X14 Plus 2025"
     },
+    "LVC-X": {
+        "brand": "荣耀",
+        "model": "荣耀笔记本 X14 Plus 2026"
+    },
     "BBR-WAI9": {
         "brand": "荣耀",
         "model": "荣耀 MagicBook X 15 i3"
@@ -2099,6 +2103,10 @@
         "brand": "荣耀",
         "model": "荣耀笔记本 X16 2026"
     },
+    "GOG-X": {
+        "brand": "荣耀",
+        "model": "荣耀笔记本 X16 2026 战斗版"
+    },
     "GOH-X": {
         "brand": "荣耀",
         "model": "荣耀笔记本 X16 锐龙版 2026"
@@ -2114,6 +2122,10 @@
     "BRB-X": {
         "brand": "荣耀",
         "model": "荣耀笔记本 X16 Plus 2025"
+    },
+    "LHC-X": {
+        "brand": "荣耀",
+        "model": "荣耀笔记本 X16 Plus 2026"
     },
     "FRI-F56Z": {
         "brand": "荣耀",
@@ -2138,6 +2150,14 @@
     "FRR-WFD9": {
         "brand": "荣耀",
         "model": "荣耀猎人游戏本 V700 i7 (16GB+512GB) (荣耀终端)"
+    },
+    "NWB-G": {
+        "brand": "荣耀",
+        "model": "荣耀 WIN 游戏本 H7"
+    },
+    "NWC2-G": {
+        "brand": "荣耀",
+        "model": "荣耀 WIN 游戏本 H9"
     },
     "OSCA-550A": {
         "brand": "荣耀",
