@@ -815,6 +815,14 @@
         "brand": "华为",
         "model": "HUAWEI nova Y91"
     },
+    "PSN-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI nova 15 Pro"
+    },
+    "KLE-LX9": {
+        "brand": "华为",
+        "model": "HUAWEI nova 15 Pro"
+    },
     "WKG-LX9": {
         "brand": "华为",
         "model": "HUAWEI nova Y60"
@@ -1238,6 +1246,10 @@
     "MRDI-W09": {
         "brand": "华为",
         "model": "HUAWEI MatePad Pro 12.2 2025 Wi-Fi"
+    },
+    "MLR-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Mini 8.8 Wi-Fi"
     },
     "HMW-W09": {
         "brand": "华为",

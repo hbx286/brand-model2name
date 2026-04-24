@@ -75,6 +75,14 @@
         "brand": "oppo",
         "model": "OPPO Find X9 Pro"
     },
+    "CPH2873": {
+        "brand": "oppo",
+        "model": "OPPO Find X9s"
+    },
+    "CPH2841": {
+        "brand": "oppo",
+        "model": "OPPO Find X9 Ultra"
+    },
     "CPH2439": {
         "brand": "oppo",
         "model": "OPPO Find N2"
@@ -481,7 +489,7 @@
     },
     "CPH2781": {
         "brand": "oppo",
-        "model": "OPPO A6 Pro 5G"
+        "model": "OPPO A6 Pro 5G Global"
     },
     "CPH2763": {
         "brand": "oppo",
@@ -490,6 +498,14 @@
     "CPH2757": {
         "brand": "oppo",
         "model": "OPPO F31 Pro+ 5G"
+    },
+    "CPH2777": {
+        "brand": "oppo",
+        "model": "OPPO F33 5G"
+    },
+    "CPH2835": {
+        "brand": "oppo",
+        "model": "OPPO F33 Pro 5G"
     },
     "CPH1835": {
         "brand": "oppo",
@@ -667,13 +683,21 @@
         "brand": "oppo",
         "model": "OPPO A6 Pro"
     },
+    "CPH2827": {
+        "brand": "oppo",
+        "model": "OPPO A6 Pro 5G India"
+    },
     "CPH2815": {
         "brand": "oppo",
         "model": "OPPO A6s"
     },
     "CPH2789": {
         "brand": "oppo",
-        "model": "OPPO A6s 5G"
+        "model": "OPPO A6s 5G Global"
+    },
+    "CPH2889": {
+        "brand": "oppo",
+        "model": "OPPO A6s 5G India"
     },
     "CPH2819": {
         "brand": "oppo",
@@ -1098,5 +1122,17 @@
     "OWWE251": {
         "brand": "oppo",
         "model": "OPPO Watch X2"
+    },
+    "OWWE242": {
+        "brand": "oppo",
+        "model": "OPPO Watch X2 Mini"
+    },
+    "OWWE261": {
+        "brand": "oppo",
+        "model": "OPPO Watch X3"
+    },
+    "OWWE262": {
+        "brand": "oppo",
+        "model": "OPPO Watch S"
     }
 }
