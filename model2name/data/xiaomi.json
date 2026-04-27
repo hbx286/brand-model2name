@@ -2951,6 +2951,18 @@
         "brand": "小米",
         "model": "REDMI A5 拉美版"
     },
+    "26020RNB4A": {
+        "brand": "小米",
+        "model": "REDMI A7 国际版"
+    },
+    "26020RNB4I": {
+        "brand": "小米",
+        "model": "REDMI A7 印度版"
+    },
+    "26020RNB4L": {
+        "brand": "小米",
+        "model": "REDMI A7 拉美版"
+    },
     "25128RN17A": {
         "brand": "小米",
         "model": "REDMI A7 Pro 国际版"
@@ -2958,6 +2970,10 @@
     "25128RN17Y": {
         "brand": "小米",
         "model": "REDMI A7 Pro 国际版"
+    },
+    "25128RN17I": {
+        "brand": "小米",
+        "model": "REDMI A7 Pro 印度版"
     },
     "25128RN17L": {
         "brand": "小米",
@@ -3519,9 +3535,21 @@
         "brand": "小米",
         "model": "POCO C75 5G 印度版"
     },
+    "25128PC17G": {
+        "brand": "小米",
+        "model": "POCO C81 Pro 国际版"
+    },
+    "25128PC17L": {
+        "brand": "小米",
+        "model": "POCO C81 Pro 拉美版"
+    },
     "25128PC17I": {
         "brand": "小米",
         "model": "POCO C81 印度版"
+    },
+    "26020PCB4I": {
+        "brand": "小米",
+        "model": "POCO C81x 印度版"
     },
     "25078PC3EG": {
         "brand": "小米",

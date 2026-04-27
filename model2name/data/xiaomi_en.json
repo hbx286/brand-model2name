@@ -2831,6 +2831,18 @@
         "brand": "小米",
         "model": "REDMI A5 Latin America"
     },
+    "26020RNB4A": {
+        "brand": "小米",
+        "model": "REDMI A7 Global"
+    },
+    "26020RNB4I": {
+        "brand": "小米",
+        "model": "REDMI A7 India"
+    },
+    "26020RNB4L": {
+        "brand": "小米",
+        "model": "REDMI A7 Latin America"
+    },
     "25128RN17A": {
         "brand": "小米",
         "model": "REDMI A7 Pro Global"
@@ -2838,6 +2850,10 @@
     "25128RN17Y": {
         "brand": "小米",
         "model": "REDMI A7 Pro Global"
+    },
+    "25128RN17I": {
+        "brand": "小米",
+        "model": "REDMI A7 Pro India"
     },
     "25128RN17L": {
         "brand": "小米",
@@ -3255,9 +3271,21 @@
         "brand": "小米",
         "model": "POCO C75 5G India"
     },
+    "25128PC17G": {
+        "brand": "小米",
+        "model": "POCO C81 Pro Global"
+    },
+    "25128PC17L": {
+        "brand": "小米",
+        "model": "POCO C81 Pro Latin America"
+    },
     "25128PC17I": {
         "brand": "小米",
         "model": "POCO C81 India"
+    },
+    "26020PCB4I": {
+        "brand": "小米",
+        "model": "POCO C81x India"
     },
     "25078PC3EG": {
         "brand": "小米",
