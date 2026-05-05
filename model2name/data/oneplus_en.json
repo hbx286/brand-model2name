@@ -693,7 +693,7 @@
     },
     "OPD2203": {
         "brand": "一加",
-        "model": "OnePlus Pad (2023)"
+        "model": "OnePlus Pad (2023) Global"
     },
     "OPD2304": {
         "brand": "一加",
@@ -705,23 +705,23 @@
     },
     "OPD2407": {
         "brand": "一加",
-        "model": "OnePlus Pad (2024)"
+        "model": "OnePlus Pad (2024) China"
     },
     "OPD2404": {
         "brand": "一加",
-        "model": "OnePlus Pad Pro"
+        "model": "OnePlus Pad Pro China"
     },
     "OPD2403": {
         "brand": "一加",
-        "model": "OnePlus Pad 2 (2024)"
+        "model": "OnePlus Pad 2 (2024) Global"
     },
     "OPD2413": {
         "brand": "一加",
-        "model": "OnePlus Pad 2 Pro"
+        "model": "OnePlus Pad 2 Pro China"
     },
     "OPD2415": {
         "brand": "一加",
-        "model": "OnePlus Pad 3"
+        "model": "OnePlus Pad 3 Global"
     },
     "OPD2480": {
         "brand": "一加",
@@ -741,7 +741,11 @@
     },
     "OPD2508": {
         "brand": "一加",
-        "model": "OnePlus Pad 2 (2025)"
+        "model": "OnePlus Pad 2 (2025) China"
+    },
+    "OPD2514": {
+        "brand": "一加",
+        "model": "OnePlus Pad 4 Global"
     },
     "W101IN": {
         "brand": "一加",
