@@ -527,6 +527,10 @@
         "brand": "一加",
         "model": "OnePlus Nord CE 6 India"
     },
+    "CPH2807": {
+        "brand": "一加",
+        "model": "OnePlus Nord CE 6 Global"
+    },
     "AC2001": {
         "brand": "一加",
         "model": "OnePlus Nord India"
@@ -626,6 +630,10 @@
     "CPH2719": {
         "brand": "一加",
         "model": "OnePlus Nord CE 5 Global"
+    },
+    "CPH2943": {
+        "brand": "一加",
+        "model": "OnePlus Nord CE 6 Lite India"
     },
     "BE2025": {
         "brand": "一加",

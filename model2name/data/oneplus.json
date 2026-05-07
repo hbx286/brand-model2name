@@ -527,6 +527,10 @@
         "brand": "一加",
         "model": "一加 Nord CE 6 印度版"
     },
+    "CPH2807": {
+        "brand": "一加",
+        "model": "一加 Nord CE 6 国际版"
+    },
     "AC2001": {
         "brand": "一加",
         "model": "一加 Nord 印度版"
@@ -626,6 +630,10 @@
     "CPH2719": {
         "brand": "一加",
         "model": "一加 Nord CE 5 国际版"
+    },
+    "CPH2943": {
+        "brand": "一加",
+        "model": "一加 Nord CE 6 Lite 印度版"
     },
     "BE2025": {
         "brand": "一加",
