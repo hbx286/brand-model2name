@@ -823,6 +823,10 @@
         "brand": "华为",
         "model": "HUAWEI nova 15 Pro"
     },
+    "CHZ-LX1": {
+        "brand": "华为",
+        "model": "HUAWEI nova 15 Max"
+    },
     "WKG-LX9": {
         "brand": "华为",
         "model": "HUAWEI nova Y60"
@@ -1246,6 +1250,10 @@
     "MRDI-W09": {
         "brand": "华为",
         "model": "HUAWEI MatePad Pro 12.2 2025 Wi-Fi"
+    },
+    "GEM-W09": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro Max 13.2 Wi-Fi"
     },
     "MLR-W09": {
         "brand": "华为",
