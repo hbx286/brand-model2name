@@ -103,6 +103,10 @@
         "brand": "",
         "model": "联想拯救者 Y90"
     },
+    "XT2611-1": {
+        "brand": "",
+        "model": "联想拯救者 Y70 新一代"
+    },
     "XT2081-4": {
         "brand": "",
         "model": "联想乐檬 K12"
@@ -306,6 +310,14 @@
     "TB570ZU": {
         "brand": "",
         "model": "拯救者平板 Y900"
+    },
+    "TB711FU": {
+        "brand": "",
+        "model": "联想 AI 平板 拯救者 Y900 11"
+    },
+    "TB522FU": {
+        "brand": "",
+        "model": "联想 AI 平板 拯救者 Y900 13"
     },
     "Lenovo TB-J616F": {
         "brand": "",
@@ -546,6 +558,10 @@
     "TB361ZU": {
         "brand": "",
         "model": "联想昭阳 K12c 12.1 英寸 5G 版"
+    },
+    "TB391FC": {
+        "brand": "",
+        "model": "联想昭阳 K13 13 英寸 Wi-Fi 版"
     },
     "TB-X802F": {
         "brand": "",
