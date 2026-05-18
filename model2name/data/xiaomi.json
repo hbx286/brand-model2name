@@ -655,6 +655,10 @@
         "brand": "小米",
         "model": "Leica Leitzphone powered by Xiaomi 国际版"
     },
+    "2605EPN8EC": {
+        "brand": "小米",
+        "model": "Xiaomi 17 Max"
+    },
     "2602DPT53G": {
         "brand": "小米",
         "model": "Xiaomi 17T 国际版"
@@ -2629,7 +2633,11 @@
     },
     "2511FRT34C": {
         "brand": "小米",
-        "model": "REDMI Turbo 5"
+        "model": "REDMI Turbo 5 国行版"
+    },
+    "2606FRT34I": {
+        "brand": "小米",
+        "model": "REDMI Turbo 5 印度版"
     },
     "2602BRT18C": {
         "brand": "小米",
@@ -3539,6 +3547,10 @@
         "brand": "小米",
         "model": "POCO C81 Pro 国际版"
     },
+    "25128PC17Y": {
+        "brand": "小米",
+        "model": "POCO C81 Pro 国际版"
+    },
     "25128PC17L": {
         "brand": "小米",
         "model": "POCO C81 Pro 拉美版"
@@ -3582,6 +3594,10 @@
     "2509ARPBDG": {
         "brand": "小米",
         "model": "POCO Pad M1 国际版"
+    },
+    "2603APC14G": {
+        "brand": "小米",
+        "model": "POCO Pad C1 国际版"
     },
     "FYJ01QP": {
         "brand": "小米",

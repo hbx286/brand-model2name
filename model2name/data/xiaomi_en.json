@@ -655,6 +655,10 @@
         "brand": "小米",
         "model": "Xiaomi 17 Ultra by Leica (China, Tiantong & Beidou satellites)"
     },
+    "2605EPN8EC": {
+        "brand": "小米",
+        "model": "Xiaomi 17 Max"
+    },
     "2602DPT53G": {
         "brand": "小米",
         "model": "Xiaomi 17T Global"
@@ -2511,6 +2515,10 @@
         "brand": "小米",
         "model": "REDMI Turbo 5 China"
     },
+    "2606FRT34I": {
+        "brand": "小米",
+        "model": "REDMI Turbo 5 India"
+    },
     "2602BRT18C": {
         "brand": "小米",
         "model": "REDMI Turbo 5 Max China"
@@ -3275,6 +3283,10 @@
         "brand": "小米",
         "model": "POCO C81 Pro Global"
     },
+    "25128PC17Y": {
+        "brand": "小米",
+        "model": "POCO C81 Pro Global"
+    },
     "25128PC17L": {
         "brand": "小米",
         "model": "POCO C81 Pro Latin America"
@@ -3582,6 +3594,10 @@
     "2509ARPBDG": {
         "brand": "小米",
         "model": "POCO Pad M1 Global"
+    },
+    "2603APC14G": {
+        "brand": "小米",
+        "model": "POCO Pad C1 Global"
     },
     "FYJ01QP": {
         "brand": "小米",
