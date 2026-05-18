@@ -647,6 +647,10 @@
         "brand": "荣耀",
         "model": "荣耀 WIN RT"
     },
+    "SER-AN00": {
+        "brand": "荣耀",
+        "model": "荣耀 Power2"
+    },
     "G750-T00": {
         "brand": "荣耀",
         "model": "荣耀 3X 双 3G 版"
@@ -1026,10 +1030,6 @@
     "DVD-AN80": {
         "brand": "荣耀",
         "model": "荣耀 Power 卫星版"
-    },
-    "SER-AN00": {
-        "brand": "荣耀",
-        "model": "荣耀 Power2"
     },
     "EDI-AL10": {
         "brand": "荣耀",
@@ -2042,6 +2042,10 @@
     "GDG-X": {
         "brand": "荣耀",
         "model": "荣耀笔记本 X14 2025 战斗版"
+    },
+    "LVD-X": {
+        "brand": "荣耀",
+        "model": "荣耀笔记本 X14 2026 战斗版"
     },
     "GDH-X": {
         "brand": "荣耀",
