@@ -663,6 +663,14 @@
         "brand": "小米",
         "model": "Xiaomi 17T Global"
     },
+    "2602DPT53I": {
+        "brand": "小米",
+        "model": "Xiaomi 17T India"
+    },
+    "M531DA": {
+        "brand": "小米",
+        "model": "Xiaomi 17T China"
+    },
     "2602EPTC0G": {
         "brand": "小米",
         "model": "Xiaomi 17T Pro Global"
@@ -670,6 +678,10 @@
     "2602EPTC0R": {
         "brand": "小米",
         "model": "Xiaomi 17T Pro Japan (SIM Free)"
+    },
+    "M025EC": {
+        "brand": "小米",
+        "model": "Xiaomi 17T Pro China"
     },
     "2015011": {
         "brand": "小米",
@@ -3617,6 +3629,6 @@
     },
     "2503CVPC6C": {
         "brand": "小米",
-        "model": "Xiaomi YU7 Back Row Mobile Control Screen"
+        "model": "Xiaomi EV Back Row Mobile Control Screen"
     }
 }

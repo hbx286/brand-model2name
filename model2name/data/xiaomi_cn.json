@@ -343,6 +343,14 @@
         "brand": "",
         "model": "Xiaomi 17 Max"
     },
+    "M531DA": {
+        "brand": "",
+        "model": "Xiaomi 17T"
+    },
+    "M025EC": {
+        "brand": "",
+        "model": "Xiaomi 17T Pro"
+    },
     "2014616": {
         "brand": "",
         "model": "小米 Note 双网通版"
@@ -1445,6 +1453,6 @@
     },
     "2503CVPC6C": {
         "brand": "",
-        "model": "Xiaomi YU7 后排移动控制屏"
+        "model": "小米汽车后排移动控制屏"
     }
 }

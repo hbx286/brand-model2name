@@ -659,9 +659,21 @@
         "brand": "小米",
         "model": "Xiaomi 17 Max"
     },
+    "M531DA": {
+        "brand": "小米",
+        "model": "Xiaomi 17T 国行版"
+    },
     "2602DPT53G": {
         "brand": "小米",
         "model": "Xiaomi 17T 国际版"
+    },
+    "2602DPT53I": {
+        "brand": "小米",
+        "model": "Xiaomi 17T 印度版"
+    },
+    "M025EC": {
+        "brand": "小米",
+        "model": "Xiaomi 17T Pro 国行版"
     },
     "2602EPTC0G": {
         "brand": "小米",
@@ -3617,6 +3629,6 @@
     },
     "2503CVPC6C": {
         "brand": "小米",
-        "model": "Xiaomi YU7 后排移动控制屏"
+        "model": "小米汽车后排移动控制屏"
     }
 }
