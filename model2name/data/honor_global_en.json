@@ -475,6 +475,10 @@
         "brand": "荣耀",
         "model": "HONOR 600e"
     },
+    "MRK-NX1": {
+        "brand": "荣耀",
+        "model": "HONOR X7e Plus 5G"
+    },
     "LGE-NX9": {
         "brand": "荣耀",
         "model": "HONOR Magic4 Pro"
@@ -755,6 +759,10 @@
         "brand": "荣耀",
         "model": "HONOR X7d"
     },
+    "LAB-LX2": {
+        "brand": "荣耀",
+        "model": "HONOR X7e"
+    },
     "TFY-LX1": {
         "brand": "荣耀",
         "model": "HONOR X8"
@@ -866,6 +874,10 @@
     "HEY3-N09": {
         "brand": "荣耀",
         "model": "HONOR Pad 10 5G"
+    },
+    "HEY4-W09": {
+        "brand": "荣耀",
+        "model": "HONOR Pad 20 Wi-Fi"
     },
     "ROL-W00": {
         "brand": "荣耀",
