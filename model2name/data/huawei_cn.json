@@ -289,11 +289,11 @@
     },
     "SGT-AL50": {
         "brand": "华为",
-        "model": "HUAWEI Mate 80 Pro (12GB 内存)"
+        "model": "HUAWEI Mate 80 Pro (麒麟 9030)"
     },
     "SGT-AL00": {
         "brand": "华为",
-        "model": "HUAWEI Mate 80 Pro (16GB 内存)"
+        "model": "HUAWEI Mate 80 Pro (麒麟 9030 Pro)"
     },
     "SGT-AL10": {
         "brand": "华为",
@@ -1035,6 +1035,22 @@
         "brand": "华为",
         "model": "HUAWEI nova 15 Ultra"
     },
+    "EMA-AL00U": {
+        "brand": "华为",
+        "model": "HUAWEI nova 16"
+    },
+    "CRS-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 16 Pro"
+    },
+    "HIP-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 16 Ultra"
+    },
+    "PKN-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI nova 16z"
+    },
     "HUAWEI G6-T00": {
         "brand": "华为",
         "model": "华为 Ascend G6 移动版"
@@ -1770,6 +1786,18 @@
     "MRDI-W20": {
         "brand": "华为",
         "model": "HUAWEI MatePad Pro 12.2 英寸 2025 Wi-Fi 柔光版 (16GB+1TB)"
+    },
+    "GEM-W00": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro Max 13.2 英寸 Wi-Fi 版"
+    },
+    "GEM-W10": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro Max 13.2 英寸 Wi-Fi 版 (20GB+1TB)"
+    },
+    "GEM-W40": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro Max 13.2 英寸 悦享款 Wi-Fi 版"
     },
     "QXS-W00": {
         "brand": "华为",

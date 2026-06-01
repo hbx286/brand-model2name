@@ -311,10 +311,6 @@
         "brand": "苹果",
         "model": "iPhone 11 (China mainland, Hong Kong, Macao)"
     },
-    "A2222": {
-        "brand": "苹果",
-        "model": "iPhone 11 (China Mobile)"
-    },
     "A2221": {
         "brand": "苹果",
         "model": "iPhone 11 (Rest of the world)"
@@ -326,10 +322,6 @@
     "A2217": {
         "brand": "苹果",
         "model": "iPhone 11 Pro (China mainland, Hong Kong, Macao)"
-    },
-    "A2216": {
-        "brand": "苹果",
-        "model": "iPhone 11 Pro (China Mobile)"
     },
     "A2215": {
         "brand": "苹果",
@@ -343,10 +335,6 @@
         "brand": "苹果",
         "model": "iPhone 11 Pro Max (China mainland, Hong Kong, Macao)"
     },
-    "A2219": {
-        "brand": "苹果",
-        "model": "iPhone 11 Pro Max (China Mobile)"
-    },
     "A2218": {
         "brand": "苹果",
         "model": "iPhone 11 Pro Max (Rest of the world)"
@@ -358,10 +346,6 @@
     "A2298": {
         "brand": "苹果",
         "model": "iPhone SE (2nd generation) (China mainland)"
-    },
-    "A2297": {
-        "brand": "苹果",
-        "model": "iPhone SE (2nd generation) (China Mobile)"
     },
     "A2296": {
         "brand": "苹果",
