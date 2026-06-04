@@ -3415,6 +3415,18 @@
         "brand": "华为",
         "model": "华为智慧屏 S7 Pro 98"
     },
+    "HD1XQINA": {
+        "brand": "华为",
+        "model": "华为智慧屏 S7X Pro 65"
+    },
+    "HD77QINA": {
+        "brand": "华为",
+        "model": "华为智慧屏 S7X Pro 75"
+    },
+    "HD85QINA": {
+        "brand": "华为",
+        "model": "华为智慧屏 S7X Pro 85"
+    },
     "HD55DESA": {
         "brand": "华为",
         "model": "华为智慧屏 SE 55 (2GB+16GB)"
@@ -4117,7 +4129,7 @@
     },
     "NOR-B19": {
         "brand": "华为",
-        "model": "华为手环 10 标准版 (增强型聚合纤维表壳)"
+        "model": "华为擎云 HAY20"
     },
     "NOR-B29": {
         "brand": "华为",
@@ -4178,6 +4190,14 @@
     "KIM-B29B": {
         "brand": "华为",
         "model": "华为擎云 HA590"
+    },
+    "NOR-B39B": {
+        "brand": "华为",
+        "model": "华为擎云 HA5A0"
+    },
+    "CDY-B19B": {
+        "brand": "华为",
+        "model": "华为擎云 HA5B0"
     },
     "SIM-AL00": {
         "brand": "华为",
