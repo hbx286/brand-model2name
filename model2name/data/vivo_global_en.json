@@ -123,6 +123,10 @@
         "brand": "vivo",
         "model": "vivo X300 FE"
     },
+    "V2633": {
+        "brand": "vivo",
+        "model": "vivo X300 FE"
+    },
     "V2562": {
         "brand": "vivo",
         "model": "vivo X300 Ultra"
@@ -515,7 +519,15 @@
         "brand": "vivo",
         "model": "vivo T4 Ultra"
     },
+    "V2583": {
+        "brand": "vivo",
+        "model": "vivo T5"
+    },
     "V2568": {
+        "brand": "vivo",
+        "model": "vivo T5 Pro"
+    },
+    "V2602": {
         "brand": "vivo",
         "model": "vivo T5 Pro"
     },
@@ -1035,6 +1047,10 @@
         "brand": "vivo",
         "model": "vivo Y31e 5G"
     },
+    "V2614": {
+        "brand": "vivo",
+        "model": "vivo Y31s 5G"
+    },
     "V2057": {
         "brand": "vivo",
         "model": "vivo Y33"
@@ -1422,6 +1438,10 @@
     "J2507": {
         "brand": "vivo",
         "model": "JOVI V70 5G"
+    },
+    "J2502": {
+        "brand": "vivo",
+        "model": "JOVI T1 5G"
     },
     "V2454": {
         "brand": "vivo",
