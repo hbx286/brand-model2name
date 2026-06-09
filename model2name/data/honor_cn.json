@@ -899,6 +899,10 @@
         "brand": "荣耀",
         "model": "荣耀 X70i"
     },
+    "BSN-AN00": {
+        "brand": "荣耀",
+        "model": "荣耀 X80 Pro Max"
+    },
     "LNA-AN00": {
         "brand": "荣耀",
         "model": "荣耀 Play11 Plus 5G"
@@ -2045,7 +2049,7 @@
     },
     "LVD-X": {
         "brand": "荣耀",
-        "model": "荣耀笔记本 X14 2026 战斗版"
+        "model": "荣耀笔记本 X14 2026 战斗版 / 荣耀笔记本 X14 Plus 2026 战斗版"
     },
     "GDH-X": {
         "brand": "荣耀",
