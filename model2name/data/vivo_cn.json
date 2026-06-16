@@ -279,6 +279,10 @@
         "brand": "vivo",
         "model": "vivo X300 Ultra 卫星通信版"
     },
+    "V2545A": {
+        "brand": "vivo",
+        "model": "vivo X Fold6"
+    },
     "V1831A": {
         "brand": "vivo",
         "model": "vivo S1 全网通版"
@@ -1162,6 +1166,10 @@
     "V2532A": {
         "brand": "vivo",
         "model": "iQOO Z11x"
+    },
+    "V2559UA": {
+        "brand": "vivo",
+        "model": "iQOO Z11i"
     },
     "V2023A": {
         "brand": "vivo",
