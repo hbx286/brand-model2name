@@ -2575,6 +2575,26 @@
         "brand": "三星",
         "model": "Galaxy A26 5G Latin America"
     },
+    "SM-A276B": {
+        "brand": "三星",
+        "model": "Galaxy A27 5G Global"
+    },
+    "SM-A276U": {
+        "brand": "三星",
+        "model": "Galaxy A27 5G US Carrier"
+    },
+    "SM-A276U1": {
+        "brand": "三星",
+        "model": "Galaxy A27 5G US Unlocked"
+    },
+    "SM-S276V": {
+        "brand": "三星",
+        "model": "Galaxy A27 5G TracFone"
+    },
+    "SM-A2760": {
+        "brand": "三星",
+        "model": "Galaxy A27 5G HK"
+    },
     "SM-A305F": {
         "brand": "三星",
         "model": "Galaxy A30 Global"
