@@ -691,13 +691,13 @@
         "brand": "真我",
         "model": "realme Note 50"
     },
-    "RMX3939": {
-        "brand": "真我",
-        "model": "realme NARZO N63"
-    },
     "RMX3930": {
         "brand": "真我",
         "model": "realme C61 Global"
+    },
+    "RMX3939": {
+        "brand": "真我",
+        "model": "realme NARZO N63"
     },
     "RMX3933": {
         "brand": "真我",
@@ -781,11 +781,11 @@
     },
     "RMX5313": {
         "brand": "真我",
-        "model": "realme P4 Lite"
+        "model": "realme NARZO 80 Lite"
     },
     "RMX5388": {
         "brand": "真我",
-        "model": "realme Note 80"
+        "model": "realme Note 80 / realme Note 80s"
     },
     "RMX1831": {
         "brand": "真我",
@@ -830,6 +830,10 @@
     "RMX5031": {
         "brand": "真我",
         "model": "realme P3 Ultra 5G"
+    },
+    "RMX5300": {
+        "brand": "真我",
+        "model": "realme P3 Lite"
     },
     "RMX5110": {
         "brand": "真我",
