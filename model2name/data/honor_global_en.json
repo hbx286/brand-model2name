@@ -479,6 +479,10 @@
         "brand": "荣耀",
         "model": "HONOR X7e Plus 5G"
     },
+    "MRK-NX3": {
+        "brand": "荣耀",
+        "model": "HONOR 600 Elite"
+    },
     "LGE-NX9": {
         "brand": "荣耀",
         "model": "HONOR Magic4 Pro"
@@ -759,7 +763,15 @@
         "brand": "荣耀",
         "model": "HONOR X7d"
     },
+    "LAB-LX1": {
+        "brand": "荣耀",
+        "model": "HONOR X7e"
+    },
     "LAB-LX2": {
+        "brand": "荣耀",
+        "model": "HONOR X7e"
+    },
+    "LAB-LX3": {
         "brand": "荣耀",
         "model": "HONOR X7e"
     },
