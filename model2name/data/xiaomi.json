@@ -2623,9 +2623,33 @@
         "brand": "小米",
         "model": "REDMI Note 17 国行版"
     },
+    "26021RN18I": {
+        "brand": "小米",
+        "model": "REDMI Note 17 5G 印度版"
+    },
+    "26081RA18G": {
+        "brand": "小米",
+        "model": "REDMI Note 17 5G 国际版"
+    },
+    "26081RA18L": {
+        "brand": "小米",
+        "model": "REDMI Note 17 5G 拉美版"
+    },
     "2607DRA18C": {
         "brand": "小米",
         "model": "REDMI Note 17 Pro 国行版"
+    },
+    "2607DRA18G": {
+        "brand": "小米",
+        "model": "REDMI Note 17 Pro 5G 国际版"
+    },
+    "2607DRA18I": {
+        "brand": "小米",
+        "model": "REDMI Note 17 Pro 5G 印度版"
+    },
+    "2607DRA18T": {
+        "brand": "小米",
+        "model": "REDMI Note 17 Pro 5G 沙特版"
     },
     "M2004J7AC": {
         "brand": "小米",
@@ -3331,6 +3355,14 @@
         "brand": "小米",
         "model": "POCO X7 Pro 印度版"
     },
+    "2607DPC18G": {
+        "brand": "小米",
+        "model": "POCO X8 国际版"
+    },
+    "2607DPC18I": {
+        "brand": "小米",
+        "model": "POCO X8 印度版"
+    },
     "2511FPC34G": {
         "brand": "小米",
         "model": "POCO X8 Pro 国际版"
@@ -3474,6 +3506,10 @@
     "2510EPC8BG": {
         "brand": "小米",
         "model": "POCO M8 Pro 5G 国际版"
+    },
+    "26021PC18I": {
+        "brand": "小米",
+        "model": "POCO M8 Power 印度版"
     },
     "M2006C3MI": {
         "brand": "小米",
