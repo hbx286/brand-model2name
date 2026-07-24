@@ -471,6 +471,14 @@
         "brand": "三星",
         "model": "Galaxy Z TriFold"
     },
+    "SM-F9710": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold8"
+    },
+    "SM-F9760": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold8 Ultra"
+    },
     "SM-F7000": {
         "brand": "三星",
         "model": "Galaxy Z Flip"
@@ -502,6 +510,10 @@
     "SM-F7610": {
         "brand": "三星",
         "model": "Galaxy Z Flip7 FE"
+    },
+    "SM-F7760": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip8"
     },
     "SM-A3000": {
         "brand": "三星",
@@ -1326,5 +1338,21 @@
     "SM-L5050": {
         "brand": "三星",
         "model": "Galaxy Watch8 Classic LTE 46mm"
+    },
+    "SM-L340": {
+        "brand": "三星",
+        "model": "Galaxy Watch9 蓝牙版 40mm"
+    },
+    "SM-L350": {
+        "brand": "三星",
+        "model": "Galaxy Watch9 蓝牙版 44mm"
+    },
+    "SM-L3550": {
+        "brand": "三星",
+        "model": "Galaxy Watch9 LTE 44mm"
+    },
+    "SM-L7150": {
+        "brand": "三星",
+        "model": "Galaxy Watch Ultra2 LTE 47mm"
     }
 }

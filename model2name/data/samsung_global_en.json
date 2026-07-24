@@ -1487,6 +1487,94 @@
         "brand": "三星",
         "model": "Galaxy Z TriFold South Korea"
     },
+    "SM-F971B": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold8 Global"
+    },
+    "SM-F971U": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold8 US Carrier"
+    },
+    "SM-F971U1": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold8 US Unlocked"
+    },
+    "SM-F971W": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold8 Canada"
+    },
+    "SM-F9710": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold8 China"
+    },
+    "SM-F971N": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold8 South Korea"
+    },
+    "SM-F971Q": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold8 Japan (SIM Free)"
+    },
+    "SM-F971Z": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold8 Japan (SoftBank)"
+    },
+    "SM-F971C": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold8 Japan (Rakuten Mobile)"
+    },
+    "SCG41": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold8 Japan (au)"
+    },
+    "SC-57G": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold8 Japan (NTT Docomo)"
+    },
+    "SM-F976B": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold8 Ultra Global"
+    },
+    "SM-F976U": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold8 Ultra US Carrier"
+    },
+    "SM-F976U1": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold8 Ultra US Unlocked"
+    },
+    "SM-F976W": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold8 Ultra Canada"
+    },
+    "SM-F9760": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold8 Ultra China"
+    },
+    "SM-F976N": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold8 Ultra South Korea"
+    },
+    "SM-F976Q": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold8 Ultra Japan (SIM Free)"
+    },
+    "SM-F976Z": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold8 Ultra Japan (SoftBank)"
+    },
+    "SM-F976C": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold8 Ultra Japan (Rakuten Mobile)"
+    },
+    "SCG39": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold8 Ultra Japan (au)"
+    },
+    "SC-56G": {
+        "brand": "三星",
+        "model": "Galaxy Z Fold8 Ultra Japan (NTT Docomo)"
+    },
     "SM-F700F": {
         "brand": "三星",
         "model": "Galaxy Z Flip Global"
@@ -1742,6 +1830,50 @@
     "SM-F761N": {
         "brand": "三星",
         "model": "Galaxy Z Flip7 FE South Korea"
+    },
+    "SM-F776B": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip8 Global"
+    },
+    "SM-F776N": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip8 South Korea"
+    },
+    "SM-F776U": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip8 US Carrier"
+    },
+    "SM-F776U1": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip8 US Unlocked"
+    },
+    "SM-F776W": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip8 Canada"
+    },
+    "SM-F7760": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip8 China"
+    },
+    "SM-F776Q": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip8 Japan (SIM Free)"
+    },
+    "SM-F776Z": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip8 Japan (SoftBank)"
+    },
+    "SM-F776C": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip8 Japan (Rakuten Mobile)"
+    },
+    "SCG40": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip8 Japan (au)"
+    },
+    "SC-55G": {
+        "brand": "三星",
+        "model": "Galaxy Z Flip8 Japan (NTT Docomo)"
     },
     "SM-A015F": {
         "brand": "三星",
@@ -3558,6 +3690,10 @@
     "SM-M426B": {
         "brand": "三星",
         "model": "Galaxy M42 5G"
+    },
+    "SM-M476B": {
+        "brand": "三星",
+        "model": "Galaxy M47 5G"
     },
     "SM-M515F": {
         "brand": "三星",
