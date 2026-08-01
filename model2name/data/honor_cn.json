@@ -159,6 +159,10 @@
         "brand": "荣耀",
         "model": "荣耀 Magic V6 (16GB+1TB)"
     },
+    "APH-AN00": {
+        "brand": "荣耀",
+        "model": "荣耀 Robot Phone"
+    },
     "H60-L01": {
         "brand": "荣耀",
         "model": "荣耀 6 移动版"
@@ -905,7 +909,7 @@
     },
     "LNA-AN00": {
         "brand": "荣耀",
-        "model": "荣耀 Play11 Plus 5G"
+        "model": "荣耀 Play11 Plus 5G / 荣耀 Play11 Pro 5G"
     },
     "JMM-AL00": {
         "brand": "荣耀",
