@@ -1803,6 +1803,14 @@
         "brand": "华为",
         "model": "HUAWEI MatePad Pro Max 13.2 英寸 悦享款 Wi-Fi 版"
     },
+    "DAL-W00": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 12 英寸 Wi-Fi 版"
+    },
+    "DAL-W20": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Pro 12 英寸 悦享款 Wi-Fi 版"
+    },
     "QXS-W00": {
         "brand": "华为",
         "model": "HUAWEI MatePad Edge"
@@ -2351,9 +2359,25 @@
         "brand": "华为",
         "model": "HUAWEI MateBook Pro (32GB 内存)"
     },
+    "MOR-M1": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook Pro S 标准版 / 防窥版 / 柔光版"
+    },
+    "MOR-M2": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook Pro S 典藏版"
+    },
     "HPR-W72": {
         "brand": "华为",
-        "model": "HUAWEI MateBook Fold 非凡大师 (32GB 内存)"
+        "model": "HUAWEI MateBook Fold 非凡大师 (麒麟 X90) (32GB 内存)"
+    },
+    "SLM-W24": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook Fold 非凡大师 (麒麟 X90 Plus) (24GB 内存)"
+    },
+    "SLM-W32": {
+        "brand": "华为",
+        "model": "HUAWEI MateBook Fold 非凡大师 (麒麟 X90 Plus) (32GB 内存)"
     },
     "WRT-W19": {
         "brand": "华为",
@@ -3926,6 +3950,18 @@
     "ATM-B29": {
         "brand": "华为",
         "model": "HUAWEI WATCH GT 6 Pro 46mm"
+    },
+    "NSU-B39": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH GT 7 41mm"
+    },
+    "TUM-B39": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH GT 7 46mm"
+    },
+    "TUM-B49": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH GT 7 Pro 46mm"
     },
     "RUN-B19": {
         "brand": "华为",

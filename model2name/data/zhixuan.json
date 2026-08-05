@@ -234,5 +234,9 @@
     "NICI-32": {
         "brand": "华为智选",
         "model": "Hi MateBook D 16 (32GB 内存)"
+    },
+    "RMA-X": {
+        "brand": "华为智选",
+        "model": "Hi MateBook D 16 锐龙版"
     }
 }
