@@ -1659,10 +1659,6 @@
         "brand": "小米",
         "model": "REDMI 15C 5G India"
     },
-    "2508CRN2BC": {
-        "brand": "小米",
-        "model": "REDMI 15C 5G China"
-    },
     "2508CRN2BR": {
         "brand": "小米",
         "model": "REDMI 15C 5G Japan"
@@ -1674,6 +1670,10 @@
     "2602BRNA4I": {
         "brand": "小米",
         "model": "REDMI 15A 5G India"
+    },
+    "2602BRNA4C": {
+        "brand": "小米",
+        "model": "REDMI 17 5G China"
     },
     "2014018": {
         "brand": "小米",
