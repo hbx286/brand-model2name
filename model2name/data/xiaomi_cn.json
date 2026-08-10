@@ -1379,6 +1379,14 @@
         "brand": "",
         "model": "REDMI K90 至尊版"
     },
+    "M511CD": {
+        "brand": "",
+        "model": "REDMI K100 Pro"
+    },
+    "M098FE": {
+        "brand": "",
+        "model": "REDMI K100 Pro Max"
+    },
     "2016020": {
         "brand": "",
         "model": "红米 Pro 标准版"
@@ -1402,6 +1410,10 @@
     "26020RN1AC": {
         "brand": "",
         "model": "REDMI R70 5G / REDMI R70m 5G"
+    },
+    "26062RN92C": {
+        "brand": "",
+        "model": "REDMI M100"
     },
     "22081283C": {
         "brand": "",

@@ -1675,6 +1675,26 @@
         "brand": "小米",
         "model": "REDMI 17 5G China"
     },
+    "26062RN92G": {
+        "brand": "小米",
+        "model": "REDMI 17 5G Global"
+    },
+    "26062RN92I": {
+        "brand": "小米",
+        "model": "REDMI 17 5G India"
+    },
+    "2606FRN72Y": {
+        "brand": "小米",
+        "model": "REDMI 17 Global"
+    },
+    "2606FRN72L": {
+        "brand": "小米",
+        "model": "REDMI 17 Latin America"
+    },
+    "2607FRNEAG": {
+        "brand": "小米",
+        "model": "REDMI 17C 5G Global"
+    },
     "2014018": {
         "brand": "小米",
         "model": "Redmi Note WCDMA (1GB RAM)"
@@ -2727,6 +2747,14 @@
         "brand": "小米",
         "model": "REDMI K90 Ultra China"
     },
+    "M511CD": {
+        "brand": "小米",
+        "model": "REDMI K100 Pro China"
+    },
+    "M098FE": {
+        "brand": "小米",
+        "model": "REDMI K100 Pro Max China"
+    },
     "2016020": {
         "brand": "小米",
         "model": "Redmi Pro (32GB)"
@@ -2922,6 +2950,10 @@
     "26020RN1AC": {
         "brand": "小米",
         "model": "REDMI R70 5G China / REDMI R70m 5G China"
+    },
+    "26062RN92C": {
+        "brand": "小米",
+        "model": "REDMI M100 China"
     },
     "M1805E10A": {
         "brand": "小米",
@@ -3245,7 +3277,11 @@
     },
     "26021PC18I": {
         "brand": "小米",
-        "model": "POCO M8 Power India"
+        "model": "POCO M8 Power 5G India"
+    },
+    "26062PC92I": {
+        "brand": "小米",
+        "model": "POCO M8x 5G India"
     },
     "M2006C3MI": {
         "brand": "小米",
