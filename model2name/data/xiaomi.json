@@ -1813,7 +1813,7 @@
     },
     "2606FRN72L": {
         "brand": "小米",
-        "model": "REDMI 17 拉美版"
+        "model": "REDMI 17 拉美版 / 日本版"
     },
     "2607FRNEAG": {
         "brand": "小米",
@@ -3674,6 +3674,14 @@
     "26020PC1AI": {
         "brand": "小米",
         "model": "POCO C85x 5G 印度版"
+    },
+    "2606FPC72Y": {
+        "brand": "小米",
+        "model": "POCO C95 Pro 国际版"
+    },
+    "2606FPC72L": {
+        "brand": "小米",
+        "model": "POCO C95 Pro 拉美版"
     },
     "2405CPCFBG": {
         "brand": "小米",

@@ -1689,7 +1689,7 @@
     },
     "2606FRN72L": {
         "brand": "小米",
-        "model": "REDMI 17 Latin America"
+        "model": "REDMI 17 Latin America / Japan"
     },
     "2607FRNEAG": {
         "brand": "小米",
@@ -3410,6 +3410,14 @@
     "26020PC1AI": {
         "brand": "小米",
         "model": "POCO C85x 5G India"
+    },
+    "2606FPC72Y": {
+        "brand": "小米",
+        "model": "POCO C95 Pro Global"
+    },
+    "2606FPC72L": {
+        "brand": "小米",
+        "model": "POCO C95 Pro Latin America"
     },
     "A0101": {
         "brand": "小米",
