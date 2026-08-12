@@ -1031,6 +1031,10 @@
         "brand": "荣耀",
         "model": "荣耀畅玩 60A 5G / 荣耀畅玩 80 5G / 荣耀畅玩 80m 5G"
     },
+    "LAB-AN00": {
+        "brand": "荣耀",
+        "model": "荣耀畅玩 80 Plus 5G"
+    },
     "DVD-AN00": {
         "brand": "荣耀",
         "model": "荣耀 Power"
@@ -1310,10 +1314,6 @@
     "NLA-AL00": {
         "brand": "荣耀",
         "model": "荣耀畅玩 70C"
-    },
-    "LAB-AN00": {
-        "brand": "荣耀",
-        "model": "荣耀畅玩 80 Plus 5G"
     },
     "S8-701w": {
         "brand": "荣耀",
