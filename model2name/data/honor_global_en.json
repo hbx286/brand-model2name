@@ -585,7 +585,7 @@
     },
     "MTN-NX3": {
         "brand": "荣耀",
-        "model": "HONOR Magic8 Lite"
+        "model": "HONOR X9e s"
     },
     "VNA-LX2": {
         "brand": "荣耀",
@@ -699,6 +699,18 @@
         "brand": "荣耀",
         "model": "HONOR X6d 5G"
     },
+    "LBU-LX1": {
+        "brand": "荣耀",
+        "model": "HONOR X6e"
+    },
+    "LBU-LX2": {
+        "brand": "荣耀",
+        "model": "HONOR X6e"
+    },
+    "LBU-LX3": {
+        "brand": "荣耀",
+        "model": "HONOR X6e"
+    },
     "CMA-LX1": {
         "brand": "荣耀",
         "model": "HONOR X7"
@@ -775,6 +787,14 @@
         "brand": "荣耀",
         "model": "HONOR X7e"
     },
+    "MRK-LX1": {
+        "brand": "荣耀",
+        "model": "HONOR X8e"
+    },
+    "MRK-LX2": {
+        "brand": "荣耀",
+        "model": "HONOR X7e Plus"
+    },
     "TFY-LX1": {
         "brand": "荣耀",
         "model": "HONOR X8"
@@ -839,6 +859,10 @@
         "brand": "荣耀",
         "model": "HONOR X8d"
     },
+    "MRK-LX3": {
+        "brand": "荣耀",
+        "model": "HONOR X8e s"
+    },
     "ALI-NX3P": {
         "brand": "荣耀",
         "model": "HONOR X9b 5G"
@@ -853,7 +877,7 @@
     },
     "MTN-NX1": {
         "brand": "荣耀",
-        "model": "HONOR X9d"
+        "model": "HONOR X9e s"
     },
     "NIC-LX3P": {
         "brand": "荣耀",
@@ -890,6 +914,10 @@
     "HEY4-W09": {
         "brand": "荣耀",
         "model": "HONOR Pad 20 Wi-Fi"
+    },
+    "MLA-W09": {
+        "brand": "荣耀",
+        "model": "HONOR Pad 20 Pro Wi-Fi"
     },
     "ROL-W00": {
         "brand": "荣耀",
@@ -974,5 +1002,13 @@
     "ELN2-L29": {
         "brand": "荣耀",
         "model": "HONOR Pad X9a LTE"
+    },
+    "YAG-W09": {
+        "brand": "荣耀",
+        "model": "HONOR Pad X9b Max Wi-Fi"
+    },
+    "YAG-W19": {
+        "brand": "荣耀",
+        "model": "HONOR Pad X9b Max Paperlike Edition Wi-Fi"
     }
 }
