@@ -2519,6 +2519,18 @@
         "brand": "小米",
         "model": "REDMI Note 15R China"
     },
+    "26012RN62A": {
+        "brand": "小米",
+        "model": "REDMI Note 17 Global"
+    },
+    "26012RN62Y": {
+        "brand": "小米",
+        "model": "REDMI Note 17 Global (NFC)"
+    },
+    "26012RN62L": {
+        "brand": "小米",
+        "model": "REDMI Note 17 Latin America"
+    },
     "26081RA18G": {
         "brand": "小米",
         "model": "REDMI Note 17 5G Global"
@@ -2550,6 +2562,18 @@
     "2607DRA18T": {
         "brand": "小米",
         "model": "REDMI Note 17 Pro 5G Saudi Arabia"
+    },
+    "2609FRA74G": {
+        "brand": "小米",
+        "model": "REDMI Note 17 Pro Max 5G Global"
+    },
+    "2609FRA74I": {
+        "brand": "小米",
+        "model": "REDMI Note 17 Pro Max 5G India"
+    },
+    "2609FRA74T": {
+        "brand": "小米",
+        "model": "REDMI Note 17 Pro Max 5G Saudi Arabia"
     },
     "M2004J7AC": {
         "brand": "小米",
@@ -3138,6 +3162,10 @@
     "2607DPC18I": {
         "brand": "小米",
         "model": "POCO X8 India"
+    },
+    "2609FPC74I": {
+        "brand": "小米",
+        "model": "POCO X8 Power India"
     },
     "2511FPC34G": {
         "brand": "小米",
