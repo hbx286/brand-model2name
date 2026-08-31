@@ -355,6 +355,10 @@
         "brand": "真我",
         "model": "realme 16T 5G"
     },
+    "RMX5270": {
+        "brand": "真我",
+        "model": "realme 16x 5G"
+    },
     "RMX1901": {
         "brand": "真我",
         "model": "realme X"
@@ -769,11 +773,19 @@
     },
     "RMX5377": {
         "brand": "真我",
-        "model": "realme C100i"
+        "model": "realme C100i Global"
+    },
+    "RMX5399": {
+        "brand": "真我",
+        "model": "realme C100i India"
     },
     "RMX5366": {
         "brand": "真我",
         "model": "realme C100x"
+    },
+    "RMX5363": {
+        "brand": "真我",
+        "model": "realme C100d"
     },
     "RMX3938": {
         "brand": "真我",
@@ -862,6 +874,10 @@
     "RMX5266": {
         "brand": "真我",
         "model": "realme P4R 5G"
+    },
+    "RMX5125": {
+        "brand": "真我",
+        "model": "realme P4s 5G"
     },
     "RMX2191": {
         "brand": "真我",
