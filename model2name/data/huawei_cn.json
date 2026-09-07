@@ -367,6 +367,10 @@
         "brand": "华为",
         "model": "HUAWEI Mate X7 典藏版"
     },
+    "LAP-AL10": {
+        "brand": "华为",
+        "model": "HUAWEI Mate XT 2 非凡大师"
+    },
     "HUAWEI U9200": {
         "brand": "华为",
         "model": "华为 Ascend P1"
@@ -686,6 +690,10 @@
     "HOP-AL10": {
         "brand": "华为",
         "model": "HUAWEI Pura X Max 典藏版"
+    },
+    "VOL-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI Pura X View"
     },
     "BAL-AL60": {
         "brand": "华为",
@@ -1858,6 +1866,14 @@
     "LRT-W30": {
         "brand": "华为",
         "model": "HUAWEI MatePad Air 12 英寸 2025 Wi-Fi 柔光版"
+    },
+    "WKI-W00": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Air 12 英寸 2026 悦享款 Wi-Fi 版"
+    },
+    "WKI-W10": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Air 12 英寸 2026 Wi-Fi 版"
     },
     "BAH3-W09": {
         "brand": "华为",
@@ -3839,6 +3855,18 @@
         "brand": "华为",
         "model": "HUAWEI WATCH 5 46mm / HUAWEI WATCH 十周年款 46mm"
     },
+    "LEB-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH 6 42mm"
+    },
+    "NIZ-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH 6 Pro 46mm"
+    },
+    "LEB-AL10": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH 6 Pro 43mm"
+    },
     "CLB-B19": {
         "brand": "华为",
         "model": "HUAWEI WATCH ULTIMATE DESIGN 非凡大师 黄金款"
@@ -3846,6 +3874,10 @@
     "WDS-B19": {
         "brand": "华为",
         "model": "HUAWEI WATCH Ultimate 非凡探索"
+    },
+    "MCH-B39": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH Ultimate 2 非凡探索"
     },
     "MCH-AL00": {
         "brand": "华为",

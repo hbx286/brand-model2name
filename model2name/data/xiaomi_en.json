@@ -683,6 +683,10 @@
         "brand": "小米",
         "model": "Xiaomi 17T Pro China"
     },
+    "2608BPX34C": {
+        "brand": "小米",
+        "model": "Xiaomi 18 Fold China"
+    },
     "2015011": {
         "brand": "小米",
         "model": "Mi Note Global"
@@ -1695,6 +1699,14 @@
         "brand": "小米",
         "model": "REDMI 17C 5G Global"
     },
+    "2607FRNEAI": {
+        "brand": "小米",
+        "model": "REDMI 17C 5G India"
+    },
+    "2612FRNEAR": {
+        "brand": "小米",
+        "model": "REDMI 17C 5G Japan"
+    },
     "2014018": {
         "brand": "小米",
         "model": "Redmi Note WCDMA (1GB RAM)"
@@ -2568,6 +2580,10 @@
         "model": "REDMI Note 17 Pro Max 5G Global"
     },
     "2609FRA74I": {
+        "brand": "小米",
+        "model": "REDMI Note 17 Pro Max 5G India"
+    },
+    "2609FRA56I": {
         "brand": "小米",
         "model": "REDMI Note 17 Pro Max 5G India"
     },
@@ -3574,6 +3590,10 @@
     "25091RP04C": {
         "brand": "小米",
         "model": "Xiaomi Pad 8 Pro China"
+    },
+    "M367FC": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 9 Pro Max China"
     },
     "22081283G": {
         "brand": "小米",

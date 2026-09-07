@@ -683,6 +683,10 @@
         "brand": "小米",
         "model": "Xiaomi 17T Pro 日本版 (无锁)"
     },
+    "2608BPX34C": {
+        "brand": "小米",
+        "model": "Xiaomi 18 Fold"
+    },
     "2014616": {
         "brand": "小米",
         "model": "小米 Note 双网通版"
@@ -1050,6 +1054,10 @@
     "25091RP04G": {
         "brand": "小米",
         "model": "Xiaomi Pad 8 Pro 国际版"
+    },
+    "M367FC": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 9 Pro Max"
     },
     "2013022": {
         "brand": "小米",
@@ -1818,6 +1826,14 @@
     "2607FRNEAG": {
         "brand": "小米",
         "model": "REDMI 17C 5G 国际版"
+    },
+    "2607FRNEAI": {
+        "brand": "小米",
+        "model": "REDMI 17C 5G 印度版"
+    },
+    "2612FRNEAR": {
+        "brand": "小米",
+        "model": "REDMI 17C 5G 日本版"
     },
     "2014018": {
         "brand": "小米",
@@ -2688,6 +2704,10 @@
         "model": "REDMI Note 17 Pro Max 5G 国际版"
     },
     "2609FRA74I": {
+        "brand": "小米",
+        "model": "REDMI Note 17 Pro Max 5G 印度版"
+    },
+    "2609FRA56I": {
         "brand": "小米",
         "model": "REDMI Note 17 Pro Max 5G 印度版"
     },
