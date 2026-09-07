@@ -478,5 +478,21 @@
     "G1KAW": {
         "brand": "谷歌",
         "model": "Pixel Watch 4 LTE (45mm)"
+    },
+    "G1XJ6": {
+        "brand": "谷歌",
+        "model": "Pixel Watch 5 Bluetooth & Wi-Fi (41mm)"
+    },
+    "G0F3Y": {
+        "brand": "谷歌",
+        "model": "Pixel Watch 5 LTE (41mm)"
+    },
+    "GFW3R": {
+        "brand": "谷歌",
+        "model": "Pixel Watch 5 Bluetooth & Wi-Fi (45mm)"
+    },
+    "G25QD": {
+        "brand": "谷歌",
+        "model": "Pixel Watch 5 LTE (45mm)"
     }
 }
