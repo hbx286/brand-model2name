@@ -877,7 +877,11 @@
     },
     "MTN-NX1": {
         "brand": "荣耀",
-        "model": "HONOR X9e s"
+        "model": "HONOR Turbo"
+    },
+    "BSN-NX1": {
+        "brand": "荣耀",
+        "model": "HONOR X9e Pro"
     },
     "NIC-LX3P": {
         "brand": "荣耀",
@@ -890,6 +894,18 @@
     "ELA-LX3": {
         "brand": "荣耀",
         "model": "HONOR Play10"
+    },
+    "MLD-LX1": {
+        "brand": "荣耀",
+        "model": "HONOR Play20A"
+    },
+    "MLD-LX2": {
+        "brand": "荣耀",
+        "model": "HONOR Play20A"
+    },
+    "MLD-LX3": {
+        "brand": "荣耀",
+        "model": "HONOR Play20A"
     },
     "HEY-W09": {
         "brand": "荣耀",

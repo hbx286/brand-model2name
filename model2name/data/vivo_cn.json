@@ -787,6 +787,14 @@
         "brand": "vivo",
         "model": "vivo G5i / vivo G5z"
     },
+    "V2607A": {
+        "brand": "vivo",
+        "model": "vivo Y600"
+    },
+    "V2617A": {
+        "brand": "vivo",
+        "model": "vivo Y600i"
+    },
     "V2561A": {
         "brand": "vivo",
         "model": "vivo Y600 Pro"
@@ -974,6 +982,10 @@
     "V2564A": {
         "brand": "vivo",
         "model": "iQOO 15T"
+    },
+    "V2606A": {
+        "brand": "vivo",
+        "model": "iQOO 16"
     },
     "V1914A": {
         "brand": "vivo",

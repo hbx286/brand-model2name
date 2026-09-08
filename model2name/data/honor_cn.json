@@ -1033,7 +1033,7 @@
     },
     "MRK-AN00": {
         "brand": "荣耀",
-        "model": "荣耀 Play11 5G"
+        "model": "荣耀畅玩 90 Plus"
     },
     "LAB-AN00": {
         "brand": "荣耀",
@@ -1425,7 +1425,7 @@
     },
     "HEY4-AN00": {
         "brand": "荣耀",
-        "model": "荣耀平板 20 12.1 英寸 5G 版"
+        "model": "荣耀平板 Z7 第二代 12.1 英寸 5G 版"
     },
     "KRJ-W09": {
         "brand": "荣耀",
@@ -2190,6 +2190,22 @@
     "FRI-F56Z": {
         "brand": "荣耀",
         "model": "荣耀 MagicBook Z3 14 2023 i5"
+    },
+    "DNH-565": {
+        "brand": "荣耀",
+        "model": "荣耀 MagicBook Z3 16 (16GB+512GB)"
+    },
+    "DNH-565H": {
+        "brand": "荣耀",
+        "model": "荣耀 MagicBook Z3 16 (16GB+512GB)"
+    },
+    "DNH-561": {
+        "brand": "荣耀",
+        "model": "荣耀 MagicBook Z3 16 (16GB+1TB)"
+    },
+    "DNH-561H": {
+        "brand": "荣耀",
+        "model": "荣耀 MagicBook Z3 16 (16GB+1TB)"
     },
     "FRD-WDG9": {
         "brand": "荣耀",

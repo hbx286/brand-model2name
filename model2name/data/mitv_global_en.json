@@ -267,6 +267,22 @@
         "brand": "小米电视",
         "model": "Xiaomi TV S Mini LED 75"
     },
+    "L43MC-FSMIN": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV FX Mini LED 43"
+    },
+    "L55MC-FSMIN": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV FX Mini LED 55"
+    },
+    "L65MC-FSMIN": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV FX Mini LED 65"
+    },
+    "L75MC-FSMIN": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV FX Mini LED 75"
+    },
     "L32M6-RA": {
         "brand": "小米电视",
         "model": "Redmi Smart TV 32"

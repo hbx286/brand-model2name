@@ -3271,6 +3271,50 @@
         "brand": "华为",
         "model": "华为智慧屏 MateTV Max 110 英寸"
     },
+    "HD65EDIN": {
+        "brand": "华为",
+        "model": "华为智慧屏 MateTV 2 65 英寸"
+    },
+    "HD65FARN": {
+        "brand": "华为",
+        "model": "华为智慧屏 MateTV 2 悦享版 65 英寸"
+    },
+    "HD75EDIN": {
+        "brand": "华为",
+        "model": "华为智慧屏 MateTV 2 75 英寸"
+    },
+    "HD75FARN": {
+        "brand": "华为",
+        "model": "华为智慧屏 MateTV 2 悦享版 75 英寸"
+    },
+    "HD8XEDIN": {
+        "brand": "华为",
+        "model": "华为智慧屏 MateTV 2 85 英寸"
+    },
+    "HD8XFARN": {
+        "brand": "华为",
+        "model": "华为智慧屏 MateTV 2 悦享版 85 英寸"
+    },
+    "HD98EDIN": {
+        "brand": "华为",
+        "model": "华为智慧屏 MateTV 2 98 英寸"
+    },
+    "HD75EDIM": {
+        "brand": "华为",
+        "model": "华为智慧屏 MateTV 2 Pro 75 英寸"
+    },
+    "HD8XEDIM": {
+        "brand": "华为",
+        "model": "华为智慧屏 MateTV 2 Pro 85 英寸"
+    },
+    "HD98EDIM": {
+        "brand": "华为",
+        "model": "华为智慧屏 MateTV 2 Pro 98 英寸"
+    },
+    "HD1XEDIM": {
+        "brand": "华为",
+        "model": "华为智慧屏 MateTV 2 Max 110 英寸"
+    },
     "HD55KANB": {
         "brand": "华为",
         "model": "华为智慧屏 S 55 60Hz (3GB+16GB)"
@@ -3683,17 +3727,33 @@
         "brand": "华为",
         "model": "华为 Vision 智慧屏 6 65"
     },
+    "HD1XWATN": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 6 悦享版 65"
+    },
     "HD7XWATN": {
         "brand": "华为",
         "model": "华为 Vision 智慧屏 6 75"
+    },
+    "HD77WATN": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 6 悦享版 75"
     },
     "HD8XWATN": {
         "brand": "华为",
         "model": "华为 Vision 智慧屏 6 85"
     },
+    "HD85WATN": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 6 悦享版 85"
+    },
     "HD9XWATN": {
         "brand": "华为",
         "model": "华为 Vision 智慧屏 6 98"
+    },
+    "HD98WATN": {
+        "brand": "华为",
+        "model": "华为 Vision 智慧屏 6 悦享版 98"
     },
     "HD55KLY26A": {
         "brand": "华为",
@@ -4110,6 +4170,10 @@
     "SYA-B19B": {
         "brand": "华为",
         "model": "华为擎云 H3540"
+    },
+    "NKI-B19B": {
+        "brand": "华为",
+        "model": "华为擎云 H3550"
     },
     "PNX-B19B": {
         "brand": "华为",
