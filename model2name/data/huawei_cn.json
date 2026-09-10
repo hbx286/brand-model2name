@@ -287,6 +287,10 @@
         "brand": "华为",
         "model": "HUAWEI Mate 80"
     },
+    "VYG-AL30": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 80"
+    },
     "SGT-AL50": {
         "brand": "华为",
         "model": "HUAWEI Mate 80 Pro (麒麟 9030)"
@@ -3471,13 +3475,25 @@
         "brand": "华为",
         "model": "华为智慧屏 S7 55"
     },
+    "HD55KLY26C": {
+        "brand": "华为",
+        "model": "华为智慧屏 S7 RGB 55"
+    },
     "HD65KLY26B": {
         "brand": "华为",
         "model": "华为智慧屏 S7 65"
     },
+    "HD65KLY26C": {
+        "brand": "华为",
+        "model": "华为智慧屏 S7 RGB 65"
+    },
     "HD75KLY26B": {
         "brand": "华为",
         "model": "华为智慧屏 S7 75"
+    },
+    "HD75KLY26C": {
+        "brand": "华为",
+        "model": "华为智慧屏 S7 RGB 75"
     },
     "HD85KLY26B": {
         "brand": "华为",
