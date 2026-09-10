@@ -1391,6 +1391,22 @@
         "brand": "苹果",
         "model": "iPad mini (A17 Pro) (无线局域网 + 蜂窝网络) (中国大陆)"
     },
+    "A1603": {
+        "brand": "苹果",
+        "model": "Apple Pencil (第 1 代)"
+    },
+    "A2051": {
+        "brand": "苹果",
+        "model": "Apple Pencil (第 2 代)"
+    },
+    "A3085": {
+        "brand": "苹果",
+        "model": "Apple Pencil (USB-C)"
+    },
+    "A2538": {
+        "brand": "苹果",
+        "model": "Apple Pencil Pro"
+    },
     "A1553": {
         "brand": "苹果",
         "model": "Apple Watch (第 1 代, 38 毫米表壳)"
@@ -1866,5 +1882,357 @@
     "A2178": {
         "brand": "苹果",
         "model": "iPod touch (第 7 代)"
+    },
+    "A2337": {
+        "brand": "苹果",
+        "model": "MacBook Air (M1)"
+    },
+    "A2681": {
+        "brand": "苹果",
+        "model": "MacBook Air (M2)"
+    },
+    "A2941": {
+        "brand": "苹果",
+        "model": "MacBook Air (15 英寸, M2)"
+    },
+    "A3113": {
+        "brand": "苹果",
+        "model": "MacBook Air (13 英寸, M3)"
+    },
+    "A3114": {
+        "brand": "苹果",
+        "model": "MacBook Air (15 英寸, M3)"
+    },
+    "A3240": {
+        "brand": "苹果",
+        "model": "MacBook Air (13 英寸, M4)"
+    },
+    "A3241": {
+        "brand": "苹果",
+        "model": "MacBook Air (15 英寸, M4)"
+    },
+    "A3449": {
+        "brand": "苹果",
+        "model": "MacBook Air (13 英寸, M5)"
+    },
+    "A3448": {
+        "brand": "苹果",
+        "model": "MacBook Air (15 英寸, M5)"
+    },
+    "A3404": {
+        "brand": "苹果",
+        "model": "MacBook Neo (A18 Pro)"
+    },
+    "A2338": {
+        "brand": "苹果",
+        "model": "MacBook Pro (13 英寸, M2)"
+    },
+    "A2442": {
+        "brand": "苹果",
+        "model": "MacBook Pro (14 英寸, M1 Max)"
+    },
+    "A2485": {
+        "brand": "苹果",
+        "model": "MacBook Pro (16 英寸, M1 Max)"
+    },
+    "A2779": {
+        "brand": "苹果",
+        "model": "MacBook Pro (14 英寸, M2 Max)"
+    },
+    "A2780": {
+        "brand": "苹果",
+        "model": "MacBook Pro (16 英寸, M2 Max)"
+    },
+    "A2918": {
+        "brand": "苹果",
+        "model": "MacBook Pro (14 英寸, M3)"
+    },
+    "A2992": {
+        "brand": "苹果",
+        "model": "MacBook Pro (14 英寸, M3 Max, 16 核)"
+    },
+    "A2991": {
+        "brand": "苹果",
+        "model": "MacBook Pro (16 英寸, M3 Max, 16 核)"
+    },
+    "A3112": {
+        "brand": "苹果",
+        "model": "MacBook Pro (14 英寸, M4)"
+    },
+    "A3401": {
+        "brand": "苹果",
+        "model": "MacBook Pro (14 英寸, M4 Pro)"
+    },
+    "A3185": {
+        "brand": "苹果",
+        "model": "MacBook Pro (14 英寸, M4 Max)"
+    },
+    "A3403": {
+        "brand": "苹果",
+        "model": "MacBook Pro (16 英寸, M4 Pro)"
+    },
+    "A3186": {
+        "brand": "苹果",
+        "model": "MacBook Pro (16 英寸, M4 Max)"
+    },
+    "A3434": {
+        "brand": "苹果",
+        "model": "MacBook Pro (14 英寸, M5)"
+    },
+    "A3426": {
+        "brand": "苹果",
+        "model": "MacBook Pro (14 英寸, M5 Pro)"
+    },
+    "A3427": {
+        "brand": "苹果",
+        "model": "MacBook Pro (14 英寸, M5 Max)"
+    },
+    "A3428": {
+        "brand": "苹果",
+        "model": "MacBook Pro (16 英寸, M5 Pro)"
+    },
+    "A3429": {
+        "brand": "苹果",
+        "model": "MacBook Pro (16 英寸, M5 Max)"
+    },
+    "A2438": {
+        "brand": "苹果",
+        "model": "iMac (24 英寸, M1) (2 个 USB-C 端口)"
+    },
+    "A2439": {
+        "brand": "苹果",
+        "model": "iMac (24 英寸, M1) (4 个 USB-C 端口)"
+    },
+    "A2874": {
+        "brand": "苹果",
+        "model": "iMac (24 英寸, M3) (2 个 USB-C 端口)"
+    },
+    "A2873": {
+        "brand": "苹果",
+        "model": "iMac (24 英寸, M3) (4 个 USB-C 端口)"
+    },
+    "A3247": {
+        "brand": "苹果",
+        "model": "iMac (24 英寸, M4) (2 个 USB-C 端口)"
+    },
+    "A3137": {
+        "brand": "苹果",
+        "model": "iMac (24 英寸, M4) (4 个 USB-C 端口)"
+    },
+    "A2348": {
+        "brand": "苹果",
+        "model": "Mac mini (M1)"
+    },
+    "A2686": {
+        "brand": "苹果",
+        "model": "Mac mini (M2)"
+    },
+    "A2816": {
+        "brand": "苹果",
+        "model": "Mac mini (M2 Pro)"
+    },
+    "A3238": {
+        "brand": "苹果",
+        "model": "Mac mini (M4)"
+    },
+    "A3239": {
+        "brand": "苹果",
+        "model": "Mac mini (M4 Pro)"
+    },
+    "A3534": {
+        "brand": "苹果",
+        "model": "Mac mini (M6)"
+    },
+    "A3535": {
+        "brand": "苹果",
+        "model": "Mac mini (M5 Pro)"
+    },
+    "A2615": {
+        "brand": "苹果",
+        "model": "Mac Studio (M1 Ultra)"
+    },
+    "A2901": {
+        "brand": "苹果",
+        "model": "Mac Studio (M2 Ultra)"
+    },
+    "A3143": {
+        "brand": "苹果",
+        "model": "Mac Studio (M4 Max)"
+    },
+    "A3389": {
+        "brand": "苹果",
+        "model": "Mac Studio (M3 Ultra)"
+    },
+    "A3545": {
+        "brand": "苹果",
+        "model": "Mac Studio (M5 Max)"
+    },
+    "A3546": {
+        "brand": "苹果",
+        "model": "Mac Studio (M5 Ultra)"
+    },
+    "A2786": {
+        "brand": "苹果",
+        "model": "Mac Pro (2023) (塔式)"
+    },
+    "A2787": {
+        "brand": "苹果",
+        "model": "Mac Pro (2023) (机架式)"
+    },
+    "A1999": {
+        "brand": "苹果",
+        "model": "Pro Display XDR"
+    },
+    "A2525": {
+        "brand": "苹果",
+        "model": "Studio Display"
+    },
+    "A3350": {
+        "brand": "苹果",
+        "model": "Studio Display (2026)"
+    },
+    "A3348": {
+        "brand": "苹果",
+        "model": "Studio Display XDR"
+    },
+    "A1523": {
+        "brand": "苹果",
+        "model": "AirPods (第 1 代) (右耳塞)"
+    },
+    "A1722": {
+        "brand": "苹果",
+        "model": "AirPods (第 1 代) (左耳塞)"
+    },
+    "A1602": {
+        "brand": "苹果",
+        "model": "AirPods (第 1 代) (充电盒)"
+    },
+    "A2031": {
+        "brand": "苹果",
+        "model": "AirPods (第 2 代) (左耳塞)"
+    },
+    "A2032": {
+        "brand": "苹果",
+        "model": "AirPods (第 2 代) (右耳塞)"
+    },
+    "A1938": {
+        "brand": "苹果",
+        "model": "AirPods (第 2 代) (无线充电盒)"
+    },
+    "A2564": {
+        "brand": "苹果",
+        "model": "AirPods (第 3 代) (左耳塞)"
+    },
+    "A2565": {
+        "brand": "苹果",
+        "model": "AirPods (第 3 代) (右耳塞)"
+    },
+    "A2566": {
+        "brand": "苹果",
+        "model": "AirPods (第 3 代) (MagSafe 充电盒)"
+    },
+    "A3053": {
+        "brand": "苹果",
+        "model": "AirPods 4 (左耳塞)"
+    },
+    "A3050": {
+        "brand": "苹果",
+        "model": "AirPods 4 (右耳塞)"
+    },
+    "A3058": {
+        "brand": "苹果",
+        "model": "AirPods 4 (充电盒)"
+    },
+    "A3056": {
+        "brand": "苹果",
+        "model": "AirPods 4 (主动降噪版) (左耳塞)"
+    },
+    "A3055": {
+        "brand": "苹果",
+        "model": "AirPods 4 (主动降噪版) (右耳塞)"
+    },
+    "A3059": {
+        "brand": "苹果",
+        "model": "AirPods 4 (主动降噪版) (充电盒)"
+    },
+    "A2083": {
+        "brand": "苹果",
+        "model": "AirPods Pro (左耳塞)"
+    },
+    "A2084": {
+        "brand": "苹果",
+        "model": "AirPods Pro (右耳塞)"
+    },
+    "A2190": {
+        "brand": "苹果",
+        "model": "AirPods Pro (MagSafe 充电盒)"
+    },
+    "A2699": {
+        "brand": "苹果",
+        "model": "AirPods Pro (第 2 代) (左耳塞)"
+    },
+    "A2698": {
+        "brand": "苹果",
+        "model": "AirPods Pro (第 2 代) (右耳塞)"
+    },
+    "A2700": {
+        "brand": "苹果",
+        "model": "AirPods Pro (第 2 代) (MagSafe 充电盒)"
+    },
+    "A3047": {
+        "brand": "苹果",
+        "model": "AirPods Pro (第 2 代, USB-C) (左耳塞)"
+    },
+    "A3048": {
+        "brand": "苹果",
+        "model": "AirPods Pro (第 2 代, USB-C) (右耳塞)"
+    },
+    "A2968": {
+        "brand": "苹果",
+        "model": "AirPods Pro (第 2 代, USB-C) (USB-C 充电盒)"
+    },
+    "A3064": {
+        "brand": "苹果",
+        "model": "AirPods Pro 3 (左耳塞)"
+    },
+    "A3063": {
+        "brand": "苹果",
+        "model": "AirPods Pro 3 (右耳塞)"
+    },
+    "A3122": {
+        "brand": "苹果",
+        "model": "AirPods Pro 3 (充电盒)"
+    },
+    "A2096": {
+        "brand": "苹果",
+        "model": "AirPods Max (闪电接口)"
+    },
+    "A3184": {
+        "brand": "苹果",
+        "model": "AirPods Max (USB-C)"
+    },
+    "A3454": {
+        "brand": "苹果",
+        "model": "AirPods Max 2"
+    },
+    "A2187": {
+        "brand": "苹果",
+        "model": "AirTag"
+    },
+    "A2937": {
+        "brand": "苹果",
+        "model": "AirTag (第 2 代)"
+    },
+    "A1639": {
+        "brand": "苹果",
+        "model": "HomePod"
+    },
+    "A2374": {
+        "brand": "苹果",
+        "model": "HomePod mini"
+    },
+    "A2825": {
+        "brand": "苹果",
+        "model": "HomePod (第 2 代)"
     }
 }

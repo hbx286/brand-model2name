@@ -177,7 +177,7 @@
     },
     "IN2019": {
         "brand": "一加",
-        "model": "OnePlus 8 Visible / Verzion"
+        "model": "OnePlus 8 Visible / Verizon"
     },
     "IN2020": {
         "brand": "一加",
@@ -245,7 +245,7 @@
     },
     "LE2119": {
         "brand": "一加",
-        "model": "OnePlus 9 Verzion"
+        "model": "OnePlus 9 Verizon"
     },
     "LE2120": {
         "brand": "一加",
@@ -685,15 +685,15 @@
     },
     "GN2200": {
         "brand": "一加",
-        "model": "OnePlus Nord N20"
+        "model": "OnePlus Nord N20 North America Carrier Version"
     },
     "CPH2459": {
         "brand": "一加",
-        "model": "OnePlus Nord N20"
+        "model": "OnePlus Nord N20 North America Unlocked Version"
     },
     "CPH2469": {
         "brand": "一加",
-        "model": "OnePlus Nord 20 SE"
+        "model": "OnePlus Nord N20 SE Global"
     },
     "CPH2605": {
         "brand": "一加",
@@ -709,11 +709,11 @@
     },
     "CPH2389": {
         "brand": "一加",
-        "model": "OnePlus Nord N300"
+        "model": "OnePlus Nord N300 North America"
     },
     "CPH2551": {
         "brand": "一加",
-        "model": "OnePlus Open"
+        "model": "OnePlus Open Global"
     },
     "OPD2203": {
         "brand": "一加",
@@ -721,11 +721,11 @@
     },
     "OPD2304": {
         "brand": "一加",
-        "model": "OnePlus Pad Go LTE"
+        "model": "OnePlus Pad Go LTE Global"
     },
     "OPD2305": {
         "brand": "一加",
-        "model": "OnePlus Pad Go Wi-Fi"
+        "model": "OnePlus Pad Go Wi-Fi Global"
     },
     "OPD2407": {
         "brand": "一加",
@@ -749,19 +749,19 @@
     },
     "OPD2480": {
         "brand": "一加",
-        "model": "OnePlus Pad Lite Wi-Fi"
+        "model": "OnePlus Pad Lite Wi-Fi Global"
     },
     "OPD2481": {
         "brand": "一加",
-        "model": "OnePlus Pad Lite LTE"
+        "model": "OnePlus Pad Lite LTE Global"
     },
     "OPD2504": {
         "brand": "一加",
-        "model": "OnePlus Pad Go 2 Wi-Fi"
+        "model": "OnePlus Pad Go 2 Wi-Fi Global"
     },
     "OPD2505": {
         "brand": "一加",
-        "model": "OnePlus Pad Go 2 5G"
+        "model": "OnePlus Pad Go 2 5G Global"
     },
     "OPD2508": {
         "brand": "一加",
@@ -781,7 +781,7 @@
     },
     "OPBBE221": {
         "brand": "一加",
-        "model": "OnePlus Nord Watch"
+        "model": "OnePlus Nord Watch India"
     },
     "W301CN": {
         "brand": "一加",
