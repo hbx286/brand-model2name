@@ -815,6 +815,54 @@
         "brand": "苹果",
         "model": "iPhone 17e (Rest of the world)"
     },
+    "A3472": {
+        "brand": "苹果",
+        "model": "iPhone 18 Pro (United States)"
+    },
+    "A3713": {
+        "brand": "苹果",
+        "model": "iPhone 18 Pro (Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)"
+    },
+    "A3715": {
+        "brand": "苹果",
+        "model": "iPhone 18 Pro (China mainland)"
+    },
+    "A3714": {
+        "brand": "苹果",
+        "model": "iPhone 18 Pro (Rest of the world)"
+    },
+    "A3473": {
+        "brand": "苹果",
+        "model": "iPhone 18 Pro Max (United States)"
+    },
+    "A3716": {
+        "brand": "苹果",
+        "model": "iPhone 18 Pro Max (Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)"
+    },
+    "A3718": {
+        "brand": "苹果",
+        "model": "iPhone 18 Pro Max (China mainland)"
+    },
+    "A3717": {
+        "brand": "苹果",
+        "model": "iPhone 18 Pro Max (Rest of the world)"
+    },
+    "A3447": {
+        "brand": "苹果",
+        "model": "iPhone Duo (United States)"
+    },
+    "A3719": {
+        "brand": "苹果",
+        "model": "iPhone Duo (Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)"
+    },
+    "A3721": {
+        "brand": "苹果",
+        "model": "iPhone Duo (China mainland)"
+    },
+    "A3720": {
+        "brand": "苹果",
+        "model": "iPhone Duo (Rest of the world)"
+    },
     "A1219": {
         "brand": "苹果",
         "model": "iPad Wi-Fi"
@@ -1687,6 +1735,38 @@
         "brand": "苹果",
         "model": "Apple Watch Series 11 (GPS + Cellular) (46mm case) (China mainland)"
     },
+    "A3581": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 12 (GPS) (42mm case) (Global)"
+    },
+    "A3583": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 12 (GPS) (42mm case) (China mainland)"
+    },
+    "A3584": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 12 (GPS) (46mm case) (Global)"
+    },
+    "A3585": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 12 (GPS) (46mm case) (China mainland)"
+    },
+    "A3582": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 12 (GPS + Cellular) (42mm case) (Global)"
+    },
+    "A3586": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 12 (GPS + Cellular) (42mm case) (China mainland)"
+    },
+    "A3587": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 12 (GPS + Cellular) (46mm case) (Global)"
+    },
+    "A3588": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 12 (GPS + Cellular) (46mm case) (China mainland)"
+    },
     "A2351": {
         "brand": "苹果",
         "model": "Apple Watch SE (GPS) (40mm case)"
@@ -1802,6 +1882,14 @@
     "A3282": {
         "brand": "苹果",
         "model": "Apple Watch Ultra 3 (China mainland)"
+    },
+    "A3579": {
+        "brand": "苹果",
+        "model": "Apple Watch Ultra 4 (Global)"
+    },
+    "A3580": {
+        "brand": "苹果",
+        "model": "Apple Watch Ultra 4 (China mainland)"
     },
     "A1218": {
         "brand": "苹果",
@@ -2154,6 +2242,30 @@
     "A3059": {
         "brand": "苹果",
         "model": "AirPods 4 (ANC) (charging case)"
+    },
+    "A3531": {
+        "brand": "苹果",
+        "model": "AirPods 5 (left AirPod)"
+    },
+    "A3532": {
+        "brand": "苹果",
+        "model": "AirPods 5 (right AirPod)"
+    },
+    "A3530": {
+        "brand": "苹果",
+        "model": "AirPods 5 (charging case)"
+    },
+    "A3440": {
+        "brand": "苹果",
+        "model": "AirPods 5 (Wireless Charging Case) (left AirPod)"
+    },
+    "A3439": {
+        "brand": "苹果",
+        "model": "AirPods 5 (Wireless Charging Case) (right AirPod)"
+    },
+    "A3529": {
+        "brand": "苹果",
+        "model": "AirPods 5 (Wireless Charging Case) (charging case)"
     },
     "A2083": {
         "brand": "苹果",

@@ -815,6 +815,54 @@
         "brand": "苹果",
         "model": "iPhone 17e (其他国家和地区)"
     },
+    "A3472": {
+        "brand": "苹果",
+        "model": "iPhone 18 Pro (美国)"
+    },
+    "A3713": {
+        "brand": "苹果",
+        "model": "iPhone 18 Pro (加拿大, 日本, 墨西哥, 部分中东国家)"
+    },
+    "A3715": {
+        "brand": "苹果",
+        "model": "iPhone 18 Pro (中国大陆)"
+    },
+    "A3714": {
+        "brand": "苹果",
+        "model": "iPhone 18 Pro (其他国家和地区)"
+    },
+    "A3473": {
+        "brand": "苹果",
+        "model": "iPhone 18 Pro Max (美国)"
+    },
+    "A3716": {
+        "brand": "苹果",
+        "model": "iPhone 18 Pro Max (加拿大, 日本, 墨西哥, 部分中东国家)"
+    },
+    "A3718": {
+        "brand": "苹果",
+        "model": "iPhone 18 Pro Max (中国大陆)"
+    },
+    "A3717": {
+        "brand": "苹果",
+        "model": "iPhone 18 Pro Max (其他国家和地区)"
+    },
+    "A3447": {
+        "brand": "苹果",
+        "model": "iPhone Duo (美国)"
+    },
+    "A3719": {
+        "brand": "苹果",
+        "model": "iPhone Duo (加拿大, 日本, 墨西哥, 部分中东国家)"
+    },
+    "A3721": {
+        "brand": "苹果",
+        "model": "iPhone Duo (中国大陆)"
+    },
+    "A3720": {
+        "brand": "苹果",
+        "model": "iPhone Duo (其他国家和地区)"
+    },
     "A1219": {
         "brand": "苹果",
         "model": "iPad (无线局域网)"
@@ -1687,6 +1735,38 @@
         "brand": "苹果",
         "model": "Apple Watch Series 11 (GPS + 蜂窝网络) (46 毫米表壳) (中国大陆)"
     },
+    "A3581": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 12 (GPS) (42 毫米表壳) (全球)"
+    },
+    "A3583": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 12 (GPS) (42 毫米表壳) (中国大陆)"
+    },
+    "A3584": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 12 (GPS) (46 毫米表壳) (全球)"
+    },
+    "A3585": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 12 (GPS) (46 毫米表壳) (中国大陆)"
+    },
+    "A3582": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 12 (GPS + 蜂窝网络) (42 毫米表壳) (全球)"
+    },
+    "A3586": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 12 (GPS + 蜂窝网络) (42 毫米表壳) (中国大陆)"
+    },
+    "A3587": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 12 (GPS + 蜂窝网络) (46 毫米表壳) (全球)"
+    },
+    "A3588": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 12 (GPS + 蜂窝网络) (46 毫米表壳) (中国大陆)"
+    },
     "A2351": {
         "brand": "苹果",
         "model": "Apple Watch SE (GPS) (40 毫米表壳)"
@@ -1802,6 +1882,14 @@
     "A3282": {
         "brand": "苹果",
         "model": "Apple Watch Ultra 3 (中国大陆)"
+    },
+    "A3579": {
+        "brand": "苹果",
+        "model": "Apple Watch Ultra 4 (全球)"
+    },
+    "A3580": {
+        "brand": "苹果",
+        "model": "Apple Watch Ultra 4 (中国大陆)"
     },
     "A1218": {
         "brand": "苹果",
@@ -2154,6 +2242,30 @@
     "A3059": {
         "brand": "苹果",
         "model": "AirPods 4 (主动降噪版) (充电盒)"
+    },
+    "A3531": {
+        "brand": "苹果",
+        "model": "AirPods 5 (左耳塞)"
+    },
+    "A3532": {
+        "brand": "苹果",
+        "model": "AirPods 5 (右耳塞)"
+    },
+    "A3530": {
+        "brand": "苹果",
+        "model": "AirPods 5 (充电盒)"
+    },
+    "A3440": {
+        "brand": "苹果",
+        "model": "AirPods 5 (配无线充电盒) (左耳塞)"
+    },
+    "A3439": {
+        "brand": "苹果",
+        "model": "AirPods 5 (配无线充电盒) (右耳塞)"
+    },
+    "A3529": {
+        "brand": "苹果",
+        "model": "AirPods 5 (配无线充电盒) (充电盒)"
     },
     "A2083": {
         "brand": "苹果",

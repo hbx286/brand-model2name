@@ -291,6 +291,18 @@
         "brand": "苹果",
         "model": "iPhone 17e"
     },
+    "A3715": {
+        "brand": "苹果",
+        "model": "iPhone 18 Pro"
+    },
+    "A3718": {
+        "brand": "苹果",
+        "model": "iPhone 18 Pro Max"
+    },
+    "A3721": {
+        "brand": "苹果",
+        "model": "iPhone Duo"
+    },
     "A1219": {
         "brand": "苹果",
         "model": "iPad (无线局域网)"
@@ -863,6 +875,22 @@
         "brand": "苹果",
         "model": "Apple Watch Series 11 (GPS + 蜂窝网络) (46 毫米表壳)"
     },
+    "A3583": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 12 (GPS) (42 毫米表壳)"
+    },
+    "A3585": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 12 (GPS) (46 毫米表壳)"
+    },
+    "A3586": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 12 (GPS + 蜂窝网络) (42 毫米表壳)"
+    },
+    "A3588": {
+        "brand": "苹果",
+        "model": "Apple Watch Series 12 (GPS + 蜂窝网络) (46 毫米表壳)"
+    },
     "A2351": {
         "brand": "苹果",
         "model": "Apple Watch SE (GPS) (40 毫米表壳)"
@@ -922,6 +950,10 @@
     "A3282": {
         "brand": "苹果",
         "model": "Apple Watch Ultra 3"
+    },
+    "A3580": {
+        "brand": "苹果",
+        "model": "Apple Watch Ultra 4"
     },
     "A2117": {
         "brand": "苹果",
@@ -1234,6 +1266,30 @@
     "A3059": {
         "brand": "苹果",
         "model": "AirPods 4 (主动降噪版) (充电盒)"
+    },
+    "A3531": {
+        "brand": "苹果",
+        "model": "AirPods 5 (左耳塞)"
+    },
+    "A3532": {
+        "brand": "苹果",
+        "model": "AirPods 5 (右耳塞)"
+    },
+    "A3530": {
+        "brand": "苹果",
+        "model": "AirPods 5 (充电盒)"
+    },
+    "A3440": {
+        "brand": "苹果",
+        "model": "AirPods 5 (配无线充电盒) (左耳塞)"
+    },
+    "A3439": {
+        "brand": "苹果",
+        "model": "AirPods 5 (配无线充电盒) (右耳塞)"
+    },
+    "A3529": {
+        "brand": "苹果",
+        "model": "AirPods 5 (无线充电盒)"
     },
     "A2083": {
         "brand": "苹果",
