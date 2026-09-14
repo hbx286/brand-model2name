@@ -1055,6 +1055,26 @@
         "brand": "小米",
         "model": "Xiaomi Pad 8 Pro 国际版"
     },
+    "M656BA": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 9 国行版"
+    },
+    "26103RP65G": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 9 国际版"
+    },
+    "26103RP65I": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 9 印度版"
+    },
+    "2612CRPFFC": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 9 Pro 国行版"
+    },
+    "2612CRPFFG": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 9 Pro 国际版"
+    },
     "M367FC": {
         "brand": "小米",
         "model": "Xiaomi Pad 9 Pro Max"
@@ -3265,7 +3285,7 @@
     },
     "M1805E10A": {
         "brand": "小米",
-        "model": "POCO F1"
+        "model": "POCO F1 国际版"
     },
     "M2004J11G": {
         "brand": "小米",

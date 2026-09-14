@@ -287,6 +287,26 @@
         "brand": "vivo",
         "model": "vivo X Fold6"
     },
+    "V2609A": {
+        "brand": "vivo",
+        "model": "vivo X500"
+    },
+    "V2608A": {
+        "brand": "vivo",
+        "model": "vivo X500 Pro"
+    },
+    "V2608DA": {
+        "brand": "vivo",
+        "model": "vivo X500 Pro eSIM 版"
+    },
+    "V2602A": {
+        "brand": "vivo",
+        "model": "vivo X500 Pro Max"
+    },
+    "V2602DA": {
+        "brand": "vivo",
+        "model": "vivo X500 Pro Max 卫星通信版"
+    },
     "V1831A": {
         "brand": "vivo",
         "model": "vivo S1 全网通版"
@@ -1303,6 +1323,10 @@
         "brand": "vivo",
         "model": "iQOO Pad6 Pro"
     },
+    "iPA2691": {
+        "brand": "vivo",
+        "model": "iQOO Pad Ultra"
+    },
     "WA2052": {
         "brand": "vivo",
         "model": "vivo WATCH 42mm"
@@ -1346,6 +1370,14 @@
     "WA2536B": {
         "brand": "vivo",
         "model": "vivo WATCH GT 2 eSIM 版"
+    },
+    "WA2656A": {
+        "brand": "vivo",
+        "model": "vivo WATCH 6 蓝牙版"
+    },
+    "WA2656B": {
+        "brand": "vivo",
+        "model": "vivo WATCH 6 eSIM 版"
     },
     "iWA2356A": {
         "brand": "vivo",

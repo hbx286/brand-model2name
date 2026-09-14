@@ -2997,7 +2997,7 @@
     },
     "M1805E10A": {
         "brand": "小米",
-        "model": "POCO F1"
+        "model": "POCO F1 Global"
     },
     "M2004J11G": {
         "brand": "小米",
@@ -3590,6 +3590,26 @@
     "25091RP04C": {
         "brand": "小米",
         "model": "Xiaomi Pad 8 Pro China"
+    },
+    "26103RP65G": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 9 Global"
+    },
+    "26103RP65I": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 9 India"
+    },
+    "M656BA": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 9 China"
+    },
+    "2612CRPFFG": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 9 Pro Global"
+    },
+    "2612CRPFFC": {
+        "brand": "小米",
+        "model": "Xiaomi Pad 9 Pro China"
     },
     "M367FC": {
         "brand": "小米",

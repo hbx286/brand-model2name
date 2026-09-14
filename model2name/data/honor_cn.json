@@ -159,6 +159,22 @@
         "brand": "荣耀",
         "model": "荣耀 Magic V6 (16GB+1TB)"
     },
+    "MLY-AN00": {
+        "brand": "荣耀",
+        "model": "荣耀 Magic9"
+    },
+    "MLM-AN00": {
+        "brand": "荣耀",
+        "model": "荣耀 Magic9 超能版"
+    },
+    "WKL-AN20": {
+        "brand": "荣耀",
+        "model": "荣耀 Magic9 Pro Max"
+    },
+    "WKL-AN80": {
+        "brand": "荣耀",
+        "model": "荣耀 Magic9 Pro Max (16GB+1TB)"
+    },
     "APH-AN00": {
         "brand": "荣耀",
         "model": "荣耀 Robot Phone"
@@ -2407,9 +2423,17 @@
         "brand": "荣耀",
         "model": "荣耀手表 X5i"
     },
+    "WSS-B19": {
+        "brand": "荣耀",
+        "model": "荣耀手表 X5s"
+    },
     "ROM-B19": {
         "brand": "荣耀",
         "model": "荣耀手表 6 Plus"
+    },
+    "HLO-B19": {
+        "brand": "荣耀",
+        "model": "荣耀手表 6 Pro"
     },
     "NYX-B10HN": {
         "brand": "荣耀",

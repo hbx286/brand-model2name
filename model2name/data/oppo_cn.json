@@ -119,6 +119,18 @@
         "brand": "oppo",
         "model": "OPPO Find X9 Ultra 卫星通信版"
     },
+    "PMW110": {
+        "brand": "oppo",
+        "model": "OPPO Find X10"
+    },
+    "PNA110": {
+        "brand": "oppo",
+        "model": "OPPO Find X10 E"
+    },
+    "PMX110": {
+        "brand": "oppo",
+        "model": "OPPO Find X10 Pro Max"
+    },
     "PEUM00": {
         "brand": "oppo",
         "model": "OPPO Find N"
@@ -1026,5 +1038,9 @@
     "OWW263": {
         "brand": "oppo",
         "model": "OPPO Watch X3 Mini"
+    },
+    "OWW265": {
+        "brand": "oppo",
+        "model": "OPPO Watch S2"
     }
 }
