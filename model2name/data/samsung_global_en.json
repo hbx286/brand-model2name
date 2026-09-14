@@ -1043,6 +1043,26 @@
         "brand": "三星",
         "model": "Galaxy S26 Ultra Japan (NTT Docomo)"
     },
+    "SM-S741B": {
+        "brand": "三星",
+        "model": "Galaxy S26 FE Global"
+    },
+    "SM-S741U": {
+        "brand": "三星",
+        "model": "Galaxy S26 FE US Carrier"
+    },
+    "SM-S741U1": {
+        "brand": "三星",
+        "model": "Galaxy S26 FE US Unlocked"
+    },
+    "SM-S741W": {
+        "brand": "三星",
+        "model": "Galaxy S26 FE Canada"
+    },
+    "SM-S741N": {
+        "brand": "三星",
+        "model": "Galaxy S26 FE South Korea"
+    },
     "SM-N960F": {
         "brand": "三星",
         "model": "Galaxy Note9 Global"
@@ -2107,6 +2127,22 @@
         "brand": "三星",
         "model": "Galaxy A07 5G Latin America"
     },
+    "SM-A077F": {
+        "brand": "三星",
+        "model": "Galaxy A07s Global"
+    },
+    "SM-A077M": {
+        "brand": "三星",
+        "model": "Galaxy A07s Latin America"
+    },
+    "SM-A085F": {
+        "brand": "三星",
+        "model": "Galaxy A08 Global"
+    },
+    "SM-A085M": {
+        "brand": "三星",
+        "model": "Galaxy A08 Latin America"
+    },
     "SM-A105F": {
         "brand": "三星",
         "model": "Galaxy A10 Global"
@@ -2446,6 +2482,18 @@
     "SM-A1760": {
         "brand": "三星",
         "model": "Galaxy A17 5G HK & TW"
+    },
+    "SM-A185F": {
+        "brand": "三星",
+        "model": "Galaxy A18 Global (Exynos)"
+    },
+    "SM-A185N": {
+        "brand": "三星",
+        "model": "Galaxy A18 South Korea"
+    },
+    "SM-A185G": {
+        "brand": "三星",
+        "model": "Galaxy A18 Global (MediaTek)"
     },
     "SM-A260F": {
         "brand": "三星",
@@ -3495,6 +3543,10 @@
         "brand": "三星",
         "model": "Galaxy M07"
     },
+    "SM-M085F": {
+        "brand": "三星",
+        "model": "Galaxy M08"
+    },
     "SM-M105G": {
         "brand": "三星",
         "model": "Galaxy M10 Global"
@@ -3763,6 +3815,10 @@
         "brand": "三星",
         "model": "Galaxy F07"
     },
+    "SM-E085F": {
+        "brand": "三星",
+        "model": "Galaxy F08"
+    },
     "SM-F127G": {
         "brand": "三星",
         "model": "Galaxy F12"
@@ -3838,5 +3894,9 @@
     "SM-E076B": {
         "brand": "三星",
         "model": "Galaxy F70e 5G"
+    },
+    "SM-E476B": {
+        "brand": "三星",
+        "model": "Galaxy F70 Pro 5G"
     }
 }
