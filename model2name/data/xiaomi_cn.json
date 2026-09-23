@@ -351,6 +351,14 @@
         "brand": "",
         "model": "Xiaomi 17T Pro"
     },
+    "M610BB": {
+        "brand": "",
+        "model": "Xiaomi 18 Pro"
+    },
+    "M154FF": {
+        "brand": "",
+        "model": "Xiaomi 18 Pro Max"
+    },
     "2608BPX34C": {
         "brand": "",
         "model": "Xiaomi 18 Fold"
@@ -1437,7 +1445,7 @@
     },
     "23073RPBFC": {
         "brand": "",
-        "model": "Redmi Pad M7"
+        "model": "Redmi Pad SE / Redmi Pad M7"
     },
     "2405CRPFDC": {
         "brand": "",

@@ -683,6 +683,34 @@
         "brand": "小米",
         "model": "Xiaomi 17T Pro 日本版 (无锁)"
     },
+    "M610BB": {
+        "brand": "小米",
+        "model": "Xiaomi 18 Pro 国行版"
+    },
+    "2609BPN61G": {
+        "brand": "小米",
+        "model": "Xiaomi 18 Pro 国际版"
+    },
+    "2609BPN61I": {
+        "brand": "小米",
+        "model": "Xiaomi 18 Pro 印度版"
+    },
+    "M154FF": {
+        "brand": "小米",
+        "model": "Xiaomi 18 Pro Max 国行版"
+    },
+    "2611FPNFAG": {
+        "brand": "小米",
+        "model": "Xiaomi 18 Pro Max 国际版"
+    },
+    "2611FPNFAI": {
+        "brand": "小米",
+        "model": "Xiaomi 18 Pro Max 印度版"
+    },
+    "2611FPNFAR": {
+        "brand": "小米",
+        "model": "Xiaomi 18 Pro Max 日本版"
+    },
     "2608BPX34C": {
         "brand": "小米",
         "model": "Xiaomi 18 Fold"
@@ -3149,7 +3177,7 @@
     },
     "23073RPBFC": {
         "brand": "小米",
-        "model": "Redmi Pad M7"
+        "model": "Redmi Pad SE 国行版 / Redmi Pad M7"
     },
     "23073RPBFG": {
         "brand": "小米",
@@ -3270,10 +3298,6 @@
     "2604ERP4DG": {
         "brand": "小米",
         "model": "REDMI Pad 2 9.7 4G 国际版"
-    },
-    "2604ERP4DI": {
-        "brand": "小米",
-        "model": "REDMI Pad 2 9.7 4G 印度版"
     },
     "25079RPDCC": {
         "brand": "小米",

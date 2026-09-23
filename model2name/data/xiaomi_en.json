@@ -683,6 +683,34 @@
         "brand": "小米",
         "model": "Xiaomi 17T Pro China"
     },
+    "2609BPN61G": {
+        "brand": "小米",
+        "model": "Xiaomi 18 Pro Global"
+    },
+    "2609BPN61I": {
+        "brand": "小米",
+        "model": "Xiaomi 18 Pro India"
+    },
+    "M610BB": {
+        "brand": "小米",
+        "model": "Xiaomi 18 Pro China"
+    },
+    "2611FPNFAG": {
+        "brand": "小米",
+        "model": "Xiaomi 18 Pro Max Global"
+    },
+    "2611FPNFAI": {
+        "brand": "小米",
+        "model": "Xiaomi 18 Pro Max India"
+    },
+    "2611FPNFAR": {
+        "brand": "小米",
+        "model": "Xiaomi 18 Pro Max Japan"
+    },
+    "M154FF": {
+        "brand": "小米",
+        "model": "Xiaomi 18 Pro Max China"
+    },
     "2608BPX34C": {
         "brand": "小米",
         "model": "Xiaomi 18 Fold China"
@@ -3742,10 +3770,6 @@
     "2604ERP4DG": {
         "brand": "小米",
         "model": "REDMI Pad 2 9.7 4G Global"
-    },
-    "2604ERP4DI": {
-        "brand": "小米",
-        "model": "REDMI Pad 2 9.7 4G India"
     },
     "2604ERP4DC": {
         "brand": "小米",
