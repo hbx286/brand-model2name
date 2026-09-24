@@ -1879,6 +1879,18 @@
         "brand": "华为",
         "model": "HUAWEI MatePad Air 12 英寸 2026 Wi-Fi 版"
     },
+    "AST-W00": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Air Z 12 英寸 Wi-Fi 版"
+    },
+    "AST-W10": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Air Z 12 英寸 Wi-Fi 柔光版"
+    },
+    "AST-W30": {
+        "brand": "华为",
+        "model": "HUAWEI MatePad Air Z 12 英寸 悦享款 Wi-Fi 版"
+    },
     "BAH3-W09": {
         "brand": "华为",
         "model": "HUAWEI MatePad 10.4 英寸 Wi-Fi 版 (麒麟 810)"
