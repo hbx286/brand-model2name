@@ -1511,90 +1511,6 @@
         "brand": "荣耀",
         "model": "荣耀平板 GT2 Pro 12.5 英寸 Wi-Fi 版"
     },
-    "AGR-W09HN": {
-        "brand": "荣耀",
-        "model": "荣耀平板 X6 9.7 英寸 Wi-Fi 版"
-    },
-    "AGR-AL09HN": {
-        "brand": "荣耀",
-        "model": "荣耀平板 X6 9.7 英寸 LTE 版"
-    },
-    "KOB2-W09HN": {
-        "brand": "荣耀",
-        "model": "荣耀平板 X7 8 英寸 Wi-Fi 版"
-    },
-    "KOB2-AL00HN": {
-        "brand": "荣耀",
-        "model": "荣耀平板 X7 8 英寸 LTE 版"
-    },
-    "ELN-W09": {
-        "brand": "荣耀",
-        "model": "荣耀平板 Z6 11.5 英寸 Wi-Fi 版"
-    },
-    "NDL-W09": {
-        "brand": "荣耀",
-        "model": "荣耀平板 X9 11 英寸 Wi-Fi 版"
-    },
-    "NDL-AL00": {
-        "brand": "荣耀",
-        "model": "荣耀平板 X9 11 英寸 LTE 版"
-    },
-    "ELN2-W09": {
-        "brand": "荣耀",
-        "model": "荣耀平板 Z6 第二代 11.5 英寸 Wi-Fi 版"
-    },
-    "NDL2-W09": {
-        "brand": "荣耀",
-        "model": "荣耀平板 X10 11 英寸 Wi-Fi 版"
-    },
-    "ELE2-W00": {
-        "brand": "荣耀",
-        "model": "荣耀平板 X10 Pro 11.5 英寸 Wi-Fi 版"
-    },
-    "ELE2-W19": {
-        "brand": "荣耀",
-        "model": "荣耀护眼学习机 火火兔版 11.5 英寸 Wi-Fi 版"
-    },
-    "YAG-W09": {
-        "brand": "荣耀",
-        "model": "荣耀平板 10 Pro Max 13 英寸 Wi-Fi 版"
-    },
-    "YAG-W19": {
-        "brand": "荣耀",
-        "model": "荣耀平板 10 Pro Max 柔光版 13 英寸 Wi-Fi 版"
-    },
-    "AGM-W09HN": {
-        "brand": "荣耀",
-        "model": "荣耀平板 Z3 9.7 英寸 Wi-Fi 版"
-    },
-    "AGM-AL09HN": {
-        "brand": "荣耀",
-        "model": "荣耀平板 Z3 9.7 英寸 LTE 版"
-    },
-    "NDL-W00": {
-        "brand": "荣耀",
-        "model": "荣耀平板 Z5a 11 英寸 Wi-Fi 版"
-    },
-    "HEY2-AN00": {
-        "brand": "荣耀",
-        "model": "荣耀平板 Z7 12.1 英寸 5G 版"
-    },
-    "HDN-W09": {
-        "brand": "荣耀",
-        "model": "荣耀 Waterplay 10.1 英寸 Wi-Fi 版"
-    },
-    "HDN-L09": {
-        "brand": "荣耀",
-        "model": "荣耀 Waterplay 10.1 英寸 LTE 版"
-    },
-    "HDL-W09": {
-        "brand": "荣耀",
-        "model": "荣耀 Waterplay 8 英寸 Wi-Fi 版"
-    },
-    "HDL-AL09": {
-        "brand": "荣耀",
-        "model": "荣耀 Waterplay 8 英寸 LTE 版"
-    },
     "7D-501u": {
         "brand": "荣耀",
         "model": "荣耀 X1 3G 版"
@@ -1654,6 +1570,90 @@
     "BG2-W09": {
         "brand": "荣耀",
         "model": "荣耀畅玩平板 2 7 英寸 Wi-Fi 版"
+    },
+    "AGR-W09HN": {
+        "brand": "荣耀",
+        "model": "荣耀平板 X6 9.7 英寸 Wi-Fi 版"
+    },
+    "AGR-AL09HN": {
+        "brand": "荣耀",
+        "model": "荣耀平板 X6 9.7 英寸 LTE 版"
+    },
+    "KOB2-W09HN": {
+        "brand": "荣耀",
+        "model": "荣耀平板 X7 8 英寸 Wi-Fi 版"
+    },
+    "KOB2-AL00HN": {
+        "brand": "荣耀",
+        "model": "荣耀平板 X7 8 英寸 LTE 版"
+    },
+    "ELN-W09": {
+        "brand": "荣耀",
+        "model": "荣耀平板 Z6 11.5 英寸 Wi-Fi 版"
+    },
+    "NDL-W09": {
+        "brand": "荣耀",
+        "model": "荣耀平板 X9 11 英寸 Wi-Fi 版"
+    },
+    "NDL-AL00": {
+        "brand": "荣耀",
+        "model": "荣耀平板 X9 11 英寸 LTE 版"
+    },
+    "ELN2-W09": {
+        "brand": "荣耀",
+        "model": "荣耀平板 Z6 第二代 11.5 英寸 Wi-Fi 版"
+    },
+    "NDL2-W09": {
+        "brand": "荣耀",
+        "model": "荣耀平板 X10 11 英寸 Wi-Fi 版"
+    },
+    "ELE2-W00": {
+        "brand": "荣耀",
+        "model": "荣耀平板 X10 Pro 11.5 英寸 Wi-Fi 版"
+    },
+    "ELE2-W19": {
+        "brand": "荣耀",
+        "model": "荣耀护眼学习机 火火兔版 11.5 英寸 Wi-Fi 版"
+    },
+    "YAG-W09": {
+        "brand": "荣耀",
+        "model": "荣耀平板 10 Pro Max 13 英寸 Wi-Fi 版"
+    },
+    "YAG-W19": {
+        "brand": "荣耀",
+        "model": "荣耀平板 10 Pro Max 柔光版 13 英寸 Wi-Fi 版"
+    },
+    "HDN-W09": {
+        "brand": "荣耀",
+        "model": "荣耀 Waterplay 10.1 英寸 Wi-Fi 版"
+    },
+    "HDN-L09": {
+        "brand": "荣耀",
+        "model": "荣耀 Waterplay 10.1 英寸 LTE 版"
+    },
+    "HDL-W09": {
+        "brand": "荣耀",
+        "model": "荣耀 Waterplay 8 英寸 Wi-Fi 版"
+    },
+    "HDL-AL09": {
+        "brand": "荣耀",
+        "model": "荣耀 Waterplay 8 英寸 LTE 版"
+    },
+    "AGM-W09HN": {
+        "brand": "荣耀",
+        "model": "荣耀平板 Z3 9.7 英寸 Wi-Fi 版"
+    },
+    "AGM-AL09HN": {
+        "brand": "荣耀",
+        "model": "荣耀平板 Z3 9.7 英寸 LTE 版"
+    },
+    "NDL-W00": {
+        "brand": "荣耀",
+        "model": "荣耀平板 Z5a 11 英寸 Wi-Fi 版"
+    },
+    "HEY2-AN00": {
+        "brand": "荣耀",
+        "model": "荣耀平板 Z7 12.1 英寸 5G 版"
     },
     "VLT-W50": {
         "brand": "荣耀",
@@ -2521,11 +2521,11 @@
     },
     "MLA-B19": {
         "brand": "荣耀",
-        "model": "荣耀手环 11 标准版"
+        "model": "荣耀手环 11 / 荣耀手环 11 Lite"
     },
     "MLA-B39": {
         "brand": "荣耀",
-        "model": "荣耀手环 11 Pro"
+        "model": "荣耀手环 11 Pro / 荣耀手环 11 Pro GPS 版"
     },
     "CGN-A00": {
         "brand": "荣耀",
