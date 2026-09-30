@@ -443,6 +443,10 @@
         "brand": "vivo",
         "model": "vivo V70 Lite 5G"
     },
+    "V2648": {
+        "brand": "vivo",
+        "model": "vivo V80"
+    },
     "V2576": {
         "brand": "vivo",
         "model": "vivo S2"
@@ -466,6 +470,10 @@
     "vivo 1920_20": {
         "brand": "vivo",
         "model": "vivo S1 Pro"
+    },
+    "V2640": {
+        "brand": "vivo",
+        "model": "vivo S2 FE"
     },
     "V2153": {
         "brand": "vivo",
