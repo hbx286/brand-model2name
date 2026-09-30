@@ -757,7 +757,7 @@
     },
     "PLT150": {
         "brand": "oppo",
-        "model": "OPPO A7i"
+        "model": "OPPO K15x"
     },
     "PYE110": {
         "brand": "oppo",
@@ -862,6 +862,10 @@
     "PMG110": {
         "brand": "oppo",
         "model": "OPPO K15 Pro+"
+    },
+    "PYE130": {
+        "brand": "oppo",
+        "model": "OPPO K15s"
     },
     "OPD2101": {
         "brand": "oppo",
