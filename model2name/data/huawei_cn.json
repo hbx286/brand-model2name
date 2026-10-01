@@ -307,6 +307,26 @@
         "brand": "华为",
         "model": "HUAWEI Mate 80 RS 非凡大师"
     },
+    "HLS-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 90"
+    },
+    "CMS-AL20": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 90 Pro"
+    },
+    "CMM-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 90 Pro Max (麒麟 9050)"
+    },
+    "CMM-AL10": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 90 Pro Max 典藏版"
+    },
+    "CMU-AL10": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 90 RS 非凡大师"
+    },
     "TAH-AN00": {
         "brand": "华为",
         "model": "HUAWEI Mate X"
