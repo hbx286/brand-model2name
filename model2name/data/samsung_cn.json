@@ -1099,6 +1099,14 @@
         "brand": "三星",
         "model": "Galaxy Tab S11 Ultra 5G"
     },
+    "SM-X840": {
+        "brand": "三星",
+        "model": "Galaxy Tab S12+ WLAN"
+    },
+    "SM-X940": {
+        "brand": "三星",
+        "model": "Galaxy Tab S12 Ultra WLAN"
+    },
     "SM-T350": {
         "brand": "三星",
         "model": "Galaxy Tab A 8.0 WLAN"
