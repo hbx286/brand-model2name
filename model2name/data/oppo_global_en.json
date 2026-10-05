@@ -519,6 +519,14 @@
         "brand": "oppo",
         "model": "OPPO F33 Pro 5G"
     },
+    "CPH2931": {
+        "brand": "oppo",
+        "model": "OPPO A7 Pro 5G"
+    },
+    "CPH2829": {
+        "brand": "oppo",
+        "model": "OPPO F35 Pro 5G"
+    },
     "CPH1835": {
         "brand": "oppo",
         "model": "OPPO R15"
@@ -754,6 +762,10 @@
     "CPH1903": {
         "brand": "oppo",
         "model": "OPPO AX7"
+    },
+    "CPH2909": {
+        "brand": "oppo",
+        "model": "OPPO A7 Pro Max 5G"
     },
     "CPH1938": {
         "brand": "oppo",
@@ -1058,6 +1070,14 @@
     "CPH2871": {
         "brand": "oppo",
         "model": "OPPO K14x 5G"
+    },
+    "CPH3007": {
+        "brand": "oppo",
+        "model": "OPPO K14 Lite"
+    },
+    "CPH3009": {
+        "brand": "oppo",
+        "model": "OPPO K14 Plus"
     },
     "OPD2102A": {
         "brand": "oppo",
