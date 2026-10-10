@@ -821,7 +821,7 @@
     },
     "V2561A": {
         "brand": "vivo",
-        "model": "vivo Y600 Pro"
+        "model": "vivo Y600 Pro / vivo Y600s Pro"
     },
     "V2553A": {
         "brand": "vivo",
@@ -1119,6 +1119,10 @@
         "brand": "vivo",
         "model": "iQOO Neo11 至尊版"
     },
+    "V2618A": {
+        "brand": "vivo",
+        "model": "iQOO Neo12"
+    },
     "V1986A": {
         "brand": "vivo",
         "model": "iQOO Z1"
@@ -1330,6 +1334,10 @@
     "iPA2691": {
         "brand": "vivo",
         "model": "iQOO Pad Ultra"
+    },
+    "iPA2693": {
+        "brand": "vivo",
+        "model": "iQOO Pad Pro 8.8"
     },
     "WA2052": {
         "brand": "vivo",
