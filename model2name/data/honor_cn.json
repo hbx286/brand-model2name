@@ -671,6 +671,18 @@
         "brand": "荣耀",
         "model": "荣耀 Power2"
     },
+    "BRM-AN00": {
+        "brand": "荣耀",
+        "model": "荣耀 WIN2"
+    },
+    "BRT-AN00": {
+        "brand": "荣耀",
+        "model": "荣耀 WIN RT2"
+    },
+    "BRS-AN00": {
+        "brand": "荣耀",
+        "model": "荣耀 WIN Turbo2"
+    },
     "G750-T00": {
         "brand": "荣耀",
         "model": "荣耀 3X 双 3G 版"
