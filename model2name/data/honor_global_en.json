@@ -587,6 +587,14 @@
         "brand": "荣耀",
         "model": "HONOR X9e s"
     },
+    "BSN-NX1M": {
+        "brand": "荣耀",
+        "model": "HONOR Magic9 Lite+"
+    },
+    "BSN-NX3": {
+        "brand": "荣耀",
+        "model": "HONOR Magic9 Lite+"
+    },
     "VNA-LX2": {
         "brand": "荣耀",
         "model": "HONOR X5"
@@ -958,6 +966,10 @@
     "JMS-L09": {
         "brand": "荣耀",
         "model": "HONOR Pad X7 LTE"
+    },
+    "ONL-W09": {
+        "brand": "荣耀",
+        "model": "HONOR Pad X7b Wi-Fi"
     },
     "AGM3-W09HN": {
         "brand": "荣耀",

@@ -1523,6 +1523,10 @@
         "brand": "荣耀",
         "model": "荣耀平板 GT2 Pro 12.5 英寸 Wi-Fi 版"
     },
+    "HES-W00": {
+        "brand": "荣耀",
+        "model": "荣耀 WIN 平板"
+    },
     "7D-501u": {
         "brand": "荣耀",
         "model": "荣耀 X1 3G 版"
@@ -1629,11 +1633,15 @@
     },
     "YAG-W09": {
         "brand": "荣耀",
-        "model": "荣耀平板 10 Pro Max 13 英寸 Wi-Fi 版"
+        "model": "荣耀平板 X10 Pro Max 13 英寸 Wi-Fi 版"
     },
     "YAG-W19": {
         "brand": "荣耀",
-        "model": "荣耀平板 10 Pro Max 柔光版 13 英寸 Wi-Fi 版"
+        "model": "荣耀平板 X10 Pro Max 柔光版 13 英寸 Wi-Fi 版"
+    },
+    "ONL-W09": {
+        "brand": "荣耀",
+        "model": "荣耀平板 X10 Mini 9.7 英寸 Wi-Fi 版"
     },
     "HDN-W09": {
         "brand": "荣耀",
