@@ -3271,6 +3271,18 @@
         "brand": "华为",
         "model": "华为智慧屏 V6 98"
     },
+    "HD75ARIA": {
+        "brand": "华为",
+        "model": "华为智慧屏 V7 教育版 75"
+    },
+    "HD85ARIA": {
+        "brand": "华为",
+        "model": "华为智慧屏 V7 教育版 85"
+    },
+    "HD98ARIA": {
+        "brand": "华为",
+        "model": "华为智慧屏 V7 教育版 98"
+    },
     "PLAT-760": {
         "brand": "华为",
         "model": "华为智慧屏 X65"
@@ -3871,6 +3883,18 @@
         "brand": "华为",
         "model": "华为智慧屏 B5-610"
     },
+    "HDB525A7": {
+        "brand": "华为",
+        "model": "华为智慧屏 B5 55"
+    },
+    "HDB526A7": {
+        "brand": "华为",
+        "model": "华为智慧屏 B5 65"
+    },
+    "HDB527A7": {
+        "brand": "华为",
+        "model": "华为智慧屏 B5 75"
+    },
     "HEGE-550AX": {
         "brand": "华为",
         "model": "华为智慧屏 B7-500"
@@ -3890,6 +3914,22 @@
     "HD86FRUN": {
         "brand": "华为",
         "model": "华为智慧屏 B7 86"
+    },
+    "HD1XARIN": {
+        "brand": "华为",
+        "model": "华为智慧屏 B7 65A"
+    },
+    "HD77ARIN": {
+        "brand": "华为",
+        "model": "华为智慧屏 B7 75A"
+    },
+    "HD85ARIN": {
+        "brand": "华为",
+        "model": "华为智慧屏 B7 85A"
+    },
+    "HD98ARIN": {
+        "brand": "华为",
+        "model": "华为智慧屏 B7 98A"
     },
     "HDB729A7": {
         "brand": "华为",
