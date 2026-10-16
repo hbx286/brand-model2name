@@ -2733,7 +2733,7 @@
     },
     "2607DRA18C": {
         "brand": "小米",
-        "model": "REDMI Note 17 Pro 国行版"
+        "model": "REDMI Note 17 Pro 国行版 / REDMI Note 17 Pro 焕新版"
     },
     "2607DRA18G": {
         "brand": "小米",
@@ -2958,6 +2958,10 @@
     "M332BF": {
         "brand": "小米",
         "model": "REDMI K90 至尊版"
+    },
+    "M786BC": {
+        "brand": "小米",
+        "model": "REDMI K100"
     },
     "M511CD": {
         "brand": "小米",

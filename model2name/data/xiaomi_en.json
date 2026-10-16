@@ -2593,7 +2593,7 @@
     },
     "2607DRA18C": {
         "brand": "小米",
-        "model": "REDMI Note 17 Pro 5G China"
+        "model": "REDMI Note 17 Pro 5G China / REDMI Note 17 Pro New Edition China"
     },
     "2607DRA18I": {
         "brand": "小米",
@@ -2814,6 +2814,10 @@
     "M332BF": {
         "brand": "小米",
         "model": "REDMI K90 Ultra China"
+    },
+    "M786BC": {
+        "brand": "小米",
+        "model": "REDMI K100 China"
     },
     "M511CD": {
         "brand": "小米",
