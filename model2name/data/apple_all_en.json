@@ -1927,6 +1927,10 @@
         "brand": "苹果",
         "model": "Apple TV 4K (3rd generation) Wi-Fi + Ethernet"
     },
+    "A3593": {
+        "brand": "苹果",
+        "model": "Apple TV 4K (4th generation)"
+    },
     "A2117": {
         "brand": "苹果",
         "model": "Apple Vision Pro"
@@ -2346,5 +2350,17 @@
     "A2825": {
         "brand": "苹果",
         "model": "HomePod (2nd generation)"
+    },
+    "A3374": {
+        "brand": "苹果",
+        "model": "HomePod mini 2"
+    },
+    "A3218": {
+        "brand": "苹果",
+        "model": "Apple HomeView"
+    },
+    "A3300": {
+        "brand": "苹果",
+        "model": "Apple HomeView (Wall Mounted)"
     }
 }
