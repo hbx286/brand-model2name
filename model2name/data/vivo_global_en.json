@@ -135,6 +135,22 @@
         "brand": "vivo",
         "model": "vivo X Fold6"
     },
+    "V2656": {
+        "brand": "vivo",
+        "model": "vivo X500 E"
+    },
+    "V2621": {
+        "brand": "vivo",
+        "model": "vivo X500 Pro"
+    },
+    "V2622": {
+        "brand": "vivo",
+        "model": "vivo X500 Pro"
+    },
+    "V2610": {
+        "brand": "vivo",
+        "model": "vivo X500 Pro Max"
+    },
     "vivo 1819": {
         "brand": "vivo",
         "model": "vivo V15"
@@ -448,6 +464,10 @@
         "model": "vivo V70 Lite 5G"
     },
     "V2648": {
+        "brand": "vivo",
+        "model": "vivo V80"
+    },
+    "V2649": {
         "brand": "vivo",
         "model": "vivo V80"
     },
@@ -1127,6 +1147,18 @@
         "brand": "vivo",
         "model": "vivo Y31t 5G"
     },
+    "V2638": {
+        "brand": "vivo",
+        "model": "vivo Y32"
+    },
+    "V2641": {
+        "brand": "vivo",
+        "model": "vivo Y32"
+    },
+    "V2642": {
+        "brand": "vivo",
+        "model": "vivo Y32"
+    },
     "V2057": {
         "brand": "vivo",
         "model": "vivo Y33"
@@ -1518,6 +1550,10 @@
     "J2507": {
         "brand": "vivo",
         "model": "JOVI V70 5G"
+    },
+    "J2607": {
+        "brand": "vivo",
+        "model": "JOVI V80"
     },
     "J2502": {
         "brand": "vivo",
