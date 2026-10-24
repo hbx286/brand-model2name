@@ -651,6 +651,14 @@
         "brand": "荣耀",
         "model": "HONOR X5d Plus"
     },
+    "MEL-LX2": {
+        "brand": "荣耀",
+        "model": "HONOR Play20C"
+    },
+    "MLD-LX2": {
+        "brand": "荣耀",
+        "model": "HONOR Play20A"
+    },
     "VNE-LX1": {
         "brand": "荣耀",
         "model": "HONOR X6"
@@ -903,17 +911,21 @@
         "brand": "荣耀",
         "model": "HONOR Play10"
     },
-    "MLD-LX1": {
+    "MOD-LX3": {
         "brand": "荣耀",
-        "model": "HONOR Play20A"
+        "model": "HONOR Play20"
     },
-    "MLD-LX2": {
+    "MLD-LX1": {
         "brand": "荣耀",
         "model": "HONOR Play20A"
     },
     "MLD-LX3": {
         "brand": "荣耀",
         "model": "HONOR Play20A"
+    },
+    "MEL-LX3": {
+        "brand": "荣耀",
+        "model": "HONOR Play20C"
     },
     "HEY-W09": {
         "brand": "荣耀",
