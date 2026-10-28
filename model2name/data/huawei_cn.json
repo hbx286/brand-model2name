@@ -699,6 +699,10 @@
         "brand": "华为",
         "model": "HUAWEI Pura 90 Pro Max"
     },
+    "LCI-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI Pura 90 Plus"
+    },
     "VDE-AL00": {
         "brand": "华为",
         "model": "HUAWEI Pura X"
@@ -1554,6 +1558,22 @@
     "CHZ-AL00": {
         "brand": "华为",
         "model": "华为畅享 90 Pro Max"
+    },
+    "JAL-AL90": {
+        "brand": "华为",
+        "model": "华为畅享 100"
+    },
+    "CHZ-AL60": {
+        "brand": "华为",
+        "model": "华为畅享 100 Pro"
+    },
+    "YEW-AL80": {
+        "brand": "华为",
+        "model": "华为畅享 100 Pro Max (麒麟 8020A)"
+    },
+    "YEW-AL90": {
+        "brand": "华为",
+        "model": "华为畅享 100 Pro Max (麒麟 8020)"
     },
     "S8-301W": {
         "brand": "华为",
