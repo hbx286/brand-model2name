@@ -1439,6 +1439,18 @@
         "brand": "苹果",
         "model": "iPad mini (A17 Pro) (无线局域网 + 蜂窝网络) (中国大陆)"
     },
+    "A3595": {
+        "brand": "苹果",
+        "model": "iPad mini (A20 Pro) (无线局域网)"
+    },
+    "A3596": {
+        "brand": "苹果",
+        "model": "iPad mini (A20 Pro) (无线局域网 + 蜂窝网络)"
+    },
+    "A3597": {
+        "brand": "苹果",
+        "model": "iPad mini (A20 Pro) (无线局域网 + 蜂窝网络) (中国大陆)"
+    },
     "A1603": {
         "brand": "苹果",
         "model": "Apple Pencil (第 1 代)"
@@ -2087,6 +2099,26 @@
         "brand": "苹果",
         "model": "MacBook Pro (16 英寸, M5 Max)"
     },
+    "A3536": {
+        "brand": "苹果",
+        "model": "MacBook Pro (14 英寸, M6)"
+    },
+    "A3468": {
+        "brand": "苹果",
+        "model": "MacBook Pro (14 英寸 PROLED XDR 显示屏, M5 Pro)"
+    },
+    "A3375": {
+        "brand": "苹果",
+        "model": "MacBook Pro (14 英寸 PROLED XDR 显示屏, M5 Max)"
+    },
+    "A3469": {
+        "brand": "苹果",
+        "model": "MacBook Pro (16 英寸 PROLED XDR 显示屏, M5 Pro)"
+    },
+    "A3376": {
+        "brand": "苹果",
+        "model": "MacBook Pro (16 英寸 PROLED XDR 显示屏, M5 Max)"
+    },
     "A2438": {
         "brand": "苹果",
         "model": "iMac (24 英寸, M1) (2 个 USB-C 端口)"
@@ -2110,6 +2142,14 @@
     "A3137": {
         "brand": "苹果",
         "model": "iMac (24 英寸, M4) (4 个 USB-C 端口)"
+    },
+    "A3589": {
+        "brand": "苹果",
+        "model": "iMac (24 英寸, M6) (2 个 USB-C 端口)"
+    },
+    "A3590": {
+        "brand": "苹果",
+        "model": "iMac (24 英寸, M6) (4 个 USB-C 端口)"
     },
     "A2348": {
         "brand": "苹果",

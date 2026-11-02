@@ -1439,6 +1439,18 @@
         "brand": "苹果",
         "model": "iPad mini (A17 Pro) Wi-Fi + Cellular (China mainland)"
     },
+    "A3595": {
+        "brand": "苹果",
+        "model": "iPad mini (A20 Pro) Wi-Fi"
+    },
+    "A3596": {
+        "brand": "苹果",
+        "model": "iPad mini (A20 Pro) Wi-Fi + Cellular"
+    },
+    "A3597": {
+        "brand": "苹果",
+        "model": "iPad mini (A20 Pro) Wi-Fi + Cellular (China mainland)"
+    },
     "A1603": {
         "brand": "苹果",
         "model": "Apple Pencil (1st generation)"
@@ -2087,6 +2099,26 @@
         "brand": "苹果",
         "model": "MacBook Pro (16-inch, M5 Max)"
     },
+    "A3536": {
+        "brand": "苹果",
+        "model": "MacBook Pro (14-inch, M6)"
+    },
+    "A3468": {
+        "brand": "苹果",
+        "model": "MacBook Pro (14-inch PROLED XDR Display, M5 Pro)"
+    },
+    "A3375": {
+        "brand": "苹果",
+        "model": "MacBook Pro (14-inch PROLED XDR Display, M5 Max)"
+    },
+    "A3469": {
+        "brand": "苹果",
+        "model": "MacBook Pro (16-inch PROLED XDR Display, M5 Pro)"
+    },
+    "A3376": {
+        "brand": "苹果",
+        "model": "MacBook Pro (16-inch PROLED XDR Display, M5 Max)"
+    },
     "A2438": {
         "brand": "苹果",
         "model": "iMac (24-inch, M1) (2 USB-C ports)"
@@ -2110,6 +2142,14 @@
     "A3137": {
         "brand": "苹果",
         "model": "iMac (24-inch, M4) (4 USB-C ports)"
+    },
+    "A3589": {
+        "brand": "苹果",
+        "model": "iMac (24-inch, M6) (2 USB-C ports)"
+    },
+    "A3590": {
+        "brand": "苹果",
+        "model": "iMac (24-inch, M6) (4 USB-C ports)"
     },
     "A2348": {
         "brand": "苹果",
