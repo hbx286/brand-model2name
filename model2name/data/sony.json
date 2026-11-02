@@ -1125,7 +1125,7 @@
     },
     "A502SO": {
         "brand": "",
-        "model": "Xperia 10 VII Japan (SoftBank)"
+        "model": "Xperia 10 VIII Japan (SoftBank)"
     },
     "SO-52F": {
         "brand": "",
@@ -1158,6 +1158,26 @@
     "SOG17": {
         "brand": "",
         "model": "Xperia 1 VIII Japan (KDDI)"
+    },
+    "XQ-GH44": {
+        "brand": "",
+        "model": "Xperia 10 VIII Japan (SIM Free)"
+    },
+    "XQ-GH54": {
+        "brand": "",
+        "model": "Xperia 10 VIII Global"
+    },
+    "XQ-GH74": {
+        "brand": "",
+        "model": "Xperia 10 VIII Asia Pacific"
+    },
+    "SO-52G": {
+        "brand": "",
+        "model": "Xperia 10 VIII Japan (NTT Docomo)"
+    },
+    "SOG18": {
+        "brand": "",
+        "model": "Xperia 10 VIII Japan (KDDI)"
     },
     "SGP712": {
         "brand": "",

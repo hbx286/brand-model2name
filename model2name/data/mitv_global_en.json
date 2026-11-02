@@ -179,6 +179,10 @@
         "brand": "小米电视",
         "model": "Xiaomi 4K TV X 55"
     },
+    "L65MB-AIN": {
+        "brand": "小米电视",
+        "model": "Xiaomi 4K TV X 65"
+    },
     "L32MB-FIN": {
         "brand": "小米电视",
         "model": "Xiaomi Smart TV F 32"
@@ -1375,90 +1379,6 @@
         "brand": "小米电视",
         "model": "Xiaomi TV S Mini LED 75 2025"
     },
-    "L55MB-SEU": {
-        "brand": "小米电视",
-        "model": "Xiaomi TV S Pro Mini LED 55 2026"
-    },
-    "L65MB-SEU": {
-        "brand": "小米电视",
-        "model": "Xiaomi TV S Pro Mini LED 65 2026"
-    },
-    "L75MB-SEU": {
-        "brand": "小米电视",
-        "model": "Xiaomi TV S Pro Mini LED 75 2026"
-    },
-    "L55MB-SRU": {
-        "brand": "小米电视",
-        "model": "Xiaomi TV S Pro Mini LED 55 2026"
-    },
-    "L65MB-SRU": {
-        "brand": "小米电视",
-        "model": "Xiaomi TV S Pro Mini LED 65 2026"
-    },
-    "L75MB-SRU": {
-        "brand": "小米电视",
-        "model": "Xiaomi TV S Pro Mini LED 75 2026"
-    },
-    "L55MB-STWN": {
-        "brand": "小米电视",
-        "model": "Xiaomi TV S Pro Mini LED 55 2026"
-    },
-    "L65MB-STWN": {
-        "brand": "小米电视",
-        "model": "Xiaomi TV S Pro Mini LED 65 2026"
-    },
-    "L75MB-STWN": {
-        "brand": "小米电视",
-        "model": "Xiaomi TV S Pro Mini LED 75 2026"
-    },
-    "L55MB-SSEA": {
-        "brand": "小米电视",
-        "model": "Xiaomi TV S Pro Mini LED 55 2026"
-    },
-    "L65MB-SSEA": {
-        "brand": "小米电视",
-        "model": "Xiaomi TV S Pro Mini LED 65 2026"
-    },
-    "L75MB-SSEA": {
-        "brand": "小米电视",
-        "model": "Xiaomi TV S Pro Mini LED 75 2026"
-    },
-    "L55MB-SME": {
-        "brand": "小米电视",
-        "model": "Xiaomi TV S Pro Mini LED 55 2026"
-    },
-    "L65MB-SME": {
-        "brand": "小米电视",
-        "model": "Xiaomi TV S Pro Mini LED 65 2026"
-    },
-    "L75MB-SME": {
-        "brand": "小米电视",
-        "model": "Xiaomi TV S Pro Mini LED 75 2026"
-    },
-    "L55MB-SPH": {
-        "brand": "小米电视",
-        "model": "Xiaomi TV S Pro Mini LED 55 2026"
-    },
-    "L65MB-SPH": {
-        "brand": "小米电视",
-        "model": "Xiaomi TV S Pro Mini LED 65 2026"
-    },
-    "L75MB-SPH": {
-        "brand": "小米电视",
-        "model": "Xiaomi TV S Pro Mini LED 75 2026"
-    },
-    "L55MB-SMX": {
-        "brand": "小米电视",
-        "model": "Xiaomi TV S Pro Mini LED 55 2026"
-    },
-    "L65MB-SMX": {
-        "brand": "小米电视",
-        "model": "Xiaomi TV S Pro Mini LED 65 2026"
-    },
-    "L75MB-SMX": {
-        "brand": "小米电视",
-        "model": "Xiaomi TV S Pro Mini LED 75 2026"
-    },
     "L55MC-SEU": {
         "brand": "小米电视",
         "model": "Xiaomi TV S Mini LED 55 2026"
@@ -1650,6 +1570,170 @@
     "L98MC-SMX": {
         "brand": "小米电视",
         "model": "Xiaomi TV S Mini LED 98 2026"
+    },
+    "L55MB-SEU": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV S Pro Mini LED 55 2026"
+    },
+    "L65MB-SEU": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV S Pro Mini LED 65 2026"
+    },
+    "L75MB-SEU": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV S Pro Mini LED 75 2026"
+    },
+    "L55MB-SRU": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV S Pro Mini LED 55 2026"
+    },
+    "L65MB-SRU": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV S Pro Mini LED 65 2026"
+    },
+    "L75MB-SRU": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV S Pro Mini LED 75 2026"
+    },
+    "L55MB-STWN": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV S Pro Mini LED 55 2026"
+    },
+    "L65MB-STWN": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV S Pro Mini LED 65 2026"
+    },
+    "L75MB-STWN": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV S Pro Mini LED 75 2026"
+    },
+    "L55MB-SSEA": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV S Pro Mini LED 55 2026"
+    },
+    "L65MB-SSEA": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV S Pro Mini LED 65 2026"
+    },
+    "L75MB-SSEA": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV S Pro Mini LED 75 2026"
+    },
+    "L55MB-SME": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV S Pro Mini LED 55 2026"
+    },
+    "L65MB-SME": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV S Pro Mini LED 65 2026"
+    },
+    "L75MB-SME": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV S Pro Mini LED 75 2026"
+    },
+    "L55MB-SPH": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV S Pro Mini LED 55 2026"
+    },
+    "L65MB-SPH": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV S Pro Mini LED 65 2026"
+    },
+    "L75MB-SPH": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV S Pro Mini LED 75 2026"
+    },
+    "L55MB-SMX": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV S Pro Mini LED 55 2026"
+    },
+    "L65MB-SMX": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV S Pro Mini LED 65 2026"
+    },
+    "L75MB-SMX": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV S Pro Mini LED 75 2026"
+    },
+    "L43MC-SMEU": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV X Mini LED 43"
+    },
+    "L55MC-SMEU": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV X Mini LED 55"
+    },
+    "L65MC-SMEU": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV X Mini LED 65"
+    },
+    "L75MC-SMEU": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV X Mini LED 75"
+    },
+    "L43MC-SMRU": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV X Mini LED 43"
+    },
+    "L55MC-SMRU": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV X Mini LED 55"
+    },
+    "L65MC-SMRU": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV X Mini LED 65"
+    },
+    "L75MC-SMRU": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV X Mini LED 75"
+    },
+    "L43MC-SMSEA": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV X Mini LED 43"
+    },
+    "L55MC-SMSEA": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV X Mini LED 55"
+    },
+    "L65MC-SMSEA": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV X Mini LED 65"
+    },
+    "L75MC-SMSEA": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV X Mini LED 75"
+    },
+    "L43MC-SMME": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV X Mini LED 43"
+    },
+    "L55MC-SMME": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV X Mini LED 55"
+    },
+    "L65MC-SMME": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV X Mini LED 65"
+    },
+    "L75MC-SMME": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV X Mini LED 75"
+    },
+    "L43MC-FSMEU": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV FX Mini LED 43"
+    },
+    "L55MC-FSMEU": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV FX Mini LED 55"
+    },
+    "L65MC-FSMEU": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV FX Mini LED 65"
+    },
+    "L75MC-FSMEU": {
+        "brand": "小米电视",
+        "model": "Xiaomi TV FX Mini LED 75"
     },
     "L86M7-ESRU": {
         "brand": "小米电视",

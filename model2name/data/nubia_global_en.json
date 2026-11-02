@@ -27,6 +27,10 @@
         "brand": "",
         "model": "nubia Neo 5 GT 5G"
     },
+    "Z2572N": {
+        "brand": "",
+        "model": "nubia Neo 5 Max 5G"
+    },
     "Z2353": {
         "brand": "",
         "model": "nubia Music"
@@ -59,9 +63,17 @@
         "brand": "",
         "model": "nubia Air"
     },
+    "Z2587N": {
+        "brand": "",
+        "model": "nubia Air Pro"
+    },
     "Z2473": {
         "brand": "",
         "model": "nubia A56"
+    },
+    "Z2581": {
+        "brand": "",
+        "model": "nubia A57"
     },
     "Z6255CA": {
         "brand": "",
@@ -78,6 +90,10 @@
     "Z2469N": {
         "brand": "",
         "model": "nubia A76 5G"
+    },
+    "Z2582": {
+        "brand": "",
+        "model": "nubia A77"
     },
     "nubia 8550": {
         "brand": "",
@@ -103,6 +119,18 @@
         "brand": "",
         "model": "nubia V70 Max"
     },
+    "Z2576": {
+        "brand": "",
+        "model": "nubia V80 Pro"
+    },
+    "Z2575": {
+        "brand": "",
+        "model": "nubia V80 Design"
+    },
+    "Z2577": {
+        "brand": "",
+        "model": "nubia V80 Max"
+    },
     "A403ZT": {
         "brand": "",
         "model": "nubia S 5G SoftBank"
@@ -114,5 +142,93 @@
     "Z6305R": {
         "brand": "",
         "model": "nubia S2R"
+    },
+    "NX619J": {
+        "brand": "",
+        "model": "REDMAGIC Mars"
+    },
+    "NX629J": {
+        "brand": "",
+        "model": "REDMAGIC 3"
+    },
+    "NX659J": {
+        "brand": "",
+        "model": "REDMAGIC 5G / REDMAGIC 5S"
+    },
+    "NX651J": {
+        "brand": "",
+        "model": "REDMAGIC 5G Lite"
+    },
+    "NX669J": {
+        "brand": "",
+        "model": "REDMAGIC 6"
+    },
+    "NX669J-P": {
+        "brand": "",
+        "model": "REDMAGIC 6 Pro"
+    },
+    "NX666J": {
+        "brand": "",
+        "model": "REDMAGIC 6R"
+    },
+    "NX669J-S": {
+        "brand": "",
+        "model": "REDMAGIC 6S Pro"
+    },
+    "NX679J": {
+        "brand": "",
+        "model": "REDMAGIC 7"
+    },
+    "NX709J": {
+        "brand": "",
+        "model": "REDMAGIC 7 Pro"
+    },
+    "NX709S": {
+        "brand": "",
+        "model": "REDMAGIC 7S Pro"
+    },
+    "NX729J": {
+        "brand": "",
+        "model": "REDMAGIC 8 Pro / REDMAGIC 8S Pro"
+    },
+    "NX769J": {
+        "brand": "",
+        "model": "REDMAGIC 9 Pro / REDMAGIC 9S Pro"
+    },
+    "NX789J": {
+        "brand": "",
+        "model": "REDMAGIC 10 Pro / REDMAGIC 10S Pro"
+    },
+    "NX779J": {
+        "brand": "",
+        "model": "REDMAGIC 10 Air"
+    },
+    "NX809J": {
+        "brand": "",
+        "model": "REDMAGIC 11 Pro / REDMAGIC 11S Pro"
+    },
+    "NX799J": {
+        "brand": "",
+        "model": "REDMAGIC 11 Air"
+    },
+    "NX819J": {
+        "brand": "",
+        "model": "REDMAGIC 12 Pro"
+    },
+    "K99J": {
+        "brand": "",
+        "model": "nubia Pad SE"
+    },
+    "NP03J": {
+        "brand": "",
+        "model": "REDMAGIC Nova Gaming Tablet"
+    },
+    "NP05J": {
+        "brand": "",
+        "model": "REDMAGIC Astra Gaming Tablet"
+    },
+    "NP06J": {
+        "brand": "",
+        "model": "REDMAGIC Astra 2 Gaming Tablet"
     }
 }
