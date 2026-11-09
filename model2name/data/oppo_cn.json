@@ -395,6 +395,14 @@
         "brand": "oppo",
         "model": "OPPO Reno16 Pro"
     },
+    "PYK110": {
+        "brand": "oppo",
+        "model": "OPPO Reno17"
+    },
+    "PND110": {
+        "brand": "oppo",
+        "model": "OPPO Reno17 Pro"
+    },
     "PCLM10": {
         "brand": "oppo",
         "model": "OPPO Reno Ace"
@@ -1014,6 +1022,10 @@
     "OWW221": {
         "brand": "oppo",
         "model": "OPPO Watch 4 Pro"
+    },
+    "OWW266": {
+        "brand": "oppo",
+        "model": "OPPO Watch 5"
     },
     "OWW231": {
         "brand": "oppo",
