@@ -699,10 +699,6 @@
         "brand": "小米",
         "model": "Xiaomi 18 Pro Max Global"
     },
-    "2611FPNFAI": {
-        "brand": "小米",
-        "model": "Xiaomi 18 Pro Max India"
-    },
     "2611FPNFAR": {
         "brand": "小米",
         "model": "Xiaomi 18 Pro Max Japan"
@@ -1697,7 +1693,7 @@
     },
     "25082RNC1C": {
         "brand": "小米",
-        "model": "REDMI 15R 5G China"
+        "model": "REDMI 15R 5G China / REDMI R80 5G China / REDMI R80m 5G China"
     },
     "2602BRNA4I": {
         "brand": "小米",
@@ -1714,6 +1710,10 @@
     "26062RN92I": {
         "brand": "小米",
         "model": "REDMI 17 5G India"
+    },
+    "26062RN92C": {
+        "brand": "小米",
+        "model": "REDMI M100 China"
     },
     "2606FRN72Y": {
         "brand": "小米",
@@ -3022,10 +3022,6 @@
     "26020RN1AC": {
         "brand": "小米",
         "model": "REDMI R70 5G China / REDMI R70m 5G China"
-    },
-    "26062RN92C": {
-        "brand": "小米",
-        "model": "REDMI M100 China"
     },
     "M1805E10A": {
         "brand": "小米",

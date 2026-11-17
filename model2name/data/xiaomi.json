@@ -703,10 +703,6 @@
         "brand": "小米",
         "model": "Xiaomi 18 Pro Max 国际版"
     },
-    "2611FPNFAI": {
-        "brand": "小米",
-        "model": "Xiaomi 18 Pro Max 印度版"
-    },
     "2611FPNFAR": {
         "brand": "小米",
         "model": "Xiaomi 18 Pro Max 日本版"
@@ -1845,7 +1841,7 @@
     },
     "25082RNC1C": {
         "brand": "小米",
-        "model": "REDMI 15R 5G"
+        "model": "REDMI 15R 5G / REDMI R80 5G / REDMI R80m 5G"
     },
     "2602BRNA4I": {
         "brand": "小米",
@@ -1854,6 +1850,10 @@
     "2602BRNA4C": {
         "brand": "小米",
         "model": "REDMI 17 5G 国行版"
+    },
+    "26062RN92C": {
+        "brand": "小米",
+        "model": "REDMI M100 国行版"
     },
     "26062RN92G": {
         "brand": "小米",
@@ -3166,10 +3166,6 @@
     "26020RN1AI": {
         "brand": "小米",
         "model": "REDMI A7 Pro 5G 印度版"
-    },
-    "26062RN92C": {
-        "brand": "小米",
-        "model": "REDMI M100"
     },
     "22081283C": {
         "brand": "小米",
