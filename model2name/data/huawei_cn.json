@@ -281,7 +281,11 @@
     },
     "SUP-AL90": {
         "brand": "华为",
-        "model": "HUAWEI Mate 70 Air"
+        "model": "HUAWEI Mate 70 Air (麒麟 9020B)"
+    },
+    "SUP-AL90a": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 70 Air (麒麟 9020A)"
     },
     "VYG-AL00": {
         "brand": "华为",
@@ -326,6 +330,10 @@
     "CMU-AL10": {
         "brand": "华为",
         "model": "HUAWEI Mate 90 RS 非凡大师"
+    },
+    "SUP-AL91": {
+        "brand": "华为",
+        "model": "HUAWEI Mate 90 Air"
     },
     "TAH-AN00": {
         "brand": "华为",
@@ -394,6 +402,10 @@
     "LAP-AL10": {
         "brand": "华为",
         "model": "HUAWEI Mate XT 2 非凡大师"
+    },
+    "SKY-AL00": {
+        "brand": "华为",
+        "model": "HUAWEI Mate X8"
     },
     "HUAWEI U9200": {
         "brand": "华为",
@@ -4234,6 +4246,10 @@
     "NKI-B29": {
         "brand": "华为",
         "model": "HUAWEI WATCH FIT 5 Pro"
+    },
+    "KTA-B19": {
+        "brand": "华为",
+        "model": "HUAWEI WATCH Air"
     },
     "MLY-B10": {
         "brand": "华为",
