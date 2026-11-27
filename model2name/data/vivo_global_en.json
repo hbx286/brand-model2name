@@ -471,6 +471,10 @@
         "brand": "vivo",
         "model": "vivo V80"
     },
+    "V2624": {
+        "brand": "vivo",
+        "model": "vivo V80 FE"
+    },
     "V2576": {
         "brand": "vivo",
         "model": "vivo S2"
@@ -480,6 +484,10 @@
         "model": "vivo V80 Lite 5G"
     },
     "V2644": {
+        "brand": "vivo",
+        "model": "vivo V80 Lite 5G"
+    },
+    "V2675": {
         "brand": "vivo",
         "model": "vivo V80 Lite 5G"
     },
@@ -613,7 +621,11 @@
     },
     "V2557": {
         "brand": "vivo",
-        "model": "vivo T5 Lite 44W 5G"
+        "model": "vivo T5 Lite 44W 5G`"
+    },
+    "V2667": {
+        "brand": "vivo",
+        "model": "vivo T6 Lite 5G"
     },
     "vivo 1929": {
         "brand": "vivo",
@@ -742,6 +754,10 @@
     "V2028": {
         "brand": "vivo",
         "model": "vivo Y11s"
+    },
+    "V2669": {
+        "brand": "vivo",
+        "model": "vivo Y11s 5G"
     },
     "V2555": {
         "brand": "vivo",
@@ -1006,6 +1022,10 @@
     "V2554": {
         "brand": "vivo",
         "model": "vivo Y21 5G"
+    },
+    "V2670": {
+        "brand": "vivo",
+        "model": "vivo Y21s 5G"
     },
     "V2207": {
         "brand": "vivo",
